@@ -1,0 +1,298 @@
+{
+  "basic_info": {
+    "name": "Maruti Suzuki Grand Vitara",
+    "manufacturer": "Maruti Suzuki",
+    "model": "Grand Vitara",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/grand-vitara",
+    "image_url": "https://images.carandbike.com/car-images/large/maruti-suzuki/grand-vitara/maruti-suzuki-grand-vitara.jpg?v=29",
+    "description": "Maruti Suzuki Grand Vitara is a 5-seater SUV available at a starting price of Rs. 11.03 Lakh. The car is available in 27 variants, with 2 engine and 3 transmission option. Additionally, Grand Vitara offers a Ground Clearance measurement of 210 mm and a Boot capacity of 373 liters. You can choose from 9 colors for the Grand Vitara. The mileage of the Grand Vitara varies from 21.1 - 28 KM/L depending on the model.",
+    "model_date": "2022-09-15",
+    "sku": "maruti-suzuki-grand-vitara-1684",
+    "vin": "5NPEL4AB3BH001684",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1462,1490,1492 cc",
+    "power": "101,87,91 bhp",
+    "torque": "122,136 Nm",
+    "fuel_type": "Hybrid, Petrol, Petrol+CNG"
+  },
+  "transmission": "Manual, Automatic, CVT",
+  "fuel": {
+    "type": "Hybrid, Petrol, Petrol+CNG",
+    "efficiency": "19 - 27 KM/L"
+  },
+  "dimensions": {
+    "width": "1795 mm ",
+    "height": "1645 mm",
+    "weight": "1150/1290",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Celestial Blue",
+    "Chestnut Brown",
+    "Oppulent Red",
+    "Splendid Silver",
+    "Arctic White",
+    "Arctic White Midnight Black",
+    "Oppulent Red Midnight Black",
+    "Splendid Silver Midnight Black",
+    "Granite Grey"
+  ],
+  "price": {
+    "value": "1102621",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/grand-vitara"
+  },
+  "brand": {
+    "name": "Maruti Suzuki",
+    "image": "https://images.carandbike.com/car-images/big/maruti-suzuki/maruti-suzuki.png?v=1"
+  },
+  "rating": {
+    "value": "8.5",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Impressive looks",
+    "Efficient strong hybrid",
+    "Smart features"
+  ],
+  "cons": [
+    "Not very fun-to-drive",
+    "Limited features",
+    "Limited AWD option"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "21.1 KM/L",
+      "city_mileage": "20 KM/L",
+      "highway_mileage": "22 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "28 KM/L",
+      "city_mileage": "20 KM/L",
+      "highway_mileage": "22 KM/L"
+    },
+    {
+      "fuel_type": "Hybrid",
+      "transmission": "Automatic",
+      "mileage": "28 KM/L",
+      "city_mileage": "-",
+      "highway_mileage": "-"
+    },
+    {
+      "fuel_type": "Hybrid",
+      "transmission": "CVT",
+      "mileage": "28 KM/L",
+      "city_mileage": "20 KM/L",
+      "highway_mileage": "22 KM/L"
+    },
+    {
+      "fuel_type": "Hybrid",
+      "transmission": "Manual",
+      "mileage": "28 KM/L",
+      "city_mileage": "20 KM/L",
+      "highway_mileage": "22 KM/L"
+    },
+    {
+      "fuel_type": "Petrol+CNG",
+      "transmission": "Manual",
+      "mileage": "28 KM/L",
+      "city_mileage": "26 KM/L",
+      "highway_mileage": "22 KM/L"
+    }
+  ],
+  "whats_new": {
+    "Introduction": [
+      "The Grand Vitara is one of Maruti’s most versatile offerings.",
+      "It features petrol, CNG, and hybrid engine options along with both manual and automatic gearboxes.",
+      "Notably, the brand also offers an AWD version of the SUV.",
+      "Launched in September 2022, the popular SUV has crossed more than three lakh unit sales.",
+      "The SUV is offered in four variants including Sigma, Delta, Zeta, and Alpha.",
+      "Customers can also opt for Optional and Plus trims, along with a special edition as well."
+    ],
+    "Exterior": [
+      "The Grand Vitara is bigger than the Brezza and looks as big as the competition.",
+      "Though the SUV was slightly updated in 2025, there are no cosmetic changes.",
+      "The SUV continues to ride on 17-inch alloy wheels, but pictures show the alloy pattern to be slightly altered.",
+      "Exterior colour options remain unchanged.",
+      "The tailgate continues to feature the 'GRAND VITARA' badging."
+    ],
+    "Interior": [
+      "Inside the Vitara's cabin is a luxuriously appointed dashboard with modern features.",
+      "The SUV, now in addition, gets a power-adjustable driver’s seat, rear door sunshades, LED cabin lighting, and an air purifier.",
+      "An electronic parking brake is also available in the automatic variants.",
+      "Notably, all variants of the Maruti Suzuki Grand Vitara now get six airbags as standard.",
+      "A panoramic sunroof is now available as an option from the lower-spec Zeta, Alpha, Zeta+, and Alpha+ trims.",
+      "The strong-hybrid Zeta+ and Alpha+ variants are the top-spec trims that continue to boast all the bells and whistles."
+    ],
+    "Powertrain": [
+      "The 2025 Grand Vitara comes with two powertrain options.",
+      "First option is the one powered by a 1.5-litre mild-hybrid petrol.",
+      "Then, there's strong-hybrid with a 1.5-litre petrol engine paired with an electric motor.",
+      "This strong-hybrid powertrain can now be had from the Zeta+ variant onwards.",
+      "Notably, the new mild-hybrid AWD automatic variant replaces the AWD MT trim."
+    ]
+  },
+  "verdict": "The Maruti Suzuki Grand Vitara is an excellent choice for those looking for a compact SUV with fuel-efficient hybrid options, modern features, and the flexibility of AWD. While it may lack some of the advanced features of its competitors, its combination of practicality, comfort, and pricing make it a strong contender in the hybrid SUV market, especially for eco-conscious buyers.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Maruti Suzuki Grand Vitara",
+        "price": "11.03 - 19.66 Lakh",
+        "url": "/maruti-suzuki-cars/grand-vitara"
+      },
+      {
+        "name": "Honda Elevate",
+        "price": "11 - 16.67 Lakh",
+        "url": "/honda-cars/elevate"
+      },
+      {
+        "name": "Toyota Urban Cruiser Hyryder",
+        "price": "10.95 - 19.76 Lakh",
+        "url": "/toyota-cars/urban-cruiser-hyryder"
+      },
+      {
+        "name": "Kia Seltos",
+        "price": "10.79 - 19.81 Lakh",
+        "url": "/kia-cars/seltos"
+      },
+      {
+        "name": "Tata Sierra",
+        "price": "11.49 - 18.49 Lakh",
+        "url": "/tata-cars/sierra"
+      },
+      {
+        "name": "MG Astor",
+        "price": "9.65 - 15.36 Lakh",
+        "url": "/mg-cars/astor"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 11.03 - 19.66 Lakh",
+          "₹ 11 - 16.67 Lakh",
+          "₹ 10.95 - 19.76 Lakh",
+          "₹ 10.79 - 19.81 Lakh",
+          "₹ 11.49 - 18.49 Lakh",
+          "₹ 9.65 - 15.36 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.5",
+          "-",
+          "7.9",
+          "8.7",
+          "-",
+          "8.5"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1462,1490,1492 cc",
+          "1498 CC",
+          "1462 CC",
+          "1497 CC",
+          "1498 CC",
+          "1498 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic, CVT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "19 - 27 KM/L",
+          "15.31 - 16.92 KM/L",
+          "19.39 - 27.97 KM/L",
+          "17 - 20.7 KM/L",
+          "16 - 18 KM/L",
+          "14 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Hybrid, Petrol, Petrol+CNG",
+          "Petrol",
+          "Hybrid, Petrol, CNG",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "45.0 L",
+          "40.0 L",
+          "45.0 L",
+          "50.0 L",
+          "50.0 L",
+          "48.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "27",
+          "17",
+          "27",
+          "23",
+          "17",
+          "9"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Grand Vitara vs Elevate",
+          "Grand Vitara vs Urban Cruiser Hyryder",
+          "Grand Vitara vs Seltos",
+          "Grand Vitara vs Sierra",
+          "Grand Vitara vs Astor"
+        ]
+      }
+    ]
+  }
+}

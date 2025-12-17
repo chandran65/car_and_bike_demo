@@ -1,0 +1,214 @@
+{
+  "basic_info": {
+    "name": "Mahindra Bolero Neo Plus",
+    "manufacturer": "Mahindra",
+    "model": "Bolero Neo Plus",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/mahindra-cars/bolero-neo-plus",
+    "image_url": "https://images.carandbike.com/car-images/large/mahindra/bolero-neo-plus/mahindra-bolero-neo-plus.jpg?v=7",
+    "description": "Mahindra Bolero Neo Plus is a 9-seater SUV available at a starting price of Rs. 10.77 Lakh. The car is available in 2 variants, with 1 engine and 1 transmission option. Additionally, Bolero Neo Plus offers a Ground Clearance measurement of 180 mm and a Boot capacity of 696 liters. You can choose from 3 colors for the Bolero Neo Plus. The mileage of the Bolero Neo Plus varies from 14 KM/L depending on the model.",
+    "model_date": "2024-04-16",
+    "sku": "mahindra-bolero-neo-plus-1781",
+    "vin": "5NPEL4AB3BH001781",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2184 cc",
+    "power": "118 bhp @4000 rpm bhp",
+    "torque": "280 Nm@1800 - 2800 rpm Nm",
+    "fuel_type": "Diesel"
+  },
+  "transmission": "Manual",
+  "fuel": {
+    "type": "Diesel",
+    "efficiency": "14 KM/L"
+  },
+  "dimensions": {
+    "width": "1795 mm ",
+    "height": "1812 mm",
+    "weight": "2215/2215",
+    "seating_capacity": "9",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Diamond White",
+    "Majestic Silver",
+    "Napoli Black"
+  ],
+  "price": {
+    "value": 1076600,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mahindra-cars/bolero-neo-plus"
+  },
+  "brand": {
+    "name": "Mahindra",
+    "image": "https://images.carandbike.com/car-images/big/mahindra/mahindra.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "mileage_details": [
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Manual",
+      "mileage": "14 KM/L",
+      "city_mileage": "15 KM/L",
+      "highway_mileage": "17 KM/L"
+    }
+  ],
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mahindra Bolero Neo Plus",
+        "price": "10.77 - 11.8 Lakh",
+        "url": "/mahindra-cars/bolero-neo-plus"
+      },
+      {
+        "name": "Isuzu D-Max",
+        "price": "10.14 - 20.35 Lakh",
+        "url": "/isuzu-cars/d-max"
+      },
+      {
+        "name": "Tata Safari",
+        "price": "14.66 - 25.96 Lakh",
+        "url": "/tata-cars/safari"
+      },
+      {
+        "name": "Force Motors Gurkha",
+        "price": "19.46 - 20.92 Lakh",
+        "url": "/force-motors-cars/gurkha"
+      },
+      {
+        "name": "Isuzu D-Max V-Cross",
+        "price": "19.73 - 35.97 Lakh",
+        "url": "/isuzu-cars/d-max-v-cross"
+      },
+      {
+        "name": "Toyota Hilux",
+        "price": "28.02 - 35.37 Lakh",
+        "url": "/toyota-cars/hilux"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 10.77 - 11.8 Lakh",
+          "₹ 10.14 - 20.35 Lakh",
+          "₹ 14.66 - 25.96 Lakh",
+          "₹ 19.46 - 20.92 Lakh",
+          "₹ 19.73 - 35.97 Lakh",
+          "₹ 28.02 - 35.37 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "7.5",
+          "5.5",
+          "6.1",
+          "7.0",
+          "7.8"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2184 cc",
+          "2499 CC",
+          "1956 CC",
+          "2596 CC",
+          "1898 CC",
+          "2755 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "14 KM/L",
+          "14 KM/L",
+          "16.14 KM/L",
+          "15 KM/L",
+          "14.4 KM/L",
+          "12.6 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Diesel",
+          "Diesel",
+          "Diesel",
+          "Diesel",
+          "Diesel",
+          "Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "9 Seater",
+          "2 Seater",
+          "7 Seater",
+          "4 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "60.0 L",
+          "55.0 L",
+          "50.0 L",
+          "63.5 L",
+          "55.0 L",
+          "80.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "6",
+          "24",
+          "2",
+          "5",
+          "4"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Bolero Neo Plus vs D-Max",
+          "Bolero Neo Plus vs Safari",
+          "Bolero Neo Plus vs Gurkha",
+          "Bolero Neo Plus vs D-Max V-Cross",
+          "Bolero Neo Plus vs Hilux"
+        ]
+      }
+    ]
+  }
+}

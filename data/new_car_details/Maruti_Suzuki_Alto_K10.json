@@ -1,0 +1,269 @@
+{
+  "basic_info": {
+    "name": "Maruti Suzuki Alto K10",
+    "manufacturer": "Maruti Suzuki",
+    "model": "Alto K10",
+    "body_type": "Hatchback",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/alto-k10",
+    "image_url": "https://images.carandbike.com/car-images/large/maruti-suzuki/alto-k10/maruti-suzuki-alto-k10.jpg?v=40",
+    "description": "Maruti Suzuki Alto K10 is a 4,5-seater Hatchback available at a starting price of Rs. 3.7 Lakh. The car is available in 10 variants, with 2 engine and 1 transmission option. Additionally, Alto K10 offers a Ground Clearance measurement of 160 mm and a Boot capacity of 214 liters. You can choose from 6 colors for the Alto K10. The mileage of the Alto K10 varies from 27 KM/L depending on the model.",
+    "model_date": "2022-08-18",
+    "sku": "maruti-suzuki-alto-k10-1247",
+    "vin": "5NPEL4AB3BH001247",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "998 cc",
+    "power": "56 bhp @ 5300 rpm,67 bhp @ 5600 rpm bhp",
+    "torque": "82.1 Nm @3400 rpm,91.1 Nm @3400 rpm Nm",
+    "fuel_type": "Petrol, Petrol+CNG"
+  },
+  "transmission": "Manual",
+  "fuel": {
+    "type": "Petrol, Petrol+CNG",
+    "efficiency": "27 KM/L"
+  },
+  "dimensions": {
+    "width": "1490 mm ",
+    "height": "1520 mm",
+    "weight": "740/740",
+    "seating_capacity": "4,5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Solid White",
+    "Metallic Speedy Blue",
+    "Metallic Silky Silver",
+    "premium Earth Gold",
+    "Sizzling Red",
+    "Metallic Granite Grey"
+  ],
+  "price": {
+    "value": 369900,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/alto-k10"
+  },
+  "brand": {
+    "name": "Maruti Suzuki",
+    "image": "https://images.carandbike.com/car-images/big/maruti-suzuki/maruti-suzuki.png?v=1"
+  },
+  "rating": {
+    "value": "8.2",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Better looks",
+    "More cabin space",
+    "Fun-to-drive engine"
+  ],
+  "cons": [
+    "Plastic quality",
+    "Fit and finish",
+    "Optional safety features"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "27 KM/L",
+      "city_mileage": "22 KM/L",
+      "highway_mileage": "24 KM/L"
+    },
+    {
+      "fuel_type": "Petrol+CNG",
+      "transmission": "Manual",
+      "mileage": "27 KM/L",
+      "city_mileage": "31 KM/L",
+      "highway_mileage": "32 KM/L"
+    }
+  ],
+  "whats_new": {
+    "Introduction": [
+      "The Alto K10 is a hatchback designed for budget conscious buyers and daily use.",
+      "A major fact is that an Alto or an Alto K10 is possibly passed down to future generations as a means to learn driving.",
+      "So, this generational vehicle now has modern features, while still having affordability as a selling point.",
+      "Now, the Alto K10 is built on Suzuki's advanced HEARTECT platform."
+    ],
+    "Maruti Alto K10 – Exterior": [
+      "The Alto K10 features a honeycomb grille which channels air flow efficiently and reduces drag.",
+      "Then, the side indicators are placed on the fenders.",
+      "Its headlamps offer good visibility for a small hatchback and the combination taillamps make the hatchback stand out.",
+      "The fascia is built out of hard plastics and is durable to a certain extent.",
+      "Furthermore, the Alto K10’s 13-inch wheels with honeycomb themed-covers look good.",
+      "The side mirrors are finished in black and have manual adjustments.",
+      "A reverse parking sensor in the Alto K10 is a handy feature while manoeuvring the hatchback."
+    ],
+    "Maruti Alto K10 – Interior": [
+      "Step inside an Alto K10, and the front seats offer good legroom of up to 870mm and headroom of 990mm.",
+      "Shoulder room measures 1,200mm, which keeps driver and passenger close but with a little space between.",
+      "Furthermore, seats have a 470mm base and 580mm backrest wide and tall enough for basic support.",
+      "Entry in the rear is easy at 640mm height, with adequate legroom up to 880mm and headroom of 920mm, suitable for two adults.",
+      "The bench seat base is 440mm long and raised 370mm from the floor, providing flat but limited thigh support.",
+      "A digital speedometer display shows speed and gear position clearly.",
+      "To add in, the steering wheel includes audio and voice controls in higher variants.",
+      "Higher models feature a SmartPlay Studio touchscreen with smartphone navigation, Apple CarPlay, and Android Auto.",
+      "A 214-litre boot with low 720mm loading height for easy access, fits four medium bags and a rear parcel tray for small items.",
+      "Inside the hatchback, glove box, door pockets, cup holders, and seat-back pockets are practical storage spots."
+    ],
+    "Maruti Alto K10 – Powertrain": [
+      "The Alto K10 is powered by a 998cc petrol engine which produces 67.59bhp and 89Nm of torque.",
+      "This mill is mated to a five-speed manual or an AMT.",
+      "Both the manual and automatic options offer a front wheel drive.Introduction"
+    ]
+  },
+  "verdict": "2022 Maruti Suzuki Alto K10 is a significant improvement over its predecessor, offering better design, tech features, and fuel efficiency. While some of the lower variants lack essential features, the higher trims provide good value for money. Its compact size, efficient engine, and affordability make it a solid choice for first-time car buyers or those seeking a reliable budget car for daily commuting.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Maruti Suzuki Alto K10",
+        "price": "3.7 - 5.45 Lakh",
+        "url": "/maruti-suzuki-cars/alto-k10"
+      },
+      {
+        "name": "Renault Kwid",
+        "price": "4.29 - 5.9 Lakh",
+        "url": "/renault-cars/kwid"
+      },
+      {
+        "name": "Tata Tiago",
+        "price": "4.57 - 7.82 Lakh",
+        "url": "/tata-cars/tiago"
+      },
+      {
+        "name": "Maruti Suzuki S-Presso",
+        "price": "3.5 - 5.25 Lakh",
+        "url": "/maruti-suzuki-cars/s-presso"
+      },
+      {
+        "name": "Maruti Suzuki Celerio",
+        "price": "4.7 - 5.16 Lakh",
+        "url": "/maruti-suzuki-cars/celerio"
+      },
+      {
+        "name": "Citroen C3",
+        "price": "4.8 Lakh",
+        "url": "/citroen-cars/c3"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 3.7 - 5.45 Lakh",
+          "₹ 4.29 - 5.9 Lakh",
+          "₹ 4.57 - 7.82 Lakh",
+          "₹ 3.5 - 5.25 Lakh",
+          "₹ 4.7 - 5.16 Lakh",
+          "₹ 4.8 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.2",
+          "8.0",
+          "8.2",
+          "7.5",
+          "6.5",
+          "8.4"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "998 cc",
+          "999 CC",
+          "1199 CC",
+          "998 CC",
+          "998 CC",
+          "1198 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "27 KM/L",
+          "22 - 23 KM/L",
+          "20 - 24 KM/L",
+          "24.76 - 32.73 KM/L",
+          "25.24 KM/L",
+          "19.8 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Petrol+CNG",
+          "Petrol",
+          "Petrol, CNG",
+          "Petrol, CNG",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "4,5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "24.4, 24.9, 33.9 L",
+          "28.0 L",
+          "35.0 L",
+          "27.0 L",
+          "32.0 L",
+          "30.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "10",
+          "12",
+          "13",
+          "8",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Alto K10 vs Kwid",
+          "Alto K10 vs Tiago",
+          "Alto K10 vs S-Presso",
+          "Alto K10 vs Celerio",
+          "Alto K10 vs C3"
+        ]
+      }
+    ]
+  }
+}

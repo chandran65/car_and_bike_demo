@@ -1,0 +1,219 @@
+{
+  "basic_info": {
+    "name": "BMW i7",
+    "manufacturer": "BMW",
+    "model": "i7",
+    "body_type": "Sedan",
+    "url": "https://www.carandbike.com/bmw-cars/i7",
+    "image_url": "https://images.carandbike.com/car-images/large/bmw/i7/bmw-i7.jpg?v=13",
+    "description": "BMW i7 is a 5-seater electric Sedan available at a starting price of Rs. 2.36 Crore. The electric car is available in 2 variants.Additionally, i7 offers a Ground Clearance measurement of 3215 mm and a Boot capacity of 500 liters. You can choose from 7 colors for the i7. The battery range/mileage of the i7 is 595 Km/Full Charge. ",
+    "model_date": "2023-01-08",
+    "sku": "bmw-i7-1696",
+    "vin": "5NPEL4AB3BH001696",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "510 - 595 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1950 mm ",
+    "height": "1544 mm",
+    "weight": "2715/3250",
+    "seating_capacity": "5",
+    "number_of_doors": "4,5"
+  },
+  "colors": [
+    "Oxide Grey metallic",
+    "BMW Individual Tanzanite Blue metallic",
+    "BMW Individual Dravit Grey metallic",
+    "Black Sapphire Metallic",
+    "Carbon Black Metallic",
+    "Mineral White metallic",
+    "M Brooklyn Grey metallic"
+  ],
+  "price": {
+    "value": 23585273,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/bmw-cars/i7"
+  },
+  "brand": {
+    "name": "BMW",
+    "image": "https://images.carandbike.com/car-images/big/bmw/bmw.png?v=1"
+  },
+  "rating": {
+    "value": "8.7",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Powerful acceleration",
+    "Luxurious interior",
+    "Smart features"
+  ],
+  "cons": [
+    "polarising design",
+    "A bit pricy",
+    "Not fun-to-drive"
+  ],
+  "expert_review": {
+    "design_styling": "In the automotive lexicon, the word ‘flagship’ takes on new dimensions with the BMW i7. It’s like a crescendo in a symphony—every note meticulously orchestrated to offer an electric experience. We’ve all seen the memes about the signature kidney grille; it’s larger than ever. But let’s not overlook its illuminated elegance, or the touch of glamour added by the Swarovski crystals in the daytime running lights. The 21-inch M Light-Alloy wheels and LED taillights are also nothing short of sensational. True, there’s a lack of sequential LED turn indicators, but the car makes up for it with tastefully applied chrome and intricate patterns on the rear quarter glass."
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "BMW i7",
+        "price": "2.03 - 2.5 Crore",
+        "url": "/bmw-cars/i7"
+      },
+      {
+        "name": "Audi RS E-Tron GT",
+        "price": "2.37 Crore",
+        "url": "/audi-cars/rs-e-tron-gt"
+      },
+      {
+        "name": "Lotus Emeya",
+        "price": "2.34 Crore",
+        "url": "/lotus-cars/emeya"
+      },
+      {
+        "name": "Mercedes-Maybach EQS Electric",
+        "price": "2.4 - 2.63 Crore",
+        "url": "/mercedes-maybach-cars/eqs-electric"
+      },
+      {
+        "name": "Lotus Eletre",
+        "price": "2.55 - 2.99 Crore",
+        "url": "/lotus-cars/eletre"
+      },
+      {
+        "name": "Porsche Taycan",
+        "price": "1.97 - 3.12 Crore",
+        "url": "/porsche-cars/taycan"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 2.03 - 2.5 Crore",
+          "₹ 2.37 Crore",
+          "₹ 2.34 Crore",
+          "₹ 2.4 - 2.63 Crore",
+          "₹ 2.55 - 2.99 Crore",
+          "₹ 1.97 - 3.12 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.7",
+          "8.3",
+          "-",
+          "-",
+          "-",
+          "8.1"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "510,595 Km/Full Charge",
+          "401 Km/Full Charge",
+          "600 Km/Full Charge",
+          "600 Km/Full Charge",
+          "500 Km/Full Charge",
+          "452 - 463 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "4 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "1",
+          "3",
+          "2",
+          "3",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "i7 vs RS E-Tron GT",
+          "i7 vs Emeya",
+          "i7 vs EQS Electric",
+          "i7 vs Eletre",
+          "i7 vs Taycan"
+        ]
+      }
+    ]
+  }
+}

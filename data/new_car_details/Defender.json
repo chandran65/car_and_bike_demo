@@ -1,0 +1,275 @@
+{
+  "basic_info": {
+    "name": "Land Rover Defender",
+    "manufacturer": "Land Rover",
+    "model": "Defender",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/land-rover-cars/defender",
+    "image_url": "https://images.carandbike.com/car-images/large/land-rover/defender/land-rover-defender.jpg?v=23",
+    "description": "Land Rover Defender is a 5-seater SUV available at a starting price of Rs. 1 Crore. The car is available in 20 variants, with 4 engine and 1 transmission option. Additionally, Defender offers a Ground Clearance measurement of 218 mm and a Boot capacity of 397 liters. You can choose from 13 colors for the Defender. The mileage of the Defender varies from 14 KM/L depending on the model.",
+    "model_date": "2020-10-15",
+    "sku": "land-rover-defender-1596",
+    "vin": "5NPEL4AB3BH001596",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1997,2995,2996,4395 cc",
+    "power": "296 bhp @ 4,000 rpm,296 bhp @ 4000 rpm,296 bhp @ 5500rpm,518 bhp @ 6,000 rpm,626 bhp",
+    "torque": "400 Nm @ 1500 rpm,625 Nm @ 2,500 rpm,650 Nm @ 2,500 rpm,750 Nm @ 1800 rpm - 5855 rpm Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "8 - 14 KM/L"
+  },
+  "dimensions": {
+    "width": "2105 mm ",
+    "height": "1995 mm",
+    "weight": "2140/2675",
+    "seating_capacity": "5",
+    "number_of_doors": "3,5"
+  },
+  "colors": [
+    "Carpathian Grey Octa one",
+    "Faroe Green Octa one",
+    "Charente Grey Octa",
+    "Petra Copper Octa",
+    "Carpathian Grey 90",
+    "Santorini Black 90",
+    "Santorini Black-metallic",
+    "Gondwana Stone 110",
+    "Tasman Blue",
+    "Pangea Green 110",
+    "Carpathian Grey",
+    "Santorini Black",
+    "Gondwana Stone"
+  ],
+  "price": {
+    "value": 10033000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/land-rover-cars/defender"
+  },
+  "brand": {
+    "name": "Land Rover",
+    "image": "https://images.carandbike.com/car-images/big/land-rover/land-rover.png?v=1"
+  },
+  "rating": {
+    "value": "8.0",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Impressive Off-Road Performance",
+    "Amazing Road Presence",
+    "5-Star Euro Ncap Safety Rating"
+  ],
+  "cons": [
+    "A Bit On The Pricier Side",
+    "2.0 Petrol Engine Is Just About Adequate",
+    "Some Interior Parts Don'T Feel Luxurious"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "14 KM/L",
+      "city_mileage": "8 KM/L",
+      "highway_mileage": "12 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "14 KM/L",
+      "city_mileage": "10 KM/L",
+      "highway_mileage": "12 KM/L"
+    }
+  ],
+  "whats_new": {
+    "Introduction": [
+      "The latest iteration of the Defender offers three body styles including the 90, 110, 130, and a high-performance version - the Octa.",
+      "Some of the luxury features buyers get are configurable ambient lighting, 360-degree cameras, and a panoramic sunroof.",
+      "Notable upgrades from the previous Defenders include a centre console refrigerator, Meridian sound system, and a soft-close tailgate, part of various optional packages.",
+      "The expanded accessory packs (Explorer, Adventure, Urban) offer more customisation options such as a roof rack."
+    ],
+    "Exterior": [
+      "The grille of the new Defender features a new gloss black bar paired with a dark-finished Land Rover badge bringing a premium look.",
+      "The latest colour options include Keswick Green and Deep Sand-glow Yellow for the trophy edition and Faroe Green for the Octa edition.",
+      "The redesigned headlights have a smaller centre LED DRL section.",
+      "Smoked, flush-fitting tail lamps are visible at the rear and fog lamps are now standard on all India-spec models.​",
+      "Then, the SUV gets distinctive Defender-branded gloss black wheel centre caps and 22-inch seven-spoke alloy wheels which are optional."
+    ],
+    "Interior": [
+      "The seats use Windsor leather/Kvadrat or Ebony Semi-Aniline leather, depending on the variant.",
+      "The Defender supports 14-way electronic adjustment with heating and ventilation functions in upper variants.​",
+      "The interior offers durable rubber cabin flooring and loadspace, signature carpet mats, illuminated metal treadplates, and bright metal pedals.",
+      "Interior customisation options include interior colors such as Ebony, Khaki, Caraway, and Light Cloud.",
+      "The Defender features an 11.4-inch infotainment screen as standard and up to 13.1-inch in higher variants.",
+      "The interior offers three-zone climate control with rear cooling assist, cabin air purification, illuminated vanity mirrors, twin cup holders, and an optimised glovebox along with rear storage spaces.​",
+      "The higher variants additionally feature a panoramic sunroof and an optional centre console refrigerator compartment.​",
+      "Moreover, the standard advanced driver-assistance features include a 3D surround camera, 360° parking aid, and adaptive cruise control."
+    ],
+    "Powertrain": [
+      "The highlight of the Defender’s powertrain is its 5.0-litre V8 P425 petrol engine.",
+      "It generates an output of 432bhp and 610Nm of torque.",
+      "This V8 engine is available in two options X-Dynamic HSE and X across the Defender 90, 110, and 130.",
+      "The engine is paired with an automatic transmission, and electronic air suspension.",
+      "Apart from the Defender’s V8 engine, buyers can also go for a 2.0-litre turbo petrol engine.",
+      "The latter produces bhp 291bhp and a 3.0-litre diesel engine which produces about bhp 247bhp."
+    ]
+  },
+  "verdict": "The Land Rover Defender 110 SUV is massive in terms of proportions. There's no doubting the capability of the Defender, because it is in its genes. In terms of features, the top-spec Defender HSE variant comes with a 12.3-inch digital instrument cluster, automatic climate control, connected car tech, wireless charging, a Meridian audio system, 12-way electrically adjustable and heated front seats, a 360-degree surround camera, LED headlights and a panoramic sunroof.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Land Rover Defender",
+        "price": "1 - 2.6 Crore",
+        "url": "/land-rover-cars/defender"
+      },
+      {
+        "name": "Porsche Macan",
+        "price": "1 Crore",
+        "url": "/porsche-cars/macan"
+      },
+      {
+        "name": "Audi Q8",
+        "price": "1.1 Crore",
+        "url": "/audi-cars/q8"
+      },
+      {
+        "name": "Volvo XC90",
+        "price": "1.13 Crore",
+        "url": "/volvo-cars/xc90"
+      },
+      {
+        "name": "Jaguar F-Pace",
+        "price": "82.88 - 84.7 Lakh",
+        "url": "/jaguar-cars/f-pace"
+      },
+      {
+        "name": "Rolls-Royce Cullinan",
+        "price": "1.19 - 7.9 Crore",
+        "url": "/rolls-royce-cars/cullinan"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1 - 2.6 Crore",
+          "₹ 1 Crore",
+          "₹ 1.1 Crore",
+          "₹ 1.13 Crore",
+          "₹ 82.88 - 84.7 Lakh",
+          "₹ 1.19 - 7.9 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.0",
+          "6.5",
+          "8.5",
+          "7.6",
+          "8.8",
+          "8.8"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1997,2995,2996,4395 cc",
+          "1984 CC",
+          "2995 CC",
+          "1969 CC",
+          "1997 CC",
+          "6751 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "8 - 14 KM/L",
+          "13.2 KM/L",
+          "10 KM/L",
+          "11.04 KM/L",
+          "13 - 18 KM/L",
+          "7 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol",
+          "Hybrid",
+          "Petrol, Diesel",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "90.0 L",
+          "65.0 L",
+          "85.0 L",
+          "71.0 L",
+          "82.0 L",
+          "100.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "20",
+          "1",
+          "1",
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Defender vs Macan",
+          "Defender vs Q8",
+          "Defender vs XC90",
+          "Defender vs F-Pace",
+          "Defender vs Cullinan"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "basic_info": {
+    "name": "BMW 5 Series",
+    "manufacturer": "BMW",
+    "model": "5 Series",
+    "body_type": null,
+    "url": "https://www.carandbike.com/bmw-cars/5-series",
+    "image_url": "https://images.carandbike.com/car-images/large/bmw/5-series/bmw-5-series.jpg?v=24",
+    "description": "BMW 5 Series is a 5-seater  available at a starting price of Rs. 77.81 Lakh. The car is available in 1 variants, with 1 engine and 1 transmission option. Additionally, 5 Series offers a Ground Clearance measurement of 158 mm and a Boot capacity of 520 liters. You can choose from 2 colors for the 5 Series. The mileage of the 5 Series varies from 15.6 KM/L depending on the model.",
+    "model_date": "2024-07-24",
+    "sku": "bmw-5-series-1017",
+    "vin": "5NPEL4AB3BH001017",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1998 cc",
+    "power": "255 bhp @ 4500 rpm bhp",
+    "torque": "400 Nm @ 1600 rpm Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "15 KM/L"
+  },
+  "dimensions": {
+    "width": "2156 mm ",
+    "height": "1518 mm",
+    "weight": "1750/1750",
+    "seating_capacity": "5",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "Space Grey (metallic)",
+    "Carbon Black (metallic )"
+  ],
+  "price": {
+    "value": "7780706",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/bmw-cars/5-series"
+  },
+  "brand": {
+    "name": "BMW",
+    "image": "https://images.carandbike.com/car-images/big/bmw/bmw.png?v=1"
+  },
+  "rating": {
+    "value": "8.0",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Great Ride And Handling",
+    "Gets Both Petrol And Diesel Options",
+    "Premium Interior With Smart Features"
+  ],
+  "cons": [
+    "Petrol Trim Only Comes In One Variant",
+    "Second-Row Not Good For 3 Occupants",
+    "Cabin Design Looks A Bit Dated"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "15.6 KM/L",
+      "city_mileage": "12 KM/L",
+      "highway_mileage": "16 KM/L"
+    }
+  ],
+  "verdict": "The 5 series continues to impress with its dynamic capabilities but a more contemporary face and tech laden cabin has made the car even more appealing than before. It starts at ₹ 62.90 lakh for the Petrol version while the 520d is priced at ₹ 63.90 lakh. Top of the line 530d will set you back by ₹ 71.90 lakh (all prices ex-showroom). It is going up against the likes of the recently launched Mercedes E-class, Audi A6 and Jaguar XF.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "BMW 5 Series",
+        "price": "68.44 Lakh",
+        "url": "/bmw-cars/5-series"
+      },
+      {
+        "name": "BMW 6 Series Gran Turismo",
+        "price": "79.04 - 86.72 Lakh",
+        "url": "/bmw-cars/6-series-gran-turismo"
+      },
+      {
+        "name": "Audi S5",
+        "price": "73.57 - 80.5 Lakh",
+        "url": "/audi-cars/s5"
+      },
+      {
+        "name": "Mercedes-Benz E-Class",
+        "price": "83 - 96.9 Lakh",
+        "url": "/mercedes-benz-cars/e-class"
+      },
+      {
+        "name": "BMW 3 Series",
+        "price": "65.01 - 79.53 Lakh",
+        "url": "/bmw-cars/3-series"
+      },
+      {
+        "name": "Audi A6",
+        "price": "63.74 - 70.79 Lakh",
+        "url": "/audi-cars/a6"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 68.44 Lakh",
+          "₹ 79.04 - 86.72 Lakh",
+          "₹ 73.57 - 80.5 Lakh",
+          "₹ 83 - 96.9 Lakh",
+          "₹ 65.01 - 79.53 Lakh",
+          "₹ 63.74 - 70.79 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.0",
+          "8.0",
+          "7.9",
+          "7.8",
+          "8.2",
+          "7.6"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1998 cc",
+          "1998 CC",
+          "2995 CC",
+          "1991 CC",
+          "2998 CC",
+          "1984 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "15 KM/L",
+          "13.32 - 18.65 KM/L",
+          "13 KM/L",
+          "12.06 KM/L",
+          "16.13 KM/L",
+          "14.11 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "68.0 L",
+          "68.0 L",
+          "58.0 L",
+          "80.0 L",
+          "59.0 L",
+          "73.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "4",
+          "2",
+          "3",
+          "3",
+          "4"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "5 Series vs 6 Series Gran Turismo",
+          "5 Series vs S5",
+          "5 Series vs E-Class",
+          "5 Series vs 3 Series",
+          "5 Series vs A6"
+        ]
+      }
+    ]
+  }
+}

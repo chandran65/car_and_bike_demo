@@ -1,0 +1,240 @@
+{
+  "basic_info": {
+    "name": "Porsche Macan",
+    "manufacturer": "Porsche",
+    "model": "Macan",
+    "body_type": null,
+    "url": "https://www.carandbike.com/porsche-cars/macan",
+    "image_url": "https://images.carandbike.com/car-images/large/porsche/macan/porsche-macan.jpg?v=38",
+    "description": "Porsche Macan is a 5-seater  available at a starting price of Rs. 1 Crore. The car is available in 1 variants, with 1 engine and 1 transmission option. Additionally, Macan offers a Ground Clearance measurement of 198 mm and a Boot capacity of 500 liters. You can choose from 13 colors for the Macan. The mileage of the Macan varies from 13.2 KM/L depending on the model.",
+    "model_date": "2021-11-12",
+    "sku": "porsche-macan-1400",
+    "vin": "5NPEL4AB3BH001400",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1984 cc",
+    "power": "261 bhp",
+    "torque": "370 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "13 KM/L"
+  },
+  "dimensions": {
+    "width": "1922 mm ",
+    "height": "1621 mm",
+    "weight": "1845/1845",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Miami Blue",
+    "Dolomite Silver Metallic",
+    "Mamba Green Metallic",
+    "Impulse Red Metallic",
+    "White",
+    "Black",
+    "Dark Blue Metallic",
+    "Sapphire Blue Metallic",
+    "Rhodium Silver Metallic",
+    "Mahogany Metallic",
+    "Agate Grey Metallic",
+    "Jet Black Metallic",
+    "Aventurine Green Metallic"
+  ],
+  "price": {
+    "value": 10011230,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/porsche-cars/macan"
+  },
+  "brand": {
+    "name": "Porsche",
+    "image": "https://images.carandbike.com/car-images/big/porsche/porsche.png?v=1"
+  },
+  "rating": {
+    "value": "6.5",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Decent Engine Options",
+    "Good Driving Dynamics",
+    "Luxurious Interior",
+    "&nbsp;"
+  ],
+  "cons": [
+    "Availability &amp; After Sales",
+    "Less Interior Space",
+    "Not As Powerful As Other Rivals",
+    "&nbsp;"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "13.2 KM/L",
+      "city_mileage": "7.5 KM/L",
+      "highway_mileage": "10.5 KM/L"
+    }
+  ],
+  "expert_review": {
+    "design_styling": "The 2021 Porsche Macan embodies a sharper aesthetic appeal. Its front showcases a revamped nose, enriched with an inlay matching the exterior color. This design enhancement gives it a dominating presence on roads. The Macan GTS variant takes it up a notch with Its black-accented central nose section and other elements. Complementing its rear design is an eye-catching diffuser. The Macan lineup is further embellished with standard LED headlights equipped with the Porsche Dynamic Light System and Sport Design exterior mirrors.Porscheoffers a choice of larger wheels, starting at 19 inches for the Macan, 20 inches for the Macan S, and 21 inches for the GTS."
+  },
+  "verdict": "The Porsche Macan, while being the more compact and affordable SUV in Porsche's lineup, loses none of the exhilarating driving experience the brand is known for. Its popularity surpasses that of its larger sibling, the Cayenne, both globally and in India, attributable to its dynamic appeal. The Macan's allure lies in its ability to deliver robust performance packaged in a smaller, more agile form. This combination of power and compactness makes it highly attractive to a wide range of consumers. Its blend of size, power, and Porsche's signature driving experience makes it a standout choice for those seeking the thrill of a sports car in a more practical SUV form.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Porsche Macan",
+        "price": "82.19 Lakh",
+        "url": "/porsche-cars/macan"
+      },
+      {
+        "name": "Land Rover Defender",
+        "price": "1 - 2.6 Crore",
+        "url": "/land-rover-cars/defender"
+      },
+      {
+        "name": "Audi Q8",
+        "price": "1.1 Crore",
+        "url": "/audi-cars/q8"
+      },
+      {
+        "name": "Volvo XC90",
+        "price": "1.13 Crore",
+        "url": "/volvo-cars/xc90"
+      },
+      {
+        "name": "Jaguar F-Pace",
+        "price": "82.88 - 84.7 Lakh",
+        "url": "/jaguar-cars/f-pace"
+      },
+      {
+        "name": "Rolls-Royce Cullinan",
+        "price": "1.19 - 7.9 Crore",
+        "url": "/rolls-royce-cars/cullinan"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 82.19 Lakh",
+          "₹ 1 - 2.6 Crore",
+          "₹ 1.1 Crore",
+          "₹ 1.13 Crore",
+          "₹ 82.88 - 84.7 Lakh",
+          "₹ 1.19 - 7.9 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "6.5",
+          "8.0",
+          "8.5",
+          "7.6",
+          "8.8",
+          "8.8"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1984 cc",
+          "1997 CC",
+          "2995 CC",
+          "1969 CC",
+          "1997 CC",
+          "6751 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "13 KM/L",
+          "8.79 - 14 KM/L",
+          "10 KM/L",
+          "11.04 KM/L",
+          "13 - 18 KM/L",
+          "7 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol",
+          "Hybrid",
+          "Petrol, Diesel",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "65.0 L",
+          "90.0 L",
+          "85.0 L",
+          "71.0 L",
+          "82.0 L",
+          "100.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "20",
+          "1",
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Macan vs Defender",
+          "Macan vs Q8",
+          "Macan vs XC90",
+          "Macan vs F-Pace",
+          "Macan vs Cullinan"
+        ]
+      }
+    ]
+  }
+}

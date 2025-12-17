@@ -1,0 +1,283 @@
+{
+  "basic_info": {
+    "name": "Mahindra XUV700",
+    "manufacturer": "Mahindra",
+    "model": "XUV700",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/mahindra-cars/xuv700",
+    "image_url": "https://images.carandbike.com/car-images/large/mahindra/xuv700/mahindra-xuv700.jpg?v=15",
+    "description": "Mahindra XUV700 is a 6,7-seater SUV available at a starting price of Rs. 13.66 Lakh. The car is available in 67 variants, with 6 engine and 2 transmission option. Additionally, XUV700 offers a Ground Clearance measurement of 200 mm and a Boot capacity of 366 liters. You can choose from 5 colors for the XUV700. The mileage of the XUV700 varies from 16 - 16.6 KM/L depending on the model.",
+    "model_date": "2021-08-14",
+    "sku": "mahindra-xuv700-1646",
+    "vin": "5NPEL4AB3BH001646",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1997,1999,2184,2198 cc",
+    "power": "152 bhp@3750 rpm,197 bhp@5000 rpm bhp",
+    "torque": "360 Nm @1500-2800 rpm,380 Nm @1750-3000 rpm Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Manual, Automatic",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "13 - 16 KM/L"
+  },
+  "dimensions": {
+    "width": "1890 mm ",
+    "height": "1755 mm",
+    "weight": "1740/1740",
+    "seating_capacity": "6,7",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Everest White",
+    "Dazzling Silver",
+    "Red Rage",
+    "Midnight Black",
+    "Electric Blue"
+  ],
+  "price": {
+    "value": 1365800,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mahindra-cars/xuv700"
+  },
+  "brand": {
+    "name": "Mahindra",
+    "image": "https://images.carandbike.com/car-images/big/mahindra/mahindra.png?v=1"
+  },
+  "rating": {
+    "value": "8.3",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Handsome Styling&nbsp;",
+    "Solid Build Quality",
+    "Driver Assistance System"
+  ],
+  "cons": [
+    "Negligible Boot Space",
+    "Cramped 3Rd-Row Seat&nbsp;",
+    "Long Waiting Period"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "16 KM/L",
+      "city_mileage": "12 KM/L",
+      "highway_mileage": "16 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "16 KM/L",
+      "city_mileage": "12 KM/L",
+      "highway_mileage": "16 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "16.6 KM/L",
+      "city_mileage": "16 KM/L",
+      "highway_mileage": "20 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Manual",
+      "mileage": "16.6 KM/L",
+      "city_mileage": "16 KM/L",
+      "highway_mileage": "20 KM/L"
+    }
+  ],
+  "whats_new": {
+    "Introduction": [
+      "First launched in August 2021, the Mahindra XUV700 plays a crucial role in Mahindra’s product portfolio.",
+      "It gets an extensive feature list, strong powertrain options, and a competitive pricing.",
+      "The SUV has already crossed the three-lakh sales mark in India, making it one of the brand’s most successful models in recent years.",
+      "It is available as a five- and seven-seater model, with these configurations offered across a range of variants.",
+      "This includes MX, AX3, AX5, AX5 Select, AX7, and the top-spec AX7L.",
+      "There are even special editions such as the Blaze Edition and Ebony Edition, the availability of which dealers can confirm."
+    ],
+    "Exterior": [
+      "The XUV700 is not really a big departure from the XUV500 in terms of design but is bigger.",
+      "It gets a modern design with all-LED lamps, new alloy wheels, even if the silhouette is identical.",
+      "The latest iteration is the Ebony Edition with a Stealth Black exterior replacing the Napoli black colour.",
+      "It also boasts a blacked-out grille, ORVMs, silver front and rear skid plates, and black 18-inch alloy wheels.",
+      "Mahindra is due to bring in an updated model, which is likely to feature cosmetic tweaks.",
+      "It will also get new tech upgrades to keep it fresh amidst the growing competition in the segment."
+    ],
+    "Interior": [
+      "Whether it’s the five- or seven-seater version, the XUV700 is packed with many features.",
+      "The biggest highlights are the screens including a dual 10.25-inch display setup for the infotainment system and digital instrument cluster.",
+      "Other USPs include a panoramic sunroof, dual-zone climate control, wireless charging, ventilated front seats, and connected car tech.",
+      "The SUV even gets Level 2 ADAS with adaptive cruise control and lane keep assist.",
+      "Moreover, the XUV700 holds a five-star Global NCAP rating for occupant safety.",
+      "The latest update to the XUV700 is the addition of rear seat-belt reminders as a standard feature.",
+      "As for the Ebony Edition, its cabin gets the most prominent change with black elements.",
+      "This is a big departure from the light grey-beige interior of the standard SUV even though the roof-liner is still light grey.",
+      "Prospective buyers can expect the seven-seater Ebony Edition to boast some exclusivity with a black dashboard, black leatherette seats with contrast stitching, and a dark chrome finish on the AC vents and steering wheel."
+    ],
+    "Powertrain": [
+      "The Mahindra XUV700 is available with two engine options.",
+      "This includes a 2.0-litre turbo-petrol and a 2.2-litre turbo-diesel unit.",
+      "Both engines are offered with six-speed manual and automatic transmissions.",
+      "Buyers also get optional all-wheel drive system in select variants."
+    ]
+  },
+  "verdict": "The Mahindra XUV700 is a well-rounded package that combines strong performance, advanced tech, and a premium feel, making it the most balanced SUV in its segment. While it has some minor drawbacks in terms of third-row comfort and turbo lag in the petrol variant, its overall feature set, competitive pricing, and driving dynamics make it a top contender for buyers seeking an advanced, powerful, and family-friendly SUV.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mahindra XUV700",
+        "price": "13.66 - 25.19 Lakh",
+        "url": "/mahindra-cars/xuv700"
+      },
+      {
+        "name": "Tata Safari",
+        "price": "14.66 - 25.96 Lakh",
+        "url": "/tata-cars/safari"
+      },
+      {
+        "name": "Isuzu D-Max",
+        "price": "10.14 - 20.35 Lakh",
+        "url": "/isuzu-cars/d-max"
+      },
+      {
+        "name": "Force Motors Gurkha",
+        "price": "19.46 - 20.92 Lakh",
+        "url": "/force-motors-cars/gurkha"
+      },
+      {
+        "name": "Isuzu D-Max V-Cross",
+        "price": "19.73 - 35.97 Lakh",
+        "url": "/isuzu-cars/d-max-v-cross"
+      },
+      {
+        "name": "Toyota Hilux",
+        "price": "28.02 - 35.37 Lakh",
+        "url": "/toyota-cars/hilux"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 13.66 - 25.19 Lakh",
+          "₹ 14.66 - 25.96 Lakh",
+          "₹ 10.14 - 20.35 Lakh",
+          "₹ 19.46 - 20.92 Lakh",
+          "₹ 19.73 - 35.97 Lakh",
+          "₹ 28.02 - 35.37 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.3",
+          "5.5",
+          "7.5",
+          "6.1",
+          "7.0",
+          "7.8"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1997,1999,2184,2198 cc",
+          "1956 CC",
+          "2499 CC",
+          "2596 CC",
+          "1898 CC",
+          "2755 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "13 - 16 KM/L",
+          "16.14 KM/L",
+          "14 KM/L",
+          "15 KM/L",
+          "14.4 KM/L",
+          "12.6 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Diesel",
+          "Diesel",
+          "Diesel",
+          "Diesel",
+          "Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "6,7 Seater",
+          "7 Seater",
+          "2 Seater",
+          "4 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "60.0 L",
+          "50.0 L",
+          "55.0 L",
+          "63.5 L",
+          "55.0 L",
+          "80.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "67",
+          "24",
+          "6",
+          "2",
+          "5",
+          "4"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "XUV700 vs Safari",
+          "XUV700 vs D-Max",
+          "XUV700 vs Gurkha",
+          "XUV700 vs D-Max V-Cross",
+          "XUV700 vs Hilux"
+        ]
+      }
+    ]
+  }
+}

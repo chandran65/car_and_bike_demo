@@ -1,0 +1,219 @@
+{
+  "basic_info": {
+    "name": "Tesla Model Y",
+    "manufacturer": "Tesla",
+    "model": "Model Y",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/tesla-cars/model-y",
+    "image_url": "https://images.carandbike.com/car-images/large/tesla/model-y/tesla-model-y.jpg?v=14",
+    "description": "Tesla Model Y is a 5-seater electric SUV available at a starting price of Rs. 69.47 Lakh. The electric car is available in 2 variants.Additionally, Model Y offers a Ground Clearance measurement of 167 mm and a Boot capacity of 1758 liters. You can choose from 6 colors for the Model Y. The battery range/mileage of the Model Y is 622 Km/Full Charge. ",
+    "model_date": "2025-07-15",
+    "sku": "tesla-model-y-1876",
+    "vin": "5NPEL4AB3BH001876",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "500 - 622 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "2129 mm ",
+    "height": "1624 mm",
+    "weight": "1909/1959",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Stealth Grey",
+    "Pearl White Multi-Coat",
+    "Diamond Black",
+    "Glacier Blue",
+    "Quicksilver",
+    "Ultra Red"
+  ],
+  "price": {
+    "value": 6947102,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/tesla-cars/model-y"
+  },
+  "brand": {
+    "name": "Tesla",
+    "image": "https://images.carandbike.com/car-images/big/tesla/tesla.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "whats_new": {
+    "Introduction": [
+      "The Tesla Model Y is the first-ever model to be sold in India from Elon Musk's US-based electric vehicle company. The Model Y is a crossover based on the Model 3, hence actually a good proposition for the Indian market, given the demand for SUVs and crossovers. The carmaker has started offering it in two variants in the Indian market including the RWD priced at Rs. 58.89 lakh and Long Range RWD, which costs Rs. 67.89 lakh."
+    ],
+    "Exterior": [
+      "The Model Y is also known as the Juniper in the US market, the latest iteration is the facelifted Model Y that has undergone a significant redesign. For example, in terms of dimensions, it is 47mm longer and 1mm narrower than its predecessor. Then, it boasts improved aerodynamics and a reduced drag coefficient of 0.22. Moreover, the key design updates include a connected light bar and sealed front face with an air dam, chunkier bumpers, flush-fitting door handles, 19- and 20-inch wheel options, and LED connecting strips on the tail lamps."
+    ],
+    "Interior": [
+      "The key interior updates include a 15.4-inch central touchscreen with updated OS, Over-The-Air (OTA) updates, new fabric upholstery, and ventilated front seats. Lest we forget, there's even an eight-inch touchscreen for rear occupants, ADAS, and an optional Autopilot (Autonomous driving). Other than that, the Model Y continues to get other features like automatic climate control, wireless charger, and powered seats, amongst many other features."
+    ],
+    "Powertrain": [
+      "The Tesla Model Y is based on a monocoque chassis. Globally, the carmaker offers it in both Long Range AWD and Performance variants and with either a single or dual-motor setup. The former variants boast a quicker performance and long range, however, the RWD version that we get offers 662km range and a 5.9-second zero to 100kmph sprint time. It even boasts improved charging speeds by extracting 267km in just 15mins through the brand's proprietary Supercharger."
+    ]
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Tesla Model Y",
+        "price": "59.89 - 67.89 Lakh",
+        "url": "/tesla-cars/model-y"
+      },
+      {
+        "name": "Mercedes-Benz EQB",
+        "price": "67.2 - 78.9 Lakh",
+        "url": "/mercedes-benz-cars/eqb"
+      },
+      {
+        "name": "Mercedes-Benz EQA",
+        "price": "67.2 Lakh",
+        "url": "/mercedes-benz-cars/eqa"
+      },
+      {
+        "name": "Volvo C40 Recharge",
+        "price": "73.02 Lakh",
+        "url": "/volvo-cars/c40-recharge"
+      },
+      {
+        "name": "Volvo EX40",
+        "price": "65.07 - 67.16 Lakh",
+        "url": "/volvo-cars/ex40"
+      },
+      {
+        "name": "Kia EV6",
+        "price": "76.52 Lakh",
+        "url": "/kia-cars/ev6"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 59.89 - 67.89 Lakh",
+          "₹ 67.2 - 78.9 Lakh",
+          "₹ 67.2 Lakh",
+          "₹ 73.02 Lakh",
+          "₹ 65.07 - 67.16 Lakh",
+          "₹ 76.52 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "8.0",
+          "-",
+          "-",
+          "-",
+          "8.5"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "500,622 Km/Full Charge",
+          "423 Km/Full Charge",
+          "350 Km/Full Charge",
+          "530 Km/Full Charge",
+          "475 - 565 Km/Full Charge",
+          "663 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "2",
+          "1",
+          "1",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Model Y vs EQB",
+          "Model Y vs EQA",
+          "Model Y vs C40 Recharge",
+          "Model Y vs EX40",
+          "Model Y vs EV6"
+        ]
+      }
+    ]
+  }
+}

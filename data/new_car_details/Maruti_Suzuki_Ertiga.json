@@ -1,0 +1,279 @@
+{
+  "basic_info": {
+    "name": "Maruti Suzuki Ertiga",
+    "manufacturer": "Maruti Suzuki",
+    "model": "Ertiga",
+    "body_type": "MUV",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/ertiga",
+    "image_url": "https://images.carandbike.com/car-images/large/maruti-suzuki/ertiga/maruti-suzuki-ertiga.jpg?v=39",
+    "description": "Maruti Suzuki Ertiga is a 7-seater MUV available at a starting price of Rs. 8.8 Lakh. The car is available in 11 variants, with 2 engine and 2 transmission option. Additionally, Ertiga offers a Ground Clearance measurement of 185 mm and a Boot capacity of 300 liters. You can choose from 6 colors for the Ertiga. The mileage of the Ertiga varies from 19 - 26.2 KM/L depending on the model.",
+    "model_date": "2022-04-18",
+    "sku": "maruti-suzuki-ertiga-1288",
+    "vin": "5NPEL4AB3BH001288",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1373,1462 cc",
+    "power": "102 bhp @6000 rpm,87 bhp @ 5500 rpm bhp",
+    "torque": "121.5  Nm @4200 rm,139 Nm @4300 rm Nm",
+    "fuel_type": "Petrol, Petrol+CNG"
+  },
+  "transmission": "Manual, Automatic",
+  "fuel": {
+    "type": "Petrol, Petrol+CNG",
+    "efficiency": "19 - 26 KM/L"
+  },
+  "dimensions": {
+    "width": "1735 mm ",
+    "height": "1690 mm",
+    "weight": "1175/1275",
+    "seating_capacity": "7",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Pearl Metallic Dignity Brown",
+    "Magma Grey",
+    "Auburn Red",
+    "Splendid Silver",
+    "Pearl Metallic Arctic White",
+    "Prime Oxford Blue"
+  ],
+  "price": {
+    "value": "880000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/ertiga"
+  },
+  "brand": {
+    "name": "Maruti Suzuki",
+    "image": "https://images.carandbike.com/car-images/big/maruti-suzuki/maruti-suzuki.png?v=1"
+  },
+  "rating": {
+    "value": "7.3",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Cabin Space",
+    "Ride Quality",
+    "Maintenance &amp; Resale Value"
+  ],
+  "cons": [
+    "No Diesel Engine",
+    "Lacks Features",
+    "Not Fun To Drive"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "19 KM/L",
+      "city_mileage": "18 KM/L",
+      "highway_mileage": "20.5 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "19 KM/L",
+      "city_mileage": "18 KM/L",
+      "highway_mileage": "20.5 KM/L"
+    },
+    {
+      "fuel_type": "Petrol+CNG",
+      "transmission": "Manual",
+      "mileage": "26.2 KM/L",
+      "city_mileage": "26 KM/L",
+      "highway_mileage": "26 KM/L"
+    }
+  ],
+  "whats_new": {
+    "Introduction": [
+      "The Maruti Ertiga is a seven-seater MUV is designed to comfortably accommodate families or groups.",
+      "Its interior offers flexible seating and some modern features like Android Auto and Apple CarPlay.",
+      "Then, it has received a three-star GNCAP rating with its safety features such as six airbags and rear parking sensors.",
+      "Despite being a large vehicle, the Ertiga is known to be agile on the road, a good people-mover, and a reliable workhorse."
+    ],
+    "Exterior": [
+      "The Ertiga’s dynamic chrome winged front grille gives it a stylish first impression.",
+      "It has dual-toned alloy wheels that add a modern look, enhancing its road presence.",
+      "Then, its origami style lamps LED tail lamps are elegantly sculpted in place.",
+      "Furthermore, the MUV is accented with a chrome garnish on the rear door.",
+      "Adding on, the fascia has halogen projector headlamps flanking the grille.",
+      "The grille is also complemented by a sharp bumper with black surrounds for fog lamps.",
+      "It appears a tad leaner with a sharp shoulder line, typical of a normal MUV size."
+    ],
+    "Interior": [
+      "The Ertiga’s dashboard has a clean design with a wood-like strip and light colours.",
+      "Its seats are arranged in three rows, allowing people to sit together, similar to a small van.",
+      "Colour scheme is light beige with dual-toned fabrics, which makes the cabin feel brighter.",
+      "Height of the driver’s seat is adjustable, which helps in clear visibility.Buttons for calls and music in the steering wheel is a handy feature as well.",
+      "In higher variants, the steering wheel is wrapped in soft material and has a wood-like finish.",
+      "A touchscreen is present at the centre of the dashboard which displays important info like navigation and calls.",
+      "Seats in the middle row can slide and recline, so passengers can move the seat back or forth and lean the backrest to relax.",
+      "Third row seats have split and reclining seats as well, allowing people to alternate between sitting or storing luggage.",
+      "There are air-conditioning vents at the rear, so people sitting in the middle and back rows also get cool air directly.",
+      "There are many small storage spaces such as cup holders, seat-back pockets, and a small box in the front armrest.",
+      "Some variants offer cooled cup holders, helping keep water or soft drinks at a pleasant temperature.",
+      "When all three rows are in use, there is a small luggage area at the back, enough for a few small bags or daily shopping items.",
+      "If the third row is folded down, the floor becomes flat and gives the rear extra space for more luggage and items."
+    ],
+    "Powertrain": [
+      "The Ertiga is powered by a 1.5-litre petrol engine producing 101.6bhp and 139Nm of torque.",
+      "There’s also CNG variant powered by the same engine, but producing 87bhp and 121Nm of torque.",
+      "Petrol models offer a five-speed manual and a six-speed automatic transmission, while CNG is manual only."
+    ]
+  },
+  "verdict": "Maruti Suzuki Ertiga remains a top contender in the MPV segment, offering excellent space, comfort, and practicality for families. While it lacks some modern design elements and features, its competitive pricing and reliable performance make it a strong choice for those seeking an affordable 7-seater vehicle. With its improved handling and upgraded features, the Ertiga is a well-rounded package for both city driving and long family road trips.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Maruti Suzuki Ertiga",
+        "price": "8.8 - 12.94 Lakh",
+        "url": "/maruti-suzuki-cars/ertiga"
+      },
+      {
+        "name": "Renault Triber",
+        "price": "6.14 - 9.42 Lakh",
+        "url": "/renault-cars/triber"
+      },
+      {
+        "name": "Mahindra Marazzo",
+        "price": "14.06 - 16.38 Lakh",
+        "url": "/mahindra-cars/marazzo"
+      },
+      {
+        "name": "Toyota Rumion",
+        "price": "10.44 - 12.91 Lakh",
+        "url": "/toyota-cars/rumion"
+      },
+      {
+        "name": "Kia Carens",
+        "price": "10.99 - 12.77 Lakh",
+        "url": "/kia-cars/carens"
+      },
+      {
+        "name": "Kia Carens Clavis",
+        "price": "11.08 - 13.01 Lakh",
+        "url": "/kia-cars/carens-clavis"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 8.8 - 12.94 Lakh",
+          "₹ 6.14 - 9.42 Lakh",
+          "₹ 14.06 - 16.38 Lakh",
+          "₹ 10.44 - 12.91 Lakh",
+          "₹ 10.99 - 12.77 Lakh",
+          "₹ 11.08 - 13.01 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.3",
+          "8.4",
+          "8.3",
+          "-",
+          "7.0",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1373,1462 cc",
+          "999 CC",
+          "1497 CC",
+          "1462 CC",
+          "1497 CC",
+          "1497 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "19 - 26 KM/L",
+          "19 - 20 KM/L",
+          "17.6 KM/L",
+          "20.5 - 26 KM/L",
+          "16.2 - 21.3 KM/L",
+          "16.2 - 16.8 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Petrol+CNG",
+          "Petrol",
+          "Diesel",
+          "Petrol, CNG",
+          "Petrol, Diesel",
+          "Petrol, Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "7 Seater",
+          "5 Seater",
+          "8 Seater",
+          "7 Seater",
+          "7 Seater",
+          "7 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "45.0 L",
+          "40.0 L",
+          "45.0 L",
+          "45.0 L",
+          "45.0 L",
+          "45.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "11",
+          "7",
+          "6",
+          "6",
+          "2",
+          "5"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Ertiga vs Triber",
+          "Ertiga vs Marazzo",
+          "Ertiga vs Rumion",
+          "Ertiga vs Carens",
+          "Ertiga vs Carens Clavis"
+        ]
+      }
+    ]
+  }
+}

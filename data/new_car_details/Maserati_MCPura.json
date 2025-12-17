@@ -1,0 +1,232 @@
+{
+  "basic_info": {
+    "name": "Maserati MCPura",
+    "manufacturer": "Maserati",
+    "model": "MCPura",
+    "body_type": "Coupe",
+    "url": "https://www.carandbike.com/maserati-cars/mcpura",
+    "image_url": "https://images.carandbike.com/car-images/large/maserati/mcpura/maserati-mcpura.jpg?v=39",
+    "description": "Maserati MCPura is a 2-seater Coupe available at a starting price of Rs. 4.12 Crore. The car is available in 2 variants, with 1 engine and 1 transmission option. You can choose from 30 colors for the MCPura. ",
+    "model_date": "2025-10-06",
+    "sku": "maserati-mcpura-1874",
+    "vin": "5NPEL4AB3BH001874",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2992 cc",
+    "power": "621 bhp@7,500 rpm bhp",
+    "torque": "730 Nm @3,000-5,500 rpm Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": null
+  },
+  "dimensions": {
+    "width": "1965 mm ",
+    "height": "1218 mm",
+    "weight": "1475/1475",
+    "seating_capacity": "2",
+    "number_of_doors": "2"
+  },
+  "colors": [
+    "Night Intraction",
+    "Orange Glow",
+    "Hyper Green",
+    "Blu Denim",
+    "Urban Green",
+    "Rose Gold Metal",
+    "Blu Graphite",
+    "Liquid Metal Matte",
+    "Giallo Genio Matte",
+    "Digital Mint Matte",
+    "Digital Aurora",
+    "AI Aqua Rainbow Matte",
+    "Rosso Vincente",
+    "Astro Matte",
+    "Giallo Genio",
+    "Devil Orange",
+    "Blu Infinito",
+    "Bianco Audace",
+    "Acquamarina",
+    "AI Aqua Rainbow",
+    "Powder Nude Texturized",
+    "Verde Royale",
+    "Grigio Incognito",
+    "Nero Essena",
+    "Grigio Lamira Matt",
+    "Blu Corse Matt",
+    "Rosso Gran Turismo",
+    "BluVictory",
+    "Blu Corse",
+    "Orange Zest"
+  ],
+  "price": {
+    "value": "41200000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/maserati-cars/mcpura"
+  },
+  "brand": {
+    "name": "Maserati",
+    "image": "https://images.carandbike.com/car-images/big/maserati/maserati.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Maserati MCPura",
+        "price": "4.12 - 5.12 Crore",
+        "url": "/maserati-cars/mcpura"
+      },
+      {
+        "name": "McLaren Artura",
+        "price": "5.68 Crore",
+        "url": "/mclaren-cars/artura"
+      },
+      {
+        "name": "Lamborghini Temerario",
+        "price": "5.87 Crore",
+        "url": "/lamborghini-cars/temerario"
+      },
+      {
+        "name": "Ferrari Roma",
+        "price": "3.56 Crore",
+        "url": "/ferrari-cars/roma"
+      },
+      {
+        "name": "Mercedes-AMG GT",
+        "price": "3.05 - 3.65 Crore",
+        "url": "/mercedes-amg-cars/gt"
+      },
+      {
+        "name": "Mercedes-AMG SL-Class",
+        "price": "2.47 Crore",
+        "url": "/mercedes-amg-cars/sl-class"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 4.12 - 5.12 Crore",
+          "₹ 5.68 Crore",
+          "₹ 5.87 Crore",
+          "₹ 3.56 Crore",
+          "₹ 3.05 - 3.65 Crore",
+          "₹ 2.47 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "-",
+          "8.5",
+          "8.2",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2992 cc",
+          "2993 CC",
+          "3992 CC",
+          "3855 CC",
+          "3982 CC",
+          "3982 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "0 KM/L",
+          "11 KM/L",
+          "5 KM/L",
+          "7 KM/L",
+          "11.4 KM/L",
+          "10 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "2 Seater",
+          "2 Seater",
+          "2 Seater",
+          "2 Seater",
+          "2 Seater",
+          "2 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "60.0 L",
+          "66.0 L",
+          "65.0 L",
+          "80.0 L",
+          "75.0 L",
+          "70.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "1",
+          "1",
+          "1",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "MCPura vs Artura",
+          "MCPura vs Temerario",
+          "MCPura vs Roma",
+          "MCPura vs GT",
+          "MCPura vs SL-Class"
+        ]
+      }
+    ]
+  }
+}

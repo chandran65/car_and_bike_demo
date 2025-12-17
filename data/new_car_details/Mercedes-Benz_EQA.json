@@ -1,0 +1,206 @@
+{
+  "basic_info": {
+    "name": "Mercedes-Benz EQA",
+    "manufacturer": "Mercedes-Benz",
+    "model": "EQA",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/mercedes-benz-cars/eqa",
+    "image_url": "https://images.carandbike.com/car-images/large/mercedes-benz/eqa/mercedes-benz-eqa.jpg?v=22",
+    "description": "Mercedes-Benz EQA is a 5-seater electric SUV available at a starting price of Rs. 67.2 Lakh. The electric car is available in 1 variants.Additionally, EQA offers a Boot capacity of 340 liters. You can choose from 7 colors for the EQA. The battery range/mileage of the EQA is 350 Km/Full Charge. ",
+    "model_date": "2024-07-08",
+    "sku": "mercedes-benz-eqa-1721",
+    "vin": "5NPEL4AB3BH001721",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "350 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1834 mm ",
+    "height": "1608 mm",
+    "weight": "2500/2500",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Spectral blue",
+    "Polar White",
+    "Mountain Grey",
+    "MANUFAKTUR patagonia red",
+    "Cosmos Black",
+    "Tenorite Grey",
+    "Mojave Silver"
+  ],
+  "price": {
+    "value": 6720000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mercedes-benz-cars/eqa"
+  },
+  "brand": {
+    "name": "Mercedes-Benz",
+    "image": "https://images.carandbike.com/car-images/big/mercedes-benz/mercedes-benz.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mercedes-Benz EQA",
+        "price": "67.2 Lakh",
+        "url": "/mercedes-benz-cars/eqa"
+      },
+      {
+        "name": "Mercedes-Benz EQB",
+        "price": "67.2 - 78.9 Lakh",
+        "url": "/mercedes-benz-cars/eqb"
+      },
+      {
+        "name": "Volvo EX40",
+        "price": "65.07 - 67.16 Lakh",
+        "url": "/volvo-cars/ex40"
+      },
+      {
+        "name": "Tesla Model Y",
+        "price": "69.47 - 78.75 Lakh",
+        "url": "/tesla-cars/model-y"
+      },
+      {
+        "name": "Volvo C40 Recharge",
+        "price": "73.02 Lakh",
+        "url": "/volvo-cars/c40-recharge"
+      },
+      {
+        "name": "BMW ix1 L",
+        "price": "57.88 Lakh",
+        "url": "/bmw-cars/ix1-l"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 67.2 Lakh",
+          "₹ 67.2 - 78.9 Lakh",
+          "₹ 65.07 - 67.16 Lakh",
+          "₹ 69.47 - 78.75 Lakh",
+          "₹ 73.02 Lakh",
+          "₹ 57.88 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "8.0",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "350 Km/Full Charge",
+          "423 Km/Full Charge",
+          "475 - 565 Km/Full Charge",
+          "500 - 622 Km/Full Charge",
+          "530 Km/Full Charge",
+          "440 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "2",
+          "2",
+          "2",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "EQA vs EQB",
+          "EQA vs EX40",
+          "EQA vs Model Y",
+          "EQA vs C40 Recharge",
+          "EQA vs ix1 L"
+        ]
+      }
+    ]
+  }
+}

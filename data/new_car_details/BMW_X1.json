@@ -1,0 +1,233 @@
+{
+  "basic_info": {
+    "name": "BMW X1",
+    "manufacturer": "BMW",
+    "model": "X1",
+    "body_type": null,
+    "url": "https://www.carandbike.com/bmw-cars/x1",
+    "image_url": "https://images.carandbike.com/car-images/large/bmw/x1/bmw-x1.jpg?v=29",
+    "description": "BMW X1 is a 5-seater  available at a starting price of Rs. 55.5 Lakh. The car is available in 3 variants, with 2 engine and 1 transmission option. Additionally, X1 offers a Ground Clearance measurement of 203 mm and a Boot capacity of 500 liters. You can choose from 4 colors for the X1. The mileage of the X1 varies from 16.4 - 20.4 KM/L depending on the model.",
+    "model_date": "2023-01-29",
+    "sku": "bmw-x1-1023",
+    "vin": "5NPEL4AB3BH001023",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1499,1995 cc",
+    "power": "134 bhp @ 4400–6500 rpm,148 bhp @ 3750–4000 rpm bhp",
+    "torque": "230 Nm @ 1500–4000 rpm,360 Nm @ 1500–2500 rpm Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "16 - 20 KM/L"
+  },
+  "dimensions": {
+    "width": "1845 mm ",
+    "height": "1642 mm",
+    "weight": "1430/1430",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Space Silver metallic",
+    "Phytonic Blue Metallic",
+    "Black Sapphire Metallic",
+    "Alpine White solid"
+  ],
+  "price": {
+    "value": "5549548",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/bmw-cars/x1"
+  },
+  "brand": {
+    "name": "BMW",
+    "image": "https://images.carandbike.com/car-images/big/bmw/bmw.png?v=1"
+  },
+  "rating": {
+    "value": "8.0",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Bold Styling With Muscular Design",
+    "Has A Spacious Cabin",
+    "Comes With A Host Smart Feature"
+  ],
+  "cons": [
+    "Interior Styling Not Very Impressive",
+    "Stiff Ride Quality",
+    "Doesn&rsquo;T Get Android Auto"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "16.4 KM/L",
+      "city_mileage": "14 KM/L",
+      "highway_mileage": "16.4 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "20.4 KM/L",
+      "city_mileage": "18 KM/L",
+      "highway_mileage": "20.4 KM/L"
+    }
+  ],
+  "verdict": "The new BMW X1 is a new generation model in true sense. Everything from design and dimensions to features and drivability has changed on the car and it does seem to justify its price tag looking at how the rivals are priced. It comes across as a worthy option in this competitive segment, one that has adapted well to today’s times.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "BMW X1",
+        "price": "48.86 - 66.14 Lakh",
+        "url": "/bmw-cars/x1"
+      },
+      {
+        "name": "Nissan X-Trail",
+        "price": "54.75 Lakh",
+        "url": "/nissan-cars/x-trail"
+      },
+      {
+        "name": "Audi Q3 Sportback",
+        "price": "53.55 - 53.86 Lakh",
+        "url": "/audi-cars/q3-sportback"
+      },
+      {
+        "name": "Mercedes-Benz GLA-Class",
+        "price": "51.5 - 56.5 Lakh",
+        "url": "/mercedes-benz-cars/gla-class"
+      },
+      {
+        "name": "Jeep Grand Cherokee",
+        "price": "63 Lakh",
+        "url": "/jeep-cars/grand-cherokee"
+      },
+      {
+        "name": "Jeep Wrangler Unlimited",
+        "price": "64.08 - 67.81 Lakh",
+        "url": "/jeep-cars/wrangler-unlimited"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 48.86 - 66.14 Lakh",
+          "₹ 54.75 Lakh",
+          "₹ 53.55 - 53.86 Lakh",
+          "₹ 51.5 - 56.5 Lakh",
+          "₹ 63 Lakh",
+          "₹ 64.08 - 67.81 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.0",
+          "-",
+          "7.4",
+          "8.6",
+          "8.1",
+          "7.0"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1499,1995 cc",
+          "1498 CC",
+          "1984 CC",
+          "1332 CC",
+          "1998 CC",
+          "1998 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "CVT",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "16 - 20 KM/L",
+          "13.7 KM/L",
+          "14.93 KM/L",
+          "13 - 17 KM/L",
+          "8.61 KM/L",
+          "12.01 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "51.0 L",
+          "55.0 L",
+          "62.4 L",
+          "50.0 L",
+          "93.5 L",
+          "87.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "3",
+          "1",
+          "2",
+          "3",
+          "1",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "X1 vs X-Trail",
+          "X1 vs Q3 Sportback",
+          "X1 vs GLA-Class",
+          "X1 vs Grand Cherokee",
+          "X1 vs Wrangler Unlimited"
+        ]
+      }
+    ]
+  }
+}

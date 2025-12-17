@@ -1,0 +1,198 @@
+{
+  "basic_info": {
+    "name": "Volvo C40 Recharge",
+    "manufacturer": "Volvo",
+    "model": "C40 Recharge",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/volvo-cars/c40-recharge",
+    "image_url": "https://images.carandbike.com/car-images/large/volvo/c40-recharge/volvo-c40-recharge.jpg?v=9",
+    "description": "Volvo C40 Recharge is a 5-seater electric SUV available at a starting price of Rs. 73.02 Lakh. The electric car is available in 1 variants.Additionally, C40 Recharge offers a Ground Clearance measurement of 171 mm and a Boot capacity of 413 liters. The battery range/mileage of the C40 Recharge is 530 Km/Full Charge. ",
+    "model_date": "2023-09-05",
+    "sku": "volvo-c40-recharge-1723",
+    "vin": "5NPEL4AB3BH001723",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "530 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1873 mm ",
+    "height": "1591 mm",
+    "weight": "2185/2185",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [],
+  "price": {
+    "value": 7302032,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/volvo-cars/c40-recharge"
+  },
+  "brand": {
+    "name": "Volvo",
+    "image": "https://images.carandbike.com/car-images/big/volvo/volvo.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Volvo C40 Recharge",
+        "price": "62.95 Lakh",
+        "url": "/volvo-cars/c40-recharge"
+      },
+      {
+        "name": "Kia EV6",
+        "price": "76.52 Lakh",
+        "url": "/kia-cars/ev6"
+      },
+      {
+        "name": "Tesla Model Y",
+        "price": "69.47 - 78.75 Lakh",
+        "url": "/tesla-cars/model-y"
+      },
+      {
+        "name": "BMW iX1",
+        "price": "77.6 Lakh",
+        "url": "/bmw-cars/ix1"
+      },
+      {
+        "name": "Mercedes-Benz EQB",
+        "price": "67.2 - 78.9 Lakh",
+        "url": "/mercedes-benz-cars/eqb"
+      },
+      {
+        "name": "Mercedes-Benz EQA",
+        "price": "67.2 Lakh",
+        "url": "/mercedes-benz-cars/eqa"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 62.95 Lakh",
+          "₹ 76.52 Lakh",
+          "₹ 69.47 - 78.75 Lakh",
+          "₹ 77.6 Lakh",
+          "₹ 67.2 - 78.9 Lakh",
+          "₹ 67.2 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "8.5",
+          "-",
+          "-",
+          "8.0",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "530 Km/Full Charge",
+          "663 Km/Full Charge",
+          "500 - 622 Km/Full Charge",
+          "440 Km/Full Charge",
+          "423 Km/Full Charge",
+          "350 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "1",
+          "2",
+          "1",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "C40 Recharge vs EV6",
+          "C40 Recharge vs Model Y",
+          "C40 Recharge vs iX1",
+          "C40 Recharge vs EQB",
+          "C40 Recharge vs EQA"
+        ]
+      }
+    ]
+  }
+}

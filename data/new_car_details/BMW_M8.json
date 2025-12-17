@@ -1,0 +1,229 @@
+{
+  "basic_info": {
+    "name": "BMW M8",
+    "manufacturer": "BMW",
+    "model": "M8",
+    "body_type": "Coupe",
+    "url": "https://www.carandbike.com/bmw-cars/m8",
+    "image_url": "https://images.carandbike.com/car-images/large/bmw/m8/bmw-m8.jpg?v=12",
+    "description": "BMW M8 is a 4-seater Coupe available at a starting price of Rs. 2.56 Crore. The car is available in 1 variants, with 1 engine and 1 transmission option. Additionally, M8 offers a Ground Clearance measurement of 128 mm and a Boot capacity of 420 liters. You can choose from 7 colors for the M8. The mileage of the M8 varies from 11.3 KM/L depending on the model.",
+    "model_date": "2020-05-08",
+    "sku": "bmw-m8-1629",
+    "vin": "5NPEL4AB3BH001629",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "4395 cc",
+    "power": "616 bhp",
+    "torque": "750 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "11 KM/L"
+  },
+  "dimensions": {
+    "width": "1907 mm ",
+    "height": "1362 mm",
+    "weight": "1960/1960",
+    "seating_capacity": "4",
+    "number_of_doors": "2"
+  },
+  "colors": [
+    "Donington Grey",
+    "Brands Hatch Grey",
+    "Black Sapphire",
+    "Barcelona Blue",
+    "Sonic Speed Blue",
+    "Motegi Red",
+    "Cape York Green metallic"
+  ],
+  "price": {
+    "value": 25637141,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/bmw-cars/m8"
+  },
+  "brand": {
+    "name": "BMW",
+    "image": "https://images.carandbike.com/car-images/big/bmw/bmw.png?v=1"
+  },
+  "rating": {
+    "value": "8.8",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Stunning Design And Road Presence",
+    "Sharp Handling And Driving Dynamics",
+    "Extremely Comfortable Over Long Journeys"
+  ],
+  "cons": [
+    "Slightly Stiff For Indian Roads",
+    "Poor Fuel Efficiency",
+    "Rear Seats Aren&rsquo;T Too Practical"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "11.3 KM/L",
+      "city_mileage": "7 KM/L",
+      "highway_mileage": "10 KM/L"
+    }
+  ],
+  "verdict": "The insanely fast and powerful M8 Coupe will set you back by ₹ 2.15 crores. The car is quick and absolutely entertaining. It is practical too and meant for both on and off the track usage, so yes, you can go to the nearest shopping mall in it, then drop your family home and head to the track where it will be happy to go sideways all day long. The M8 Coupe is sporty and there's absolutely no doubt in our mind that if you have the kind of money, there's no other car like the M8 in the market.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "BMW M8",
+        "price": "2.26 Crore",
+        "url": "/bmw-cars/m8"
+      },
+      {
+        "name": "Mercedes-Benz CLE Cabriolet",
+        "price": "1.17 Crore",
+        "url": "/mercedes-benz-cars/cle-cabriolet"
+      },
+      {
+        "name": "Mercedes-AMG GLC 43 Coupe",
+        "price": "1.17 Crore",
+        "url": "/mercedes-amg-cars/glc-43-coupe"
+      },
+      {
+        "name": "Aston Martin DB12",
+        "price": "4.34 Crore",
+        "url": "/aston-martin-cars/db12"
+      },
+      {
+        "name": "Mercedes-Maybach SL 680",
+        "price": "4.35 Crore",
+        "url": "/mercedes-maybach-cars/sl-680"
+      },
+      {
+        "name": "Tata Curvv",
+        "price": "9.66 - 18.54 Lakh",
+        "url": "/tata-cars/curvv"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 2.26 Crore",
+          "₹ 1.17 Crore",
+          "₹ 1.17 Crore",
+          "₹ 4.34 Crore",
+          "₹ 4.35 Crore",
+          "₹ 9.66 - 18.54 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.8",
+          "-",
+          "7.1",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "4395 cc",
+          "1999 CC",
+          "1996 CC",
+          "3982 CC",
+          "5980 CC",
+          "1199 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "11 KM/L",
+          "12 KM/L",
+          "13 KM/L",
+          "12.75 KM/L",
+          "7 KM/L",
+          "16 - 19 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol, Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "4 Seater",
+          "5 Seater",
+          "5 Seater",
+          "2 Seater",
+          "4 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "68.0 L",
+          "66.0 L",
+          "93.0 L",
+          "78.0 L",
+          "N/A",
+          "44.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "22"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "M8 vs CLE Cabriolet",
+          "M8 vs GLC 43 Coupe",
+          "M8 vs DB12",
+          "M8 vs SL 680",
+          "M8 vs Curvv"
+        ]
+      }
+    ]
+  }
+}

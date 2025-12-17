@@ -1,0 +1,225 @@
+{
+  "basic_info": {
+    "name": "Isuzu D-Max",
+    "manufacturer": "Isuzu",
+    "model": "D-Max",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/isuzu-cars/d-max",
+    "image_url": "https://images.carandbike.com/car-images/large/isuzu/d-max/isuzu-d-max.jpg?v=8",
+    "description": "Isuzu D-Max is a 2-seater SUV available at a starting price of Rs. 10.14 Lakh. The car is available in 6 variants, with 2 engine and 1 transmission option. Additionally, D-Max offers a Ground Clearance measurement of 220 mm. You can choose from 1 colors for the D-Max. The mileage of the D-Max varies from 14 KM/L depending on the model.",
+    "model_date": "2015-07-22",
+    "sku": "isuzu-d-max-1483",
+    "vin": "5NPEL4AB3BH001483",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1898,2499 cc",
+    "power": "161,78 bhp",
+    "torque": "176,360 Nm",
+    "fuel_type": "Diesel"
+  },
+  "transmission": "Manual",
+  "fuel": {
+    "type": "Diesel",
+    "efficiency": "14 KM/L"
+  },
+  "dimensions": {
+    "width": "1860 mm ",
+    "height": "1690 mm",
+    "weight": "1750/1750",
+    "seating_capacity": "2",
+    "number_of_doors": "2"
+  },
+  "colors": [
+    "Splash White"
+  ],
+  "price": {
+    "value": "1014050",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/isuzu-cars/d-max"
+  },
+  "brand": {
+    "name": "Isuzu",
+    "image": "https://images.carandbike.com/car-images/big/isuzu/isuzu.png?v=1"
+  },
+  "rating": {
+    "value": "7.5",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Tough and solid off-roading vehicle",
+    "Capable and powerful engine",
+    "Economical running costs"
+  ],
+  "cons": [
+    "Exterior design could have been better",
+    "Plain cabin",
+    "Lack of sophistication in driving manners"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Manual",
+      "mileage": "14 KM/L",
+      "city_mileage": "10 KM/L",
+      "highway_mileage": "13 KM/L"
+    }
+  ],
+  "expert_review": {
+    "design_styling": "The design and styling of the Hi-Lander echos that of the V-Cross though it misses out on lot of the latter’s more upmarket cosmetic elements. The front sports a large black grille with simple halogen headlights. The nose lacks any notable use of chrome. The side profile showcases 16-inch steel wheels with wheel covers and tall-profile tires, lacking any footstep or side cladding. The rear sports a spacious deck capable of accommodating loads of up to 225 kg. The Hi-Lander also misses out on bits such as foof rails, fog lamps, and body-colored door handles and mirror covers."
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Isuzu D-Max",
+        "price": "10.14 - 20.35 Lakh",
+        "url": "/isuzu-cars/d-max"
+      },
+      {
+        "name": "MG Hector",
+        "price": "14 - 21.52 Lakh",
+        "url": "/mg-cars/hector"
+      },
+      {
+        "name": "Mahindra Thar",
+        "price": "9.99 - 16.99 Lakh",
+        "url": "/mahindra-cars/thar"
+      },
+      {
+        "name": "Mahindra Bolero Camper",
+        "price": "9.96 - 12.51 Lakh",
+        "url": "/mahindra-cars/bolero-camper"
+      },
+      {
+        "name": "Mahindra Bolero Big Pik-Up",
+        "price": "9.87 - 10.17 Lakh",
+        "url": "/mahindra-cars/bolero-big-pik-up"
+      },
+      {
+        "name": "Mahindra Bolero Neo Plus",
+        "price": "10.77 - 11.8 Lakh",
+        "url": "/mahindra-cars/bolero-neo-plus"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 10.14 - 20.35 Lakh",
+          "₹ 14 - 21.52 Lakh",
+          "₹ 9.99 - 16.99 Lakh",
+          "₹ 9.96 - 12.51 Lakh",
+          "₹ 9.87 - 10.17 Lakh",
+          "₹ 10.77 - 11.8 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.5",
+          "7.5",
+          "7.4",
+          "-",
+          "7.5",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1898,2499 cc",
+          "1451 CC",
+          "1497 CC",
+          "2523 CC",
+          "2523 CC",
+          "2184 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "14 KM/L",
+          "13.96 - 17.4 KM/L",
+          "10.2 - 15.2 KM/L",
+          "13.86 KM/L",
+          "13 KM/L",
+          "14 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Diesel",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Diesel",
+          "Diesel",
+          "Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "2 Seater",
+          "5 Seater",
+          "4 Seater",
+          "5 Seater",
+          "2 Seater",
+          "9 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "55.0 L",
+          "60.0 L",
+          "57.0 L",
+          "57.0 L",
+          "60.0 L",
+          "60.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "6",
+          "20",
+          "7",
+          "3",
+          "3",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "D-Max vs Hector",
+          "D-Max vs Thar",
+          "D-Max vs Bolero Camper",
+          "D-Max vs Bolero Big Pik-Up",
+          "D-Max vs Bolero Neo Plus"
+        ]
+      }
+    ]
+  }
+}

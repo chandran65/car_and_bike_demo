@@ -1,0 +1,234 @@
+{
+  "basic_info": {
+    "name": "Tata Nexon",
+    "manufacturer": "Tata",
+    "model": "Nexon",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/tata-cars/nexon",
+    "image_url": "https://images.carandbike.com/car-images/large/tata/nexon/tata-nexon.jpg?v=74",
+    "description": "Tata Nexon is a 5-seater SUV available at a starting price of Rs. 7.32 Lakh. The car is available in 63 variants, with 3 engine and 4 transmission option. Additionally, Nexon offers a Ground Clearance measurement of 208 mm and a Boot capacity of 382 liters. You can choose from 7 colors for the Nexon. The mileage of the Nexon varies from 17.8 KM/L depending on the model.",
+    "model_date": "2023-09-14",
+    "sku": "tata-nexon-1430",
+    "vin": "5NPEL4AB3BH001430",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1199,1497 cc",
+    "power": "113,118,98.58 @5000 rpm bhp",
+    "torque": "170,170 Nm @2000-3000 rpm,260 Nm",
+    "fuel_type": "Diesel, Petrol, Petrol+CNG"
+  },
+  "transmission": "Manual, Automatic, AMT, DCT",
+  "fuel": {
+    "type": "Diesel, Petrol, Petrol+CNG",
+    "efficiency": "17 - 23 KM/L"
+  },
+  "dimensions": {
+    "width": "1804 mm ",
+    "height": "1804 mm",
+    "weight": "1255/1255",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Calgary White",
+    "Pristine White",
+    "Daytona Grey",
+    "Flame Red",
+    "Pure Grey",
+    "Creative Ocean",
+    "Fearless Purple"
+  ],
+  "price": {
+    "value": "731890",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/tata-cars/nexon"
+  },
+  "brand": {
+    "name": "Tata",
+    "image": "https://images.carandbike.com/car-images/big/tata/tata.png?v=1"
+  },
+  "rating": {
+    "value": "7.8",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "5-Star Gncap Rating",
+    "Good Performance",
+    "Spacious Cabin"
+  ],
+  "cons": [
+    "Less On Features",
+    "Amt Gearbox",
+    "Not Premium Enough"
+  ],
+  "whats_new": {
+    "New Variants Added": [
+      "Though Tata Motors has discontinued the Pure, Pure S, Creative Plus, and the Fearless trims, the brand has also added two new variants: Pure+ and Pure+ S. These new variants boast features such as a front centre armrest, auto-folding ORVMs, rear-view camera, height-adjustable driver seat, and a 10.25-inch touchscreen with wireless Android Auto and Apple CarPlay. On the other hand, the Pure+ S variant gets additional features like rain-sensing wipers, automatic headlamps, and a sunroof."
+    ],
+    "Creative Variants Refreshed": [
+      "On the other hand, the Nexon's new Creative +PS variant is offered in both petrol and diesel versions, and now comes equipped with a panoramic sunroof, front fog lamps, front parking sensors, TPMS, keyless entry, and a wireless charger. Additionally, bi-functional LED headlamps with ‘X-factor’ connected taillamps are offered starting from this variant. Alternatively, SUV's updated Creative variant now features a 360-degree camera but lacks dynamic turn signals and a six-speaker sound system. However, the Creative+ S variant comes with a sunroof, automatic headlamps, and rain-sensing wipers."
+    ],
+    "Top-spec Variants with New Features": [
+      "Moreover, the new top-spec Fearless+ PS variant features a panoramic sunroof. It also comes equipped with a 10.25-inch digital instrument cluster, sequential LED DRLs, ventilated front seats, nine-speaker JBL sound system, connected tech, and an air purifier."
+    ],
+    "Powertrains": [
+      "The Tata Nexon can be had in a 1.2-litre turbo-petrol or a 1.5-litre diesel engine. The transmission options include a five-speed manual, six-speed manual, and a seven-speed DCT. Regarding its CNG version, is the first turbo-charged SUV car in India that employs a 1.2-litre three-cylinder turbo petrol engine supported by the brand's dual-cylinder CNG technology. It comes mated to a six-speed manual transmission only."
+    ]
+  },
+  "verdict": "The new Nexon is a strong contender in the sub-four metre compact SUV segment. It outshines new crossovers in space, features, safety, performance, etc., with added premium features and cosmetic updates. Though its futuristic styling might polarise buyers, upgraded equipment, and interior quality make it a compelling choice.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Tata Nexon",
+        "price": "7.32 - 14.7 Lakh",
+        "url": "/tata-cars/nexon"
+      },
+      {
+        "name": "Kia Sonet",
+        "price": "7.3 - 14.09 Lakh",
+        "url": "/kia-cars/sonet"
+      },
+      {
+        "name": "Mahindra XUV 3XO",
+        "price": "7.28 - 14.4 Lakh",
+        "url": "/mahindra-cars/xuv-3xo"
+      },
+      {
+        "name": "Hyundai Venue",
+        "price": "7.9 - 15.69 Lakh",
+        "url": "/hyundai-cars/venue"
+      },
+      {
+        "name": "Citroen Aircross X",
+        "price": "8.29 - 13.69 Lakh",
+        "url": "/citroen-cars/aircross-x"
+      },
+      {
+        "name": "Citroen C3 Aircross",
+        "price": "8.32 - 14.1 Lakh",
+        "url": "/citroen-cars/c3-aircross"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 7.32 - 14.7 Lakh",
+          "₹ 7.3 - 14.09 Lakh",
+          "₹ 7.28 - 14.4 Lakh",
+          "₹ 7.9 - 15.69 Lakh",
+          "₹ 8.29 - 13.69 Lakh",
+          "₹ 8.32 - 14.1 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.8",
+          "8.4",
+          "7.5",
+          "8.3",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1199,1497 cc",
+          "1197 CC",
+          "1197 CC",
+          "1197 CC",
+          "1199 CC",
+          "1199 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic, AMT, DCT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "17 - 23 KM/L",
+          "18.4 - 24.1 KM/L",
+          "18.89 - 21.2 KM/L",
+          "18.34 - 21 KM/L",
+          "17.5 - 18.5 KM/L",
+          "17.6 - 18.5 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Diesel, Petrol, Petrol+CNG",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "44.0 L",
+          "45.0 L",
+          "42.0 L",
+          "45.0 L",
+          "45.0 L",
+          "45.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "63",
+          "24",
+          "29",
+          "25",
+          "7",
+          "17"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Nexon vs Sonet",
+          "Nexon vs XUV 3XO",
+          "Nexon vs Venue",
+          "Nexon vs Aircross X",
+          "Nexon vs C3 Aircross"
+        ]
+      }
+    ]
+  }
+}

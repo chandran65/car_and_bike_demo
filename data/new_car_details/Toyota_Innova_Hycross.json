@@ -1,0 +1,246 @@
+{
+  "basic_info": {
+    "name": "Toyota Innova Hycross",
+    "manufacturer": "Toyota",
+    "model": "Innova Hycross",
+    "body_type": "MUV",
+    "url": "https://www.carandbike.com/toyota-cars/innova-hycross",
+    "image_url": "https://images.carandbike.com/car-images/large/toyota/innova-hycross/toyota-innova-hycross.jpg?v=17",
+    "description": "Toyota Innova Hycross is a 7,8-seater MUV available at a starting price of Rs. 18.06 Lakh. The car is available in 25 variants, with 3 engine and 2 transmission option. Additionally, Innova Hycross offers a Ground Clearance measurement of 185 mm and a Boot capacity of 300 liters. You can choose from 7 colors for the Innova Hycross. The mileage of the Innova Hycross varies from 16.1 - 23.2 KM/L depending on the model.",
+    "model_date": "2022-12-28",
+    "sku": "toyota-innova-hycross-1693",
+    "vin": "5NPEL4AB3BH001693",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1987 cc",
+    "power": "171,184 bhp",
+    "torque": "188,205,209 Nm",
+    "fuel_type": "Petrol, Hybrid"
+  },
+  "transmission": "UnKnown, Automatic",
+  "fuel": {
+    "type": "Petrol, Hybrid",
+    "efficiency": "16 - 23 KM/L"
+  },
+  "dimensions": {
+    "width": "1845 mm ",
+    "height": "1785 mm",
+    "weight": "1850/1850",
+    "seating_capacity": "7,8",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Super White",
+    "Attitude Black Mica",
+    "Avant-Garde Bronze Metallic",
+    "Silver Metallic",
+    "Sparkling Black Pearl Crystal Shine",
+    "Platinum White Pearl",
+    "Blackish Ageha Glass Flake"
+  ],
+  "price": {
+    "value": 1805800,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/toyota-cars/innova-hycross"
+  },
+  "brand": {
+    "name": "Toyota",
+    "image": "https://images.carandbike.com/car-images/big/toyota/toyota.png?v=1"
+  },
+  "rating": {
+    "value": "8.7",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Practical",
+    "Fuel efficient",
+    "Feature-rich"
+  ],
+  "cons": [
+    "Slightly expensive",
+    "No Diesel option",
+    "Missing 2nd row ventilation"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "16.1 KM/L",
+      "city_mileage": "17 KM/L",
+      "highway_mileage": "19 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "UnKnown",
+      "mileage": "16.1 KM/L",
+      "city_mileage": "17 KM/L",
+      "highway_mileage": "19 KM/L"
+    },
+    {
+      "fuel_type": "Hybrid",
+      "transmission": "Automatic",
+      "mileage": "23.2 KM/L",
+      "city_mileage": "20 KM/L",
+      "highway_mileage": "23 KM/L"
+    }
+  ],
+  "expert_review": {
+    "design_styling": "When you lay eyes on the exterior of the Innova HyCross, you’ll witness a profound shift in design, pushing it into contemporary and chic terrains. It wouldn’t be surprising if it’s momentarily mistaken for a robust SUV, especially with its assertive front profile drawing cues from the latest Toyota Hilux pick-up. A hexagonal-shaped honeycomb mesh grille framed by generous chrome highlights dominates the front. LED DRLs and LED headlamps flank this centerpiece, all contained within sharply creased contours that add a dynamic edge. The ‘T’ logo confidently sits in the middle, flanked by chrome-finished ‘Innova’ lettering on the hood. The bumpers are no slouch either, robustly designed and integrated with more chrome to emphasize its SUV persona. The side profile holds true to its MPV heritage but adds a dash of flair with its new 18-inch alloy wheels and tapered rear end. The smaller windows and a sweeping roofline further accentuate its SUV characteristics. Toyota has also reduced the quarter glass for the third row, perhaps to match the vehicle’s now sportier aesthetic. But what truly sets it apart are the squarish and heavily flared wheel arches that give it a robust look while also freeing up interior space. With the ‘Hybrid’ label tastefully displayed, there is no mistaking this vehicle’s green credentials."
+  },
+  "verdict": "The Toyota Innova HyCross takes the Toyota Innova success story forward in a great way. It’s a feature loaded car that guarantees great comfort and its only got better with this new generation. Another highlight is the high fuel efficiency, courtesy the hybrid powertrain and the ride quality is as supple as It always was. Too bad that it feels a bit expensive and there’s no Diesel motor now.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Toyota Innova Hycross",
+        "price": "18.06 - 30.93 Lakh",
+        "url": "/toyota-cars/innova-hycross"
+      },
+      {
+        "name": "Toyota Innova Crysta",
+        "price": "18.1 - 25.37 Lakh",
+        "url": "/toyota-cars/innova-crysta"
+      },
+      {
+        "name": "Force Motors Trax Cruiser",
+        "price": "16.24 - 17.9 Lakh",
+        "url": "/force-motors-cars/trax-cruiser"
+      },
+      {
+        "name": "Hyundai Alcazar",
+        "price": "14.47 - 21.1 Lakh",
+        "url": "/hyundai-cars/alcazar"
+      },
+      {
+        "name": "Mahindra Marazzo",
+        "price": "14.06 - 16.38 Lakh",
+        "url": "/mahindra-cars/marazzo"
+      },
+      {
+        "name": "Maruti Suzuki XL6",
+        "price": "11.52 - 14.48 Lakh",
+        "url": "/maruti-suzuki-cars/xl6"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 18.06 - 30.93 Lakh",
+          "₹ 18.1 - 25.37 Lakh",
+          "₹ 16.24 - 17.9 Lakh",
+          "₹ 14.47 - 21.1 Lakh",
+          "₹ 14.06 - 16.38 Lakh",
+          "₹ 11.52 - 14.48 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.7",
+          "7.7",
+          "-",
+          "8.3",
+          "8.3",
+          "7.7"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1987 cc",
+          "2393 CC",
+          "2596 CC",
+          "1482 CC",
+          "1497 CC",
+          "1462 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "UnKnown, Automatic",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "16 - 23 KM/L",
+          "15.1 KM/L",
+          "14 KM/L",
+          "17.5 - 20.4 KM/L",
+          "17.6 KM/L",
+          "20.27 - 26 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Hybrid",
+          "Diesel",
+          "Diesel",
+          "Petrol, Diesel",
+          "Diesel",
+          "Petrol, CNG"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "7,8 Seater",
+          "7 Seater",
+          "10 Seater",
+          "7 Seater",
+          "8 Seater",
+          "6 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "52.0 L",
+          "55.0 L",
+          "63.5 L",
+          "50.0 L",
+          "45.0 L",
+          "45.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "25",
+          "22",
+          "4",
+          "23",
+          "6",
+          "9"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Innova Hycross vs Innova Crysta",
+          "Innova Hycross vs Trax Cruiser",
+          "Innova Hycross vs Alcazar",
+          "Innova Hycross vs Marazzo",
+          "Innova Hycross vs XL6"
+        ]
+      }
+    ]
+  }
+}

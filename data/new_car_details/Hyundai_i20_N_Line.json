@@ -1,0 +1,236 @@
+{
+  "basic_info": {
+    "name": "Hyundai i20 N Line",
+    "manufacturer": "Hyundai",
+    "model": "i20 N Line",
+    "body_type": "Hatchback",
+    "url": "https://www.carandbike.com/hyundai-cars/i20-n-line",
+    "image_url": "https://images.carandbike.com/car-images/large/hyundai/i20-n-line/hyundai-i20-n-line.jpg?v=23",
+    "description": "Hyundai i20 N Line is a 5-seater Hatchback available at a starting price of Rs. 9.14 Lakh. The car is available in 8 variants, with 1 engine and 2 transmission option. Additionally, i20 N Line offers a Ground Clearance measurement of 170 mm and a Boot capacity of 311 liters. You can choose from 4 colors for the i20 N Line. The mileage of the i20 N Line varies from 20.3 KM/L depending on the model.",
+    "model_date": "2021-09-02",
+    "sku": "hyundai-i20-n-line-1653",
+    "vin": "5NPEL4AB3BH001653",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "998 cc",
+    "power": "118 bhp",
+    "torque": "172 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Manual, Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "20 KM/L"
+  },
+  "dimensions": {
+    "width": "1775 mm ",
+    "height": "1505 mm",
+    "weight": "1110/1110",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Thunder Blue",
+    "Titan Grey",
+    "Pearl White",
+    "Blue Black Dual Tone"
+  ],
+  "price": {
+    "value": 914265,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/hyundai-cars/i20-n-line"
+  },
+  "brand": {
+    "name": "Hyundai",
+    "image": "https://images.carandbike.com/car-images/big/hyundai/hyundai.png?v=1"
+  },
+  "rating": {
+    "value": "7.9",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Looks Sporty",
+    "Potent Motor",
+    "Added Features"
+  ],
+  "cons": [
+    "Stiff Suspension",
+    "Expensive",
+    "Lacks Rear Passenger Space"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "20.3 KM/L",
+      "city_mileage": "11 KM/L",
+      "highway_mileage": "18 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "20.3 KM/L",
+      "city_mileage": "11 KM/L",
+      "highway_mileage": "18 KM/L"
+    }
+  ],
+  "expert_review": {
+    "design_styling": "The Hyundai i20 boasts a sleek and sporty design that sets it apart from the crowd. Its front fascia is adorned with a large hexagonal grille enhanced by chrome accents, paired with swept-back headlamps featuring LED daytime running lights (DRLs) and integrated DRLs within the fog lamps. The side profile showcases dynamic character lines, flared wheel arches, and stylish 15-inch alloy wheels. Moving to the rear, you'll find a wraparound LED tail lamp cluster, a roof spoiler, and an elegant chrome garnish on the boot lid. The i20 CVT is available in an array of six colors: Polar White, Typhoon Silver, Fiery Red, Starry Night, Metallic Copper, and Marina Blue."
+  },
+  "verdict": "The N Line is to Hyundai what AMG is to Mercedes or M Performance is to BMW. Well, sort of! And Hyundai recently launched its first ever 'N' model in India, the i20 N Line. If you have the budget and there's a hint of driving enthusiast in you, the i20 N Line promises to deliver a better, richer, more engaging driving experience. Good performance, a throatier exhaust note and exclusivity are guaranteed. Else, the standard i20 does the job equally well.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Hyundai i20 N Line",
+        "price": "9.14 - 11.6 Lakh",
+        "url": "/hyundai-cars/i20-n-line"
+      },
+      {
+        "name": "Tata Altroz",
+        "price": "6.91 - 11.81 Lakh",
+        "url": "/tata-cars/altroz"
+      },
+      {
+        "name": "Toyota Glanza",
+        "price": "6.39 - 9.15 Lakh",
+        "url": "/toyota-cars/glanza"
+      },
+      {
+        "name": "Maruti Suzuki Baleno",
+        "price": "5.99 - 9.1 Lakh",
+        "url": "/maruti-suzuki-cars/baleno"
+      },
+      {
+        "name": "MINI Cooper S 2024",
+        "price": "49.68 - 61.85 Lakh",
+        "url": "/mini-cars/cooper-s-2024"
+      },
+      {
+        "name": "Volkswagen Golf GTI",
+        "price": "50.91 Lakh",
+        "url": "/volkswagen-cars/golf-gti"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 9.14 - 11.6 Lakh",
+          "₹ 6.91 - 11.81 Lakh",
+          "₹ 6.39 - 9.15 Lakh",
+          "₹ 5.99 - 9.1 Lakh",
+          "₹ 49.68 - 61.85 Lakh",
+          "₹ 50.91 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.9",
+          "8.8",
+          "7.7",
+          "8.2",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "998 cc",
+          "1199 CC",
+          "1197 CC",
+          "1197 CC",
+          "1998 CC",
+          "1984 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Automatic",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "20 KM/L",
+          "19 - 25.11 KM/L",
+          "22.35 - 22.94 KM/L",
+          "22.35 - 22.94 KM/L",
+          "17.33 KM/L",
+          "16.34 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Diesel, Petrol, CNG",
+          "Petrol, CNG",
+          "Petrol, CNG",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "37.0 L",
+          "37.0 L",
+          "37.0 L",
+          "37.0 L",
+          "61.0 L",
+          "45.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "8",
+          "10",
+          "9",
+          "9",
+          "4",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "i20 N Line vs Altroz",
+          "i20 N Line vs Glanza",
+          "i20 N Line vs Baleno",
+          "i20 N Line vs Cooper S 2024",
+          "i20 N Line vs Golf GTI"
+        ]
+      }
+    ]
+  }
+}

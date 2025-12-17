@@ -1,0 +1,235 @@
+{
+  "basic_info": {
+    "name": "BMW X3",
+    "manufacturer": "BMW",
+    "model": "X3",
+    "body_type": null,
+    "url": "https://www.carandbike.com/bmw-cars/x3",
+    "image_url": "https://images.carandbike.com/car-images/large/bmw/x3/bmw-x3.jpg?v=27",
+    "description": "BMW X3 is a 5-seater  available at a starting price of Rs. 75.55 Lakh. The car is available in 2 variants, with 2 engine and 1 transmission option. Additionally, X3 offers a Ground Clearance measurement of 211 mm and a Boot capacity of 550 liters. You can choose from 6 colors for the X3. The mileage of the X3 varies from 13.2 - 18.6 KM/L depending on the model.",
+    "model_date": "2022-01-20",
+    "sku": "bmw-x3-1024",
+    "vin": "5NPEL4AB3BH001024",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1995,1998 cc",
+    "power": "188,249 bhp",
+    "torque": "350,400 Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "13 - 18 KM/L"
+  },
+  "dimensions": {
+    "width": "2089 mm ",
+    "height": "1678 mm",
+    "weight": "1790/1790",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Phytonic Blue (metallic)",
+    "Sophisto Grey Brilliant Effect (metallic)",
+    "Brooklyn Grey (metallic)",
+    "Carbon Black (metallic )",
+    "Black Sapphire (metallic)",
+    "Mineral White (metallic)"
+  ],
+  "price": {
+    "value": 7554951,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/bmw-cars/x3"
+  },
+  "brand": {
+    "name": "BMW",
+    "image": "https://images.carandbike.com/car-images/big/bmw/bmw.png?v=1"
+  },
+  "rating": {
+    "value": "7.5",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Impressive Design And Styling",
+    "Comes In Exclusive Brooklyn Grey Metallic Colour",
+    "Offered In Both Petrol And Diesel Options"
+  ],
+  "cons": [
+    "Doesn&rsquo;T Get Ventilated Seats",
+    "Doesn&rsquo;T Get Wireless Charger",
+    "Stiff Ride Quality"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "13.2 KM/L",
+      "city_mileage": "12 KM/L",
+      "highway_mileage": "14 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "18.6 KM/L",
+      "city_mileage": "19 KM/L",
+      "highway_mileage": "22 KM/L"
+    }
+  ],
+  "verdict": "The BMW X3 stands shoulder-to-shoulder with its competitors, excelling in performance and offering competitive pricing. In certain aspects, it surpasses its rivals, notably being one of the few, alongside the GLC, to provide a diesel variant. For those in the market for a petrol SUV within the Rs. 60 to Rs. 70 lakh range, the X3 is a compelling choice. It boasts a chic design, an impressive array of features and technology, and delivers robust performance and handling. It's undoubtedly a contender worth considering.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "BMW X3",
+        "price": "66.45 - 68.23 Lakh",
+        "url": "/bmw-cars/x3"
+      },
+      {
+        "name": "Volvo XC60",
+        "price": "76.29 Lakh",
+        "url": "/volvo-cars/xc60"
+      },
+      {
+        "name": "Land Rover Discovery Sport",
+        "price": "72.05 - 73.63 Lakh",
+        "url": "/land-rover-cars/discovery-sport"
+      },
+      {
+        "name": "Mercedes-Benz GLC",
+        "price": "79.25 Lakh",
+        "url": "/mercedes-benz-cars/glc"
+      },
+      {
+        "name": "Lexus NX",
+        "price": "66.59 - 73.4 Lakh",
+        "url": "/lexus-cars/nx"
+      },
+      {
+        "name": "Audi Q5",
+        "price": "64.74 - 69.86 Lakh",
+        "url": "/audi-cars/q5"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 66.45 - 68.23 Lakh",
+          "₹ 76.29 Lakh",
+          "₹ 72.05 - 73.63 Lakh",
+          "₹ 79.25 Lakh",
+          "₹ 66.59 - 73.4 Lakh",
+          "₹ 64.74 - 69.86 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.5",
+          "7.0",
+          "7.3",
+          "8.3",
+          "7.1",
+          "7.5"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1995,1998 cc",
+          "1969 CC",
+          "1997 CC",
+          "1993 CC",
+          "2487 CC",
+          "1984 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "13 - 18 KM/L",
+          "13 KM/L",
+          "10.68 - 14.12 KM/L",
+          "15 - 20 KM/L",
+          "18.3 KM/L",
+          "13.47 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Hybrid",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "60.0, 67.0 L",
+          "71.0 L",
+          "70.0 L",
+          "62.0 L",
+          "56.0 L",
+          "70.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "1",
+          "2",
+          "2",
+          "4",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "X3 vs XC60",
+          "X3 vs Discovery Sport",
+          "X3 vs GLC",
+          "X3 vs NX",
+          "X3 vs Q5"
+        ]
+      }
+    ]
+  }
+}

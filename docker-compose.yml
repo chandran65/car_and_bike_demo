@@ -1,0 +1,29 @@
+version: '3.8'
+
+services:
+  mahindra-bot-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: mahindra-bot-streamlit
+    ports:
+      - "8501:8501"
+    # Load environment variables from .env file if present
+    environment:
+      # Override or add additional environment variables here if needed
+      - OPENAI_API_KEY=${OPENAI_API_KEY:-}
+      - SLACK_WEBHOOK_URL=${SLACK_WEBHOOK_URL:-}
+      - DEBUG=${DEBUG:-false}
+      - LANGFUSE_SECRET_KEY=${LANGFUSE_SECRET_KEY:-}
+      - LANGFUSE_PUBLIC_KEY=${LANGFUSE_PUBLIC_KEY:-}
+      - LANGFUSE_BASE_URL=${LANGFUSE_BASE_URL:-https://cloud.langfuse.com}
+      - APP_PASSWORD=${APP_PASSWORD:-}
+      - INTERNAL_SECRET_OTP=${INTERNAL_SECRET_OTP:-}
+
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://localhost:8501/_stcore/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s

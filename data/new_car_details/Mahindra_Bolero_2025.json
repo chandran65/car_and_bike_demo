@@ -1,0 +1,256 @@
+{
+  "basic_info": {
+    "name": "Mahindra Bolero 2025",
+    "manufacturer": "Mahindra",
+    "model": "2025 Bolero",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/mahindra-cars/bolero",
+    "image_url": "https://images.carandbike.com/car-images/large/mahindra/bolero/mahindra-bolero.jpg?v=38",
+    "description": "Mahindra Bolero 2025 is a 7-seater SUV available at a starting price of Rs. 7.99 Lakh. The car is available in 4 variants, with 1 engine and 1 transmission option. Additionally, 2025 Bolero offers a Ground Clearance measurement of 183 mm and a Boot capacity of 384 liters. You can choose from 4 colors for the 2025 Bolero. The mileage of the 2025 Bolero varies from 16 KM/L depending on the model.",
+    "model_date": "2025-10-06",
+    "sku": "mahindra-bolero-2025-1119",
+    "vin": "5NPEL4AB3BH001119",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1493 cc",
+    "power": "75 bhp @ 3600 rpm bhp",
+    "torque": "210 Nm @ 1600–2200 rpm Nm",
+    "fuel_type": "Diesel"
+  },
+  "transmission": "Manual",
+  "fuel": {
+    "type": "Diesel",
+    "efficiency": "16 KM/L"
+  },
+  "dimensions": {
+    "width": "1745 mm ",
+    "height": "1880 mm",
+    "weight": "1620/1620",
+    "seating_capacity": "7",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Rocky Beige",
+    "Dsat Silver",
+    "Diamond White",
+    "Stealth Black"
+  ],
+  "price": {
+    "value": 799000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mahindra-cars/bolero"
+  },
+  "brand": {
+    "name": "Mahindra",
+    "image": "https://images.carandbike.com/car-images/big/mahindra/mahindra.png?v=1"
+  },
+  "rating": {
+    "value": "5.0",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Strong Built",
+    "Powerful Engine",
+    "Rugged Appeal"
+  ],
+  "cons": [
+    "Lacks Fit &amp; Finish",
+    "Outdated Interior",
+    "Bouncy Ride At High Speeds"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Manual",
+      "mileage": "16 KM/L",
+      "city_mileage": "14.5 KM/L",
+      "highway_mileage": "18.5 KM/L"
+    }
+  ],
+  "whats_new": {
+    "Introduction": [
+      "Mahindra rolled out the 2025 Bolero in India in October, priced starting at Rs. 7.99 lakh (ex-showroom).",
+      "It blends in subtle updates for a modern appeal, while retaining its signature ruggedness and tough heritage.",
+      "The carmaker is offering the 2025 Bolero in B4, B6, B6 (O), and B8 variants.",
+      "This refreshed SUV boasts cosmetic tweaks, new features, and a top-spec variant.",
+      "The updates are aimed to keep the Bolero relevant, retaining its no-frills and robust persona loved by many."
+    ],
+    "Exterior": [
+      "The 2025 Bolero now gets a revised front grille featuring vertical chrome slats.",
+      "It boasts reprofiled bumpers with integrated fog lamps.",
+      "The rear section remains identical to the predecessor with no major changes as such.",
+      "However, the SUV rides on new 15-inch dual-tone alloy wheels.",
+      "The carmaker has expanded the colour palette with a new Stealth Black shade, apart from the existing three colour options.",
+      "Interior",
+      "The cabin of the Bolero is revamped though the overall layout and seating remain the same.",
+      "Most prominent changes include a touchscreen infotainment system and steering-mounted controls.",
+      "There's a new top-spec B8 variant bringing in several comfort and convenience upgrades.",
+      "Some highlights include a new leatherette seat upholstery, Type-C charging ports, and bottle holders on door pads."
+    ],
+    "Powertrain": [
+      "The Bolero continues to retain its tried-and-tested 1.5-litre mHawk75 diesel engine that produces 75bhp and 210Nm torque.",
+      "This mill sends power to the rear wheels through a five-speed manual gearbox.",
+      "Mahindra has introduced what it calls 'RideFlo' suspension technology.",
+      "This tech is basically a new damper setup aimed at improving ride comfort and overall handling."
+    ]
+  },
+  "expert_review": {
+    "design_styling": "Mahindra Bolero’s design is one that has withstood the test of time. Even despite evolving over the years, it continues to boast a commanding presence. The Bolero’s design is a harmonious blend of the traditionalSUV caraesthetics with a hint of modernity. The fascia is dominated by a sturdy multi-slat grille, further accentuated by a rugged metal bumper. Large, sweeping halogen headlamps not only ensure clear night-time visibility but also add to its imposing presence. At the rear, the tailgate-mounted spare wheel acts as both a functional and design element, underscoring its tough-as-nails attitude."
+  },
+  "verdict": "The Bolero is a robust and dependable choice for people who value durability and straightforward maintenance more than contemporary amenities and comfort. The SUVs strengths lie in handling rugged terrains and rural driving conditions, hence preferred in Tier II & III markets. However, an outdated interior, sub-standard quality, and lack of finesse make it less appealing to buyers in urban developments.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mahindra 2025 Bolero",
+        "price": "7.99 - 9.69 Lakh",
+        "url": "/mahindra-cars/bolero"
+      },
+      {
+        "name": "Maruti Suzuki Ertiga",
+        "price": "9.65 - 14.71 Lakh",
+        "url": "/maruti-suzuki-cars/ertiga"
+      },
+      {
+        "name": "Renault Triber",
+        "price": "6.14 - 9.42 Lakh",
+        "url": "/renault-cars/triber"
+      },
+      {
+        "name": "Isuzu D-Max",
+        "price": "10.14 - 20.35 Lakh",
+        "url": "/isuzu-cars/d-max"
+      },
+      {
+        "name": "Tata Safari",
+        "price": "14.66 - 25.96 Lakh",
+        "url": "/tata-cars/safari"
+      },
+      {
+        "name": "Force Motors Gurkha",
+        "price": "19.46 - 20.92 Lakh",
+        "url": "/force-motors-cars/gurkha"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 7.99 - 9.69 Lakh",
+          "₹ 9.65 - 14.71 Lakh",
+          "₹ 6.14 - 9.42 Lakh",
+          "₹ 10.14 - 20.35 Lakh",
+          "₹ 14.66 - 25.96 Lakh",
+          "₹ 19.46 - 20.92 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "5.0",
+          "7.3",
+          "8.4",
+          "7.5",
+          "5.5",
+          "6.1"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1493 cc",
+          "1462 CC",
+          "999 CC",
+          "2499 CC",
+          "1956 CC",
+          "2596 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "16 KM/L",
+          "19.01 - 26.2 KM/L",
+          "19 - 20 KM/L",
+          "14 KM/L",
+          "16.14 KM/L",
+          "15 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Diesel",
+          "Petrol, CNG",
+          "Petrol",
+          "Diesel",
+          "Diesel",
+          "Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "7 Seater",
+          "7 Seater",
+          "5 Seater",
+          "2 Seater",
+          "7 Seater",
+          "4 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "60.0 L",
+          "45.0 L",
+          "40.0 L",
+          "55.0 L",
+          "50.0 L",
+          "63.5 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "4",
+          "11",
+          "7",
+          "6",
+          "24",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Bolero vs Ertiga",
+          "Bolero vs Triber",
+          "Bolero vs D-Max",
+          "Bolero vs Safari",
+          "Bolero vs Gurkha"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "basic_info": {
+    "name": "Bajaj Qute",
+    "manufacturer": "Bajaj",
+    "model": "Qute",
+    "body_type": "Quadricycle",
+    "url": "https://www.carandbike.com/bajaj-cars/qute",
+    "image_url": "https://images.carandbike.com/car-images/large/bajaj/qute/bajaj-qute.jpg?v=14",
+    "description": "Bajaj Qute is a 4-seater Quadricycle available at a starting price of Rs. 2.82 Lakh. The car is available in 2 variants, with 1 engine and 1 transmission option. Additionally, Qute offers a Ground Clearance measurement of 180 mm and a Boot capacity of 20 liters. You can choose from 4 colors for the Qute. The mileage of the Qute varies from 37 - 43 KM/L depending on the model.",
+    "model_date": "2018-12-18",
+    "sku": "bajaj-qute-1546",
+    "vin": "5NPEL4AB3BH001546",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "217 cc",
+    "power": "11,13 bhp",
+    "torque": "16,19 Nm",
+    "fuel_type": "Petrol, Petrol+CNG"
+  },
+  "transmission": "Manual",
+  "fuel": {
+    "type": "Petrol, Petrol+CNG",
+    "efficiency": "37 - 43 KM/L"
+  },
+  "dimensions": {
+    "width": "1312 mm ",
+    "height": "1652 mm",
+    "weight": "451/451",
+    "seating_capacity": "4",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "Yellow",
+    "Green",
+    "Blue",
+    "Red"
+  ],
+  "price": {
+    "value": 281576,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/bajaj-cars/qute"
+  },
+  "brand": {
+    "name": "Bajaj",
+    "image": "https://images.carandbike.com/car-images/big/bajaj/bajaj.png?v=1"
+  },
+  "rating": {
+    "value": "2.8",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "The quadracycle is compact in promportion",
+    "It can seat 3 people at the back",
+    "The engine is a small capacity unit and frugal"
+  ],
+  "cons": [
+    "Big compromise on safety features",
+    "Not much space for luggage",
+    "Cabini is crammed and without any features"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "37 KM/L",
+      "city_mileage": "35 KM/L",
+      "highway_mileage": "40 KM/L"
+    },
+    {
+      "fuel_type": "Petrol+CNG",
+      "transmission": "Manual",
+      "mileage": "43 KM/L",
+      "city_mileage": "35 KM/L",
+      "highway_mileage": "40 KM/L"
+    }
+  ],
+  "verdict": "Although it does not come with high-end features, there's no denying that the car is comfortable and affordable. With the model, there might not be some extras. But there are the must-haves that are required for a safe journey. The (ex-showroom) prices of Bajaj Qute ranges from ₹ 2.64 lakh (Petrol version) to ₹ 2.84 lakh (CNG version). Overall, it can be stated that this car is definitely a good value for money!",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Bajaj Qute",
+        "price": "2.41 - 2.6 Lakh",
+        "url": "/bajaj-cars/qute"
+      },
+      {
+        "name": "Maruti Suzuki S-Presso",
+        "price": "3.5 - 5.25 Lakh",
+        "url": "/maruti-suzuki-cars/s-presso"
+      },
+      {
+        "name": "Renault Kwid",
+        "price": "4.29 - 5.9 Lakh",
+        "url": "/renault-cars/kwid"
+      },
+      {
+        "name": "Maruti Suzuki Alto K10",
+        "price": "3.7 - 4 Lakh",
+        "url": "/maruti-suzuki-cars/alto-k10"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 2.41 - 2.6 Lakh",
+          "₹ 3.5 - 5.25 Lakh",
+          "₹ 4.29 - 5.9 Lakh",
+          "₹ 3.7 - 4 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "2.8",
+          "7.5",
+          "8.0",
+          "8.2"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "217 cc",
+          "998 CC",
+          "999 CC",
+          "998 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "37 - 43 KM/L",
+          "24.76 - 32.73 KM/L",
+          "22 - 23 KM/L",
+          "27 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Petrol+CNG",
+          "Petrol, CNG",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "4 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "8.0 L",
+          "27.0 L",
+          "28.0 L",
+          "24.4 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "8",
+          "12",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Qute vs S-Presso",
+          "Qute vs Kwid",
+          "Qute vs Alto K10"
+        ]
+      }
+    ]
+  }
+}

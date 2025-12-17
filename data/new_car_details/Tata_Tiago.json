@@ -1,0 +1,276 @@
+{
+  "basic_info": {
+    "name": "Tata Tiago",
+    "manufacturer": "Tata",
+    "model": "Tiago",
+    "body_type": "Hatchback",
+    "url": "https://www.carandbike.com/tata-cars/tiago",
+    "image_url": "https://images.carandbike.com/car-images/large/tata/tiago/tata-tiago.jpg?v=76",
+    "description": "Tata Tiago is a 5-seater Hatchback available at a starting price of Rs. 4.57 Lakh. The car is available in 13 variants, with 2 engine and 2 transmission option. Additionally, Tiago offers a Ground Clearance measurement of 170 mm and a Boot capacity of 242 liters. You can choose from 6 colors for the Tiago. The mileage of the Tiago varies from 20 - 24 KM/L depending on the model.",
+    "model_date": "2025-01-09",
+    "sku": "tata-tiago-1414",
+    "vin": "5NPEL4AB3BH001414",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1199 cc",
+    "power": "85,86 bhp",
+    "torque": "113 Nm",
+    "fuel_type": "Petrol, Petrol+CNG"
+  },
+  "transmission": "Manual, AMT",
+  "fuel": {
+    "type": "Petrol, Petrol+CNG",
+    "efficiency": "20 - 24 KM/L"
+  },
+  "dimensions": {
+    "width": "1677 mm ",
+    "height": "1535 mm",
+    "weight": "935/935",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Ocean Blue",
+    "Supernova Copper",
+    "Daytona Grey",
+    "Pristine White",
+    "Tornado Blue",
+    "Arizone Blue"
+  ],
+  "price": {
+    "value": 457490,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/tata-cars/tiago"
+  },
+  "brand": {
+    "name": "Tata",
+    "image": "https://images.carandbike.com/car-images/big/tata/tata.png?v=1"
+  },
+  "rating": {
+    "value": "8.2",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "4-Star Gncap Rating",
+    "Compact",
+    "Spacious&nbsp;Cabin"
+  ],
+  "cons": [
+    "Less On Features",
+    "No Turbo Petrol Engine",
+    "Not Premium Enough"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "20 KM/L",
+      "city_mileage": "19 KM/L",
+      "highway_mileage": "23 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "AMT",
+      "mileage": "20 KM/L",
+      "city_mileage": "19 KM/L",
+      "highway_mileage": "23 KM/L"
+    },
+    {
+      "fuel_type": "Petrol+CNG",
+      "transmission": "Manual",
+      "mileage": "24 KM/L",
+      "city_mileage": "22 KM/L",
+      "highway_mileage": "26 KM/L"
+    },
+    {
+      "fuel_type": "Petrol+CNG",
+      "transmission": "AMT",
+      "mileage": "24 KM/L",
+      "city_mileage": "22 KM/L",
+      "highway_mileage": "26 KM/L"
+    }
+  ],
+  "whats_new": {
+    "Introduction": [
+      "Tata Motors launched the refreshed edition of the Tiago in 2025 along with the Tiago.ev and the Tigor.",
+      "Along with new looks and features, the hatchback gets several updates.",
+      "While these upgrades keep the car relevant amidst the competition, the positives of the entry-level model continue to be offered."
+    ],
+    "Exterior": [
+      "Up front now is a refreshed fascia that includes a revised grille and LED headlamps.",
+      "The Tiago also gets chrome inserts on the air dam to add to the bling.",
+      "With the 2025 model, the car started to get circular fog lamps with LED DRLs.",
+      "Look closely and you'll notice that the hatchback also gets a new shark fin antenna.",
+      "Small changes but these minimal updates make it look neater and more modern.",
+      "That said, the Tiago continues to ride on the same 15-inch dual-tone alloy wheels as its predecessor."
+    ],
+    "Interior": [
+      "Inside, the 2025 Tiago edition boasts a new steering wheel and an advanced instrument cluster.",
+      "Then, there's a 10.25-inch touchscreen infotainment system with wireless Android Auto and Apple CarPlay.",
+      "It now also gets USB Type-C charging ports, TPMS, and cruise control."
+    ],
+    "Powertrain": [
+      "The newly launched Tiago remains mechanically identical to the outgoing version.",
+      "This ICE version is powered by the same 1.2-litre three-cylinder petrol engine.",
+      "This powerplant comes mated to either a five-speed manual or an AMT.",
+      "Notably, customers can opt for a CNG option as well.",
+      "However, the CNG variant is only offered with a manual gearbox."
+    ]
+  },
+  "verdict": "The TATA Tiago is a great product for the price point. The only real improvement in the car and in the Tiago in general would be the addition of the touchscreen infotainment unit that does duty in the Tigor. Priced at Rs 5.35 lakh, ex-showroom, it makes sense for a wide range of customers who are looking for something that makes a great all round package. The Tiago is spacious, performs well and is built well to. It is most certainly a car we would recommend, especially if you are a first time car buyer or a first time automatic car buyer.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Tata Tiago",
+        "price": "4.57 - 7.82 Lakh",
+        "url": "/tata-cars/tiago"
+      },
+      {
+        "name": "Renault Kwid",
+        "price": "4.29 - 5.9 Lakh",
+        "url": "/renault-cars/kwid"
+      },
+      {
+        "name": "Hyundai Grand i10 Nios",
+        "price": "5.47 - 7.92 Lakh",
+        "url": "/hyundai-cars/grand-i10-nios"
+      },
+      {
+        "name": "Maruti Suzuki Celerio",
+        "price": "4.7 - 6.73 Lakh",
+        "url": "/maruti-suzuki-cars/celerio"
+      },
+      {
+        "name": "Citroen C3",
+        "price": "4.8 - 9.05 Lakh",
+        "url": "/citroen-cars/c3"
+      },
+      {
+        "name": "Maruti Suzuki Wagon R",
+        "price": "5.16 - 7.94 Lakh",
+        "url": "/maruti-suzuki-cars/wagon-r"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 4.57 - 7.82 Lakh",
+          "₹ 4.29 - 5.9 Lakh",
+          "₹ 5.47 - 7.92 Lakh",
+          "₹ 4.7 - 6.73 Lakh",
+          "₹ 4.8 - 9.05 Lakh",
+          "₹ 5.16 - 7.94 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.2",
+          "8.0",
+          "8.5",
+          "6.5",
+          "8.4",
+          "6.1"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1199 cc",
+          "999 CC",
+          "1197 CC",
+          "998 CC",
+          "1198 CC",
+          "998 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, AMT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "20 - 24 KM/L",
+          "22 - 23 KM/L",
+          "20.2 - 20.7 KM/L",
+          "24.97 - 26.68 KM/L",
+          "19.4 - 19.8 KM/L",
+          "21.5 - 33.4 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Petrol+CNG",
+          "Petrol",
+          "Petrol, CNG",
+          "Petrol, CNG",
+          "Petrol",
+          "Petrol, CNG"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "35.0, 60.0 L",
+          "28.0 L",
+          "37.0 L",
+          "32.0 L",
+          "30.0 L",
+          "32.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "13",
+          "12",
+          "16",
+          "8",
+          "6",
+          "11"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Tiago vs Kwid",
+          "Tiago vs Grand i10 Nios",
+          "Tiago vs Celerio",
+          "Tiago vs C3",
+          "Tiago vs Wagon R"
+        ]
+      }
+    ]
+  }
+}

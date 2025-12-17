@@ -1,0 +1,281 @@
+{
+  "basic_info": {
+    "name": "MG Hector",
+    "manufacturer": "MG",
+    "model": "Hector",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/mg-cars/hector",
+    "image_url": "https://images.carandbike.com/car-images/large/mg/hector/mg-hector.jpg?v=50",
+    "description": "MG Hector is a 5-seater SUV available at a starting price of Rs. 14 Lakh. The car is available in 20 variants, with 3 engine and 3 transmission option. Additionally, Hector offers a Ground Clearance measurement of 2750 mm and a Boot capacity of 587 liters. You can choose from 7 colors for the Hector. The mileage of the Hector varies from 14.2 - 17.4 KM/L depending on the model.",
+    "model_date": "2023-01-11",
+    "sku": "mg-hector-1541",
+    "vin": "5NPEL4AB3BH001541",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1451,1956 cc",
+    "power": "141,168,170 bhp",
+    "torque": "250,350 Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Manual, Automatic, CVT",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "13 - 17 KM/L"
+  },
+  "dimensions": {
+    "width": "1835 mm ",
+    "height": "1760 mm",
+    "weight": "1540/1540",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Dune Brown",
+    "Havana Grey",
+    "Starry Black",
+    "Aurora Silver",
+    "Glaze Red",
+    "Candy White / Starry Black",
+    "Candy White"
+  ],
+  "price": {
+    "value": "1400000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mg-cars/hector"
+  },
+  "brand": {
+    "name": "MG",
+    "image": "https://images.carandbike.com/car-images/big/mg/mg.png?v=1"
+  },
+  "rating": {
+    "value": "7.5",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Bold looks",
+    "ADAS features",
+    "Smart tech"
+  ],
+  "cons": [
+    "Excessive use fo chrome",
+    "Expensive",
+    "Overdone styling"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "14.2 KM/L",
+      "city_mileage": "11 KM/L",
+      "highway_mileage": "14 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "14.2 KM/L",
+      "city_mileage": "11 KM/L",
+      "highway_mileage": "14 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "CVT",
+      "mileage": "14 KM/L",
+      "city_mileage": "11 KM/L",
+      "highway_mileage": "14 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Manual",
+      "mileage": "17.4 KM/L",
+      "city_mileage": "17 KM/L",
+      "highway_mileage": "19 KM/L"
+    }
+  ],
+  "whats_new": {
+    "Introduction": [
+      "The Hector is a comfortable five-seater SUV with plenty of legroom, headroom, and a big boot.",
+      "For minimalism, it boasts a huge touchscreen infotainment system, in fact, the biggest in its segment.",
+      "It came in as a mid-size SUV in petrol and diesel engine options.",
+      "It continues to get safety features like a 360-degree camera, ABS, stability control, and more."
+    ],
+    "MG Hector – Exterior": [
+      "The Hector’s fascia features a large and shiny diamond-pattern grille and chrome accents flanked by slim projector headlights with DRLs.",
+      "It rides on 18-inch dual-tone machined alloy wheels shod with radial tubeless tyres.",
+      "Moreover, the SUV sports a body cladding around the sides and wheel arches to protect it from scratches.",
+      "The roof looks like it floats above the body, giving a sleek side profile.",
+      "Blade-style LED taillights connect with a light bar and include sequential turn indicators as well."
+    ],
+    "MG Hector – Interior": [
+      "The MG Hector features a huge 14-inch HD portrait infotainment screen, which runs wireless Android Auto, Apple CarPlay, and more.",
+      "Then, fancy oak white and black themes with a brushed metal finish give a luxurious vibe.",
+      "Front seats are ventilated, with power adjust for driver and passenger, while the rear seats offer good legroom and recline.",
+      "To add to the delight, there’s a massive glass roof that floods the cabin with light and gives an airy experience.",
+      "Moreover, there’s voice-activated control that lets one open the sunroof hands-free.",
+      "The sound and infotainment needs are taken care of by Infinity’s Audio system with a crisp audio for music or calls.",
+      "Other notable features include a cooled glovebox, USB chargers in the front and back, and a central armrest storage."
+    ],
+    "MG Hector – Powertrain": [
+      "The Hector is powered by a 1.5-litre turbocharged petrol engine churning 144.9bhp and 250Nm of torque.",
+      "This mill comes mated to either a six-speed manual or automatic transmission.",
+      "There’s also a diesel model powered by 2.0-litre turbocharged diesel engine delivering 172.3bhp and 350Nm of torque.",
+      "This model is available with a six-speed manual gearbox only.",
+      "Both models are front-wheel drive (FWD) and are designed for both city and highway driving performance."
+    ]
+  },
+  "verdict": "The2023 MG Hectorbrings significant updates in both technology and safety, making it a standout option in the mid-size SUV segment. While it suffers from some issues like turbo lag and body roll, its advanced features, large infotainment system, and ADAS make it a highly appealing choice for tech-savvy buyers who value comfort and safety. The refreshed design and practical pricing further cement its position as a strong contender in the market.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "MG Hector",
+        "price": "14 - 21.52 Lakh",
+        "url": "/mg-cars/hector"
+      },
+      {
+        "name": "Kia Seltos",
+        "price": "10.79 - 19.81 Lakh",
+        "url": "/kia-cars/seltos"
+      },
+      {
+        "name": "Tata Harrier",
+        "price": "14 - 25.25 Lakh",
+        "url": "/tata-cars/harrier"
+      },
+      {
+        "name": "Hyundai Creta N Line",
+        "price": "16.35 - 20.09 Lakh",
+        "url": "/hyundai-cars/creta-n-line"
+      },
+      {
+        "name": "Tata Sierra",
+        "price": "11.49 - 18.49 Lakh",
+        "url": "/tata-cars/sierra"
+      },
+      {
+        "name": "Maruti Suzuki Grand Vitara",
+        "price": "11.03 - 19.66 Lakh",
+        "url": "/maruti-suzuki-cars/grand-vitara"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 14 - 21.52 Lakh",
+          "₹ 10.79 - 19.81 Lakh",
+          "₹ 14 - 25.25 Lakh",
+          "₹ 16.35 - 20.09 Lakh",
+          "₹ 11.49 - 18.49 Lakh",
+          "₹ 11.03 - 19.66 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.5",
+          "8.7",
+          "7.9",
+          "-",
+          "-",
+          "8.5"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1451,1956 cc",
+          "1497 CC",
+          "1956 CC",
+          "1482 CC",
+          "1498 CC",
+          "1462 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic, CVT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "13 - 17 KM/L",
+          "17 - 20.7 KM/L",
+          "14.6 - 16.8 KM/L",
+          "18 - 18.2 KM/L",
+          "16 - 18 KM/L",
+          "19.38 - 27.97 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Diesel",
+          "Petrol",
+          "Petrol, Diesel",
+          "Hybrid, Petrol, CNG"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "60.0 L",
+          "50.0 L",
+          "50.0 L",
+          "51.0 L",
+          "50.0 L",
+          "45.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "20",
+          "23",
+          "23",
+          "12",
+          "17",
+          "27"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Hector vs Seltos",
+          "Hector vs Harrier",
+          "Hector vs Creta N Line",
+          "Hector vs Sierra",
+          "Hector vs Grand Vitara"
+        ]
+      }
+    ]
+  }
+}

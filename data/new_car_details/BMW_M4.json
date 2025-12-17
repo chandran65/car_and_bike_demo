@@ -1,0 +1,232 @@
+{
+  "basic_info": {
+    "name": "BMW M4",
+    "manufacturer": "BMW",
+    "model": "M4",
+    "body_type": null,
+    "url": "https://www.carandbike.com/bmw-cars/m4",
+    "image_url": "https://images.carandbike.com/car-images/large/bmw/m4/bmw-m4.jpg?v=25",
+    "description": "BMW M4 is a 4-seater  available at a starting price of Rs. 1.64 Crore. The car is available in 2 variants, with 1 engine and 1 transmission option. Additionally, M4 offers a Ground Clearance measurement of 120 mm and a Boot capacity of 440 liters. You can choose from 10 colors for the M4. The mileage of the M4 varies from 9.8 KM/L depending on the model.",
+    "model_date": "2024-05-02",
+    "sku": "bmw-m4-1382",
+    "vin": "5NPEL4AB3BH001382",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2993 cc",
+    "power": "503 bhp",
+    "torque": "650 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "9 KM/L"
+  },
+  "dimensions": {
+    "width": "1887 mm ",
+    "height": "1393 mm",
+    "weight": "1725/1725",
+    "seating_capacity": "4",
+    "number_of_doors": "2"
+  },
+  "colors": [
+    "Brooklyn Grey (metallic)",
+    "Dravit Grey Metallic",
+    "Isle of Man Green Metallic",
+    "Sao Paulo Yellow Metallic",
+    "M Portimao Blau metallic",
+    "Skyscraper Grey metallic",
+    "Toronto Red (metallic)",
+    "Flamenco Red Brilliant Effect (metallic)",
+    "Deep Sea Blue",
+    "Azurite Black Metallic"
+  ],
+  "price": {
+    "value": 16378249,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/bmw-cars/m4"
+  },
+  "brand": {
+    "name": "BMW",
+    "image": "https://images.carandbike.com/car-images/big/bmw/bmw.png?v=1"
+  },
+  "rating": {
+    "value": "8.4",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Stunning to look at and drop dead gorgeous",
+    "Puts out more than 500 bhp",
+    "The M4 is bred for performance"
+  ],
+  "cons": [
+    "Price puts it in a very niche segment",
+    "Suspension tuned for performance only",
+    "Rear seat space is not great for 3 individuals"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "9.8 KM/L",
+      "city_mileage": "9.8 KM/L",
+      "highway_mileage": "0 KM/L"
+    }
+  ],
+  "verdict": "The BMW M3 and M4 are hottest flagships a brand can have. BMW India has launched the new M4 coupe in India at a price of  ₹ 1.44 crore respectively. The competition package offers high gloss shadow line trim on the exterior of car in places such as window trim, exterior mirror frames, the front grille, the badge at the rear and the side gills as well. Also, the cars get a new exhaust system with two twin tailpipes tipped with black chrome.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "BMW M4",
+        "price": "1.44 - 1.69 Crore",
+        "url": "/bmw-cars/m4"
+      },
+      {
+        "name": "Mercedes-AMG GLE Coupe",
+        "price": "1.55 - 9.13 Crore",
+        "url": "/mercedes-amg-cars/gle-coupe"
+      },
+      {
+        "name": "Porsche Cayenne Coupe",
+        "price": "1.76 - 2.38 Crore",
+        "url": "/porsche-cars/cayenne-coupe"
+      },
+      {
+        "name": "Mercedes-AMG CLE 53",
+        "price": "1.35 Crore",
+        "url": "/mercedes-amg-cars/cle-53"
+      },
+      {
+        "name": "Mercedes-AMG C 43",
+        "price": "1 Crore",
+        "url": "/mercedes-amg-cars/c-43"
+      },
+      {
+        "name": "Maserati GranTurismo",
+        "price": "3.09 - 3.3 Crore",
+        "url": "/maserati-cars/granturismo"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.44 - 1.69 Crore",
+          "₹ 1.55 - 9.13 Crore",
+          "₹ 1.76 - 2.38 Crore",
+          "₹ 1.35 Crore",
+          "₹ 1 Crore",
+          "₹ 3.09 - 3.3 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.4",
+          "7.5",
+          "8.1",
+          "-",
+          "7.2",
+          "8.0"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2993 cc",
+          "2999 CC",
+          "2995 CC",
+          "2999 CC",
+          "1991 CC",
+          "4691 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "9 KM/L",
+          "9.1 - 12 KM/L",
+          "8.84 - 10.75 KM/L",
+          "10 KM/L",
+          "14.49 KM/L",
+          "14.3 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "4 Seater",
+          "5 Seater",
+          "4 Seater",
+          "5 Seater",
+          "5 Seater",
+          "4 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "59.0 L",
+          "85.0 L",
+          "75.0 L",
+          "52.0 L",
+          "66.0 L",
+          "86.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "3",
+          "3",
+          "1",
+          "1",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "M4 vs GLE Coupe",
+          "M4 vs Cayenne Coupe",
+          "M4 vs CLE 53",
+          "M4 vs C 43",
+          "M4 vs GranTurismo"
+        ]
+      }
+    ]
+  }
+}

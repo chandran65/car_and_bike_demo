@@ -1,0 +1,234 @@
+{
+  "basic_info": {
+    "name": "Hyundai Exter",
+    "manufacturer": "Hyundai",
+    "model": "Exter",
+    "body_type": null,
+    "url": "https://www.carandbike.com/hyundai-cars/exter",
+    "image_url": "https://images.carandbike.com/car-images/large/hyundai/exter/hyundai-exter.jpg?v=15",
+    "description": "Hyundai Exter is a 5-seater  available at a starting price of Rs. 5.49 Lakh. The car is available in 44 variants, with 2 engine and 2 transmission option. Additionally, Exter offers a Ground Clearance measurement of 185 mm and a Boot capacity of 391 liters. You can choose from 9 colors for the Exter. The mileage of the Exter varies from 19.4 - 27 KM/L depending on the model.",
+    "model_date": "2023-06-23",
+    "sku": "hyundai-exter-1743",
+    "vin": "5NPEL4AB3BH001743",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1197 cc",
+    "power": "68,82 bhp",
+    "torque": "114,95 Nm",
+    "fuel_type": "Petrol, Petrol+CNG"
+  },
+  "transmission": "Manual, AMT",
+  "fuel": {
+    "type": "Petrol, Petrol+CNG",
+    "efficiency": "19 - 27 KM/L"
+  },
+  "dimensions": {
+    "width": "1710 mm ",
+    "height": "1631 mm",
+    "weight": "930/930",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Fiery Red",
+    "Titan Grey",
+    "Altas White",
+    "Atlas White Dual Tone",
+    "Starry Night",
+    "Ranger Khaki Dual Tone",
+    "Cosmic Blue",
+    "Cosmic Blue Dual Tone",
+    "Ranger Khaki"
+  ],
+  "price": {
+    "value": "548742",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/hyundai-cars/exter"
+  },
+  "brand": {
+    "name": "Hyundai",
+    "image": "https://images.carandbike.com/car-images/big/hyundai/hyundai.png?v=1"
+  },
+  "rating": {
+    "value": "7.0",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "AMT",
+      "mileage": "19.4 KM/L",
+      "city_mileage": "17 KM/L",
+      "highway_mileage": "19 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "19.4 KM/L",
+      "city_mileage": "17 KM/L",
+      "highway_mileage": "19 KM/L"
+    },
+    {
+      "fuel_type": "Petrol+CNG",
+      "transmission": "Manual",
+      "mileage": "27 KM/L",
+      "city_mileage": "26 KM/L",
+      "highway_mileage": "31 KM/L"
+    }
+  ],
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Hyundai Exter",
+        "price": "5.49 - 9.57 Lakh",
+        "url": "/hyundai-cars/exter"
+      },
+      {
+        "name": "Tata Punch",
+        "price": "5.5 - 9.3 Lakh",
+        "url": "/tata-cars/punch"
+      },
+      {
+        "name": "Nissan Magnite",
+        "price": "5.62 - 10.76 Lakh",
+        "url": "/nissan-cars/magnite"
+      },
+      {
+        "name": "Renault Kiger",
+        "price": "6.14 - 11.73 Lakh",
+        "url": "/renault-cars/kiger"
+      },
+      {
+        "name": "Kia Sonet",
+        "price": "7.3 - 14.09 Lakh",
+        "url": "/kia-cars/sonet"
+      },
+      {
+        "name": "Skoda Kylaq",
+        "price": "7.55 - 12.8 Lakh",
+        "url": "/skoda-cars/kylaq"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 5.49 - 9.57 Lakh",
+          "₹ 5.5 - 9.3 Lakh",
+          "₹ 5.62 - 10.76 Lakh",
+          "₹ 6.14 - 11.73 Lakh",
+          "₹ 7.3 - 14.09 Lakh",
+          "₹ 7.55 - 12.8 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.0",
+          "7.9",
+          "8.1",
+          "8.1",
+          "8.4",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1197 cc",
+          "1199 CC",
+          "999 CC",
+          "999 CC",
+          "1197 CC",
+          "999 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, AMT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "19 - 27 KM/L",
+          "18.9 - 20 KM/L",
+          "19.7 KM/L",
+          "20 KM/L",
+          "18.4 - 24.1 KM/L",
+          "18.09 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Petrol+CNG",
+          "Petrol, CNG",
+          "Petrol, CNG",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "37.0, 60.0 L",
+          "37.0 L",
+          "40.0 L",
+          "40.0 L",
+          "45.0 L",
+          "50.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "44",
+          "31",
+          "25",
+          "15",
+          "24",
+          "14"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Exter vs Punch",
+          "Exter vs Magnite",
+          "Exter vs Kiger",
+          "Exter vs Sonet",
+          "Exter vs Kylaq"
+        ]
+      }
+    ]
+  }
+}

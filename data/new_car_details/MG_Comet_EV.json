@@ -1,0 +1,159 @@
+{
+  "basic_info": {
+    "name": "MG Comet EV",
+    "manufacturer": "MG",
+    "model": "Comet EV",
+    "body_type": "Hatchback",
+    "url": "https://www.carandbike.com/mg-cars/comet-ev",
+    "image_url": "https://images.carandbike.com/car-images/large/mg/comet-ev/mg-comet-ev.jpg?v=13",
+    "description": "MG Comet EV is a 4-seater electric Hatchback available at a starting price of Rs. 7.5 Lakh. The electric car is available in 6 variants.Additionally, Comet EV offers a Ground Clearance measurement of 165 mm and a Boot capacity of 350 liters. You can choose from 5 colors for the Comet EV. The battery range/mileage of the Comet EV is 230 Km/Full Charge. ",
+    "model_date": "2023-04-26",
+    "sku": "mg-comet-ev-1725",
+    "vin": "5NPEL4AB3BH001725",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "230 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1505 mm ",
+    "height": "1640 mm",
+    "weight": "815/815",
+    "seating_capacity": "4",
+    "number_of_doors": "3"
+  },
+  "colors": [
+    "Candy White",
+    "Aurora Silver",
+    "Starry Black",
+    "Candy White / Starry Black",
+    "Apple Green / Starry Black"
+  ],
+  "price": {
+    "value": 749800,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mg-cars/comet-ev"
+  },
+  "brand": {
+    "name": "MG",
+    "image": "https://images.carandbike.com/car-images/big/mg/mg.png?v=1"
+  },
+  "rating": {
+    "value": "6.5",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "MG Comet EV",
+        "price": "7.5 - 10 Lakh",
+        "url": "/mg-cars/comet-ev"
+      },
+      {
+        "name": "Tata Tiago EV",
+        "price": "8.89 - 10 Lakh",
+        "url": "/tata-cars/tiago-ev"
+      },
+      {
+        "name": "Tata Punch EV",
+        "price": "11.12 Lakh",
+        "url": "/tata-cars/punch-ev"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 7.5 - 10 Lakh",
+          "₹ 8.89 - 10 Lakh",
+          "₹ 11.12 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "6.5",
+          "8.4",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "230 Km/Full Charge",
+          "223 Km/Full Charge",
+          "265 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "4 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "6",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Comet EV vs Tiago EV",
+          "Comet EV vs Punch EV"
+        ]
+      }
+    ]
+  }
+}

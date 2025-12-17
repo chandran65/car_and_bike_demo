@@ -1,0 +1,246 @@
+{
+  "basic_info": {
+    "name": "Kia Carens Clavis",
+    "manufacturer": "Kia",
+    "model": "Carens Clavis",
+    "body_type": "MUV",
+    "url": "https://www.carandbike.com/kia-cars/carens-clavis",
+    "image_url": "https://images.carandbike.com/car-images/large/kia/carens-clavis/kia-carens-clavis.jpg?v=20",
+    "description": "Kia Carens Clavis is a 6,7-seater MUV available at a starting price of Rs. 11.08 Lakh. The car is available in 28 variants, with 3 engine and 4 transmission option. Additionally, Carens Clavis offers a Ground Clearance measurement of 195 mm and a Boot capacity of 216 liters. You can choose from 7 colors for the Carens Clavis. The mileage of the Carens Clavis varies from 16.5 - 16.8 KM/L depending on the model.",
+    "model_date": "2025-05-08",
+    "sku": "kia-carens-clavis-1861",
+    "vin": "5NPEL4AB3BH001861",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1482,1493,1497 cc",
+    "power": "113 bhp @6300 rpm,114 bhp @4000 rpm,157 bhp @5500 rpm bhp",
+    "torque": "143Nm @4500rpm,250Nm @1500rpm -2750rpm,253Nm @1500rpm -3500rpm Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Manual, Automatic, IMT, DCT",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "16 - 16 KM/L"
+  },
+  "dimensions": {
+    "width": "1800 mm ",
+    "height": "1708 mm",
+    "weight": "1400/1400",
+    "seating_capacity": "6,7",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Pewter Olive",
+    "Gravity Gray",
+    "Aurora Black Pearl",
+    "Glacier White Pearl",
+    "Imperial Blue",
+    "Sparkling Silver",
+    "Ivory Silver Matte"
+  ],
+  "price": {
+    "value": "1107829",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/kia-cars/carens-clavis"
+  },
+  "brand": {
+    "name": "Kia",
+    "image": "https://images.carandbike.com/car-images/big/kia/kia.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "16.5 KM/L",
+      "city_mileage": "13.5 KM/L",
+      "highway_mileage": "18.5 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "IMT",
+      "mileage": "16.5 KM/L",
+      "city_mileage": "13.5 KM/L",
+      "highway_mileage": "18.5 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "DCT",
+      "mileage": "16.5 KM/L",
+      "city_mileage": "13.5 KM/L",
+      "highway_mileage": "18.5 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Manual",
+      "mileage": "16.8 KM/L",
+      "city_mileage": "14 KM/L",
+      "highway_mileage": "19 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "16.8 KM/L",
+      "city_mileage": "14 KM/L",
+      "highway_mileage": "19 KM/L"
+    }
+  ],
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Kia Carens Clavis",
+        "price": "11.08 - 20.71 Lakh",
+        "url": "/kia-cars/carens-clavis"
+      },
+      {
+        "name": "Tata Punch EV",
+        "price": "11.12 - 16.41 Lakh",
+        "url": "/tata-cars/punch-ev"
+      },
+      {
+        "name": "Citroen eC3",
+        "price": "12.9 - 13.53 Lakh",
+        "url": "/citroen-cars/ec3"
+      },
+      {
+        "name": "Tata Tiago EV",
+        "price": "8.89 - 13.8 Lakh",
+        "url": "/tata-cars/tiago-ev"
+      },
+      {
+        "name": "MG Windsor EV",
+        "price": "14 - 16.3 Lakh",
+        "url": "/mg-cars/windsor-ev"
+      },
+      {
+        "name": "Tata Nexon EV",
+        "price": "14.49 - 16.58 Lakh",
+        "url": "/tata-cars/nexon-ev"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 11.08 - 20.71 Lakh",
+          "₹ 11.12 - 16.41 Lakh",
+          "₹ 12.9 - 13.53 Lakh",
+          "₹ 8.89 - 13.8 Lakh",
+          "₹ 14 - 16.3 Lakh",
+          "₹ 14.49 - 16.58 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "8.2",
+          "8.4",
+          "-",
+          "8.5"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1482,1493,1497 cc",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic, IMT, DCT",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "16 - 16 KM/L",
+          "265 - 365 Km/Full Charge",
+          "320 Km/Full Charge",
+          "223 - 293 Km/Full Charge",
+          "331 Km/Full Charge",
+          "275 - 489 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "6,7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "45.0 L",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "28",
+          "19",
+          "7",
+          "7",
+          "3",
+          "5"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Carens Clavis vs Punch EV",
+          "Carens Clavis vs eC3",
+          "Carens Clavis vs Tiago EV",
+          "Carens Clavis vs Windsor EV",
+          "Carens Clavis vs Nexon EV"
+        ]
+      }
+    ]
+  }
+}

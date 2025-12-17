@@ -1,0 +1,231 @@
+{
+  "basic_info": {
+    "name": "Lexus LX",
+    "manufacturer": "Lexus",
+    "model": "LX",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/lexus-cars/lx",
+    "image_url": "https://images.carandbike.com/car-images/large/lexus/lx/lexus-lx.jpg?v=32",
+    "description": "Lexus LX is a 5-seater SUV available at a starting price of Rs. 2.8 Crore. The car is available in 2 variants, with 1 engine and 1 transmission option. Additionally, LX offers a Ground Clearance measurement of 210 mm and a Boot capacity of 701 liters. You can choose from 9 colors for the LX. The mileage of the LX varies from 9.6 KM/L depending on the model.",
+    "model_date": "2025-03-06",
+    "sku": "lexus-lx-1258",
+    "vin": "5NPEL4AB3BH001258",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "3346 cc",
+    "power": "304 @ 4000 rpm bhp",
+    "torque": "700 Nm @ 1600-2600 rpm Nm",
+    "fuel_type": "Diesel"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Diesel",
+    "efficiency": "9 KM/L"
+  },
+  "dimensions": {
+    "width": "1990 mm ",
+    "height": "1895 mm",
+    "weight": "2740/2740",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Eminent White Pearl",
+    "Caviar",
+    "Atomic Silver",
+    "Nori Green Pearl",
+    "Manganese Luster",
+    "Sonic Titanium",
+    "Black Onyx",
+    "Graphite Black Glass Flake",
+    "Sonic Quartz"
+  ],
+  "price": {
+    "value": "28000000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/lexus-cars/lx"
+  },
+  "brand": {
+    "name": "Lexus",
+    "image": "https://images.carandbike.com/car-images/big/lexus/lexus.png?v=1"
+  },
+  "rating": {
+    "value": "8.5",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Dated Cabin Design",
+    "Subpar Fit And Finish",
+    "Not Very Engaging To Drive"
+  ],
+  "cons": [
+    "Fuel Economy Is Very Poor",
+    "A Bit Too Expensive",
+    "Fit And Finish Could Be Better"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "9.6 KM/L",
+      "city_mileage": "8 KM/L",
+      "highway_mileage": "10 KM/L"
+    }
+  ],
+  "verdict": "The Lexus LX, priced at Rs 2.82 crore ex-showroom, occupies a unique position in the luxury SUV market, particularly in India. The LX's price tag is reflective not just of the vehicle itself, but of the exclusivity and prestige associated with the Lexus brand, especially in a niche segment where these attributes are highly valued. It's more than just an SUV; it's a symbol of luxury and status.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Lexus LX",
+        "price": "2.8 - 2.91 Crore",
+        "url": "/lexus-cars/lx"
+      },
+      {
+        "name": "Land Rover Range Rover",
+        "price": "2.31 - 4.66 Crore",
+        "url": "/land-rover-cars/range-rover"
+      },
+      {
+        "name": "Porsche Cayenne",
+        "price": "1.69 - 2.36 Crore",
+        "url": "/porsche-cars/cayenne"
+      },
+      {
+        "name": "BMW XM",
+        "price": "2.76 - 3.42 Crore",
+        "url": "/bmw-cars/xm"
+      },
+      {
+        "name": "Audi RS Q8",
+        "price": "2.32 Crore",
+        "url": "/audi-cars/rs-q8"
+      },
+      {
+        "name": "Mercedes-Benz GLS",
+        "price": "1.37 - 1.44 Crore",
+        "url": "/mercedes-benz-cars/gls"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 2.8 - 2.91 Crore",
+          "₹ 2.31 - 4.66 Crore",
+          "₹ 1.69 - 2.36 Crore",
+          "₹ 2.76 - 3.42 Crore",
+          "₹ 2.32 Crore",
+          "₹ 1.37 - 1.44 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.5",
+          "7.7",
+          "8.0",
+          "8.7",
+          "8.3",
+          "8.4"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "3346 cc",
+          "2997 CC",
+          "2996 CC",
+          "4395 CC",
+          "3996 CC",
+          "2999 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "9 KM/L",
+          "12.8 - 21 KM/L",
+          "9.2 - 11.23 KM/L",
+          "61.9 KM/L",
+          "8.2 KM/L",
+          "11 - 13 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Diesel",
+          "Diesel, Hybrid, Petrol",
+          "Petrol",
+          "Hybrid",
+          "Petrol",
+          "Petrol, Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "7 Seater",
+          "7 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "80.0 L",
+          "85.0 L",
+          "75.0 L",
+          "69.0 L",
+          "85.0 L",
+          "90.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "5",
+          "3",
+          "2",
+          "1",
+          "4"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "LX vs Range Rover",
+          "LX vs Cayenne",
+          "LX vs XM",
+          "LX vs RS Q8",
+          "LX vs GLS"
+        ]
+      }
+    ]
+  }
+}

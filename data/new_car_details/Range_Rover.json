@@ -1,0 +1,248 @@
+{
+  "basic_info": {
+    "name": "Land Rover Range Rover",
+    "manufacturer": "Land Rover",
+    "model": "Range Rover",
+    "body_type": null,
+    "url": "https://www.carandbike.com/land-rover-cars/range-rover",
+    "image_url": "https://images.carandbike.com/car-images/large/land-rover/range-rover/land-rover-range-rover.jpg?v=25",
+    "description": "Land Rover Range Rover is a 7-seater  available at a starting price of Rs. 2.31 Crore. The car is available in 5 variants, with 3 engine and 1 transmission option. Additionally, Range Rover offers a Ground Clearance measurement of 219 mm and a Boot capacity of 725 liters. You can choose from 12 colors for the Range Rover. The mileage of the Range Rover varies from 12.8 - 21 KM/L depending on the model.",
+    "model_date": "2022-01-13",
+    "sku": "land-rover-range-rover-1108",
+    "vin": "5NPEL4AB3BH001108",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2996,2997,4395 cc",
+    "power": "346,394,523 @ 5500 rpm bhp",
+    "torque": "550,650,750 Nm @ 1800 rpm Nm",
+    "fuel_type": "Diesel, Hybrid, Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Diesel, Hybrid, Petrol",
+    "efficiency": "12 - 21 KM/L"
+  },
+  "dimensions": {
+    "width": "2209 mm ",
+    "height": "1870 mm",
+    "weight": "2585/2585",
+    "seating_capacity": "7",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Charente Grey",
+    "Batumi Gold",
+    "Silicon Silver",
+    "Carpathian Grey",
+    "Ostuni Pearl White",
+    "Belgravia Green",
+    "Hakuba Silver",
+    "Lantau Bronze",
+    "Portofino Blue",
+    "Eiger Grey",
+    "Santorini Black-metallic",
+    "Fuji White-solid"
+  ],
+  "price": {
+    "value": 23100000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/land-rover-cars/range-rover"
+  },
+  "brand": {
+    "name": "Land Rover",
+    "image": "https://images.carandbike.com/car-images/big/land-rover/land-rover.png?v=1"
+  },
+  "rating": {
+    "value": "7.7",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Good Off-Road Capability",
+    "Impressive Fit And Finish",
+    "Powerful Engine Performance"
+  ],
+  "cons": [
+    "A Bit Too Expensive",
+    "Limited Storage Compartments",
+    "Steering Performance Could Be Better"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "12.8 KM/L",
+      "city_mileage": "10 KM/L",
+      "highway_mileage": "12 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "13 KM/L",
+      "city_mileage": "12 KM/L",
+      "highway_mileage": "14 KM/L"
+    },
+    {
+      "fuel_type": "Hybrid",
+      "transmission": "Automatic",
+      "mileage": "21 KM/L",
+      "city_mileage": "20 KM/L",
+      "highway_mileage": "22 KM/L"
+    }
+  ],
+  "verdict": "The Range Rover is the epitome of luxury, power, and off-road capability, combining a minimalist design with advanced technology and superior performance. While its size and pricing make it exclusive, its blend of luxury and ruggedness is unmatched. For those who can afford it, the Range Rover provides a commanding and comfortable driving experience, whether on city roads or rugged terrain.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Land Rover Range Rover",
+        "price": "2.31 - 4.66 Crore",
+        "url": "/land-rover-cars/range-rover"
+      },
+      {
+        "name": "Maserati Levante",
+        "price": "1.61 - 1.82 Crore",
+        "url": "/maserati-cars/levante"
+      },
+      {
+        "name": "Mercedes-Benz G-Class",
+        "price": "2.38 - 2.9 Crore",
+        "url": "/mercedes-benz-cars/g-class"
+      },
+      {
+        "name": "Toyota Land Cruiser",
+        "price": "2.16 - 2.25 Crore",
+        "url": "/toyota-cars/land-cruiser"
+      },
+      {
+        "name": "Porsche Cayenne",
+        "price": "1.69 - 2.36 Crore",
+        "url": "/porsche-cars/cayenne"
+      },
+      {
+        "name": "Maserati Grecale",
+        "price": "1.49 - 2.33 Crore",
+        "url": "/maserati-cars/grecale"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 2.31 - 4.66 Crore",
+          "₹ 1.61 - 1.82 Crore",
+          "₹ 2.38 - 2.9 Crore",
+          "₹ 2.16 - 2.25 Crore",
+          "₹ 1.69 - 2.36 Crore",
+          "₹ 1.49 - 2.33 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.7",
+          "8.5",
+          "8.2",
+          "5.7",
+          "8.0",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2996,2997,4395 cc",
+          "2979 CC",
+          "2925 CC",
+          "3346 CC",
+          "2996 CC",
+          "1998 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "12 - 21 KM/L",
+          "7.2 - 12.6 KM/L",
+          "13.9 KM/L",
+          "11 KM/L",
+          "9.2 - 11.23 KM/L",
+          "9.2 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Diesel, Hybrid, Petrol",
+          "Petrol, Diesel",
+          "Diesel",
+          "Diesel",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "105.0, 85.0, 90.0 L",
+          "80.0 L",
+          "93.0 L",
+          "80.0 L",
+          "75.0 L",
+          "64.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "5",
+          "6",
+          "3",
+          "2",
+          "3",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Range Rover vs Levante",
+          "Range Rover vs G-Class",
+          "Range Rover vs Land Cruiser",
+          "Range Rover vs Cayenne",
+          "Range Rover vs Grecale"
+        ]
+      }
+    ]
+  }
+}

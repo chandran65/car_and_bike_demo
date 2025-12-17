@@ -1,0 +1,215 @@
+{
+  "basic_info": {
+    "name": "Mercedes-Benz EQS",
+    "manufacturer": "Mercedes-Benz",
+    "model": "EQS",
+    "body_type": "Sedan",
+    "url": "https://www.carandbike.com/mercedes-benz-cars/eqs",
+    "image_url": "https://images.carandbike.com/car-images/large/mercedes-benz/eqs/mercedes-benz-eqs.jpg?v=15",
+    "description": "Mercedes-Benz EQS is a 5-seater electric Sedan available at a starting price of Rs. 1.51 Crore. The electric car is available in 2 variants.Additionally, EQS offers a Ground Clearance measurement of 121 mm and a Boot capacity of 610 liters. You can choose from 5 colors for the EQS. The battery range/mileage of the EQS is 857 Km/Full Charge. ",
+    "model_date": "2022-09-30",
+    "sku": "mercedes-benz-eqs-1647",
+    "vin": "5NPEL4AB3BH001647",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "857 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1926 mm ",
+    "height": "1512 mm",
+    "weight": "2585/2585",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "High-Tech Silver",
+    "Sodalite Blue",
+    "Diamond White Bright",
+    "Graphite Grey",
+    "Obsidian Black"
+  ],
+  "price": {
+    "value": 15079181,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mercedes-benz-cars/eqs"
+  },
+  "brand": {
+    "name": "Mercedes-Benz",
+    "image": "https://images.carandbike.com/car-images/big/mercedes-benz/mercedes-benz.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Long range",
+    "Luxury in abundance",
+    "More VFM"
+  ],
+  "cons": [
+    "No massage seats on 2nd row",
+    "Low ground clearance",
+    "Not fun to drive"
+  ],
+  "verdict": "The EQS is not as an electric version of the S-Class, but it is luxurious EV which us fun to drive too. It is loaded with creature comforts and luxury and comes with many new-age tech features. A big USP is that it comes with highest range for any electric car in India and at Rs. 1.55 crore, ex-showroom seems well priced too. It’s a car in which it is hard to find faults really.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mercedes-Benz EQS",
+        "price": "1.3 - 1.55 Crore",
+        "url": "/mercedes-benz-cars/eqs"
+      },
+      {
+        "name": "Kia EV9",
+        "price": "1.51 Crore",
+        "url": "/kia-cars/ev9"
+      },
+      {
+        "name": "Porsche Macan Electric",
+        "price": "1.41 - 1.96 Crore",
+        "url": "/porsche-cars/macan-electric"
+      },
+      {
+        "name": "BMW iX",
+        "price": "1.62 Crore",
+        "url": "/bmw-cars/ix"
+      },
+      {
+        "name": "BMW i5",
+        "price": "1.38 Crore",
+        "url": "/bmw-cars/i5"
+      },
+      {
+        "name": "Audi Q8 E-Tron",
+        "price": "1.33 - 1.47 Crore",
+        "url": "/audi-cars/q8-e-tron"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.3 - 1.55 Crore",
+          "₹ 1.51 Crore",
+          "₹ 1.41 - 1.96 Crore",
+          "₹ 1.62 Crore",
+          "₹ 1.38 Crore",
+          "₹ 1.33 - 1.47 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "-",
+          "8.5",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "857 Km/Full Charge",
+          "470 Km/Full Charge",
+          "590 - 613 Km/Full Charge",
+          "425 Km/Full Charge",
+          "516 Km/Full Charge",
+          "450 - 491 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "6 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "1",
+          "3",
+          "1",
+          "1",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "EQS vs EV9",
+          "EQS vs Macan Electric",
+          "EQS vs iX",
+          "EQS vs i5",
+          "EQS vs Q8 E-Tron"
+        ]
+      }
+    ]
+  }
+}

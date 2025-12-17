@@ -1,0 +1,234 @@
+{
+  "basic_info": {
+    "name": "Jaguar F-Pace",
+    "manufacturer": "Jaguar",
+    "model": "F-Pace",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/jaguar-cars/f-pace",
+    "image_url": "https://images.carandbike.com/car-images/large/jaguar/f-pace/jaguar-f-pace.jpg?v=28",
+    "description": "Jaguar F-Pace is a 5-seater SUV available at a starting price of Rs. 82.88 Lakh. The car is available in 2 variants, with 2 engine and 1 transmission option. Additionally, F-Pace offers a Ground Clearance measurement of 213 mm and a Boot capacity of 755 liters. You can choose from 4 colors for the F-Pace. The mileage of the F-Pace varies from 13 - 18 KM/L depending on the model.",
+    "model_date": "2021-06-10",
+    "sku": "jaguar-f-pace-1431",
+    "vin": "5NPEL4AB3BH001431",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1997,1999 cc",
+    "power": "177,247 bhp",
+    "torque": "365,430 Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "13 - 18 KM/L"
+  },
+  "dimensions": {
+    "width": "2070 mm ",
+    "height": "1693 mm",
+    "weight": "1897/1951",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Portofino Blue",
+    "Eiger Grey",
+    "Fuji White",
+    "Santorini Black"
+  ],
+  "price": {
+    "value": "8287819",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/jaguar-cars/f-pace"
+  },
+  "brand": {
+    "name": "Jaguar",
+    "image": "https://images.carandbike.com/car-images/big/jaguar/jaguar.png?v=1"
+  },
+  "rating": {
+    "value": "8.8",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Fantastic Styling And Premium Cabin",
+    "Handles Well",
+    "Feature Laden &amp; Large Boot",
+    "&nbsp;"
+  ],
+  "cons": [
+    "Petrol Engine Could Do With More Grunt",
+    "Fewer Variants",
+    "Steering Remains Heavy At Low Speeds"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "13 KM/L",
+      "city_mileage": "9 KM/L",
+      "highway_mileage": "11 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "18 KM/L",
+      "city_mileage": "11 KM/L",
+      "highway_mileage": "20 KM/L"
+    }
+  ],
+  "verdict": "The Jaguar F-Pace offers a dreamlike driving experience, captivating not only through its performance but also through its enthralling acoustic qualities. This engine, borrowed from the esteemed F-Type, complements the spirited essence of the F-Pace, adapting impressively to the SUV's chassis. The F-Pace's handling in corners is near flawless, exhibiting a willingness to respond eagerly when pushed to its limits. Additionally, the gearbox, a true highlight across Jaguar models, performs exceptionally, further enhancing the overall driving experience and reinforcing the F-Pace as a standout in its class for both performance and enjoyment.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Jaguar F-Pace",
+        "price": "68.04 Lakh",
+        "url": "/jaguar-cars/f-pace"
+      },
+      {
+        "name": "Land Rover Range Rover Velar",
+        "price": "79.24 - 83.91 Lakh",
+        "url": "/land-rover-cars/range-rover-velar"
+      },
+      {
+        "name": "Porsche Macan",
+        "price": "1 Crore",
+        "url": "/porsche-cars/macan"
+      },
+      {
+        "name": "Land Rover Defender",
+        "price": "1 - 2.6 Crore",
+        "url": "/land-rover-cars/defender"
+      },
+      {
+        "name": "Jeep Wrangler Unlimited",
+        "price": "64.08 - 67.81 Lakh",
+        "url": "/jeep-cars/wrangler-unlimited"
+      },
+      {
+        "name": "Jeep Grand Cherokee",
+        "price": "63 Lakh",
+        "url": "/jeep-cars/grand-cherokee"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 68.04 Lakh",
+          "₹ 79.24 - 83.91 Lakh",
+          "₹ 1 Crore",
+          "₹ 1 - 2.6 Crore",
+          "₹ 64.08 - 67.81 Lakh",
+          "₹ 63 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.8",
+          "8.1",
+          "6.5",
+          "8.0",
+          "7.0",
+          "8.1"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1997,1999 cc",
+          "1997 CC",
+          "1984 CC",
+          "1997 CC",
+          "1998 CC",
+          "1998 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "13 - 18 KM/L",
+          "9.2 - 16.6 KM/L",
+          "13.2 KM/L",
+          "8.79 - 14 KM/L",
+          "12.01 KM/L",
+          "8.61 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "60.0, 82.0 L",
+          "89.0 L",
+          "65.0 L",
+          "90.0 L",
+          "87.0 L",
+          "93.5 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "3",
+          "1",
+          "20",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "F-Pace vs Range Rover Velar",
+          "F-Pace vs Macan",
+          "F-Pace vs Defender",
+          "F-Pace vs Wrangler Unlimited",
+          "F-Pace vs Grand Cherokee"
+        ]
+      }
+    ]
+  }
+}

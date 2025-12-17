@@ -1,0 +1,228 @@
+{
+  "basic_info": {
+    "name": "Mercedes-Maybach 2024 EQS Electric",
+    "manufacturer": "Mercedes-Maybach",
+    "model": "2024 EQS Electric",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/mercedes-maybach-cars/eqs-electric",
+    "image_url": "https://images.carandbike.com/car-images/large/mercedes-maybach/eqs-electric/mercedes-maybach-eqs-electric.jpg?v=16",
+    "description": "Mercedes-Maybach 2024 EQS Electric is a 5-seater electric SUV available at a starting price of Rs. 2.4 Crore. The electric car is available in 2 variants.Additionally, 2024 EQS Electric offers a Boot capacity of 440 liters. You can choose from 7 colors for the 2024 EQS Electric. The battery range/mileage of the 2024 EQS Electric is 600 Km/Full Charge. ",
+    "model_date": "2024-09-05",
+    "sku": "mercedes-maybach-2024-eqs-electric-1810",
+    "vin": "5NPEL4AB3BH001810",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "600 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "2157 mm ",
+    "height": "1721 mm",
+    "weight": "3075/3075",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Opalite white bright",
+    "Selenite Grey",
+    "High-Tech Silver",
+    "Obsidian Black",
+    "Sodalite Blue",
+    "Alpine Grey",
+    "Emerald Green"
+  ],
+  "price": {
+    "value": 24000000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mercedes-maybach-cars/eqs-electric"
+  },
+  "brand": {
+    "name": "Mercedes-Maybach",
+    "image": "https://images.carandbike.com/car-images/big/mercedes-maybach/mercedes-maybach.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "whats_new": {
+    "Design:": [
+      "The EQS 680's exterior design embodies the iconicMaybachaesthetics, featuring a bold grille adorned with intricate chrome details and signature lighting elements. Its sleek, aerodynamic silhouette ensures it not only turns heads but also enhances performance. The smooth, flowing lines reduce drag, making the vehicle as functional as it is luxurious. The Maybach emblem and two-tone paintwork further emphasize its exclusivity, ensuring that the EQS 680 stands out on any road."
+    ],
+    "Interior Luxury:": [
+      "Step inside the Mercedes-Maybach EQS 680, and you're enveloped in opulence. The interior reflects the finest craftsmanship, using premium materials like high-gradeleather,woodveneers, and polished metal accents. Comfort is at the forefront, with reclining, massaging seats offering unparalleled relaxation for all passengers. Additionally, customizable ambient lighting creates a soothing atmosphere, and the advancedMBUX Hyperscreenspans the entire dashboard, offering both driver and passengers an intuitive, tech-savvy experience. The digital interface seamlessly integrates entertainment, navigation, and climate controls, all accessible via voice commands or touch gestures."
+    ],
+    "Advanced Powertrain:": [
+      "Thepowertrainof the Mercedes-Maybach EQS 680 is as advanced as its design. Powered bydual electric motors, the SUV generates a whopping 650 horsepower, allowing it to accelerate from 0 to 100 km/h in just a few seconds. Despite this impressive power, the EQS 680 maintains an impressive range of over500 kilometerson a single charge, thanks to its high-efficiency battery system and regenerative braking technology. This ensures that owners can embark on long journeys without the constant need to recharge, a critical factor for an electric vehicle of this stature."
+    ],
+    "Comfort and Technology:": [
+      "Passenger comfort is elevated by features such as four-zone climate control, a premium sound system, and an air suspension system that ensures a smooth ride over any terrain. The SUV is designed to cater to both driver and passengers withluxury seating, rear-seat entertainment systems, and a rear executive lounge-like setup, reinforcing the Maybach experience.",
+      "Technology in the EQS 680 is cutting-edge, with a host of driver assistance systems that offer autonomous driving features, adaptive cruise control, lane-keeping assist, and more. The vehicle is also equipped withLevel 3 autonomous driving capability, making it one of the most technologically advanced SUVs on the market."
+    ],
+    "Competition:": [
+      "In terms of competition, theMercedes-Maybach EQS 680will be going head-to-head with other high-end luxury electric SUVs such as theAudi e-tron,BMW iX, andJaguar I-Pace. However, the Maybach badge gives it a distinct edge in terms of brand prestige and luxury, positioning it as the ultimate statement vehicle for those who seek unmatched exclusivity.",
+      "Summary Table:"
+    ],
+    "Final Thoughts:": [
+      "The Mercedes-Maybach EQS 680 redefines luxury electric vehicles in India. With its state-of-the-art powertrain, opulent interior, and striking design, it sets a new benchmark for high-end electric SUVs. Combining Mercedes-Maybach’s heritage with future-forward electric technology, the EQS 680 is the ultimate choice for discerning customers seeking sustainable luxury."
+    ]
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mercedes-Maybach 2024 EQS Electric",
+        "price": "2.4 - 2.63 Crore",
+        "url": "/mercedes-maybach-cars/eqs-electric"
+      },
+      {
+        "name": "Lotus Eletre",
+        "price": "2.55 - 2.99 Crore",
+        "url": "/lotus-cars/eletre"
+      },
+      {
+        "name": "Mercedes-AMG EQS",
+        "price": "1.88 Crore",
+        "url": "/mercedes-amg-cars/eqs"
+      },
+      {
+        "name": "Maserati Grecale Folgore",
+        "price": "3.05 - 3.18 Crore",
+        "url": "/maserati-cars/grecale-folgore"
+      },
+      {
+        "name": "Porsche Cayenne Electric",
+        "price": "1.75 - 2.25 Crore",
+        "url": "/porsche-cars/cayenne-electric"
+      },
+      {
+        "name": "Kia EV9",
+        "price": "1.51 Crore",
+        "url": "/kia-cars/ev9"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 2.4 - 2.63 Crore",
+          "₹ 2.55 - 2.99 Crore",
+          "₹ 1.88 Crore",
+          "₹ 3.05 - 3.18 Crore",
+          "₹ 1.75 - 2.25 Crore",
+          "₹ 1.51 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "9.0",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "600 Km/Full Charge",
+          "500 Km/Full Charge",
+          "529 Km/Full Charge",
+          "426 - 501 Km/Full Charge",
+          "642 Km/Full Charge",
+          "470 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "2 Seater",
+          "5 Seater",
+          "6 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "3",
+          "1",
+          "2",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "EQS Electric vs Eletre",
+          "EQS Electric vs EQS",
+          "EQS Electric vs Grecale Folgore",
+          "EQS Electric vs Cayenne Electric",
+          "EQS Electric vs EV9"
+        ]
+      }
+    ]
+  }
+}

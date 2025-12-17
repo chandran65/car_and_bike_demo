@@ -1,0 +1,215 @@
+{
+  "basic_info": {
+    "name": "Tata Tigor EV",
+    "manufacturer": "Tata",
+    "model": "Tigor EV",
+    "body_type": null,
+    "url": "https://www.carandbike.com/tata-cars/tigor-ev",
+    "image_url": "https://images.carandbike.com/car-images/large/tata/tigor-ev/tata-tigor-ev.jpg?v=21",
+    "description": "Tata Tigor EV is a 5-seater electric  available at a starting price of Rs. 15.07 Lakh. The electric car is available in 1 variants.Additionally, Tigor EV offers a Ground Clearance measurement of 170 mm and a Boot capacity of 310 liters. You can choose from 5 colors for the Tigor EV. The battery range/mileage of the Tigor EV is 306 Km/Full Charge. ",
+    "model_date": "2021-08-31",
+    "sku": "tata-tigor-ev-1593",
+    "vin": "5NPEL4AB3BH001593",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "306 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1677 mm ",
+    "height": "1537 mm",
+    "weight": "",
+    "seating_capacity": "5",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "Signature Teal Blue",
+    "Pristine White",
+    "Midnight Plum",
+    "Teal Blue",
+    "Daytona Grey"
+  ],
+  "price": {
+    "value": "1507156",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/tata-cars/tigor-ev"
+  },
+  "brand": {
+    "name": "Tata",
+    "image": "https://images.carandbike.com/car-images/big/tata/tata.png?v=1"
+  },
+  "rating": {
+    "value": "8.0",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Makes Evs More Accessible",
+    "Well-Loaded On Features",
+    "Great City Car With Little To Fault"
+  ],
+  "cons": [
+    "Real-World Range Under 200 Km",
+    "Substantially More Expensive Than Ice Tigor",
+    "Loses Breath After 100 Kmph"
+  ],
+  "verdict": "The Tigor EV is now a much-improved car with its longer range, better warranty and all the tech it offers. Low running cost is the trump card of cars like the Tigor EV. In times of rising fuel prices, cars like these make a lot of sense. Depending on how much you drive you can break even in a couple of years. And of course, you're playing your part in burning lesser fossil fuels and keeping our planet greener for much longer.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Tata Tigor EV",
+        "price": "12.99 Lakh",
+        "url": "/tata-cars/tigor-ev"
+      },
+      {
+        "name": "Mahindra XUV400",
+        "price": "15.49 - 17.69 Lakh",
+        "url": "/mahindra-cars/xuv400"
+      },
+      {
+        "name": "MG Windsor EV",
+        "price": "14 - 17.25 Lakh",
+        "url": "/mg-cars/windsor-ev"
+      },
+      {
+        "name": "Citroen eC3",
+        "price": "12.9 - 13.53 Lakh",
+        "url": "/citroen-cars/ec3"
+      },
+      {
+        "name": "MG ZS EV",
+        "price": "17.99 - 20.5 Lakh",
+        "url": "/mg-cars/zs-ev"
+      },
+      {
+        "name": "Kia Carens Clavis EV",
+        "price": "17.99 - 22.49 Lakh",
+        "url": "/kia-cars/carens-clavis-ev"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 12.99 Lakh",
+          "₹ 15.49 - 17.69 Lakh",
+          "₹ 14 - 17.25 Lakh",
+          "₹ 12.9 - 13.53 Lakh",
+          "₹ 17.99 - 20.5 Lakh",
+          "₹ 17.99 - 22.49 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.0",
+          "8.4",
+          "-",
+          "8.2",
+          "7.8",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "306 Km/Full Charge",
+          "375 - 456 Km/Full Charge",
+          "331 - 449 Km/Full Charge",
+          "320 Km/Full Charge",
+          "461 Km/Full Charge",
+          "404 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "7 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "5",
+          "5",
+          "7",
+          "7",
+          "5"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Tigor EV vs XUV400",
+          "Tigor EV vs Windsor EV",
+          "Tigor EV vs eC3",
+          "Tigor EV vs ZS EV",
+          "Tigor EV vs Carens Clavis EV"
+        ]
+      }
+    ]
+  }
+}

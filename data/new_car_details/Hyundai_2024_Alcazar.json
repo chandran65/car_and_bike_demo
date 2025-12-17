@@ -1,0 +1,266 @@
+{
+  "basic_info": {
+    "name": "Hyundai 2024 Alcazar",
+    "manufacturer": "Hyundai",
+    "model": "2024 Alcazar",
+    "body_type": "MUV",
+    "url": "https://www.carandbike.com/hyundai-cars/alcazar",
+    "image_url": "https://images.carandbike.com/car-images/large/hyundai/alcazar/hyundai-alcazar.jpg?v=44",
+    "description": "Hyundai 2024 Alcazar is a 6,7-seater MUV available at a starting price of Rs. 14.47 Lakh. The car is available in 44 variants, with 2 engine and 3 transmission option. Additionally, 2024 Alcazar offers a Ground Clearance measurement of 200 mm and a Boot capacity of 180 liters. You can choose from 9 colors for the 2024 Alcazar. The mileage of the 2024 Alcazar varies from 17.5 - 20.4 KM/L depending on the model.",
+    "model_date": "2024-09-09",
+    "sku": "hyundai-2024-alcazar-1645",
+    "vin": "5NPEL4AB3BH001645",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1482,1493 cc",
+    "power": "114 bhp @ 4000 rpm,158 bhp @ 5500 rpm bhp",
+    "torque": "250 Nm @ 1500-2750 rpm,253 Nm @ 1500-3500 rpm Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Manual, Automatic, DCT",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "17 - 20 KM/L"
+  },
+  "dimensions": {
+    "width": "1800 mm ",
+    "height": "1710 mm",
+    "weight": "1545/1545",
+    "seating_capacity": "6,7",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Abyss Black",
+    "Altas White",
+    "Altas White Dual tone",
+    "Starry Night",
+    "Titon Grey",
+    "Ranger Khaki",
+    "Robust Emerald Pearl",
+    "Fiery Red",
+    "Robust Emerald Matte"
+  ],
+  "price": {
+    "value": 1447305,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/hyundai-cars/alcazar"
+  },
+  "brand": {
+    "name": "Hyundai",
+    "image": "https://images.carandbike.com/car-images/big/hyundai/hyundai.png?v=1"
+  },
+  "rating": {
+    "value": "8.3",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Handsome Looking Suv",
+    "Loaded With Features",
+    "Very Engaging Drive"
+  ],
+  "cons": [
+    "Not So Spacious Cabin",
+    "No 1.4L Turbo Petrol",
+    "Cramped Third Row"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "17.5 KM/L",
+      "city_mileage": "18 KM/L",
+      "highway_mileage": "21 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "DCT",
+      "mileage": "17.5 KM/L",
+      "city_mileage": "18 KM/L",
+      "highway_mileage": "21 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "17.5 KM/L",
+      "city_mileage": "18 KM/L",
+      "highway_mileage": "21 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "20.4 KM/L",
+      "city_mileage": "19 KM/L",
+      "highway_mileage": "22 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Manual",
+      "mileage": "20.4 KM/L",
+      "city_mileage": "19 KM/L",
+      "highway_mileage": "22 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "DCT",
+      "mileage": "20.4 KM/L",
+      "city_mileage": "19 KM/L",
+      "highway_mileage": "22 KM/L"
+    }
+  ],
+  "verdict": "2024 Hyundai Alcazar is an excellent upgrade with a focus on second-row comfort and a more premium, feature-rich cabin. While the third row is best suited for short trips, the Alcazar shines in providing a versatile and luxurious family SUV option. It's an ideal choice for those who prioritize a spacious and comfortable second-row experience.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Hyundai 2024 Alcazar",
+        "price": "14.47 - 21.1 Lakh",
+        "url": "/hyundai-cars/alcazar"
+      },
+      {
+        "name": "Mahindra Marazzo",
+        "price": "14.06 - 16.38 Lakh",
+        "url": "/mahindra-cars/marazzo"
+      },
+      {
+        "name": "Maruti Suzuki XL6",
+        "price": "11.52 - 14.48 Lakh",
+        "url": "/maruti-suzuki-cars/xl6"
+      },
+      {
+        "name": "Kia Carens Clavis",
+        "price": "11.08 - 20.71 Lakh",
+        "url": "/kia-cars/carens-clavis"
+      },
+      {
+        "name": "Kia Carens",
+        "price": "10.99 - 12.77 Lakh",
+        "url": "/kia-cars/carens"
+      },
+      {
+        "name": "Toyota Rumion",
+        "price": "10.44 - 13.62 Lakh",
+        "url": "/toyota-cars/rumion"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 14.47 - 21.1 Lakh",
+          "₹ 14.06 - 16.38 Lakh",
+          "₹ 11.52 - 14.48 Lakh",
+          "₹ 11.08 - 20.71 Lakh",
+          "₹ 10.99 - 12.77 Lakh",
+          "₹ 10.44 - 13.62 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.3",
+          "8.3",
+          "7.7",
+          "-",
+          "7.0",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1482,1493 cc",
+          "1497 CC",
+          "1462 CC",
+          "1497 CC",
+          "1497 CC",
+          "1462 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic, DCT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "17 - 20 KM/L",
+          "17.6 KM/L",
+          "20.27 - 26 KM/L",
+          "16.2 - 16.8 KM/L",
+          "16.2 - 21.3 KM/L",
+          "20.5 - 26 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Diesel",
+          "Petrol, CNG",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol, CNG"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "6,7 Seater",
+          "8 Seater",
+          "6 Seater",
+          "7 Seater",
+          "7 Seater",
+          "7 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "50.0 L",
+          "45.0 L",
+          "45.0 L",
+          "45.0 L",
+          "45.0 L",
+          "45.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "44",
+          "6",
+          "9",
+          "27",
+          "2",
+          "7"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Alcazar vs Marazzo",
+          "Alcazar vs XL6",
+          "Alcazar vs Carens Clavis",
+          "Alcazar vs Carens",
+          "Alcazar vs Rumion"
+        ]
+      }
+    ]
+  }
+}

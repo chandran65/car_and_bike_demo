@@ -1,0 +1,224 @@
+{
+  "basic_info": {
+    "name": "Citroen C3",
+    "manufacturer": "Citroen",
+    "model": "C3",
+    "body_type": "Hatchback",
+    "url": "https://www.carandbike.com/citroen-cars/c3",
+    "image_url": "https://images.carandbike.com/car-images/large/citroen/c3/citroen-c3.jpg?v=24",
+    "description": "Citroen C3 is a 5-seater Hatchback available at a starting price of Rs. 4.8 Lakh. The car is available in 6 variants, with 1 engine and 2 transmission option. Additionally, C3 offers a Ground Clearance measurement of 180 mm and a Boot capacity of 315 liters. You can choose from 11 colors for the C3. The mileage of the C3 varies from 19.8 - 19.4 KM/L depending on the model.",
+    "model_date": "2024-08-19",
+    "sku": "citroen-c3-1654",
+    "vin": "5NPEL4AB3BH001654",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1198,1199 cc",
+    "power": "111 bhp@ 5500 rpm,83 bhp @ 5750 rpm bhp",
+    "torque": "115 Nm @ 3750 rpm,190 Nm @ 1750 rpm Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Manual, Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "19 - 19 KM/L"
+  },
+  "dimensions": {
+    "width": "1733 mm ",
+    "height": "1586 mm",
+    "weight": "939/987",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Steel Grey with Polar White",
+    "Cosmo Blue",
+    "Platinum Grey with  Polar White",
+    "Platinum Grey",
+    "Polar White / cosmo blue",
+    "Polar White / Platinum Grey",
+    "Polar White",
+    "Steel Grey / Platinum Grey",
+    "Steel Grey / Cosmo Blue",
+    "Steel Grey",
+    "Cosmo Blue with Polar white"
+  ],
+  "price": {
+    "value": 480233,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/citroen-cars/c3"
+  },
+  "brand": {
+    "name": "Citroen",
+    "image": "https://images.carandbike.com/car-images/big/citroen/citroen.png?v=1"
+  },
+  "rating": {
+    "value": "8.4",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Ride and handling is great",
+    "Engine is refined and shows good performance",
+    "Cabin is spacious"
+  ],
+  "cons": [
+    "Does not get an automatic gearbox",
+    "Not big on features",
+    "Long travel of the clutch"
+  ],
+  "verdict": "The Citroen C3 presents a mix of attributes that garner both appreciation and critique. However, what truly sets it apart in the competitive market is its pricing strategy. Citroen has strategically positioned the C3 with aggressive pricing, disrupting the segment and capturing attention. Despite the notable absence of an automatic transmission option, which might be seen as a significant drawback by some, the C3 still manages to distinguish itself. Its combination of features, coupled with its attractive pricing, makes it a standout choice for customers looking for value in their vehicle purchase.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Citroen C3",
+        "price": "4.8 - 9.05 Lakh",
+        "url": "/citroen-cars/c3"
+      },
+      {
+        "name": "Maruti Suzuki Celerio",
+        "price": "4.7 - 6.73 Lakh",
+        "url": "/maruti-suzuki-cars/celerio"
+      },
+      {
+        "name": "Tata Tiago",
+        "price": "4.57 - 7.82 Lakh",
+        "url": "/tata-cars/tiago"
+      },
+      {
+        "name": "Maruti Suzuki Wagon R",
+        "price": "5.16 - 7.94 Lakh",
+        "url": "/maruti-suzuki-cars/wagon-r"
+      },
+      {
+        "name": "Renault Kwid",
+        "price": "4.29 - 5.9 Lakh",
+        "url": "/renault-cars/kwid"
+      },
+      {
+        "name": "Hyundai Grand i10 Nios",
+        "price": "5.47 - 7.92 Lakh",
+        "url": "/hyundai-cars/grand-i10-nios"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 4.8 - 9.05 Lakh",
+          "₹ 4.7 - 6.73 Lakh",
+          "₹ 4.57 - 7.82 Lakh",
+          "₹ 5.16 - 7.94 Lakh",
+          "₹ 4.29 - 5.9 Lakh",
+          "₹ 5.47 - 7.92 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.4",
+          "6.5",
+          "8.2",
+          "6.1",
+          "8.0",
+          "8.5"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1198,1199 cc",
+          "998 CC",
+          "1199 CC",
+          "998 CC",
+          "999 CC",
+          "1197 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "19 - 19 KM/L",
+          "24.97 - 26.68 KM/L",
+          "20 - 24 KM/L",
+          "21.5 - 33.4 KM/L",
+          "22 - 23 KM/L",
+          "20.2 - 20.7 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol, CNG",
+          "Petrol, CNG",
+          "Petrol, CNG",
+          "Petrol",
+          "Petrol, CNG"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "30.0 L",
+          "32.0 L",
+          "35.0 L",
+          "32.0 L",
+          "28.0 L",
+          "37.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "6",
+          "8",
+          "13",
+          "11",
+          "12",
+          "16"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "C3 vs Celerio",
+          "C3 vs Tiago",
+          "C3 vs Wagon R",
+          "C3 vs Kwid",
+          "C3 vs Grand i10 Nios"
+        ]
+      }
+    ]
+  }
+}

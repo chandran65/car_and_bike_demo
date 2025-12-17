@@ -1,0 +1,242 @@
+{
+  "basic_info": {
+    "name": "Land Rover Range Rover Sport",
+    "manufacturer": "Land Rover",
+    "model": "Range Rover Sport",
+    "body_type": null,
+    "url": "https://www.carandbike.com/land-rover-cars/range-rover-sport",
+    "image_url": "https://images.carandbike.com/car-images/large/land-rover/range-rover-sport/land-rover-range-rover-sport.jpg?v=25",
+    "description": "Land Rover Range Rover Sport is a 5-seater  available at a starting price of Rs. 1.38 Crore. The car is available in 4 variants, with 1 engine and 1 transmission option. Additionally, Range Rover Sport offers a Ground Clearance measurement of 227 mm and a Boot capacity of 647 liters. You can choose from 13 colors for the Range Rover Sport. The mileage of the Range Rover Sport varies from 10 KM/L depending on the model.",
+    "model_date": "2009-06-01",
+    "sku": "land-rover-range-rover-sport-1109",
+    "vin": "5NPEL4AB3BH001109",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2997 cc",
+    "power": "346,394 bhp",
+    "torque": "550,700 Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "10 KM/L"
+  },
+  "dimensions": {
+    "width": "2220 mm ",
+    "height": "1780 mm",
+    "weight": "2115/2115",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Lantau Bronze",
+    "Giola Green",
+    "Fuji White",
+    "Eiger Grey",
+    "Charente Grey",
+    "Carpathian Grey",
+    "Blue Nebula",
+    "Varesine Blue",
+    "Sunrise Copper",
+    "Santorini Black",
+    "Portofino Blue",
+    "Marl Grey",
+    "Ligurian Black"
+  ],
+  "price": {
+    "value": "13766667",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/land-rover-cars/range-rover-sport"
+  },
+  "brand": {
+    "name": "Land Rover",
+    "image": "https://images.carandbike.com/car-images/big/land-rover/land-rover.png?v=1"
+  },
+  "rating": {
+    "value": "7.9",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Stunning And Iconic Design",
+    "Spacious Cabin And Second Row",
+    "Svr Tuned Version Is An Absolute Hoot"
+  ],
+  "cons": [
+    "Infotainment System Feels Lethargic",
+    "High Maintenance Costs",
+    "Plastic Panels Are Damaged Easily"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "10 KM/L",
+      "city_mileage": "8 KM/L",
+      "highway_mileage": "11 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "10 KM/L",
+      "city_mileage": "8 KM/L",
+      "highway_mileage": "11 KM/L"
+    }
+  ],
+  "verdict": "Even with the standard tyres, the Range Rover Sport feels at home in the rough terrain and it is equally capable on-road. Inside, the cabin is more or less like the Evoque and it gets a touchscreen display that controls most of the car's features and a clear and easy-to-use cabin.  The Range Rover Sport is available in S, HS, HSE and Autobiography trims and prices for the 5.0-litre supercharged petrol Autobiography tops out at Rs 1.65 crore (ex-showroom, Mumbai).",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Land Rover Range Rover Sport",
+        "price": "1.38 - 2.75 Crore",
+        "url": "/land-rover-cars/range-rover-sport"
+      },
+      {
+        "name": "BMW X7",
+        "price": "1.33 - 1.4 Crore",
+        "url": "/bmw-cars/x7"
+      },
+      {
+        "name": "Maserati Grecale",
+        "price": "1.49 - 2.33 Crore",
+        "url": "/maserati-cars/grecale"
+      },
+      {
+        "name": "Rolls-Royce Cullinan",
+        "price": "1.19 - 7.9 Crore",
+        "url": "/rolls-royce-cars/cullinan"
+      },
+      {
+        "name": "Maserati Levante",
+        "price": "1.61 - 1.82 Crore",
+        "url": "/maserati-cars/levante"
+      },
+      {
+        "name": "Volvo XC90",
+        "price": "1.13 Crore",
+        "url": "/volvo-cars/xc90"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.38 - 2.75 Crore",
+          "₹ 1.33 - 1.4 Crore",
+          "₹ 1.49 - 2.33 Crore",
+          "₹ 1.19 - 7.9 Crore",
+          "₹ 1.61 - 1.82 Crore",
+          "₹ 1.13 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.9",
+          "9.0",
+          "-",
+          "8.8",
+          "8.5",
+          "7.6"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2997 cc",
+          "2998 CC",
+          "1998 CC",
+          "6751 CC",
+          "2979 CC",
+          "1969 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "10 KM/L",
+          "11.29 - 14.31 KM/L",
+          "9.2 KM/L",
+          "7 KM/L",
+          "7.2 - 12.6 KM/L",
+          "11.04 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol",
+          "Petrol, Diesel",
+          "Hybrid"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "7 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "86.0 L",
+          "80.0 L",
+          "64.0 L",
+          "100.0 L",
+          "80.0 L",
+          "71.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "4",
+          "3",
+          "3",
+          "3",
+          "6",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Range Rover Sport vs X7",
+          "Range Rover Sport vs Grecale",
+          "Range Rover Sport vs Cullinan",
+          "Range Rover Sport vs Levante",
+          "Range Rover Sport vs XC90"
+        ]
+      }
+    ]
+  }
+}

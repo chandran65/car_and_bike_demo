@@ -1,0 +1,261 @@
+{
+  "basic_info": {
+    "name": "Kia Carnival",
+    "manufacturer": "Kia",
+    "model": "Carnival",
+    "body_type": null,
+    "url": "https://www.carandbike.com/kia-cars/carnival",
+    "image_url": "https://images.carandbike.com/car-images/large/kia/carnival/kia-carnival.jpg?v=32",
+    "description": "Kia Carnival is a 7-seater  available at a starting price of Rs. 59.42 Lakh. The car is available in 1 variants, with 1 engine and 1 transmission option. Additionally, Carnival offers a Ground Clearance measurement of 180 mm and a Boot capacity of 540 liters. You can choose from 2 colors for the Carnival. The mileage of the Carnival varies from 13.9 KM/L depending on the model.",
+    "model_date": "2020-02-05",
+    "sku": "kia-carnival-1602",
+    "vin": "5NPEL4AB3BH001602",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2151 cc",
+    "power": "190 bhp @ 3800 rpm bhp",
+    "torque": "441 Nm @ 1750-2750 rpm Nm",
+    "fuel_type": "Diesel"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Diesel",
+    "efficiency": "13 KM/L"
+  },
+  "dimensions": {
+    "width": "1995 mm ",
+    "height": "1775 mm",
+    "weight": "1995/1995",
+    "seating_capacity": "7",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Glacier White Pearl",
+    "Fusion Black"
+  ],
+  "price": {
+    "value": "5942459",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/kia-cars/carnival"
+  },
+  "brand": {
+    "name": "Kia",
+    "image": "https://images.carandbike.com/car-images/big/kia/kia.png?v=1"
+  },
+  "rating": {
+    "value": "8.0",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Captain Seats In Limousine Variant Is A Must Buy",
+    "Great Ride Quality",
+    "Diesel-Automatic Combination Is Great"
+  ],
+  "cons": [
+    "Poor Safety On Lower Variants",
+    "Low Ground Clearance",
+    "9-Seater Variant Offers Little Practicality"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "13.9 KM/L",
+      "city_mileage": "14.5 KM/L",
+      "highway_mileage": "11 KM/L"
+    }
+  ],
+  "whats_new": {
+    "Introduction": [
+      "The Kia Carnival is a premium family MPV designed to offer spacious and comfortable seating.",
+      "This makes it an ideal vehicle for large families or business use.",
+      "Comfort is the unique selling point of the Carnival as it offers VIP lounge second-row seats with adjustments and more.",
+      "It also boasts advanced tech features like big digital displays for the driver and infotainment, ADAS, and a Bose audio system.",
+      "All in all, the Carnival focuses on a comfortable and stable ride than outright performance."
+    ],
+    "Exterior": [
+      "The Carnival’s tall plus wide face with a big patterned grille and sharp lights give it a confident look amongst boxy MPVs.",
+      "Then, the slim LED headlights offer bright visibility during night drives.",
+      "From the side, it looks long and stretched out, with large doors and big windows.",
+      "Its size in itself makes it clear that it is built to carry several people comfortably.",
+      "Then, pillars around the windows are partly blacked out, so the roof seems to float above the glass.",
+      "The rear looks neat and upright, with a wide tailgate that opens to reveal a big boot.",
+      "Slim LED tail lamps run across the back, giving it a clean and modern look.It has large alloy wheels that fill the wheel arches, complementing the premium design.",
+      "Furthermore, the side doors are sliding doors, powered to open and close at the touch of a button.",
+      "At the back, the boot door is also powered, so it can lift itself automatically.",
+      "Moreover, the luxury MPV also gets roof rails, a sleek little shark fin antenna, and a dual sunroof in other variants."
+    ],
+    "Interior": [
+      "Step inside the Carnival, and you’ll notice the dashboard has large 12.3-inch digital screens side-by-side, like twin computer monitors.",
+      "These displays show maps, speed, and entertainment for the driver and passenger.",
+      "Driver and front passenger seats adjust eight-way electrically, with heating and cooling fans.",
+      "Its centre console has a wide middle storage area between front seats holds phones, cups, and small items.",
+      "Furthermore, this console also features wireless charging pads, USB plugs, and armrests for resting your elbow.",
+      "The second-row seats recline with footrests that pop up, plus heating, ventilation, and 14-way power adjustments.",
+      "Ample legroom and headroom fit adults comfortably in all rows, with rear air conditioning vents and controls for each zone.",
+      "There are foldable seats as well that expand cargo area for additional space for bags or gear.",
+      "While the 64-colour ambient lighting adds some colour, the dual sunroofs above front and rear rows open for fresh air and an open view."
+    ],
+    "Powertrain": [
+      "The Carnival is powered by a 2.2-litre diesel engine producing 202.77bhp and 441Nm of torque.",
+      "This mill comes mated to an eight-speed automatic transmission and offers a front wheel drive system.",
+      "Furthermore, the Carnival offers a claimed mileage of 14.85kmpl."
+    ]
+  },
+  "verdict": "Pros",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Kia Carnival",
+        "price": "59.42 Lakh",
+        "url": "/kia-cars/carnival"
+      },
+      {
+        "name": "Toyota Fortuner",
+        "price": "33.65 - 48.85 Lakh",
+        "url": "/toyota-cars/fortuner"
+      },
+      {
+        "name": "Toyota Innova Crysta",
+        "price": "18.1 - 25.37 Lakh",
+        "url": "/toyota-cars/innova-crysta"
+      },
+      {
+        "name": "Mercedes-Benz C-Class",
+        "price": "61 - 68 Lakh",
+        "url": "/mercedes-benz-cars/c-class"
+      },
+      {
+        "name": "Lexus ES",
+        "price": "62.65 - 68.23 Lakh",
+        "url": "/lexus-cars/es"
+      },
+      {
+        "name": "Jeep Grand Cherokee",
+        "price": "63 Lakh",
+        "url": "/jeep-cars/grand-cherokee"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 59.42 Lakh",
+          "₹ 33.65 - 48.85 Lakh",
+          "₹ 18.1 - 25.37 Lakh",
+          "₹ 61 - 68 Lakh",
+          "₹ 62.65 - 68.23 Lakh",
+          "₹ 63 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.0",
+          "8.3",
+          "7.7",
+          "8.1",
+          "6.5",
+          "8.1"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2151 cc",
+          "2694 CC",
+          "2393 CC",
+          "1496 CC",
+          "2487 CC",
+          "1998 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Manual",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "13 KM/L",
+          "10.26 - 14.22 KM/L",
+          "15.1 KM/L",
+          "14.49 - 23 KM/L",
+          "22.58 KM/L",
+          "8.61 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Diesel",
+          "Petrol, Diesel",
+          "Diesel",
+          "Petrol, Diesel",
+          "Hybrid",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "7 Seater",
+          "7 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "72.0 L",
+          "80.0 L",
+          "55.0 L",
+          "66.0 L",
+          "50.0 L",
+          "93.5 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "14",
+          "22",
+          "3",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Carnival vs Fortuner",
+          "Carnival vs Innova Crysta",
+          "Carnival vs C-Class",
+          "Carnival vs ES",
+          "Carnival vs Grand Cherokee"
+        ]
+      }
+    ]
+  }
+}

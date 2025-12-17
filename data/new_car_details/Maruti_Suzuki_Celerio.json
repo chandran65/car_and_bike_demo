@@ -1,0 +1,242 @@
+{
+  "basic_info": {
+    "name": "Maruti Suzuki Celerio",
+    "manufacturer": "Maruti Suzuki",
+    "model": "Celerio",
+    "body_type": "Hatchback",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/celerio",
+    "image_url": "https://images.carandbike.com/car-images/large/maruti-suzuki/celerio/maruti-suzuki-celerio.jpg?v=63",
+    "description": "Maruti Suzuki Celerio is a 5-seater Hatchback available at a starting price of Rs. 4.7 Lakh. The car is available in 8 variants, with 1 engine and 2 transmission option. Additionally, Celerio offers a Ground Clearance measurement of 165 mm and a Boot capacity of 313 liters. You can choose from 6 colors for the Celerio. The mileage of the Celerio varies from 25.2 KM/L depending on the model.",
+    "model_date": "2021-11-10",
+    "sku": "maruti-suzuki-celerio-1354",
+    "vin": "5NPEL4AB3BH001354",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "998 cc",
+    "power": "65.71 bhp @ 5500 rpm bhp",
+    "torque": "89 Nm @ 3500 rpm Nm",
+    "fuel_type": "Petrol, Petrol+CNG"
+  },
+  "transmission": "Manual, AMT",
+  "fuel": {
+    "type": "Petrol, Petrol+CNG",
+    "efficiency": "24 - 26 KM/L"
+  },
+  "dimensions": {
+    "width": "1655 mm ",
+    "height": "1555 mm",
+    "weight": "800/825",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Speedy Blue",
+    "Fire Red",
+    "Caffeine Brown",
+    "White",
+    "Glistening Grey",
+    "Silky Silver"
+  ],
+  "price": {
+    "value": "469900",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/celerio"
+  },
+  "brand": {
+    "name": "Maruti Suzuki",
+    "image": "https://images.carandbike.com/car-images/big/maruti-suzuki/maruti-suzuki.png?v=1"
+  },
+  "rating": {
+    "value": "6.5",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Excellent Mileage",
+    "Above-Average Safety",
+    "Affordability"
+  ],
+  "cons": [
+    "Lackluster Performance",
+    "Less Powerful Than Rivals",
+    "Lack Of Features"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "25.2 KM/L",
+      "city_mileage": "22 KM/L",
+      "highway_mileage": "24 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "AMT",
+      "mileage": "26.7 KM/L",
+      "city_mileage": "22 KM/L",
+      "highway_mileage": "24 KM/L"
+    },
+    {
+      "fuel_type": "Petrol+CNG",
+      "transmission": "Manual",
+      "mileage": "25.2 KM/L",
+      "city_mileage": "24 KM/L",
+      "highway_mileage": "26 KM/L"
+    }
+  ],
+  "verdict": "The new-gen Celerio charms you with the space, engine refinement and even the ride quality it has to offer, and even the price in fact because it is very competitive. But does it go the extra mile to convince you that it's the one to go for. From where we stand not really, because more could have been done, especially on the safety and features. However, the Celerio will still sell by the dozens and that's because of the value offering it has, may it be in the service department or brand equity.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Maruti Suzuki Celerio",
+        "price": "4.7 - 6.73 Lakh",
+        "url": "/maruti-suzuki-cars/celerio"
+      },
+      {
+        "name": "Maruti Suzuki Swift",
+        "price": "5.79 - 8.65 Lakh",
+        "url": "/maruti-suzuki-cars/swift"
+      },
+      {
+        "name": "Citroen C3",
+        "price": "4.8 - 9.05 Lakh",
+        "url": "/citroen-cars/c3"
+      },
+      {
+        "name": "Tata Tiago",
+        "price": "4.57 - 7.82 Lakh",
+        "url": "/tata-cars/tiago"
+      },
+      {
+        "name": "Renault Kwid",
+        "price": "4.29 - 5.9 Lakh",
+        "url": "/renault-cars/kwid"
+      },
+      {
+        "name": "Hyundai Grand i10 Nios",
+        "price": "5.47 - 7.92 Lakh",
+        "url": "/hyundai-cars/grand-i10-nios"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 4.7 - 6.73 Lakh",
+          "₹ 5.79 - 8.65 Lakh",
+          "₹ 4.8 - 9.05 Lakh",
+          "₹ 4.57 - 7.82 Lakh",
+          "₹ 4.29 - 5.9 Lakh",
+          "₹ 5.47 - 7.92 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "6.5",
+          "8.0",
+          "8.4",
+          "8.2",
+          "8.0",
+          "8.5"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "998 cc",
+          "1197 CC",
+          "1198 CC",
+          "1199 CC",
+          "999 CC",
+          "1197 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, AMT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "24 - 26 KM/L",
+          "20.4 - 30 KM/L",
+          "19.4 - 19.8 KM/L",
+          "20 - 24 KM/L",
+          "22 - 23 KM/L",
+          "20.2 - 20.7 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Petrol+CNG",
+          "Petrol, CNG",
+          "Petrol",
+          "Petrol, CNG",
+          "Petrol",
+          "Petrol, CNG"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "32.0 L",
+          "37.0 L",
+          "30.0 L",
+          "35.0 L",
+          "28.0 L",
+          "37.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "8",
+          "13",
+          "6",
+          "13",
+          "12",
+          "16"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Celerio vs Swift",
+          "Celerio vs C3",
+          "Celerio vs Tiago",
+          "Celerio vs Kwid",
+          "Celerio vs Grand i10 Nios"
+        ]
+      }
+    ]
+  }
+}

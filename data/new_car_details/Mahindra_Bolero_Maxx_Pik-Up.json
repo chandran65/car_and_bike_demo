@@ -1,0 +1,229 @@
+{
+  "basic_info": {
+    "name": "Mahindra Bolero Maxx Pik-Up",
+    "manufacturer": "Mahindra",
+    "model": "Bolero Maxx Pik-Up",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/mahindra-cars/bolero-pik-up",
+    "image_url": "https://images.carandbike.com/car-images/large/mahindra/bolero-pik-up/mahindra-bolero-pik-up.jpg?v=14",
+    "description": "Mahindra Bolero Maxx Pik-Up is a 2-seater SUV available at a starting price of Rs. 9.28 Lakh. The car is available in 18 variants, with 2 engine and 1 transmission option. Additionally, Bolero Maxx Pik-Up offers a Ground Clearance measurement of 200 mm. You can choose from 1 colors for the Bolero Maxx Pik-Up. The mileage of the Bolero Maxx Pik-Up varies from 13 KM/L depending on the model.",
+    "model_date": "2016-04-27",
+    "sku": "mahindra-bolero-maxx-pik-up-1481",
+    "vin": "5NPEL4AB3BH001481",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2523 cc",
+    "power": "70,80 bhp",
+    "torque": "200,220 Nm",
+    "fuel_type": "Diesel, Petrol+CNG"
+  },
+  "transmission": "Manual",
+  "fuel": {
+    "type": "Diesel, Petrol+CNG",
+    "efficiency": "13 KM/L"
+  },
+  "dimensions": {
+    "width": "1700 mm ",
+    "height": "1800 mm",
+    "weight": "1715/1715",
+    "seating_capacity": "2",
+    "number_of_doors": "2"
+  },
+  "colors": [
+    "Pearl White"
+  ],
+  "price": {
+    "value": "927552",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mahindra-cars/bolero-pik-up"
+  },
+  "brand": {
+    "name": "Mahindra",
+    "image": "https://images.carandbike.com/car-images/big/mahindra/mahindra.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Powerful diesel engine",
+    "Lower operating costs",
+    "Good payload and ground clearance"
+  ],
+  "cons": [
+    "Interiors need improvement",
+    "Lacks refinement"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Manual",
+      "mileage": "13 KM/L",
+      "city_mileage": "15 KM/L",
+      "highway_mileage": "17 KM/L"
+    },
+    {
+      "fuel_type": "Petrol+CNG",
+      "transmission": "Manual",
+      "mileage": "13 KM/L",
+      "city_mileage": "15 KM/L",
+      "highway_mileage": "17 KM/L"
+    }
+  ],
+  "verdict": "Pros",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mahindra Bolero Maxx Pik-Up",
+        "price": "7.77 - 10.58 Lakh",
+        "url": "/mahindra-cars/bolero-pik-up"
+      },
+      {
+        "name": "Isuzu D-Max",
+        "price": "10.14 - 20.35 Lakh",
+        "url": "/isuzu-cars/d-max"
+      },
+      {
+        "name": "Tata Safari",
+        "price": "14.66 - 25.96 Lakh",
+        "url": "/tata-cars/safari"
+      },
+      {
+        "name": "Force Motors Gurkha",
+        "price": "19.46 - 20.92 Lakh",
+        "url": "/force-motors-cars/gurkha"
+      },
+      {
+        "name": "Isuzu D-Max V-Cross",
+        "price": "19.73 - 35.97 Lakh",
+        "url": "/isuzu-cars/d-max-v-cross"
+      },
+      {
+        "name": "Toyota Hilux",
+        "price": "28.02 - 35.37 Lakh",
+        "url": "/toyota-cars/hilux"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 7.77 - 10.58 Lakh",
+          "₹ 10.14 - 20.35 Lakh",
+          "₹ 14.66 - 25.96 Lakh",
+          "₹ 19.46 - 20.92 Lakh",
+          "₹ 19.73 - 35.97 Lakh",
+          "₹ 28.02 - 35.37 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "7.5",
+          "5.5",
+          "6.1",
+          "7.0",
+          "7.8"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2523 cc",
+          "2499 CC",
+          "1956 CC",
+          "2596 CC",
+          "1898 CC",
+          "2755 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "13 KM/L",
+          "14 KM/L",
+          "16.14 KM/L",
+          "15 KM/L",
+          "14.4 KM/L",
+          "12.6 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Diesel, Petrol+CNG",
+          "Diesel",
+          "Diesel",
+          "Diesel",
+          "Diesel",
+          "Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "2 Seater",
+          "2 Seater",
+          "7 Seater",
+          "4 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "57.0 L",
+          "55.0 L",
+          "50.0 L",
+          "63.5 L",
+          "55.0 L",
+          "80.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "18",
+          "6",
+          "24",
+          "2",
+          "5",
+          "4"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Bolero Pik-Up vs D-Max",
+          "Bolero Pik-Up vs Safari",
+          "Bolero Pik-Up vs Gurkha",
+          "Bolero Pik-Up vs D-Max V-Cross",
+          "Bolero Pik-Up vs Hilux"
+        ]
+      }
+    ]
+  }
+}

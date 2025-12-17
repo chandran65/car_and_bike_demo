@@ -1,0 +1,70 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+
+# Development and testing
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.cursor/
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# Documentation and planning
+docs/
+*.md
+!README.md
+
+# Demo and test files
+demos/
+tests/
+test_*.py
+experiment-notebooks/
+
+# Scripts (unless needed)
+scripts/
+consolidate_faqs.py
+extract_*.py
+main.py
+test_mahindra_bot.py
+test_simple.py
+test_output_summary.txt
+
+# Environment and config
+.env
+.env.*
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Makefile (development only)
+Makefile
+
+# Include data directory and FAQ embeddings cache
+!data/
+!.temp/
+!.temp/faq_embeddings.json

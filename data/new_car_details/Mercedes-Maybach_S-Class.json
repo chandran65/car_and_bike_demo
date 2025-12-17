@@ -1,0 +1,244 @@
+{
+  "basic_info": {
+    "name": "Mercedes-Maybach S-Class",
+    "manufacturer": "Mercedes-Maybach",
+    "model": "S-Class",
+    "body_type": "Sedan",
+    "url": "https://www.carandbike.com/mercedes-maybach-cars/s-class",
+    "image_url": "https://images.carandbike.com/car-images/large/mercedes-maybach/s-class/mercedes-maybach-s-class.jpg?v=33",
+    "description": "Mercedes-Maybach S-Class is a 4-seater Sedan available at a starting price of Rs. 2.9 Crore. The car is available in 2 variants, with 2 engine and 1 transmission option. Additionally, S-Class offers a Ground Clearance measurement of 109 mm and a Boot capacity of 500 liters. You can choose from 18 colors for the S-Class. The mileage of the S-Class varies from 7.2 KM/L depending on the model.",
+    "model_date": "2022-03-03",
+    "sku": "mercedes-maybach-s-class-1508",
+    "vin": "5NPEL4AB3BH001508",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "3982,5980 cc",
+    "power": "496 bhp",
+    "torque": "700,900 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "7 KM/L"
+  },
+  "dimensions": {
+    "width": "2109 mm ",
+    "height": "1510 mm",
+    "weight": "2245/2360",
+    "seating_capacity": "4",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "Emerald Green / Mojave Silver",
+    "Rubellite Red / designo Kalahari Gold Metallic",
+    "Onyx Black / designo Kalahari Gold Metallic",
+    "Obsidian Black / Rubellite Red",
+    "Obsidian Black / Selenite Grey",
+    "Obsidian Black / High-tech Silver",
+    "Nautic Blue / High-tech Silver",
+    "High-tech Silver / Selenite Grey",
+    "Mojave Silver / Onyx Black",
+    "Designo Diamond White Bright / Obsidian Black",
+    "Designo Selenite Grey Magno",
+    "Designo Patagonia Red Bright",
+    "Designo Cashmere White Magno",
+    "Designo Kalahari Gold Metallic",
+    "Onyx Black",
+    "Designo Diamond White Bright",
+    "Nautic Blue",
+    "Emerald Green"
+  ],
+  "price": {
+    "value": "29000000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mercedes-maybach-cars/s-class"
+  },
+  "brand": {
+    "name": "Mercedes-Maybach",
+    "image": "https://images.carandbike.com/car-images/big/mercedes-maybach/mercedes-maybach.png?v=1"
+  },
+  "rating": {
+    "value": "6.6",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Still One Of The Best Cars On The Planet",
+    "Loaded With Tech And Features",
+    "Excellent Space And Comfort",
+    "&nbsp;",
+    "&nbsp;"
+  ],
+  "cons": [
+    "No Amg Package For Locally Assembled Models",
+    "No 4Matic Awd For Diesel Variants",
+    "Locally Assembled S Class Gets A De-Tuned Diesel Engine",
+    "&nbsp;",
+    "&nbsp;"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "7.2 KM/L",
+      "city_mileage": "7.5 KM/L",
+      "highway_mileage": "10.1 KM/L"
+    }
+  ],
+  "verdict": "The new-gen Mercedes-Benz S-Class is a huge step up and even the locally assembled India-spec flagship sedan is not skimmed-off. It now gets new headlamps with individual modules which have million pixels inside that in combination with multi-beam LED headlamps along with ultra-range high beam offers a 650 metre of illumination. The S-Class has always been an elegant sedan and looks classy, no matter what generation it belongs to.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mercedes-Maybach S-Class",
+        "price": "2.9 - 3.67 Crore",
+        "url": "/mercedes-maybach-cars/s-class"
+      },
+      {
+        "name": "Mercedes-AMG S 63 E Performance",
+        "price": "3.34 Crore",
+        "url": "/mercedes-amg-cars/s-63-e-performance"
+      },
+      {
+        "name": "BMW 7 Series",
+        "price": "1.93 - 2.01 Crore",
+        "url": "/bmw-cars/7-series"
+      },
+      {
+        "name": "Maserati Quattroporte",
+        "price": "1.89 - 2.91 Crore",
+        "url": "/maserati-cars/quattroporte"
+      },
+      {
+        "name": "Mercedes-Benz S-Class",
+        "price": "1.88 - 1.99 Crore",
+        "url": "/mercedes-benz-cars/s-class"
+      },
+      {
+        "name": "Bentley Flying Spur",
+        "price": "6.1 Crore",
+        "url": "/bentley-cars/flying-spur"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 2.9 - 3.67 Crore",
+          "₹ 3.34 Crore",
+          "₹ 1.93 - 2.01 Crore",
+          "₹ 1.89 - 2.91 Crore",
+          "₹ 1.88 - 1.99 Crore",
+          "₹ 6.1 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "6.6",
+          "-",
+          "7.7",
+          "7.6",
+          "8.6",
+          "8.2"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "3982,5980 cc",
+          "3982 CC",
+          "2998 CC",
+          "2979 CC",
+          "2925 CC",
+          "3993 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "7 KM/L",
+          "9.5 KM/L",
+          "12.61 - 14 KM/L",
+          "7.9 - 10.7 KM/L",
+          "10.1 - 13.5 KM/L",
+          "10.2 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Hybrid",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Hybrid"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "4 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "70.0 L",
+          "N/A",
+          "72.0 L",
+          "70.0 L",
+          "70.0 L",
+          "90.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "1",
+          "2",
+          "7",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "S-Class vs S 63 E Performance",
+          "S-Class vs 7 Series",
+          "S-Class vs Quattroporte",
+          "S-Class vs S-Class",
+          "S-Class vs Flying Spur"
+        ]
+      }
+    ]
+  }
+}

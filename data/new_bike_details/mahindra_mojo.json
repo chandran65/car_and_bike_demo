@@ -1,0 +1,83 @@
+{
+    "basic_info": {
+        "name": "Mahindra Mojo 300 ABS",
+        "manufacturer": "Mahindra Two Wheelers",
+        "model": "Mojo 300 ABS",
+        "body_type": "Tourer",
+        "description": "Mahindra Mojo is a sports tourer designed for long-distance riding comfort and stability. It features a robust engine and a unique headlamp design.",
+        "sku": "MH-MOJO-300"
+    },
+    "price": {
+        "value": 208000,
+        "currency": "INR",
+        "availability": "Discontinued"
+    },
+    "brand": {
+        "name": "Mahindra"
+    },
+    "engine": {
+        "displacement": [
+            {
+                "value": 294.7,
+                "unit": "cc"
+            }
+        ],
+        "power": [
+            {
+                "value": 25.35,
+                "unit": "bhp",
+                "rpm": "7300"
+            }
+        ],
+        "torque": [
+            {
+                "value": 25.96,
+                "unit": "Nm",
+                "rpm": "6000"
+            }
+        ],
+        "fuel_type": [
+            "Petrol"
+        ]
+    },
+    "fuel": {
+        "type": [
+            "Petrol"
+        ],
+        "efficiency": {
+            "value": 30,
+            "unit": "kmpl",
+            "type": "fuel"
+        }
+    },
+    "transmission": [
+        "6-Speed Manual"
+    ],
+    "dimensions": {
+        "seat_height": {
+            "value": 815,
+            "unit": "mm"
+        },
+        "fuel_tank_capacity": {
+            "value": 21,
+            "unit": "L"
+        },
+        "ground_clearance": {
+            "value": 165,
+            "unit": "mm"
+        },
+        "weight": {
+            "kerb_weight": 186
+        }
+    },
+    "colors": [
+        "Black Pearl",
+        "Ruby Red",
+        "Garnet Black"
+    ],
+    "rating": {
+        "value": 7.8,
+        "best": 10
+    },
+    "verdict": "A solid tourer with great highway stability and huge tank range, though it feels a bit dated against modern competition."
+}

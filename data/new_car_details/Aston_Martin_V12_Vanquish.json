@@ -1,0 +1,234 @@
+{
+  "basic_info": {
+    "name": "Aston Martin V12 Vanquish",
+    "manufacturer": "Aston Martin",
+    "model": "V12 Vanquish",
+    "body_type": "Sedan",
+    "url": "https://www.carandbike.com/aston-martin-cars/v12-vanquish",
+    "image_url": "https://images.carandbike.com/car-images/large/aston-martin/v12-vanquish/aston-martin-v12-vanquish.jpg?v=44",
+    "description": "Aston Martin V12 Vanquish is a 2-seater Sedan available at a starting price of Rs. 8.37 Crore. The car is available in 1 variants, with 1 engine and 1 transmission option. Additionally, V12 Vanquish offers a Ground Clearance measurement of 147 mm. You can choose from 32 colors for the V12 Vanquish. The mileage of the V12 Vanquish varies from 12.8 KM/L depending on the model.",
+    "model_date": "2025-03-22",
+    "sku": "aston-martin-v12-vanquish-1319",
+    "vin": "5NPEL4AB3BH001319",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "5935 cc",
+    "power": "568 bhp",
+    "torque": "630 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "12 KM/L"
+  },
+  "dimensions": {
+    "width": "2067 mm ",
+    "height": "1294 mm",
+    "weight": "1739/1739",
+    "seating_capacity": "2",
+    "number_of_doors": "2"
+  },
+  "colors": [
+    "Xenon Grey",
+    "Volcano Red Metallic",
+    "Ultra Yellow",
+    "Ultramarine Black",
+    "Satin Titanium Grey",
+    "Synapse Orange",
+    "Supernova Red",
+    "Strom Purple",
+    "Scorpus red",
+    "Satin Xenon Grey",
+    "Titanium Gery",
+    "Satin Onyx Black",
+    "Quantum Silver",
+    "Plasma Blue",
+    "Onyx Black",
+    "Oberon Black",
+    "Mako Blue",
+    "Magnetic Silver",
+    "Liquid Crimson",
+    "Lime Essence",
+    "Jet Black",
+    "Iridescent Emerald",
+    "Ion Blue",
+    "Hyper Red",
+    "Elwood Blue",
+    "Digital Violet",
+    "Cumberland Grey",
+    "Cosmos Orange",
+    "Concours Blue",
+    "Gery",
+    "Caribbean Blue",
+    "Buckinghamshire-Green"
+  ],
+  "price": {
+    "value": 83716216,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/aston-martin-cars/v12-vanquish"
+  },
+  "brand": {
+    "name": "Aston Martin",
+    "image": "https://images.carandbike.com/car-images/big/aston-martin/aston-martin.png?v=1"
+  },
+  "rating": {
+    "value": "7.4",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Aston Martin V12 Vanquish",
+        "price": "8.37 Crore",
+        "url": "/aston-martin-cars/v12-vanquish"
+      },
+      {
+        "name": "Ferrari 12Cilindri",
+        "price": "8.5 - 9.15 Crore",
+        "url": "/ferrari-cars/12cilindri"
+      },
+      {
+        "name": "Lamborghini Revuelto",
+        "price": "8.7 Crore",
+        "url": "/lamborghini-cars/revuelto"
+      },
+      {
+        "name": "Ferrari 296 GTS",
+        "price": "5.9 Crore",
+        "url": "/ferrari-cars/296-gts"
+      },
+      {
+        "name": "Ferrari 296 GTB",
+        "price": "5.11 Crore",
+        "url": "/ferrari-cars/296-gtb"
+      },
+      {
+        "name": "Bentley Continental",
+        "price": "3.77 - 5.03 Crore",
+        "url": "/bentley-cars/continental"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 8.37 Crore",
+          "₹ 8.5 - 9.15 Crore",
+          "₹ 8.7 Crore",
+          "₹ 5.9 Crore",
+          "₹ 5.11 Crore",
+          "₹ 3.77 - 5.03 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.4",
+          "-",
+          "-",
+          "-",
+          "-",
+          "8.1"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "5935 cc",
+          "6496 CC",
+          "6498 CC",
+          "2996 CC",
+          "2996 CC",
+          "3993 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "12 KM/L",
+          "0 KM/L",
+          "10 KM/L",
+          "12.5 KM/L",
+          "15.62 KM/L",
+          "8.5 - 10.62 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Hybrid",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "2 Seater",
+          "2 Seater",
+          "2 Seater",
+          "2 Seater",
+          "2 Seater",
+          "4 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "78.0 L",
+          "N/A",
+          "90.0 L",
+          "65.0 L",
+          "65.0 L",
+          "90.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "2",
+          "1",
+          "1",
+          "1",
+          "8"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "V12 Vanquish vs 12Cilindri",
+          "V12 Vanquish vs Revuelto",
+          "V12 Vanquish vs 296 GTS",
+          "V12 Vanquish vs 296 GTB",
+          "V12 Vanquish vs Continental"
+        ]
+      }
+    ]
+  }
+}

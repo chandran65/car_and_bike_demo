@@ -1,0 +1,234 @@
+{
+  "basic_info": {
+    "name": "Mercedes-Benz E-Class",
+    "manufacturer": "Mercedes-Benz",
+    "model": "E-Class",
+    "body_type": null,
+    "url": "https://www.carandbike.com/mercedes-benz-cars/e-class",
+    "image_url": "https://images.carandbike.com/car-images/large/mercedes-benz/e-class/mercedes-benz-e-class.jpg?v=19",
+    "description": "Mercedes-Benz E-Class is a 5-seater  available at a starting price of Rs. 83 Lakh. The car is available in 3 variants, with 2 engine and 1 transmission option. Additionally, E-Class offers a Ground Clearance measurement of 123 mm and a Boot capacity of 540 liters. You can choose from 5 colors for the E-Class. The mileage of the E-Class varies from 12.1 KM/L depending on the model.",
+    "model_date": "2024-10-09",
+    "sku": "mercedes-benz-e-class-1151",
+    "vin": "5NPEL4AB3BH001151",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1950,1991 cc",
+    "power": "192,194 bhp",
+    "torque": "320,400 Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "12 KM/L"
+  },
+  "dimensions": {
+    "width": "1860 mm ",
+    "height": "1494 mm",
+    "weight": "1720/1720",
+    "seating_capacity": "5",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "Selenite Grey",
+    "Obsidian Black",
+    "Mojave Silver",
+    "High Tech Silver",
+    "Designo Hyacinth Red"
+  ],
+  "price": {
+    "value": 8300000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mercedes-benz-cars/e-class"
+  },
+  "brand": {
+    "name": "Mercedes-Benz",
+    "image": "https://images.carandbike.com/car-images/big/mercedes-benz/mercedes-benz.png?v=1"
+  },
+  "rating": {
+    "value": "7.8",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Spacious And Comfortable Cabin",
+    "Gets A Host Of Smart Features",
+    "Offered In Both Petrol And Diesel Options"
+  ],
+  "cons": [
+    "Ex-showroom price of the car is on the higher side compared to segment offerings",
+    "It is only offered in the long wheelbase version",
+    "The colour options offered on the E-Class are not exciting"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "12.1 KM/L",
+      "city_mileage": "9 KM/L",
+      "highway_mileage": "13 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "12.1 KM/L",
+      "city_mileage": "9 KM/L",
+      "highway_mileage": "13 KM/L"
+    }
+  ],
+  "verdict": "The new E-Class debuts with comprehensive changes on exterior styling and design, significant interior updates along with the integration of latest new-generation NTG 6 telematics and of course the MBUX system, which makes it a connected car. Prices of the E-Class top out at ₹ 80.9 lakh (ex-showroom India). The rear has been newly designed and the new split tail light design gives it a fresh appeal.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mercedes-Benz E-Class",
+        "price": "83 - 96.9 Lakh",
+        "url": "/mercedes-benz-cars/e-class"
+      },
+      {
+        "name": "BMW 6 Series Gran Turismo",
+        "price": "79.04 - 86.72 Lakh",
+        "url": "/bmw-cars/6-series-gran-turismo"
+      },
+      {
+        "name": "BMW 5 Series",
+        "price": "77.81 Lakh",
+        "url": "/bmw-cars/5-series"
+      },
+      {
+        "name": "Audi S5",
+        "price": "73.57 - 80.5 Lakh",
+        "url": "/audi-cars/s5"
+      },
+      {
+        "name": "BMW 3 Series",
+        "price": "65.01 - 79.53 Lakh",
+        "url": "/bmw-cars/3-series"
+      },
+      {
+        "name": "Audi A6",
+        "price": "63.74 - 70.79 Lakh",
+        "url": "/audi-cars/a6"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 83 - 96.9 Lakh",
+          "₹ 79.04 - 86.72 Lakh",
+          "₹ 77.81 Lakh",
+          "₹ 73.57 - 80.5 Lakh",
+          "₹ 65.01 - 79.53 Lakh",
+          "₹ 63.74 - 70.79 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.8",
+          "8.0",
+          "8.0",
+          "7.9",
+          "8.2",
+          "7.6"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1950,1991 cc",
+          "1998 CC",
+          "1998 CC",
+          "2995 CC",
+          "2998 CC",
+          "1984 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "12 KM/L",
+          "13.32 - 18.65 KM/L",
+          "15.56 KM/L",
+          "13 KM/L",
+          "16.13 KM/L",
+          "14.11 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "80.0 L",
+          "68.0 L",
+          "68.0 L",
+          "58.0 L",
+          "59.0 L",
+          "73.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "3",
+          "4",
+          "1",
+          "2",
+          "3",
+          "4"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "E-Class vs 6 Series Gran Turismo",
+          "E-Class vs 5 Series",
+          "E-Class vs S5",
+          "E-Class vs 3 Series",
+          "E-Class vs A6"
+        ]
+      }
+    ]
+  }
+}

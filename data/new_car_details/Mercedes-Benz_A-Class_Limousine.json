@@ -1,0 +1,235 @@
+{
+  "basic_info": {
+    "name": "Mercedes-Benz A-Class Limousine",
+    "manufacturer": "Mercedes-Benz",
+    "model": "A-Class Limousine",
+    "body_type": "Sedan",
+    "url": "https://www.carandbike.com/mercedes-benz-cars/a-class-limousine",
+    "image_url": "https://images.carandbike.com/car-images/large/mercedes-benz/a-class-limousine/mercedes-benz-a-class-limousine.jpg?v=14",
+    "description": "Mercedes-Benz A-Class Limousine is a 5-seater Sedan available at a starting price of Rs. 46.05 Lakh. The car is available in 2 variants, with 2 engine and 1 transmission option. Additionally, A-Class Limousine offers a Ground Clearance measurement of 160 mm and a Boot capacity of 405 liters. You can choose from 6 colors for the A-Class Limousine. The mileage of the A-Class Limousine varies from 17.5 - 20 KM/L depending on the model.",
+    "model_date": "2021-03-25",
+    "sku": "mercedes-benz-a-class-limousine-1628",
+    "vin": "5NPEL4AB3BH001628",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1332,1950 cc",
+    "power": "150,163 bhp",
+    "torque": "270,320 Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "17 - 20 KM/L"
+  },
+  "dimensions": {
+    "width": "1992 mm ",
+    "height": "1446 mm",
+    "weight": "1395/1395",
+    "seating_capacity": "5",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "Polar White",
+    "Mojave Silver",
+    "Mountain Grey",
+    "Denim Blue",
+    "Cosmos Black",
+    "Iridium Silver"
+  ],
+  "price": {
+    "value": 4605000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mercedes-benz-cars/a-class-limousine"
+  },
+  "brand": {
+    "name": "Mercedes-Benz",
+    "image": "https://images.carandbike.com/car-images/big/mercedes-benz/mercedes-benz.png?v=1"
+  },
+  "rating": {
+    "value": "8.2",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Premium And Compact Design",
+    "Smart Interior And Tech",
+    "Comes In Both Petrol And Diesel Options"
+  ],
+  "cons": [
+    "Rear Seat Space Not The Best",
+    "Engine Performance Feels Just About Adequate",
+    "Driving Dynamics Could Be Better"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "17.5 KM/L",
+      "city_mileage": "14 KM/L",
+      "highway_mileage": "17 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "20 KM/L",
+      "city_mileage": "20 KM/L",
+      "highway_mileage": "21 KM/L"
+    }
+  ],
+  "verdict": "The A- Class Limousine, is the company's entry level offering in the luxury space and it gives all of those aspiring to get into the space a chance to get there. It is the longest car in its segment. The car is feature rich and has great room for rear seat occupants. The only gripes being the boot space and thigh support. With all this in the kitty, the A -Class Limo comes dressed to impress and yes adds more than a 1000 points to your lifestyle quotient!",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mercedes-Benz A-Class Limousine",
+        "price": "46.05 - 48.55 Lakh",
+        "url": "/mercedes-benz-cars/a-class-limousine"
+      },
+      {
+        "name": "Audi A4",
+        "price": "46.25 - 55.11 Lakh",
+        "url": "/audi-cars/a4"
+      },
+      {
+        "name": "Toyota Camry",
+        "price": "47.48 - 47.62 Lakh",
+        "url": "/toyota-cars/camry"
+      },
+      {
+        "name": "Skoda Octavia RS",
+        "price": "49.99 Lakh",
+        "url": "/skoda-cars/octavia-rs"
+      },
+      {
+        "name": "Mercedes-Benz C-Class",
+        "price": "61 - 68 Lakh",
+        "url": "/mercedes-benz-cars/c-class"
+      },
+      {
+        "name": "Lexus ES",
+        "price": "62.65 - 68.23 Lakh",
+        "url": "/lexus-cars/es"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 46.05 - 48.55 Lakh",
+          "₹ 46.25 - 55.11 Lakh",
+          "₹ 47.48 - 47.62 Lakh",
+          "₹ 49.99 Lakh",
+          "₹ 61 - 68 Lakh",
+          "₹ 62.65 - 68.23 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.2",
+          "7.5",
+          "7.4",
+          "-",
+          "8.1",
+          "6.5"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1332,1950 cc",
+          "1984 CC",
+          "2487 CC",
+          "1984 CC",
+          "1496 CC",
+          "2487 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "17 - 20 KM/L",
+          "17.84 KM/L",
+          "25 KM/L",
+          "0 KM/L",
+          "14.49 - 23 KM/L",
+          "22.58 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Petrol",
+          "Hybrid",
+          "Petrol",
+          "Petrol, Diesel",
+          "Hybrid"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "66.0 L",
+          "54.0 L",
+          "50.0 L",
+          "50.0 L",
+          "66.0 L",
+          "50.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "5",
+          "4",
+          "1",
+          "3",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "A-Class Limousine vs A4",
+          "A-Class Limousine vs Camry",
+          "A-Class Limousine vs Octavia RS",
+          "A-Class Limousine vs C-Class",
+          "A-Class Limousine vs ES"
+        ]
+      }
+    ]
+  }
+}

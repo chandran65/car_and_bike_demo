@@ -1,0 +1,221 @@
+{
+  "basic_info": {
+    "name": "Mercedes-Benz GLE",
+    "manufacturer": "Mercedes-Benz",
+    "model": "GLE",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/mercedes-benz-cars/gle-class",
+    "image_url": "https://images.carandbike.com/car-images/large/mercedes-benz/gle-class/mercedes-benz-gle-class.jpg?v=23",
+    "description": "Mercedes-Benz GLE is a 5-seater SUV available at a starting price of Rs. 1.03 Crore. The car is available in 3 variants, with 2 engine and 1 transmission option. Additionally, GLE offers a Boot capacity of 630 liters. You can choose from 5 colors for the GLE. The mileage of the GLE varies from 9 - 9.7 KM/L depending on the model.",
+    "model_date": "2023-11-02",
+    "sku": "mercedes-benz-gle-1423",
+    "vin": "5NPEL4AB3BH001423",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1993,2989,2999 cc",
+    "power": "269,367,381 bhp",
+    "torque": "500,550,750 Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "9 - 9 KM/L"
+  },
+  "dimensions": {
+    "width": "2157 mm ",
+    "height": "1797 mm",
+    "weight": "2310/2310",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Sodalite Blue",
+    "Selerite Grey",
+    "Polar White",
+    "Obsidian Black",
+    "High Tech Silver"
+  ],
+  "price": {
+    "value": "10300000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mercedes-benz-cars/gle-class"
+  },
+  "brand": {
+    "name": "Mercedes-Benz",
+    "image": "https://images.carandbike.com/car-images/big/mercedes-benz/mercedes-benz.png?v=1"
+  },
+  "rating": {
+    "value": "7.9",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Comes packed with technology",
+    "Gets a whole bunch of segment first features",
+    "Loaded with tech and features"
+  ],
+  "cons": [
+    "Dated interiors",
+    "Because of the size of the car, there's a lot of body roll",
+    "The GLE is expensive"
+  ],
+  "expert_review": {
+    "design_styling": "While retaining its signature look, the GLE now boasts a more aerodynamic and sleek design. The front fascia, seemingly inspired by the X-Class pick-up truck, showcases an octagonal radiator grille adorned with a chrome-plated under guard, while the bonnet proudly flaunts the power dome character line. Its multi-beam LED headlamps promise visibility for over 650 meters. The extended wheelbase, 80mm more than its predecessor, complements the novel design and looks proportionate as expected. Offered with diverse tire sizes ranging from 19 to 22 inches, its rear design exudes compactness with rounded contours and slender LED tail lamps."
+  },
+  "verdict": "The fourth-generation Mercedes-Benz GLE surpasses its predecessor in every dimension, offering enhanced capability, cutting-edge technology, agility, and aesthetics. Mercedes-Benz has meticulously refined every aspect, introducing numerous segment-first features. It strikes the perfect balance between sophistication and ruggedness, blending elegance with robustness seamlessly. The interior is lavishly appointed, meeting high specifications and equipped with an array of gadgets and creature comforts to satisfy even the most discerning and desirous. It's a vehicle that doesn't just meet expectations but redefines them.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mercedes-Benz GLE",
+        "price": "1.03 - 1.2 Crore",
+        "url": "/mercedes-benz-cars/gle-class"
+      },
+      {
+        "name": "Volvo XC60",
+        "price": "76.29 Lakh",
+        "url": "/volvo-cars/xc60"
+      },
+      {
+        "name": "BMW X3",
+        "price": "75.55 - 79.27 Lakh",
+        "url": "/bmw-cars/x3"
+      },
+      {
+        "name": "Land Rover Discovery Sport",
+        "price": "72.05 - 73.63 Lakh",
+        "url": "/land-rover-cars/discovery-sport"
+      },
+      {
+        "name": "Lexus NX",
+        "price": "66.59 - 73.4 Lakh",
+        "url": "/lexus-cars/nx"
+      },
+      {
+        "name": "Lexus RX",
+        "price": "89.99 Lakh - 1.09 Crore",
+        "url": "/lexus-cars/rx"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.03 - 1.2 Crore",
+          "₹ 76.29 Lakh",
+          "₹ 75.55 - 79.27 Lakh",
+          "₹ 72.05 - 73.63 Lakh",
+          "₹ 66.59 - 73.4 Lakh",
+          "₹ 89.99 Lakh - 1.09 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.9",
+          "7.0",
+          "7.5",
+          "7.3",
+          "7.1",
+          "6.4"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1993,2989,2999 cc",
+          "1969 CC",
+          "1998 CC",
+          "1997 CC",
+          "2487 CC",
+          "2487 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "9 - 9 KM/L",
+          "13 KM/L",
+          "13.17 - 18.56 KM/L",
+          "10.68 - 14.12 KM/L",
+          "18.3 KM/L",
+          "18.8 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Hybrid",
+          "Hybrid"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "93.0 L",
+          "71.0 L",
+          "60.0 L",
+          "70.0 L",
+          "56.0 L",
+          "65.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "3",
+          "1",
+          "2",
+          "2",
+          "4",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "GLE-Class vs XC60",
+          "GLE-Class vs X3",
+          "GLE-Class vs Discovery Sport",
+          "GLE-Class vs NX",
+          "GLE-Class vs RX"
+        ]
+      }
+    ]
+  }
+}

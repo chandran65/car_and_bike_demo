@@ -1,0 +1,293 @@
+{
+  "basic_info": {
+    "name": "Nissan Magnite",
+    "manufacturer": "Nissan",
+    "model": "Magnite",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/nissan-cars/magnite",
+    "image_url": "https://images.carandbike.com/car-images/large/nissan/magnite/nissan-magnite.jpg?v=43",
+    "description": "Nissan Magnite is a 5-seater SUV available at a starting price of Rs. 5.62 Lakh. The car is available in 40 variants, with 2 engine and 3 transmission option. Additionally, Magnite offers a Ground Clearance measurement of 205 mm and a Boot capacity of 690 liters. You can choose from 13 colors for the Magnite. The mileage of the Magnite varies from 19.7 KM/L depending on the model.",
+    "model_date": "2024-10-04",
+    "sku": "nissan-magnite-1632",
+    "vin": "5NPEL4AB3BH001632",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "999 cc",
+    "power": "71 bhp @ 6250 rpm,99 bhp",
+    "torque": "160,96 Nm @ 3400 -3600 rpm Nm",
+    "fuel_type": "Petrol, Petrol+CNG"
+  },
+  "transmission": "Manual, AMT, CVT",
+  "fuel": {
+    "type": "Petrol, Petrol+CNG",
+    "efficiency": "19 - 20 KM/L"
+  },
+  "dimensions": {
+    "width": "1758 mm ",
+    "height": "1572 mm",
+    "weight": "1014/1103",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Blade Silver Onyx black",
+    "Vivid Blue",
+    "Vivid Blue Onyx Black",
+    "Sunrise Copper Orange with onyx black",
+    "Sunrise Copper Orange",
+    "Strom White",
+    "Pearl White",
+    "Pearl White With Onyx Black",
+    "Onyx Black",
+    "Metallic Grey",
+    "Flare Garnet Red",
+    "Flare Garnet Red/Onyx Black",
+    "Blade Silver"
+  ],
+  "price": {
+    "value": "561643",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/nissan-cars/magnite"
+  },
+  "brand": {
+    "name": "Nissan",
+    "image": "https://images.carandbike.com/car-images/big/nissan/nissan.png?v=1"
+  },
+  "rating": {
+    "value": "8.1",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Extremely Value For Money",
+    "Loaded On Features",
+    "Spacious Cabin"
+  ],
+  "cons": [
+    "Interior Quality Could Be Better",
+    "No Automatic On 1.0-Litre Na Motor",
+    "Ride Quality Is Stiff"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "AMT",
+      "mileage": "19.7 KM/L",
+      "city_mileage": "14 KM/L",
+      "highway_mileage": "22 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "19.7 KM/L",
+      "city_mileage": "14 KM/L",
+      "highway_mileage": "22 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "CVT",
+      "mileage": "19.7 KM/L",
+      "city_mileage": "14 KM/L",
+      "highway_mileage": "22 KM/L"
+    },
+    {
+      "fuel_type": "Petrol+CNG",
+      "transmission": "AMT",
+      "mileage": "19.7 KM/L",
+      "city_mileage": "14 KM/L",
+      "highway_mileage": "22 KM/L"
+    }
+  ],
+  "whats_new": {
+    "Introduction": [
+      "The Magnite is a subcompact crossover SUV offering both style and function.",
+      "It is designed for the budget-conscious segment of buyers who still want something more than a hatchback,",
+      "The Magnite is Nissan’s smallest SUV globally, even smaller than the Juke which is available abroad.",
+      "The Magnite competes with other small crossovers and some affordable sub-four metre compact SUVs.",
+      "This crossover SUV offers both manual and automatic transmissions, with the latter’s USP being CVT."
+    ],
+    "Exterior": [
+      "It has a bold and sporty front with a large chrome-accented grille that gives it a strong visual impact on the road.",
+      "The headlamps are sleek LED projector types, complemented by sharp daytime running lights which enhance visibility.",
+      "While the front bumper features a silver skid plate, the black body claddings give it a different appeal.",
+      "Moreover, it rides on stylish dual-tone 16-inch alloy wheels that boost its sporty stance.",
+      "At the rear, there are distinctive boomerang-shaped LED tail lamps, an integrated high-mounted stop lamp, and a sporty spoiler."
+    ],
+    "Interior": [
+      "Step inside the Magnite, which despite being a compact SUV has a surprisingly spacious cabin with comfortable front seats.",
+      "Its cabin is designed to accommodate five passengers and has decent rear space, although longer trips might feel a bit tight in the second row.",
+      "The interior makes a generous use of soft-touch leatherette materials on the dashboard and door trims.",
+      "The dashboard features an eight-inch touchscreen infotainment system and a seven-inch fully digital driver’s display.",
+      "Additionally, the driver’s display shows a little more than just essential info like speed, fuel levels, RPM, and TPMS as well.",
+      "The leatherette-wrapped steering wheel comes with practical buttons for audio and cruise control.",
+      "For comfort, it offers automatic climate control, rear air-conditioning vents, and an air quality control system.",
+      "Then, there’s a cooled glovebox to keep your snacks or drinks cool.",
+      "Safety is well addressed with features like six airbags, tyre pressure monitoring system, a 360-degree camera, etc.",
+      "The higher variants get a dual-tone upholstery with quilted seating patterns, and the rear seats have a centre armrest as well.",
+      "Additional interior features include ambient lighting with four colour options, multiple USB charging ports, and more."
+    ],
+    "Powertrain": [
+      "Nissan offers the Magnite in two engine options, both are one-litre three-cylinder engines.",
+      "The first one is a naturally aspirated mill that produces 71bhp and 96Nm of torque.",
+      "Then, the other is a turbocharged unit that churns 99bhp and 152Nm of torque.",
+      "Notably, the latter turbo-power model gets either a five-speed manual gearbox or a smoother CVT.",
+      "Meanwhile, the naturally aspirated engine comes mated to either a five-speed manual or automatic transmission.",
+      "Both engines offer a FWD (forward wheel drive)."
+    ]
+  },
+  "verdict": "The Nissan Magnite captures the spotlight among SUV enthusiasts with its contemporary and sophisticated design. This compact SUV stands out, not just for its sleek exterior but also for its rich array of features. Anticipations suggest that the Magnite may outperform its competitors in terms of value, potentially positioning it as a dominant contender in the subcompact segment. However, it's worth noting that additional costs may apply for certain enhancements, including sim-based telematics and the tech-pack.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Nissan Magnite",
+        "price": "5.62 - 10.76 Lakh",
+        "url": "/nissan-cars/magnite"
+      },
+      {
+        "name": "Hyundai Venue",
+        "price": "7.9 - 15.69 Lakh",
+        "url": "/hyundai-cars/venue"
+      },
+      {
+        "name": "Tata Punch",
+        "price": "5.5 - 9.3 Lakh",
+        "url": "/tata-cars/punch"
+      },
+      {
+        "name": "Hyundai Exter",
+        "price": "5.49 - 9.57 Lakh",
+        "url": "/hyundai-cars/exter"
+      },
+      {
+        "name": "Renault Kiger",
+        "price": "6.14 - 11.73 Lakh",
+        "url": "/renault-cars/kiger"
+      },
+      {
+        "name": "Kia Sonet",
+        "price": "7.3 - 14.09 Lakh",
+        "url": "/kia-cars/sonet"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 5.62 - 10.76 Lakh",
+          "₹ 7.9 - 15.69 Lakh",
+          "₹ 5.5 - 9.3 Lakh",
+          "₹ 5.49 - 9.57 Lakh",
+          "₹ 6.14 - 11.73 Lakh",
+          "₹ 7.3 - 14.09 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.1",
+          "8.3",
+          "7.9",
+          "7.0",
+          "8.1",
+          "8.4"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "999 cc",
+          "1197 CC",
+          "1199 CC",
+          "1197 CC",
+          "999 CC",
+          "1197 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, AMT, CVT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "19 - 20 KM/L",
+          "18.34 - 21 KM/L",
+          "18.9 - 20 KM/L",
+          "19.4 - 27 KM/L",
+          "20 KM/L",
+          "18.4 - 24.1 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Petrol+CNG",
+          "Petrol, Diesel",
+          "Petrol, CNG",
+          "Petrol, CNG",
+          "Petrol",
+          "Petrol, Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "40.0 L",
+          "45.0 L",
+          "37.0 L",
+          "37.0 L",
+          "40.0 L",
+          "45.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "40",
+          "25",
+          "31",
+          "31",
+          "15",
+          "24"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Magnite vs Venue",
+          "Magnite vs Punch",
+          "Magnite vs Exter",
+          "Magnite vs Kiger",
+          "Magnite vs Sonet"
+        ]
+      }
+    ]
+  }
+}

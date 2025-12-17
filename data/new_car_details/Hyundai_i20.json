@@ -1,0 +1,70 @@
+{
+  "basic_info": {
+    "name": "i20",
+    "manufacturer": null,
+    "model": "New i20",
+    "body_type": null,
+    "url": null,
+    "image_url": "https://images.carandbike.com/car-images/large/hyundai/new-i20/hyundai-new-i20.jpg?v=9",
+    "description": "",
+    "model_date": "2026-02-13",
+    "sku": "i20-1366",
+    "vin": "5NPEL4AB3BH001366",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {},
+  "transmission": null,
+  "fuel": {
+    "type": null,
+    "efficiency": null
+  },
+  "dimensions": {
+    "width": null,
+    "height": null,
+    "weight": null,
+    "seating_capacity": 5,
+    "number_of_doors": 4
+  },
+  "colors": [],
+  "price": {
+    "value": 800000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": null
+  },
+  "brand": {
+    "name": "Hyundai",
+    "image": null
+  },
+  "whats_new": {
+    "Introduction": [
+      "Hyundai is working on the fourth-generation i20.",
+      "It has been sighted on tests in Europe several times and now started testing in India as well.",
+      "This premium hatchback is expected to feature a completely new design.",
+      "Moreover, it will come with ICE and hybrid powertrains."
+    ],
+    "Exterior": [
+      "Despite the heavy camouflage, the spyshots reveal some interesting design elements of the new i20.",
+      "The new-gen model is likely to feature a redesigned fascia.",
+      "It will be equipped with horizontal LED headlamps with integrated LED DRLs.",
+      "Then, there's a new grille and even the bumpers have been reworked.",
+      "Unlike the current-gen hatchback, the next-gen i20 gets a flat roofline with a shark fin antenna.",
+      "And the most prominent change is that its riding on a new set of two-tone alloy wheels.",
+      "The carmaker has altered the ORVMs as well with a sleeker look."
+    ],
+    "Interior": [
+      "The new-gen i20 will come equipped with modern creature comforts.",
+      "We expect it to feature the curved display trending these days.",
+      "It will house dual screens for the infotainment and even the instrument cluster.",
+      "On the safety front too, we can expect new equipment including a 360-degree camera and an ADAS suite."
+    ],
+    "Powertrain": [
+      "The new i20 is expected to be offered with petrol engine options like the current version.",
+      "But the latest addition to the line-up would be the option of a mild-hybrid petrol engine.",
+      "Moreover, if rumours are to be believed, there could also be a pure-electric version in the works too.",
+      "Other Upcoming Hyundai Models are theAll Electric Micro SUV,Nexo,New Verna,Ioniq 6,MPVandPalisade"
+    ]
+  },
+  "verdict": "The Hyundai Elite i20 is a family dependable premium hatchback. It is absolutely reliable and comfortable. With all the features it has to offer, it sets itself apart in that department, and that turbo engine makes it a pocket rocket for sure. It ticks all the right boxes in the ride and handling department, but is that enough to stay ahead in that segment? We think, it's enough to call it the new benchmark!"
+}

@@ -1,0 +1,205 @@
+{
+  "basic_info": {
+    "name": "MINI Cooper S 2025",
+    "manufacturer": "MINI",
+    "model": "Cooper S 2025",
+    "body_type": "Hatchback",
+    "url": "https://www.carandbike.com/mini-cars/cooper-s-2024",
+    "image_url": "https://images.carandbike.com/car-images/large/mini/cooper-s-2024/mini-cooper-s-2024.jpg?v=7",
+    "description": "MINI Cooper S 2025 is a 5-seater Hatchback available at a starting price of Rs. 49.68 Lakh. The car is available in 4 variants, with 1 engine and 1 transmission option. Additionally, Cooper S 2025 offers a Ground Clearance measurement of 146 mm and a Boot capacity of 211 liters. You can choose from 3 colors for the Cooper S 2025. The mileage of the Cooper S 2025 varies from 17.3 KM/L depending on the model.",
+    "model_date": "2024-07-24",
+    "sku": "mini-cooper-s-2025-1801",
+    "vin": "5NPEL4AB3BH001801",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1998 cc",
+    "power": "201 bhp",
+    "torque": "300 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "17 KM/L"
+  },
+  "dimensions": {
+    "width": "1822 mm ",
+    "height": "1557 mm",
+    "weight": "1250/1250",
+    "seating_capacity": "5",
+    "number_of_doors": "3"
+  },
+  "colors": [
+    "Nanuq White",
+    "British Racing Green",
+    "Ocean Wave Green"
+  ],
+  "price": {
+    "value": 4968322,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mini-cars/cooper-s-2024"
+  },
+  "brand": {
+    "name": "MINI",
+    "image": "https://images.carandbike.com/car-images/big/mini/mini.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "MINI Cooper S 2025",
+        "price": "41.34 - 50.77 Lakh",
+        "url": "/mini-cars/cooper-s-2024"
+      },
+      {
+        "name": "Volkswagen Golf GTI",
+        "price": "50.91 Lakh",
+        "url": "/volkswagen-cars/golf-gti"
+      },
+      {
+        "name": "Hyundai i20 N Line",
+        "price": "9.14 - 11.6 Lakh",
+        "url": "/hyundai-cars/i20-n-line"
+      },
+      {
+        "name": "Tata Altroz",
+        "price": "6.91 - 11.81 Lakh",
+        "url": "/tata-cars/altroz"
+      },
+      {
+        "name": "Hyundai Elite i20",
+        "price": "6.87 - 10.52 Lakh",
+        "url": "/hyundai-cars/elite-i20"
+      },
+      {
+        "name": "Toyota Glanza",
+        "price": "6.39 - 9.15 Lakh",
+        "url": "/toyota-cars/glanza"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 41.34 - 50.77 Lakh",
+          "₹ 50.91 Lakh",
+          "₹ 9.14 - 11.6 Lakh",
+          "₹ 6.91 - 11.81 Lakh",
+          "₹ 6.87 - 10.52 Lakh",
+          "₹ 6.39 - 9.15 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "7.9",
+          "8.8",
+          "8.2",
+          "7.7"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1998 cc",
+          "1984 CC",
+          "998 CC",
+          "1199 CC",
+          "1197 CC",
+          "1197 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "17 KM/L",
+          "16.34 KM/L",
+          "20.25 KM/L",
+          "19 - 25.11 KM/L",
+          "19.65 - 20.35 KM/L",
+          "22.35 - 22.94 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Diesel, Petrol, CNG",
+          "Petrol",
+          "Petrol, CNG"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "61.0 L",
+          "45.0 L",
+          "37.0 L",
+          "37.0 L",
+          "37.0 L",
+          "37.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "4",
+          "1",
+          "8",
+          "10",
+          "18",
+          "9"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Cooper S 2024 vs Golf GTI",
+          "Cooper S 2024 vs i20 N Line",
+          "Cooper S 2024 vs Altroz",
+          "Cooper S 2024 vs Elite i20",
+          "Cooper S 2024 vs Glanza"
+        ]
+      }
+    ]
+  }
+}

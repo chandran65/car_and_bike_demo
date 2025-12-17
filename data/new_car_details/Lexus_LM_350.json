@@ -1,0 +1,206 @@
+{
+  "basic_info": {
+    "name": "Lexus LM 350",
+    "manufacturer": "Lexus",
+    "model": "LM 350",
+    "body_type": "MUV",
+    "url": "https://www.carandbike.com/lexus-cars/lm",
+    "image_url": "https://images.carandbike.com/car-images/large/lexus/lm/lexus-lm.jpg?v=8",
+    "description": "Lexus LM 350 is a 4,7-seater MUV available at a starting price of Rs. 2.15 Crore. The car is available in 2 variants, with 1 engine and 1 transmission option. Additionally, LM 350 offers a Ground Clearance measurement of 160 mm. You can choose from 4 colors for the LM 350. The mileage of the LM 350 varies from 11.5 KM/L depending on the model.",
+    "model_date": "2023-12-02",
+    "sku": "lexus-lm-350-1751",
+    "vin": "5NPEL4AB3BH001751",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "3456 cc",
+    "power": "6000 bhp",
+    "torque": "4500 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "11 KM/L"
+  },
+  "dimensions": {
+    "width": "1850 mm ",
+    "height": "1895 mm",
+    "weight": "2185/2185",
+    "seating_capacity": "4,7",
+    "number_of_doors": "4,5"
+  },
+  "colors": [
+    "Sonic Agate",
+    "Sonic Quartz",
+    "Graphite Black Glass Flake",
+    "Sonic Titanium"
+  ],
+  "price": {
+    "value": 21538000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/lexus-cars/lm"
+  },
+  "brand": {
+    "name": "Lexus",
+    "image": "https://images.carandbike.com/car-images/big/lexus/lexus.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Lexus LM 350",
+        "price": "2.15 - 2.69 Crore",
+        "url": "/lexus-cars/lm"
+      },
+      {
+        "name": "Toyota Vellfire",
+        "price": "1.2 - 1.3 Crore",
+        "url": "/toyota-cars/vellfire"
+      },
+      {
+        "name": "Kia Carnival",
+        "price": "59.42 Lakh",
+        "url": "/kia-cars/carnival"
+      },
+      {
+        "name": "Toyota Innova Crysta",
+        "price": "18.1 - 25.37 Lakh",
+        "url": "/toyota-cars/innova-crysta"
+      },
+      {
+        "name": "Toyota Innova Hycross",
+        "price": "18.06 - 30.93 Lakh",
+        "url": "/toyota-cars/innova-hycross"
+      },
+      {
+        "name": "Force Motors Trax Cruiser",
+        "price": "16.24 - 17.9 Lakh",
+        "url": "/force-motors-cars/trax-cruiser"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 2.15 - 2.69 Crore",
+          "₹ 1.2 - 1.3 Crore",
+          "₹ 59.42 Lakh",
+          "₹ 18.1 - 25.37 Lakh",
+          "₹ 18.06 - 30.93 Lakh",
+          "₹ 16.24 - 17.9 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "6.8",
+          "8.0",
+          "7.7",
+          "8.7",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "3456 cc",
+          "2494 CC",
+          "2151 CC",
+          "2393 CC",
+          "1987 CC",
+          "2596 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Manual",
+          "Automatic",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "11 KM/L",
+          "19.28 KM/L",
+          "13.9 KM/L",
+          "15.1 KM/L",
+          "16.13 - 23.24 KM/L",
+          "14 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Hybrid",
+          "Diesel",
+          "Diesel",
+          "Petrol, Hybrid",
+          "Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "4,7 Seater",
+          "7 Seater",
+          "7 Seater",
+          "7 Seater",
+          "7 Seater",
+          "10 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "60.0 L",
+          "60.0 L",
+          "72.0 L",
+          "55.0 L",
+          "52.0 L",
+          "63.5 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "2",
+          "1",
+          "22",
+          "25",
+          "4"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "LM vs Vellfire",
+          "LM vs Carnival",
+          "LM vs Innova Crysta",
+          "LM vs Innova Hycross",
+          "LM vs Trax Cruiser"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_info": {
+    "name": "Renault Kiger",
+    "manufacturer": "Renault",
+    "model": "Kiger",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/renault-cars/kiger",
+    "image_url": "https://images.carandbike.com/car-images/large/renault/kiger/renault-kiger.jpg?v=23",
+    "description": "Renault Kiger is a 5-seater SUV available at a starting price of Rs. 6.14 Lakh. The car is available in 15 variants, with 2 engine and 3 transmission option. Additionally, Kiger offers a Ground Clearance measurement of 205 mm and a Boot capacity of 405 liters. You can choose from 5 colors for the Kiger. The mileage of the Kiger varies from 20 KM/L depending on the model.",
+    "model_date": "2025-02-17",
+    "sku": "renault-kiger-1612",
+    "vin": "5NPEL4AB3BH001612",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "999 cc",
+    "power": "71 @ 6250,99 @ 5000 bhp",
+    "torque": "152 @ 2200-4400,96 @ 3500 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Manual, AMT, CVT",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "20 KM/L"
+  },
+  "dimensions": {
+    "width": "1912 mm ",
+    "height": "1605 mm",
+    "weight": "1012/1012",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Ice Cool White",
+    "Moonlight Silver",
+    "Caspian Blue",
+    "Radiant Red",
+    "Stealth Black"
+  ],
+  "price": {
+    "value": 614146,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/renault-cars/kiger"
+  },
+  "brand": {
+    "name": "Renault",
+    "image": "https://images.carandbike.com/car-images/big/renault/renault.png?v=1"
+  },
+  "rating": {
+    "value": "8.1",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Stylish Design",
+    "4-Star Safety Rating",
+    "Good Pricing"
+  ],
+  "cons": [
+    "Quality Issues",
+    "Engines Could Be More Powerful",
+    "No Connected Car Tech On Offer"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "20 KM/L",
+      "city_mileage": "17 KM/L",
+      "highway_mileage": "20 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "CVT",
+      "mileage": "20 KM/L",
+      "city_mileage": "17 KM/L",
+      "highway_mileage": "20 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "AMT",
+      "mileage": "20 KM/L",
+      "city_mileage": "17 KM/L",
+      "highway_mileage": "20 KM/L"
+    }
+  ],
+  "verdict": "The Renault Kiger makes a striking impression with its handsome, rugged appearance, and delivers a satisfactory driving experience accompanied by a sufficient array of features. Its high value-for-money quotient, attributed to competitive pricing and a diverse range of trim options, positions it favorably in the market. Despite the crowded subcompact SUV segment, the Kiger possesses the necessary attributes to carve out a niche for itself and stand out among its peers.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Renault Kiger",
+        "price": "5.76 - 10.34 Lakh",
+        "url": "/renault-cars/kiger"
+      },
+      {
+        "name": "Tata Nexon",
+        "price": "7.32 - 14.7 Lakh",
+        "url": "/tata-cars/nexon"
+      },
+      {
+        "name": "Nissan Magnite",
+        "price": "5.62 - 10.76 Lakh",
+        "url": "/nissan-cars/magnite"
+      },
+      {
+        "name": "Tata Punch",
+        "price": "5.5 - 9.3 Lakh",
+        "url": "/tata-cars/punch"
+      },
+      {
+        "name": "Hyundai Exter",
+        "price": "5.49 - 9.57 Lakh",
+        "url": "/hyundai-cars/exter"
+      },
+      {
+        "name": "Kia Sonet",
+        "price": "7.3 - 14.09 Lakh",
+        "url": "/kia-cars/sonet"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 5.76 - 10.34 Lakh",
+          "₹ 7.32 - 14.7 Lakh",
+          "₹ 5.62 - 10.76 Lakh",
+          "₹ 5.5 - 9.3 Lakh",
+          "₹ 5.49 - 9.57 Lakh",
+          "₹ 7.3 - 14.09 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.1",
+          "7.8",
+          "8.1",
+          "7.9",
+          "7.0",
+          "8.4"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "999 cc",
+          "1199 CC",
+          "999 CC",
+          "1199 CC",
+          "1197 CC",
+          "1197 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, AMT, CVT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "20 KM/L",
+          "17.8 - 23 KM/L",
+          "19.7 KM/L",
+          "18.9 - 20 KM/L",
+          "19.4 - 27 KM/L",
+          "18.4 - 24.1 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Diesel, Petrol, CNG",
+          "Petrol, CNG",
+          "Petrol, CNG",
+          "Petrol, CNG",
+          "Petrol, Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "40.0 L",
+          "44.0 L",
+          "40.0 L",
+          "37.0 L",
+          "37.0 L",
+          "45.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "15",
+          "28",
+          "25",
+          "31",
+          "31",
+          "24"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Kiger vs Nexon",
+          "Kiger vs Magnite",
+          "Kiger vs Punch",
+          "Kiger vs Exter",
+          "Kiger vs Sonet"
+        ]
+      }
+    ]
+  }
+}

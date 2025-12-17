@@ -1,0 +1,234 @@
+{
+  "basic_info": {
+    "name": "Lexus RX",
+    "manufacturer": "Lexus",
+    "model": "RX",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/lexus-cars/rx",
+    "image_url": "https://images.carandbike.com/car-images/large/lexus/rx/lexus-rx.jpg?v=37",
+    "description": "Lexus RX is a 5-seater SUV available at a starting price of Rs. 89.99 Lakh. The car is available in 2 variants, with 2 engine and 1 transmission option. Additionally, RX offers a Ground Clearance measurement of 195 mm and a Boot capacity of 438 liters. You can choose from 8 colors for the RX. The mileage of the RX varies from 18.8 KM/L depending on the model.",
+    "model_date": "2023-04-20",
+    "sku": "lexus-rx-1476",
+    "vin": "5NPEL4AB3BH001476",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2393,2487 cc",
+    "power": "183 bhp @ 6000 rpm,268 bhp @ 6000 rpm bhp",
+    "torque": "238Nm  @4300-4500rpm,460 Nm @2000-3000 rpm Nm",
+    "fuel_type": "Hybrid"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Hybrid",
+    "efficiency": "18 KM/L"
+  },
+  "dimensions": {
+    "width": "1920 mm ",
+    "height": "1695 mm",
+    "weight": "2120/2125",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Red Mica Crystal Shine",
+    "Graphite Black Glass Flake",
+    "Sonic Chrome",
+    "Sonic Titanium",
+    "Sonic Quartz",
+    "Deep Blue Mica",
+    "Sonic Iridium",
+    "Sonic Copper"
+  ],
+  "price": {
+    "value": 8999000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/lexus-cars/rx"
+  },
+  "brand": {
+    "name": "Lexus",
+    "image": "https://images.carandbike.com/car-images/big/lexus/lexus.png?v=1"
+  },
+  "rating": {
+    "value": "6.4",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Loaded With Tech And Features",
+    "Abundant Luxury",
+    "Good Driving Dynamics",
+    "&nbsp;"
+  ],
+  "cons": [
+    "Availability &amp; After Sales",
+    "Few Trims To Choose From",
+    "No Diesel Engine"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Hybrid",
+      "transmission": "Automatic",
+      "mileage": "18.8 KM/L",
+      "city_mileage": "16 KM/L",
+      "highway_mileage": "18 KM/L"
+    }
+  ],
+  "expert_review": {
+    "design_styling": "The aesthetic appeal of the Lexus RX450h is arresting right from the first glance. Take, for instance, the prominent X-shaped front grille, a defining element that’s not just a design feature but a statement. It demands attention, and yet, it’s seamlessly integrated into the vehicle’s overall façade, giving it an almost avant-garde feel. The flanks are sculpted, chiseled to precision, lending the SUV a muscular silhouette that complements its otherwise sleek design. The windows come with a steeply raked angle, making it appear as if the car has been cut from a single block of futuristic vision. LED lighting systems are a highlight on the vehicle’s exterior, not just serving a functional purpose but enhancing its luxurious and modern aura."
+  },
+  "verdict": "The RX450h is a comfortable long-distance cruiser; the ride deteriorates a bit with the F-Sport package, but the same package improves the somewhat cumbersome handling of the standard model. There is a suite of assistance and telematics systems, and the stereo system, in typical Lexus fashion, is top-notch. We wish the cabin were better isolated, but altogether, this is a solid and well-built performer.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Lexus RX",
+        "price": "89.99 Lakh - 1.09 Crore",
+        "url": "/lexus-cars/rx"
+      },
+      {
+        "name": "Mercedes-Benz GLC",
+        "price": "79.25 Lakh",
+        "url": "/mercedes-benz-cars/glc"
+      },
+      {
+        "name": "Volvo XC60",
+        "price": "76.29 Lakh",
+        "url": "/volvo-cars/xc60"
+      },
+      {
+        "name": "BMW X3",
+        "price": "75.55 - 79.27 Lakh",
+        "url": "/bmw-cars/x3"
+      },
+      {
+        "name": "Land Rover Range Rover Evoque",
+        "price": "73.75 - 75.37 Lakh",
+        "url": "/land-rover-cars/range-rover-evoque"
+      },
+      {
+        "name": "Land Rover Discovery Sport",
+        "price": "72.05 - 73.63 Lakh",
+        "url": "/land-rover-cars/discovery-sport"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 89.99 Lakh - 1.09 Crore",
+          "₹ 79.25 Lakh",
+          "₹ 76.29 Lakh",
+          "₹ 75.55 - 79.27 Lakh",
+          "₹ 73.75 - 75.37 Lakh",
+          "₹ 72.05 - 73.63 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "6.4",
+          "8.3",
+          "7.0",
+          "7.5",
+          "7.9",
+          "7.3"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2393,2487 cc",
+          "1993 CC",
+          "1969 CC",
+          "1998 CC",
+          "1997 CC",
+          "1997 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "18 KM/L",
+          "15 - 20 KM/L",
+          "13 KM/L",
+          "13.17 - 18.56 KM/L",
+          "10 - 15.68 KM/L",
+          "10.68 - 14.12 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Hybrid",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol, Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "7 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "65.0 L",
+          "62.0 L",
+          "71.0 L",
+          "60.0 L",
+          "68.0 L",
+          "70.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "2",
+          "1",
+          "2",
+          "2",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "RX vs GLC",
+          "RX vs XC60",
+          "RX vs X3",
+          "RX vs Range Rover Evoque",
+          "RX vs Discovery Sport"
+        ]
+      }
+    ]
+  }
+}

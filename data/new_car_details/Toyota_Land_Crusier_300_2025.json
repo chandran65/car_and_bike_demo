@@ -1,0 +1,214 @@
+{
+  "basic_info": {
+    "name": "Toyota Land Crusier 300 2025",
+    "manufacturer": "Toyota",
+    "model": "2025 Land Crusier 300",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/toyota-cars/land-cruiser",
+    "image_url": "https://images.carandbike.com/car-images/large/toyota/land-cruiser/toyota-land-cruiser.jpg?v=28",
+    "description": "Toyota Land Crusier 300 2025 is a 5-seater SUV available at a starting price of Rs. 2.16 Crore. The car is available in 2 variants, with 1 engine and 1 transmission option. Additionally, 2025 Land Crusier 300 offers a Ground Clearance measurement of 230 mm and a Boot capacity of 258 liters. You can choose from 2 colors for the 2025 Land Crusier 300. The mileage of the 2025 Land Crusier 300 varies from 11 KM/L depending on the model.",
+    "model_date": "2023-04-03",
+    "sku": "toyota-land-crusier-300-2025-1216",
+    "vin": "5NPEL4AB3BH001216",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "3346 cc",
+    "power": "304 @4000 Rpm bhp",
+    "torque": "700 Nm @ 1600 - 2600 rpm Nm",
+    "fuel_type": "Diesel"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Diesel",
+    "efficiency": "11 KM/L"
+  },
+  "dimensions": {
+    "width": "1990 mm ",
+    "height": "1955 mm",
+    "weight": "2725/2725",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Attitude Black",
+    "Precious White Pearl"
+  ],
+  "price": {
+    "value": 21560000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/toyota-cars/land-cruiser"
+  },
+  "brand": {
+    "name": "Toyota",
+    "image": "https://images.carandbike.com/car-images/big/toyota/toyota.png?v=1"
+  },
+  "rating": {
+    "value": "5.7",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "mileage_details": [
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "11 KM/L",
+      "city_mileage": "8 KM/L",
+      "highway_mileage": "11 KM/L"
+    }
+  ],
+  "verdict": "Toyota Land Crusier 300 2025 mileage is 11 KM/L as per ARAI The Automatic Diesel engine has a mileage of 11 KM/L.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Toyota 2025 Land Crusier 300",
+        "price": "2.16 - 2.25 Crore",
+        "url": "/toyota-cars/land-cruiser"
+      },
+      {
+        "name": "Land Rover Range Rover",
+        "price": "2.31 - 4.66 Crore",
+        "url": "/land-rover-cars/range-rover"
+      },
+      {
+        "name": "Mercedes-Benz G-Class",
+        "price": "2.38 - 2.9 Crore",
+        "url": "/mercedes-benz-cars/g-class"
+      },
+      {
+        "name": "Porsche Cayenne",
+        "price": "1.69 - 2.36 Crore",
+        "url": "/porsche-cars/cayenne"
+      },
+      {
+        "name": "Maserati Levante",
+        "price": "1.61 - 1.82 Crore",
+        "url": "/maserati-cars/levante"
+      },
+      {
+        "name": "Maserati Grecale",
+        "price": "1.49 - 2.33 Crore",
+        "url": "/maserati-cars/grecale"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 2.16 - 2.25 Crore",
+          "₹ 2.31 - 4.66 Crore",
+          "₹ 2.38 - 2.9 Crore",
+          "₹ 1.69 - 2.36 Crore",
+          "₹ 1.61 - 1.82 Crore",
+          "₹ 1.49 - 2.33 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "5.7",
+          "7.7",
+          "8.2",
+          "8.0",
+          "8.5",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "3346 cc",
+          "2997 CC",
+          "2925 CC",
+          "2996 CC",
+          "2979 CC",
+          "1998 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "11 KM/L",
+          "12.8 - 21 KM/L",
+          "13.9 KM/L",
+          "9.2 - 11.23 KM/L",
+          "7.2 - 12.6 KM/L",
+          "9.2 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Diesel",
+          "Diesel, Hybrid, Petrol",
+          "Diesel",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "80.0 L",
+          "85.0 L",
+          "93.0 L",
+          "75.0 L",
+          "80.0 L",
+          "64.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "5",
+          "3",
+          "3",
+          "6",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Land Cruiser vs Range Rover",
+          "Land Cruiser vs G-Class",
+          "Land Cruiser vs Cayenne",
+          "Land Cruiser vs Levante",
+          "Land Cruiser vs Grecale"
+        ]
+      }
+    ]
+  }
+}

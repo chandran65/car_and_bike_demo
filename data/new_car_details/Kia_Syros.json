@@ -1,0 +1,246 @@
+{
+  "basic_info": {
+    "name": "Kia Syros",
+    "manufacturer": "Kia",
+    "model": "Syros",
+    "body_type": null,
+    "url": "https://www.carandbike.com/kia-cars/syros",
+    "image_url": "https://images.carandbike.com/car-images/large/kia/syros/kia-syros.jpg?v=13",
+    "description": "Kia Syros is a 5-seater  available at a starting price of Rs. 8.67 Lakh. The car is available in 13 variants, with 2 engine and 3 transmission option. Additionally, Syros offers a Boot capacity of 465 liters. You can choose from 8 colors for the Syros. The mileage of the Syros varies from 18 - 19 KM/L depending on the model.",
+    "model_date": "2025-02-01",
+    "sku": "kia-syros-1816",
+    "vin": "5NPEL4AB3BH001816",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1493,998 cc",
+    "power": "114 @ 4000 rpm,118 @ 6000 rpm bhp",
+    "torque": "172 @ 1500-4000 rpm,250 @1500 - 2750 rpm Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Manual, Automatic, DCT",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "18 - 20 KM/L"
+  },
+  "dimensions": {
+    "width": "1805 mm ",
+    "height": "1680 mm",
+    "weight": "",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Aurora Black Pearl",
+    "Pewter Olive",
+    "Imperial Blue",
+    "Sparkling Silver",
+    "Glacier White Pearl",
+    "Intense Red",
+    "Gravity Grey",
+    "Frost Blue"
+  ],
+  "price": {
+    "value": 867053,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/kia-cars/syros"
+  },
+  "brand": {
+    "name": "Kia",
+    "image": "https://images.carandbike.com/car-images/big/kia/kia.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "whats_new": {
+    "Introduction": [
+      "The Kia Syros is the latest sub-four metre SUV that is slotted between the Sonet and the Seltos.",
+      "This new compact SUV is based on a reinforced K1 platform.",
+      "Though it has a boxy design, inside, it promises space comparable to SUVs from a higher segment.",
+      "It is available across various powertrains, transmission options, and price points."
+    ],
+    "Exterior": [
+      "The Kia Syros doesn't look like any of its siblings in the India line-up.",
+      "And this polarising design will draw subjective opinions even if it’s a bold move from Kia.",
+      "Yet, there are some typical Kia design elements like the star map LED lights seen on more of its recent siblings.",
+      "It boasts these ice cube headlamps with DRLs next to it, which double up as side indicators.",
+      "The side profile shows off flush-fitting retractable door handles, thick B-pillars, and roof rails.",
+      "It gets flared wheel arches that house two-tone alloy wheels.",
+      "Even the tail lamps are vertically stacked, with DRLs on the topmost section and the main unit in the bumper.",
+      "Then, there's a silver slab-like faux skid plate finishing the look."
+    ],
+    "Interior": [
+      "Inside the Syros, its dashboard design is modern yet simple, with horizontal air-con vents and a huge 30-inch screen taking centre stage.",
+      "This 30-inch dual-screen layout houses a digital instrument cluster and a touchscreen infotainment system.",
+      "Notably, there's even a five-inch screen in between for the air-con controls.",
+      "Moreover, there's also this new flat-bottom steering wheel with an asymmetric Kia logo.",
+      "Other features offered on the Syros include an eight-speaker Harman Kardon sound system, wireless Android Auto and Apple CarPlay, and wireless charging.",
+      "Noteworthy mentions include ambient lighting, ventilated seats, connected car features with remote window ventilation, rear AC vents, and a rear sunshade among many other features.",
+      "On the safety front, the Syros is equipped with a plethora of safety equipment.",
+      "The Syros is feature-packed with a 360-degree camera, six airbags, ESC, hill-start, disc brakes on all four corners, and ADAS."
+    ],
+    "Powertrain": [
+      "The petrol Kia Syros is offered with a 1.0-litre turbo-petrol engine.",
+      "This mill produces 118bhp and 172Nm of torque.",
+      "It domes mated to either with a six-speed manual or a seven-speed dual-clutch transmission.",
+      "On the other hand, there's even a 1.5-litre diesel motor.",
+      "This unit churns out 114bhp and 250Nm of torque.",
+      "This oil-burner comes mated either to a six-speed manual or a six-speed automatic transmission."
+    ]
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Kia Syros",
+        "price": "8.67 - 15.94 Lakh",
+        "url": "/kia-cars/syros"
+      },
+      {
+        "name": "MG Astor",
+        "price": "9.65 - 15.36 Lakh",
+        "url": "/mg-cars/astor"
+      },
+      {
+        "name": "Maruti Suzuki Victoris",
+        "price": "10.5 - 19.99 Lakh",
+        "url": "/maruti-suzuki-cars/victoris"
+      },
+      {
+        "name": "Toyota Urban Cruiser Hyryder",
+        "price": "10.95 - 19.76 Lakh",
+        "url": "/toyota-cars/urban-cruiser-hyryder"
+      },
+      {
+        "name": "Honda Elevate",
+        "price": "11 - 16.67 Lakh",
+        "url": "/honda-cars/elevate"
+      },
+      {
+        "name": "Maruti Suzuki Grand Vitara",
+        "price": "11.03 - 19.66 Lakh",
+        "url": "/maruti-suzuki-cars/grand-vitara"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 8.67 - 15.94 Lakh",
+          "₹ 9.65 - 15.36 Lakh",
+          "₹ 10.5 - 19.99 Lakh",
+          "₹ 10.95 - 19.76 Lakh",
+          "₹ 11 - 16.67 Lakh",
+          "₹ 11.03 - 19.66 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "8.5",
+          "-",
+          "7.9",
+          "-",
+          "8.5"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1493,998 cc",
+          "1498 CC",
+          "1492 CC",
+          "1462 CC",
+          "1498 CC",
+          "1462 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic, DCT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "18 - 20 KM/L",
+          "14 KM/L",
+          "21.18 - 28.65 KM/L",
+          "19.39 - 27.97 KM/L",
+          "15.31 - 16.92 KM/L",
+          "19.38 - 27.97 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Petrol",
+          "Hybrid, Petrol, CNG",
+          "Hybrid, Petrol, CNG",
+          "Petrol",
+          "Hybrid, Petrol, CNG"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "45.0 L",
+          "48.0 L",
+          "55.0 L",
+          "45.0 L",
+          "40.0 L",
+          "45.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "13",
+          "9",
+          "34",
+          "27",
+          "17",
+          "27"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Syros vs Astor",
+          "Syros vs Victoris",
+          "Syros vs Urban Cruiser Hyryder",
+          "Syros vs Elevate",
+          "Syros vs Grand Vitara"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "basic_info": {
+    "name": "Mercedes-Benz GLC",
+    "manufacturer": "Mercedes-Benz",
+    "model": "GLC",
+    "body_type": null,
+    "url": "https://www.carandbike.com/mercedes-benz-cars/glc",
+    "image_url": "https://images.carandbike.com/car-images/large/mercedes-benz/glc/mercedes-benz-glc.jpg?v=33",
+    "description": "Mercedes-Benz GLC is a 5-seater  available at a starting price of Rs. 79.25 Lakh. The car is available in 2 variants, with 2 engine and 1 transmission option. Additionally, GLC offers a Ground Clearance measurement of 201 mm and a Boot capacity of 620 liters. You can choose from 4 colors for the GLC. The mileage of the GLC varies from 15 - 20 KM/L depending on the model.",
+    "model_date": "2019-12-03",
+    "sku": "mercedes-benz-glc-1439",
+    "vin": "5NPEL4AB3BH001439",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1993,1995 cc",
+    "power": "195,255 bhp",
+    "torque": "400,440 Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "15 - 20 KM/L"
+  },
+  "dimensions": {
+    "width": "1890 mm ",
+    "height": "1640 mm",
+    "weight": "1870/1870",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Cosmos Black",
+    "Polar White",
+    "Cavansite Blue",
+    "Mountain Grey"
+  ],
+  "price": {
+    "value": 7925000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mercedes-benz-cars/glc"
+  },
+  "brand": {
+    "name": "Mercedes-Benz",
+    "image": "https://images.carandbike.com/car-images/big/mercedes-benz/mercedes-benz.png?v=1"
+  },
+  "rating": {
+    "value": "8.3",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Excellent Ride Quality",
+    "Spacious Interiors",
+    "Cumbersome Steering At City Speeds"
+  ],
+  "cons": [
+    "Rivals Have Better Pricing",
+    "Outdated Cabin",
+    "Could Have Had More Features"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "15 KM/L",
+      "city_mileage": "9 KM/L",
+      "highway_mileage": "14 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "20 KM/L",
+      "city_mileage": "19 KM/L",
+      "highway_mileage": "22 KM/L"
+    }
+  ],
+  "expert_review": {
+    "design_styling": "With the second-generation GLC, the design takes a leap forward. While the SUV retains its signature stance, it’s now enveloped in a more streamlined, road-hugging silhouette, striking a perfect balance between ruggedness and elegance. The enhanced length, which interestingly is more than even the Tata Safari, isn’t just for aesthetics but also adds a functional advantage in terms of space. The larger grille, adorned with a prominent three-pointed star, is a sight to behold. It seamlessly merges with the revamped LED headlamps, giving the face a modern, yet timeless appeal. The chrome underguards and polished aluminium roof railings hint at the GLC’s off-road prowess, while the 3D wraparound tail lamps at the rear elevate its sophistication."
+  },
+  "verdict": "The new Mercedes-Benz GLC, competing with formidable adversaries like the BMW X3 and Audi Q5, carves its unique niche in the market. While it may not exhibit the razor-sharp reflexes of Thor or the rugged resilience of Hulk, it excels in delivering a balanced performance reminiscent of Captain America. It combines power and grace, enabling a seamless cruising experience complemented by refined body dynamics. Inside, it offers a level of pampering that satisfies the discerning tastes. This balanced blend of attributes is precisely what appeals to a majority of buyers, making the GLC a compelling choice in its segment.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mercedes-Benz GLC",
+        "price": "79.25 Lakh",
+        "url": "/mercedes-benz-cars/glc"
+      },
+      {
+        "name": "Volvo XC60",
+        "price": "76.29 Lakh",
+        "url": "/volvo-cars/xc60"
+      },
+      {
+        "name": "BMW X3",
+        "price": "75.55 - 79.27 Lakh",
+        "url": "/bmw-cars/x3"
+      },
+      {
+        "name": "Land Rover Discovery Sport",
+        "price": "72.05 - 73.63 Lakh",
+        "url": "/land-rover-cars/discovery-sport"
+      },
+      {
+        "name": "Lexus RX",
+        "price": "89.99 Lakh - 1.09 Crore",
+        "url": "/lexus-cars/rx"
+      },
+      {
+        "name": "Lexus NX",
+        "price": "66.59 - 73.4 Lakh",
+        "url": "/lexus-cars/nx"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 79.25 Lakh",
+          "₹ 76.29 Lakh",
+          "₹ 75.55 - 79.27 Lakh",
+          "₹ 72.05 - 73.63 Lakh",
+          "₹ 89.99 Lakh - 1.09 Crore",
+          "₹ 66.59 - 73.4 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.3",
+          "7.0",
+          "7.5",
+          "7.3",
+          "6.4",
+          "7.1"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1993,1995 cc",
+          "1969 CC",
+          "1998 CC",
+          "1997 CC",
+          "2487 CC",
+          "2487 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "15 - 20 KM/L",
+          "13 KM/L",
+          "13.17 - 18.56 KM/L",
+          "10.68 - 14.12 KM/L",
+          "18.8 KM/L",
+          "18.3 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Hybrid",
+          "Hybrid"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "62.0 L",
+          "71.0 L",
+          "60.0 L",
+          "70.0 L",
+          "65.0 L",
+          "56.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "1",
+          "2",
+          "2",
+          "2",
+          "4"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "GLC vs XC60",
+          "GLC vs X3",
+          "GLC vs Discovery Sport",
+          "GLC vs RX",
+          "GLC vs NX"
+        ]
+      }
+    ]
+  }
+}

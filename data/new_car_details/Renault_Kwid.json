@@ -1,0 +1,235 @@
+{
+  "basic_info": {
+    "name": "Renault Kwid",
+    "manufacturer": "Renault",
+    "model": "Kwid",
+    "body_type": "Hatchback",
+    "url": "https://www.carandbike.com/renault-cars/kwid",
+    "image_url": "https://images.carandbike.com/car-images/large/renault/kwid/renault-kwid.jpg?v=85",
+    "description": "Renault Kwid is a 5-seater Hatchback available at a starting price of Rs. 4.29 Lakh. The car is available in 12 variants, with 1 engine and 2 transmission option. Additionally, Kwid offers a Ground Clearance measurement of 184 mm and a Boot capacity of 300 liters. You can choose from 6 colors for the Kwid. The mileage of the Kwid varies from 23 KM/L depending on the model.",
+    "model_date": "2019-10-01",
+    "sku": "renault-kwid-1393",
+    "vin": "5NPEL4AB3BH001393",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "999 cc",
+    "power": "67 bhp",
+    "torque": "91 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Manual, AMT",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "22 - 23 KM/L"
+  },
+  "dimensions": {
+    "width": "1579 mm ",
+    "height": "1490 mm",
+    "weight": "698/698",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Ice Cool White Dual Tone",
+    "Electric blue",
+    "Moonlight Silver",
+    "Fiery Red",
+    "Outback Bronze",
+    "Zanskar Blue"
+  ],
+  "price": {
+    "value": "429465",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/renault-cars/kwid"
+  },
+  "brand": {
+    "name": "Renault",
+    "image": "https://images.carandbike.com/car-images/big/renault/renault.png?v=1"
+  },
+  "rating": {
+    "value": "8.0",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Stylish Design",
+    "Decent Features",
+    "Decent Pricing"
+  ],
+  "cons": [
+    "Quality Issues",
+    "Build Quality Not Great",
+    "Not Very Refined"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "AMT",
+      "mileage": "23 KM/L",
+      "city_mileage": "20 KM/L",
+      "highway_mileage": "22 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "23 KM/L",
+      "city_mileage": "20 KM/L",
+      "highway_mileage": "22 KM/L"
+    }
+  ],
+  "verdict": "The Renault Kwid facelift surprised many with its very extensive makeover. The car gets some new features too, and yet holds on to its inherent strengths that made this SUV-inspired entry hatchback popular to begin with. It has done enough to stay relevant, credible and capable. And yet it remains good value, offers a fair bit of kit at the entry end of the market, and looks pretty cool while doing it. This Car is a proper facelift, one that deserves your attention if you are an entry buyer.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Renault Kwid",
+        "price": "4.29 - 5.9 Lakh",
+        "url": "/renault-cars/kwid"
+      },
+      {
+        "name": "Hyundai Grand i10 Nios",
+        "price": "5.47 - 7.92 Lakh",
+        "url": "/hyundai-cars/grand-i10-nios"
+      },
+      {
+        "name": "Maruti Suzuki Wagon R",
+        "price": "5.16 - 7.94 Lakh",
+        "url": "/maruti-suzuki-cars/wagon-r"
+      },
+      {
+        "name": "Citroen C3",
+        "price": "4.8 - 9.05 Lakh",
+        "url": "/citroen-cars/c3"
+      },
+      {
+        "name": "Maruti Suzuki Celerio",
+        "price": "4.7 - 6.73 Lakh",
+        "url": "/maruti-suzuki-cars/celerio"
+      },
+      {
+        "name": "Tata Tiago",
+        "price": "4.57 - 7.82 Lakh",
+        "url": "/tata-cars/tiago"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 4.29 - 5.9 Lakh",
+          "₹ 5.47 - 7.92 Lakh",
+          "₹ 5.16 - 7.94 Lakh",
+          "₹ 4.8 - 9.05 Lakh",
+          "₹ 4.7 - 6.73 Lakh",
+          "₹ 4.57 - 7.82 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.0",
+          "8.5",
+          "6.1",
+          "8.4",
+          "6.5",
+          "8.2"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "999 cc",
+          "1197 CC",
+          "998 CC",
+          "1198 CC",
+          "998 CC",
+          "1199 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, AMT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "22 - 23 KM/L",
+          "20.2 - 20.7 KM/L",
+          "21.5 - 33.4 KM/L",
+          "19.4 - 19.8 KM/L",
+          "24.97 - 26.68 KM/L",
+          "20 - 24 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol, CNG",
+          "Petrol, CNG",
+          "Petrol",
+          "Petrol, CNG",
+          "Petrol, CNG"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "28.0 L",
+          "37.0 L",
+          "32.0 L",
+          "30.0 L",
+          "32.0 L",
+          "35.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "12",
+          "16",
+          "11",
+          "6",
+          "8",
+          "13"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Kwid vs Grand i10 Nios",
+          "Kwid vs Wagon R",
+          "Kwid vs C3",
+          "Kwid vs Celerio",
+          "Kwid vs Tiago"
+        ]
+      }
+    ]
+  }
+}

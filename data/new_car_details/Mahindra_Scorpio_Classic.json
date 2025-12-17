@@ -1,0 +1,258 @@
+{
+  "basic_info": {
+    "name": "Mahindra Scorpio Classic",
+    "manufacturer": "Mahindra",
+    "model": "Scorpio Classic",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/mahindra-cars/scorpio-classic",
+    "image_url": "https://images.carandbike.com/car-images/large/mahindra/scorpio-classic/mahindra-scorpio-classic.jpg?v=12",
+    "description": "Mahindra Scorpio Classic is a 7-seater SUV available at a starting price of Rs. 12.98 Lakh. The car is available in 4 variants, with 1 engine and 1 transmission option. Additionally, Scorpio Classic offers a Ground Clearance measurement of 209 mm and a Boot capacity of 460 liters. You can choose from 5 colors for the Scorpio Classic. The mileage of the Scorpio Classic varies from 15 KM/L depending on the model.",
+    "model_date": "2022-08-19",
+    "sku": "mahindra-scorpio-classic-1686",
+    "vin": "5NPEL4AB3BH001686",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2184 cc",
+    "power": "130 bhp@3750 rpm bhp",
+    "torque": "300 Nm @1600-2800 rpm Nm",
+    "fuel_type": "Diesel"
+  },
+  "transmission": "Manual",
+  "fuel": {
+    "type": "Diesel",
+    "efficiency": "15 KM/L"
+  },
+  "dimensions": {
+    "width": "1820 mm ",
+    "height": "1995 mm",
+    "weight": "2610/2610",
+    "seating_capacity": "7",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Galaxy Grey",
+    "Pearl White",
+    "Dsat Silver",
+    "Napoli Black",
+    "Red Rage"
+  ],
+  "price": {
+    "value": 1297700,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mahindra-cars/scorpio-classic"
+  },
+  "brand": {
+    "name": "Mahindra",
+    "image": "https://images.carandbike.com/car-images/big/mahindra/mahindra.png?v=1"
+  },
+  "rating": {
+    "value": "7.5",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Strong road presence",
+    "Torquey engine",
+    "Good cabin space."
+  ],
+  "cons": [
+    "Limited features",
+    "No automatic option",
+    "Bumpy ride quality"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Manual",
+      "mileage": "15 KM/L",
+      "city_mileage": "11 KM/L",
+      "highway_mileage": "13 KM/L"
+    }
+  ],
+  "whats_new": {
+    "Introduction": [
+      "The Mahindra Scorpio brand has evolved over the years, but the 2014 Scorpio model is still in demand and available as the refreshed Scorpio Classic.",
+      "It is still a well-rounded package despite being a completely different model than the modern Scorpio-N.",
+      "Of all the many variants offered earlier, it can now be had in a single diesel engine option across two variants and two seating options.",
+      "In fact, even the Indian Army gets the Scorpio Classic which has some differentiating elements than the standard model."
+    ],
+    "Exterior": [
+      "The refreshed Scorpio Classic was launched in 2022 with minimal cosmetic changes and, of course, the brand's new 'twin peaks' logo.",
+      "Customers get to choose between five colour options including Red Rage, Napoli Black, D’sat Silver, Pearl White, and the newest Galaxy Grey (new).",
+      "The Army-spec Scorpio Classic, on the other hand, boasts a unique Olive Green paint with a matte finish, black cladding all around, roof rails, side steps, and alloy wheels.",
+      "As a part of the refresh, all models get an updated fascia with a redesigned grille with vertical chrome slats.",
+      "The horizontal LED DRLs are reprofiled, fog lamp housings are smaller, and the SUV boasts a prominent silver skid plate.",
+      "Though there's no change at the back, the top-spec SUV's key highlights include 17-inch alloy wheels, black roof rails, gloss black ORVM caps, side footsteps, and body-coloured bumpers."
+    ],
+    "Interior": [
+      "Inside, the overall design and seating layout is unchanged, and it gets a two-tone beige and black theme.",
+      "However, the top-of-the-line variant gets a classic wood pattern console and premium quilted upholstery.",
+      "Apart from the seven-seat version, the S variant is also available in a nine-seat option.",
+      "While the top-spec is better equipped, the base variant misses out on a touchscreen infotainment system and steering-mounted controls.",
+      "But it still gets manually adjustable ORVMs and manual air conditioner.",
+      "The top-spec Scorpio Classic and even the Army-spec Scorpio Classic comes loaded with features.",
+      "These include a touchscreen infotainment system, electrically adjustable ORVMs, height-adjustable driver seat, automatic climate control, headlamps, fog lights, and LED DRLs.",
+      "The Scorpio Classic now also offers features like an armrest for the front seats and second-row AC vents."
+    ],
+    "Powertrain": [
+      "The Scorpio Classic is powered by a 2.2-litre mHawk engine that complies with BS6 emission norms.",
+      "It produces 130bhp and 300Nm of torque and comes mated to a new cable-operated six-speed manual gearbox.",
+      "There's no 4WD on offer and all the power is sent to the rear wheels only."
+    ]
+  },
+  "verdict": "Mahindra revitalised the Scorpio brand with the launch of the sleek Scorpio-N, yet the previous model remains available as the 'Scorpio Classic'. While retaining its original design, the Scorpio Classic incorporates substantial upgrades, most notably an engine that's 55kg lighter and 14 per cent more fuel-efficient. But the sturdy build, brute looks, easy-to-repair, and many good qualities continue to be offered.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mahindra Scorpio Classic",
+        "price": "12.98 - 16.71 Lakh",
+        "url": "/mahindra-cars/scorpio-classic"
+      },
+      {
+        "name": "Tata Safari",
+        "price": "14.66 - 25.96 Lakh",
+        "url": "/tata-cars/safari"
+      },
+      {
+        "name": "Isuzu D-Max",
+        "price": "10.14 - 20.35 Lakh",
+        "url": "/isuzu-cars/d-max"
+      },
+      {
+        "name": "Force Motors Gurkha",
+        "price": "19.46 - 20.92 Lakh",
+        "url": "/force-motors-cars/gurkha"
+      },
+      {
+        "name": "Isuzu D-Max V-Cross",
+        "price": "19.73 - 35.97 Lakh",
+        "url": "/isuzu-cars/d-max-v-cross"
+      },
+      {
+        "name": "Toyota Hilux",
+        "price": "28.02 - 35.37 Lakh",
+        "url": "/toyota-cars/hilux"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 12.98 - 16.71 Lakh",
+          "₹ 14.66 - 25.96 Lakh",
+          "₹ 10.14 - 20.35 Lakh",
+          "₹ 19.46 - 20.92 Lakh",
+          "₹ 19.73 - 35.97 Lakh",
+          "₹ 28.02 - 35.37 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.5",
+          "5.5",
+          "7.5",
+          "6.1",
+          "7.0",
+          "7.8"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2184 cc",
+          "1956 CC",
+          "2499 CC",
+          "2596 CC",
+          "1898 CC",
+          "2755 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "15 KM/L",
+          "16.14 KM/L",
+          "14 KM/L",
+          "15 KM/L",
+          "14.4 KM/L",
+          "12.6 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Diesel",
+          "Diesel",
+          "Diesel",
+          "Diesel",
+          "Diesel",
+          "Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "7 Seater",
+          "7 Seater",
+          "2 Seater",
+          "4 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "60.0 L",
+          "50.0 L",
+          "55.0 L",
+          "63.5 L",
+          "55.0 L",
+          "80.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "4",
+          "24",
+          "6",
+          "2",
+          "5",
+          "4"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Scorpio Classic vs Safari",
+          "Scorpio Classic vs D-Max",
+          "Scorpio Classic vs Gurkha",
+          "Scorpio Classic vs D-Max V-Cross",
+          "Scorpio Classic vs Hilux"
+        ]
+      }
+    ]
+  }
+}

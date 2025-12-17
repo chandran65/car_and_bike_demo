@@ -1,0 +1,238 @@
+{
+  "basic_info": {
+    "name": "Volkswagen Virtus",
+    "manufacturer": "Volkswagen",
+    "model": "Virtus",
+    "body_type": "Sedan",
+    "url": "https://www.carandbike.com/volkswagen-cars/virtus",
+    "image_url": "https://images.carandbike.com/car-images/large/volkswagen/virtus/volkswagen-virtus.jpg?v=17",
+    "description": "Volkswagen Virtus is a 5-seater Sedan available at a starting price of Rs. 11.2 Lakh. The car is available in 13 variants, with 2 engine and 2 transmission option. Additionally, Virtus offers a Ground Clearance measurement of 179 mm and a Boot capacity of 521 liters. You can choose from 6 colors for the Virtus. The mileage of the Virtus varies from 19.6 - 20.2 KM/L depending on the model.",
+    "model_date": "2022-06-09",
+    "sku": "volkswagen-virtus-1665",
+    "vin": "5NPEL4AB3BH001665",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1498,999 cc",
+    "power": "114 bhp @ 5,000–5,500 rpm,147 bhp @ 5,000–6000 rpm bhp",
+    "torque": "178 Nm @ 1,750-4,500 rpm,250 Nm @ 1,600-3,500 rpm Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Manual, Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "18 - 20 KM/L"
+  },
+  "dimensions": {
+    "width": "1752 mm ",
+    "height": "1507 mm",
+    "weight": "1173/1275",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Reflex Silver",
+    "Rising Blue Metallic",
+    "Curcuma Yellow",
+    "Wild Cherry Red",
+    "Candy White",
+    "Carbon Steel Grey"
+  ],
+  "price": {
+    "value": 1120101,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/volkswagen-cars/virtus"
+  },
+  "brand": {
+    "name": "Volkswagen",
+    "image": "https://images.carandbike.com/car-images/big/volkswagen/volkswagen.png?v=1"
+  },
+  "rating": {
+    "value": "8.3",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Fun To Drive",
+    "Modern Interior",
+    "Looks Stylish"
+  ],
+  "cons": [
+    "Engine Needs Refinement",
+    "No Diesel Engine",
+    "1.0L Motor Needs More Punch"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "19.6 KM/L",
+      "city_mileage": "16 KM/L",
+      "highway_mileage": "19.4 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "20.2 KM/L",
+      "city_mileage": "16 KM/L",
+      "highway_mileage": "19.4 KM/L"
+    }
+  ],
+  "expert_review": {
+    "design_styling": "At first glance, the Virtus commands attention. A harmonious blend of sporty dynamism and refined elegance, its design is a testament to Volkswagen’s attention to detail. The chrome accents, while generous, are tastefully placed, ensuring the car doesn’t come across as overly flashy. What sets the 1.5-litre TSI apart are subtle yet impactful touches like the GT badging, which is cleverly placed on the grille, profile, and the rear. The front end, adorned with a single slat grille, LED headlamps, and L-shaped LED DRLs, exudes a sense of assertiveness. There’s a hint of nostalgia too, as the design is reminiscent of the belovedVolkswagen Jetta. The color options, especially the Wild Cherry Red andCurcuma Yellow, are not just shades but character elements that define the car's personality. The distinctive alloy wheels, especially the blacked-out ones on the 1.5-litre TSI, complement the car’s athletic stance, making the Virtus a head-turner on roads."
+  },
+  "verdict": "The compact sedan segment in India is undergoing an influx of fresher models with the Skoda Slavia and the hybrid version of the Honda City taking the fight straight to Maruti Suzuki Ciaz and the Hyundai Verna Volkswagen now has brought in the replacement to the VW Vento and yes it looks gorgeous. With a car like the Virtus, that is high on looks, features and two powerful petrol engines, Volkswagen might just hit it out of the park with the pricing.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Volkswagen Virtus",
+        "price": "11.2 - 18.78 Lakh",
+        "url": "/volkswagen-cars/virtus"
+      },
+      {
+        "name": "Hyundai Verna",
+        "price": "10.69 - 15.83 Lakh",
+        "url": "/hyundai-cars/verna"
+      },
+      {
+        "name": "Honda City",
+        "price": "11.95 - 16.07 Lakh",
+        "url": "/honda-cars/city"
+      },
+      {
+        "name": "Skoda Slavia",
+        "price": "10 - 16.15 Lakh",
+        "url": "/skoda-cars/slavia"
+      },
+      {
+        "name": "Maruti Suzuki Ciaz",
+        "price": "9.09 - 11.89 Lakh",
+        "url": "/maruti-suzuki-cars/ciaz"
+      },
+      {
+        "name": "Honda 2025 Amaze",
+        "price": "7.41 - 10 Lakh",
+        "url": "/honda-cars/2025-amaze"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 11.2 - 18.78 Lakh",
+          "₹ 10.69 - 15.83 Lakh",
+          "₹ 11.95 - 16.07 Lakh",
+          "₹ 10 - 16.15 Lakh",
+          "₹ 9.09 - 11.89 Lakh",
+          "₹ 7.41 - 10 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.3",
+          "8.5",
+          "8.2",
+          "8.3",
+          "7.0",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1498,999 cc",
+          "1497 CC",
+          "1498 CC",
+          "999 CC",
+          "1462 CC",
+          "1199 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "18 - 20 KM/L",
+          "18.6 - 20.6 KM/L",
+          "17.8 - 18.4 KM/L",
+          "18 - 20 KM/L",
+          "20.04 - 20.65 KM/L",
+          "18.6 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "45.0 L",
+          "45.0 L",
+          "40.0 L",
+          "45.0 L",
+          "43.0 L",
+          "35.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "13",
+          "15",
+          "8",
+          "27",
+          "9",
+          "6"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Virtus vs Verna",
+          "Virtus vs City",
+          "Virtus vs Slavia",
+          "Virtus vs Ciaz",
+          "Virtus vs 2025 Amaze"
+        ]
+      }
+    ]
+  }
+}

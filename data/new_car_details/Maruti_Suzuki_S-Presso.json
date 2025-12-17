@@ -1,0 +1,242 @@
+{
+  "basic_info": {
+    "name": "Maruti Suzuki S-Presso",
+    "manufacturer": "Maruti Suzuki",
+    "model": "S-Presso",
+    "body_type": "Hatchback",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/s-presso",
+    "image_url": "https://images.carandbike.com/car-images/large/maruti-suzuki/s-presso/maruti-suzuki-s-presso.jpg?v=33",
+    "description": "Maruti Suzuki S-Presso is a 5-seater Hatchback available at a starting price of Rs. 3.5 Lakh. The car is available in 8 variants, with 1 engine and 2 transmission option. Additionally, S-Presso offers a Ground Clearance measurement of 180 mm and a Boot capacity of 240 liters. You can choose from 6 colors for the S-Presso. The mileage of the S-Presso varies from 24.8 - 32.7 KM/L depending on the model.",
+    "model_date": "2019-09-30",
+    "sku": "maruti-suzuki-s-presso-1538",
+    "vin": "5NPEL4AB3BH001538",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "998 cc",
+    "power": "67 bhp @ 5600 rpm bhp",
+    "torque": "91.1 Nm @3400 rpm Nm",
+    "fuel_type": "Petrol, Petrol+CNG"
+  },
+  "transmission": "Manual, AMT",
+  "fuel": {
+    "type": "Petrol, Petrol+CNG",
+    "efficiency": "24 - 32 KM/L"
+  },
+  "dimensions": {
+    "width": "1520 mm ",
+    "height": "1564 mm",
+    "weight": "726/767",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Sizzle Orange",
+    "Pearl Starry Blue",
+    "Metallic Granite Grey",
+    "Metallic Silky Silver",
+    "Solid Fire Red",
+    "Solid Superior White"
+  ],
+  "price": {
+    "value": "349900",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/s-presso"
+  },
+  "brand": {
+    "name": "Maruti Suzuki",
+    "image": "https://images.carandbike.com/car-images/big/maruti-suzuki/maruti-suzuki.png?v=1"
+  },
+  "rating": {
+    "value": "7.5",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Bold Tall-Boy Design",
+    "Spacious Cabin",
+    "Offers Good Fuel Efficiency"
+  ],
+  "cons": [
+    "Fit And Finish Not The Best",
+    "Could Do With A More Powerful Engine",
+    "Styling And Features Could Have Been Better"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "24.8 KM/L",
+      "city_mileage": "20 KM/L",
+      "highway_mileage": "24 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "AMT",
+      "mileage": "25.3 KM/L",
+      "city_mileage": "20 KM/L",
+      "highway_mileage": "24 KM/L"
+    },
+    {
+      "fuel_type": "Petrol+CNG",
+      "transmission": "Manual",
+      "mileage": "32.7 KM/L",
+      "city_mileage": "30 KM/L",
+      "highway_mileage": "32 KM/L"
+    }
+  ],
+  "verdict": "The Maruti Suzuki S-Presso has a decently performing 998 cc engine which churns out 67 BHP of maximum power along with peak torque of 90 Nm which offers good drivability, especially on city roads The Maruti Suzuki S-Presso is reasonable value for money, if you are looking for a nicely performing and relatively spacious entry-level offering that is more like an SUV in terms of its look, feel and height.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Maruti Suzuki S-Presso",
+        "price": "3.5 - 5.25 Lakh",
+        "url": "/maruti-suzuki-cars/s-presso"
+      },
+      {
+        "name": "Renault Kwid",
+        "price": "4.29 - 5.9 Lakh",
+        "url": "/renault-cars/kwid"
+      },
+      {
+        "name": "Maruti Suzuki Wagon R",
+        "price": "5.16 - 7.94 Lakh",
+        "url": "/maruti-suzuki-cars/wagon-r"
+      },
+      {
+        "name": "Maruti Suzuki Alto K10",
+        "price": "3.7 - 5 Lakh",
+        "url": "/maruti-suzuki-cars/alto-k10"
+      },
+      {
+        "name": "Tata Tiago",
+        "price": "4.57 Lakh",
+        "url": "/tata-cars/tiago"
+      },
+      {
+        "name": "Maruti Suzuki Celerio",
+        "price": "4.7 - 5.16 Lakh",
+        "url": "/maruti-suzuki-cars/celerio"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 3.5 - 5.25 Lakh",
+          "₹ 4.29 - 5.9 Lakh",
+          "₹ 5.16 - 7.94 Lakh",
+          "₹ 3.7 - 5 Lakh",
+          "₹ 4.57 Lakh",
+          "₹ 4.7 - 5.16 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.5",
+          "8.0",
+          "6.1",
+          "8.2",
+          "8.2",
+          "6.5"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "998 cc",
+          "999 CC",
+          "998 CC",
+          "998 CC",
+          "1199 CC",
+          "998 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, AMT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "24 - 32 KM/L",
+          "22 - 23 KM/L",
+          "21.5 - 33.4 KM/L",
+          "27 KM/L",
+          "20 KM/L",
+          "25.24 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Petrol+CNG",
+          "Petrol",
+          "Petrol, CNG",
+          "Petrol, CNG",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "27.0 L",
+          "28.0 L",
+          "32.0 L",
+          "24.4 L",
+          "35.0 L",
+          "32.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "8",
+          "12",
+          "11",
+          "7",
+          "1",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "S-Presso vs Kwid",
+          "S-Presso vs Wagon R",
+          "S-Presso vs Alto K10",
+          "S-Presso vs Tiago",
+          "S-Presso vs Celerio"
+        ]
+      }
+    ]
+  }
+}

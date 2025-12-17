@@ -1,0 +1,220 @@
+{
+  "basic_info": {
+    "name": "Citroen Basalt X",
+    "manufacturer": "Citroen",
+    "model": "Basalt X",
+    "body_type": "Coupe",
+    "url": "https://www.carandbike.com/citroen-cars/basalt-x",
+    "image_url": "https://images.carandbike.com/car-images/large/citroen/basalt-x/citroen-basalt-x.jpg?v=13",
+    "description": "Citroen Basalt X is a 5-seater Coupe available at a starting price of Rs. 7.95 Lakh. The car is available in 8 variants, with 1 engine and 2 transmission option. Additionally, Basalt X offers a Boot capacity of 470 liters. You can choose from 7 colors for the Basalt X. The mileage of the Basalt X varies from 19.5 - 18.7 KM/L depending on the model.",
+    "model_date": "2025-09-05",
+    "sku": "citroen-basalt-x-1891",
+    "vin": "5NPEL4AB3BH001891",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1199 cc",
+    "power": "110 bhp @ 5500 rpm,81 @ 5750 rpm,81 bhp@ 5750 rpm bhp",
+    "torque": "115 @ 3750 rpm,115 Nm @ 3750 rpm,190 Nm@ 1750 rpm,205 Nm @ 1750 2500 rpm Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Manual, Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "18 - 19 KM/L"
+  },
+  "dimensions": {
+    "width": "1765 mm ",
+    "height": "1593 mm",
+    "weight": "1061/1240",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Garnet Red / Perla Nera Black",
+    "Polar White / Perla Nera Black",
+    "Perla Nera Black",
+    "Garnet Red",
+    "Cosmo Blue",
+    "Steel Grey",
+    "Polar White"
+  ],
+  "price": {
+    "value": 795000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/citroen-cars/basalt-x"
+  },
+  "brand": {
+    "name": "Citroen",
+    "image": "https://images.carandbike.com/car-images/big/citroen/citroen.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "whats_new": {
+    "Exterior": [
+      "The Citroen Basalt X retains the essential design cues of the regular model of the Basalt while adding a bit of zest to it. For a refreshed appearance, it boasts new LED strips on the grille and a 'Basalt X' badge at the rear. There are no other fundamental design tweaks otherwise."
+    ],
+    "Interior": [
+      "However, inside the Basalt X's cabin, there's a dual-tone black and tan interior with ambient lighting. All other equipment from the earlier top-of-the-line Basalt is carried over to the Basalt X. What's more, buyers benefit from some new features such as a push button start-stop system, ventilated seats, and cruise control. Then, the safety factor has been bolstered with a 360-degree camera and an auto-dimming IRVM."
+    ],
+    "Powertrain": [
+      "Citroen hasn't made any changes to the powertrain and the Basalt X carries over the engine options from the standard Basalt. There is an entry-level 1.2-litre, naturally aspirated, petrol engine producing 81bhp and 115Nm of torque.This NA mill comes mated to a five-speed manual gearbox.On the other hand, there is another 1.2-litre unit, but a turbo-petrol mill, churning 109bhp and up to 205Nm torque. This engine comes mated to either a six-speed manual or a six-speed automatic transmission."
+    ]
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Citroen Basalt X",
+        "price": "7.95 - 13.11 Lakh",
+        "url": "/citroen-cars/basalt-x"
+      },
+      {
+        "name": "Tata Curvv",
+        "price": "9.66 - 18.54 Lakh",
+        "url": "/tata-cars/curvv"
+      },
+      {
+        "name": "BMW 6 Series Gran Turismo",
+        "price": "79.04 - 86.72 Lakh",
+        "url": "/bmw-cars/6-series-gran-turismo"
+      },
+      {
+        "name": "Mercedes-AMG GLC 43 Coupe",
+        "price": "1.17 Crore",
+        "url": "/mercedes-amg-cars/glc-43-coupe"
+      },
+      {
+        "name": "Mercedes-Benz CLE Cabriolet",
+        "price": "1.17 Crore",
+        "url": "/mercedes-benz-cars/cle-cabriolet"
+      },
+      {
+        "name": "BMW M8",
+        "price": "2.56 Crore",
+        "url": "/bmw-cars/m8"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 7.95 - 13.11 Lakh",
+          "₹ 9.66 - 18.54 Lakh",
+          "₹ 79.04 - 86.72 Lakh",
+          "₹ 1.17 Crore",
+          "₹ 1.17 Crore",
+          "₹ 2.56 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "8.0",
+          "7.1",
+          "-",
+          "8.8"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1199 cc",
+          "1199 CC",
+          "1998 CC",
+          "1996 CC",
+          "1999 CC",
+          "4395 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic",
+          "Manual",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "18 - 19 KM/L",
+          "16 - 19 KM/L",
+          "13.32 - 18.65 KM/L",
+          "13 KM/L",
+          "12 KM/L",
+          "11.3 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "4 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "45.0 L",
+          "44.0 L",
+          "68.0 L",
+          "93.0 L",
+          "66.0 L",
+          "68.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "8",
+          "22",
+          "4",
+          "1",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Basalt X vs Curvv",
+          "Basalt X vs 6 Series Gran Turismo",
+          "Basalt X vs GLC 43 Coupe",
+          "Basalt X vs CLE Cabriolet",
+          "Basalt X vs M8"
+        ]
+      }
+    ]
+  }
+}

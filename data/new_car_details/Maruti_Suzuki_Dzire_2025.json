@@ -1,0 +1,233 @@
+{
+  "basic_info": {
+    "name": "Maruti Suzuki Dzire 2025",
+    "manufacturer": "Maruti Suzuki",
+    "model": "Dzire 2025",
+    "body_type": null,
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/2025-new-dzire",
+    "image_url": "https://images.carandbike.com/car-images/large/maruti-suzuki/2025-new-dzire/maruti-suzuki-2025-new-dzire.jpg?v=12",
+    "description": "Maruti Suzuki Dzire 2025 is a 5-seater  available at a starting price of Rs. 6.26 Lakh. The car is available in 9 variants, with 2 engine and 2 transmission option. Additionally, Dzire 2025 offers a Ground Clearance measurement of 163 mm and a Boot capacity of 382 liters. You can choose from 7 colors for the Dzire 2025. The mileage of the Dzire 2025 varies from 24.7 - 34 KM/L depending on the model.",
+    "model_date": "2024-11-11",
+    "sku": "maruti-suzuki-dzire-2025-1814",
+    "vin": "5NPEL4AB3BH001814",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1197 cc",
+    "power": "69,80 bhp",
+    "torque": "101,111 Nm",
+    "fuel_type": "Petrol, Petrol+CNG"
+  },
+  "transmission": "Manual, AMT",
+  "fuel": {
+    "type": "Petrol, Petrol+CNG",
+    "efficiency": "24 - 34 KM/L"
+  },
+  "dimensions": {
+    "width": "1735 mm ",
+    "height": "1525 mm",
+    "weight": "880/880",
+    "seating_capacity": "5",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "Nutmeg Brown",
+    "Alluring Blue",
+    "Gallant Red",
+    "Magma Grey",
+    "Pearlm Arctic White",
+    "Bluish Black",
+    "Splendid Silver"
+  ],
+  "price": {
+    "value": "625600",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/2025-new-dzire"
+  },
+  "brand": {
+    "name": "Maruti Suzuki",
+    "image": "https://images.carandbike.com/car-images/big/maruti-suzuki/maruti-suzuki.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "24.7 KM/L",
+      "city_mileage": "22 KM/L",
+      "highway_mileage": "24.7 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "AMT",
+      "mileage": "24.7 KM/L",
+      "city_mileage": "24 KM/L",
+      "highway_mileage": "24.7 KM/L"
+    },
+    {
+      "fuel_type": "Petrol+CNG",
+      "transmission": "Manual",
+      "mileage": "34 KM/L",
+      "city_mileage": "31 KM/L",
+      "highway_mileage": "33.7 KM/L"
+    }
+  ],
+  "verdict": "2025 Maruti Suzuki Dzire continues to excel as a well-rounded, feature-rich compact sedan that caters to everyday practicality with a touch of premium appeal. With enhancements in safety, comfort, and connectivity, it is a great choice for buyers seeking an affordable, versatile vehicle. While the switch to a three-cylinder engine may not please everyone, the overall package remains highly competitive and suitable for a wide range of users.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Maruti Suzuki Dzire 2025",
+        "price": "6.26 - 9.31 Lakh",
+        "url": "/maruti-suzuki-cars/2025-new-dzire"
+      },
+      {
+        "name": "Hyundai Aura",
+        "price": "5.98 - 8.42 Lakh",
+        "url": "/hyundai-cars/aura"
+      },
+      {
+        "name": "Honda Amaze",
+        "price": "6.98 - 7.8 Lakh",
+        "url": "/honda-cars/amaze"
+      },
+      {
+        "name": "Tata Tigor",
+        "price": "5.49 - 8.74 Lakh",
+        "url": "/tata-cars/tigor"
+      },
+      {
+        "name": "Honda 2025 Amaze",
+        "price": "7.41 - 9.15 Lakh",
+        "url": "/honda-cars/2025-amaze"
+      },
+      {
+        "name": "Maruti Suzuki Ciaz",
+        "price": "9.09 Lakh",
+        "url": "/maruti-suzuki-cars/ciaz"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 6.26 - 9.31 Lakh",
+          "₹ 5.98 - 8.42 Lakh",
+          "₹ 6.98 - 7.8 Lakh",
+          "₹ 5.49 - 8.74 Lakh",
+          "₹ 7.41 - 9.15 Lakh",
+          "₹ 9.09 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "7.8",
+          "7.8",
+          "7.6",
+          "-",
+          "7.0"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1197 cc",
+          "1197 CC",
+          "1199 CC",
+          "1199 CC",
+          "1199 CC",
+          "1462 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, AMT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "24 - 34 KM/L",
+          "20.5 - 28 KM/L",
+          "18.3 - 18.6 KM/L",
+          "17 - 26 KM/L",
+          "18.6 KM/L",
+          "20.65 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Petrol+CNG",
+          "Petrol, CNG",
+          "Petrol",
+          "Petrol, CNG",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "37.0, 55.0 L",
+          "37.0 L",
+          "35.0 L",
+          "35.0 L",
+          "35.0 L",
+          "43.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "9",
+          "11",
+          "2",
+          "14",
+          "5",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "2025 New Dzire vs Aura",
+          "2025 New Dzire vs Amaze",
+          "2025 New Dzire vs Tigor",
+          "2025 New Dzire vs 2025 Amaze",
+          "2025 New Dzire vs Ciaz"
+        ]
+      }
+    ]
+  }
+}

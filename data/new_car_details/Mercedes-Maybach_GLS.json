@@ -1,0 +1,216 @@
+{
+  "basic_info": {
+    "name": "Mercedes-Maybach GLS",
+    "manufacturer": "Mercedes-Maybach",
+    "model": "GLS",
+    "body_type": null,
+    "url": "https://www.carandbike.com/mercedes-maybach-cars/gls",
+    "image_url": "https://images.carandbike.com/car-images/large/mercedes-maybach/gls/mercedes-maybach-gls.jpg?v=27",
+    "description": "Mercedes-Maybach GLS is a 5-seater  available at a starting price of Rs. 3.39 Crore. The car is available in 2 variants, with 1 engine and 1 transmission option. Additionally, GLS offers a Boot capacity of 250 liters. You can choose from 3 colors for the GLS. The mileage of the GLS varies from 8.5 KM/L depending on the model.",
+    "model_date": "2024-05-22",
+    "sku": "mercedes-maybach-gls-1649",
+    "vin": "5NPEL4AB3BH001649",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "3982 cc",
+    "power": "542 bhp",
+    "torque": "730 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "8 KM/L"
+  },
+  "dimensions": {
+    "width": "2157 mm ",
+    "height": "1838 mm",
+    "weight": "",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Designo Diamond White Bright",
+    "Designo Obsidian Black",
+    "Cavansite Blue"
+  ],
+  "price": {
+    "value": "33910000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mercedes-maybach-cars/gls"
+  },
+  "brand": {
+    "name": "Mercedes-Maybach",
+    "image": "https://images.carandbike.com/car-images/big/mercedes-maybach/mercedes-maybach.png?v=1"
+  },
+  "rating": {
+    "value": "7.7",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Plenty Of Space For Passengers",
+    "Good Number Of Safety And Tech Features",
+    "Great Performance And Handling"
+  ],
+  "cons": [
+    "The Cost Isn'T Cheap",
+    "The Mbux System Isn'T Very Intuitive",
+    "Expensive Compared To Rivals"
+  ],
+  "verdict": "The new Mercedes-Maybach GLS represents a notable advancement over its predecessor, maintaining its luxuriousness and imposing presence while achieving a more refined, mature, and sleeker design. While there's room for it to be more aesthetically pleasing or powerful, it undoubtedly asserts itself as a flagship within the Mercedes-Benz SUV lineup. With its commanding stature and enhanced features, the GLS is poised to maintain its esteemed status in the luxury full-size SUV segment in India, continuing to captivate and satisfy the discerning luxury buyer.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mercedes-Maybach GLS",
+        "price": "3.39 - 3.46 Crore",
+        "url": "/mercedes-maybach-cars/gls"
+      },
+      {
+        "name": "Mercedes-AMG G 63",
+        "price": "3.85 - 4.01 Crore",
+        "url": "/mercedes-amg-cars/g-63"
+      },
+      {
+        "name": "Aston Martin DBX",
+        "price": "4.38 Crore",
+        "url": "/aston-martin-cars/dbx"
+      },
+      {
+        "name": "Mercedes-Benz G-Class",
+        "price": "2.38 - 2.9 Crore",
+        "url": "/mercedes-benz-cars/g-class"
+      },
+      {
+        "name": "Land Rover Range Rover",
+        "price": "2.31 - 4.66 Crore",
+        "url": "/land-rover-cars/range-rover"
+      },
+      {
+        "name": "Lamborghini Urus SE",
+        "price": "4.47 Crore",
+        "url": "/lamborghini-cars/urus-se"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 3.39 - 3.46 Crore",
+          "₹ 3.85 - 4.01 Crore",
+          "₹ 4.38 Crore",
+          "₹ 2.38 - 2.9 Crore",
+          "₹ 2.31 - 4.66 Crore",
+          "₹ 4.47 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.7",
+          "7.3",
+          "7.7",
+          "8.2",
+          "7.7",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "3982 cc",
+          "3998 CC",
+          "3982 CC",
+          "2925 CC",
+          "2997 CC",
+          "3996 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "8 KM/L",
+          "8.47 KM/L",
+          "12 KM/L",
+          "13.9 KM/L",
+          "12.8 - 21 KM/L",
+          "7.5 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Diesel",
+          "Diesel",
+          "Diesel, Hybrid, Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "90.0 L",
+          "96.0 L",
+          "85.0 L",
+          "93.0 L",
+          "85.0 L",
+          "75.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "2",
+          "1",
+          "3",
+          "5",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "GLS vs G 63",
+          "GLS vs DBX",
+          "GLS vs G-Class",
+          "GLS vs Range Rover",
+          "GLS vs Urus SE"
+        ]
+      }
+    ]
+  }
+}

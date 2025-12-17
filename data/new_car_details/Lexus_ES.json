@@ -1,0 +1,198 @@
+{
+  "basic_info": {
+    "name": "Lexus ES",
+    "manufacturer": "Lexus",
+    "model": "ES",
+    "body_type": null,
+    "url": "https://www.carandbike.com/lexus-cars/es",
+    "image_url": "https://images.carandbike.com/car-images/large/lexus/es/lexus-es.jpg?v=27",
+    "description": "Lexus ES is a 5-seater  available at a starting price of Rs. 62.65 Lakh. The car is available in 2 variants, with 1 engine and 1 transmission option. Additionally, ES offers a Ground Clearance measurement of 151 mm and a Boot capacity of 454 liters. You can choose from 6 colors for the ES. The mileage of the ES varies from 22.6 KM/L depending on the model.",
+    "model_date": "2017-03-14",
+    "sku": "lexus-es-1510",
+    "vin": "5NPEL4AB3BH001510",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2487 cc",
+    "power": "214 bhp",
+    "torque": "221 Nm",
+    "fuel_type": "Hybrid"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Hybrid",
+    "efficiency": "22 KM/L"
+  },
+  "dimensions": {
+    "width": "1865 mm ",
+    "height": "1445 mm",
+    "weight": "1705/1705",
+    "seating_capacity": "5",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "Deep Blue Mica",
+    "Graphite Black Glass Flake",
+    "Sonic Iridium",
+    "Sonic Chrome",
+    "Sonic Titanium",
+    "Sonic Quartz"
+  ],
+  "price": {
+    "value": "6265000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/lexus-cars/es"
+  },
+  "brand": {
+    "name": "Lexus",
+    "image": "https://images.carandbike.com/car-images/big/lexus/lexus.png?v=1"
+  },
+  "rating": {
+    "value": "6.5",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Stunning Looks",
+    "Good Amount Of Features",
+    "Efficient Hybrid Powertrain"
+  ],
+  "cons": [
+    "Dated Cabin Design",
+    "Subpar Fit And Finish",
+    "Not Very Engaging To Drive"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Hybrid",
+      "transmission": "Automatic",
+      "mileage": "22.6 KM/L",
+      "city_mileage": "21 KM/L",
+      "highway_mileage": "22 KM/L"
+    }
+  ],
+  "verdict": "The ES 300h is the only car in that segment that comes with a petrol-hybrid powertrain. The way it drives is smooth, and there's no doubting its stylish looks, because everyone on the road will stop and take another look at it. The level of comfort offered on the car is absolutely mind boggling. However, there's a lot to achieve for yet for Lexus in India like improving its service network, something that its rivals has and that's probably the only Achilles heel it has.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Lexus ES",
+        "price": "62.65 - 68.23 Lakh",
+        "url": "/lexus-cars/es"
+      },
+      {
+        "name": "Mercedes-Benz C-Class",
+        "price": "61 - 68 Lakh",
+        "url": "/mercedes-benz-cars/c-class"
+      },
+      {
+        "name": "BMW 3 Series",
+        "price": "65.01 - 79.53 Lakh",
+        "url": "/bmw-cars/3-series"
+      },
+      {
+        "name": "Audi A4",
+        "price": "46.25 - 55.11 Lakh",
+        "url": "/audi-cars/a4"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 62.65 - 68.23 Lakh",
+          "₹ 61 - 68 Lakh",
+          "₹ 65.01 - 79.53 Lakh",
+          "₹ 46.25 - 55.11 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "6.5",
+          "8.1",
+          "8.2",
+          "7.5"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2487 cc",
+          "1496 CC",
+          "2998 CC",
+          "1984 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "22 KM/L",
+          "14.49 - 23 KM/L",
+          "16.13 KM/L",
+          "17.84 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Hybrid",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "50.0 L",
+          "66.0 L",
+          "59.0 L",
+          "54.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "3",
+          "3",
+          "5"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "ES vs C-Class",
+          "ES vs 3 Series",
+          "ES vs A4"
+        ]
+      }
+    ]
+  }
+}

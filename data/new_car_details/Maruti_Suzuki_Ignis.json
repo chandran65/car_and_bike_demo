@@ -1,0 +1,238 @@
+{
+  "basic_info": {
+    "name": "Maruti Suzuki Ignis",
+    "manufacturer": "Maruti Suzuki",
+    "model": "Ignis",
+    "body_type": "Hatchback",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/ignis",
+    "image_url": "https://images.carandbike.com/car-images/large/maruti-suzuki/ignis/maruti-suzuki-ignis.jpg?v=84",
+    "description": "Maruti Suzuki Ignis is a 5-seater Hatchback available at a starting price of Rs. 5.02 Lakh. The car is available in 11 variants, with 1 engine and 2 transmission option. Additionally, Ignis offers a Ground Clearance measurement of 180 mm and a Boot capacity of 260 liters. You can choose from 9 colors for the Ignis. The mileage of the Ignis varies from 20.9 KM/L depending on the model.",
+    "model_date": "2020-02-18",
+    "sku": "maruti-suzuki-ignis-1425",
+    "vin": "5NPEL4AB3BH001425",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1197 cc",
+    "power": "82 bhp",
+    "torque": "113 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Manual, AMT",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "20 KM/L"
+  },
+  "dimensions": {
+    "width": "1690 mm ",
+    "height": "1595 mm",
+    "weight": "825/860",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "NEXA Blue",
+    "Nexa Blue / Black",
+    "Nexa Blue / Silver",
+    "Lucent Orange / Black",
+    "Pearl Arctic White",
+    "Glistening Grey",
+    "Turquoise Blue",
+    "Silky Silver",
+    "Lucent Orange"
+  ],
+  "price": {
+    "value": "502186",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/ignis"
+  },
+  "brand": {
+    "name": "Maruti Suzuki",
+    "image": "https://images.carandbike.com/car-images/big/maruti-suzuki/maruti-suzuki.png?v=1"
+  },
+  "rating": {
+    "value": "8.3",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Refined Engine",
+    "Youthful Design",
+    "Value For Money&nbsp;"
+  ],
+  "cons": [
+    "No Turbo Petrol",
+    "Pricey Top Variants",
+    "No Diesel"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "AMT",
+      "mileage": "20.9 KM/L",
+      "city_mileage": "18 KM/L",
+      "highway_mileage": "21 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "20.9 KM/L",
+      "city_mileage": "18 KM/L",
+      "highway_mileage": "21 KM/L"
+    }
+  ],
+  "verdict": "The facelift Ignis offers the same driving experience as before. The engine continues to have that spunk, especially in the mid-range making driving in the city an easy experience. The throttle response is progressive and crisp and the engine has that sense of refinement too. The car does well on the highway too and one can easily cruise at triple digit speeds all day long. For a young family of four, the Ignis fits the purpose, especially with its quirky but adorable styling and practicality.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Maruti Suzuki Ignis",
+        "price": "5.02 - 7.55 Lakh",
+        "url": "/maruti-suzuki-cars/ignis"
+      },
+      {
+        "name": "Maruti Suzuki Swift",
+        "price": "5.79 - 8.65 Lakh",
+        "url": "/maruti-suzuki-cars/swift"
+      },
+      {
+        "name": "Maruti Suzuki Wagon R",
+        "price": "5.16 - 7.52 Lakh",
+        "url": "/maruti-suzuki-cars/wagon-r"
+      },
+      {
+        "name": "Citroen C3",
+        "price": "4.8 - 7.23 Lakh",
+        "url": "/citroen-cars/c3"
+      },
+      {
+        "name": "Maruti Suzuki Celerio",
+        "price": "4.7 - 6.73 Lakh",
+        "url": "/maruti-suzuki-cars/celerio"
+      },
+      {
+        "name": "Tata Tiago",
+        "price": "4.57 - 7.32 Lakh",
+        "url": "/tata-cars/tiago"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 5.02 - 7.55 Lakh",
+          "₹ 5.79 - 8.65 Lakh",
+          "₹ 5.16 - 7.52 Lakh",
+          "₹ 4.8 - 7.23 Lakh",
+          "₹ 4.7 - 6.73 Lakh",
+          "₹ 4.57 - 7.32 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.3",
+          "8.0",
+          "6.1",
+          "8.4",
+          "6.5",
+          "8.2"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1197 cc",
+          "1197 CC",
+          "998 CC",
+          "1198 CC",
+          "998 CC",
+          "1199 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, AMT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "20 KM/L",
+          "20.4 - 30 KM/L",
+          "21.5 - 33.4 KM/L",
+          "19.4 - 19.8 KM/L",
+          "24.97 - 26.68 KM/L",
+          "20 - 24 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol, CNG",
+          "Petrol, CNG",
+          "Petrol",
+          "Petrol, CNG",
+          "Petrol, CNG"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "32.0 L",
+          "37.0 L",
+          "32.0 L",
+          "30.0 L",
+          "32.0 L",
+          "35.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "11",
+          "13",
+          "10",
+          "4",
+          "8",
+          "12"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Ignis vs Swift",
+          "Ignis vs Wagon R",
+          "Ignis vs C3",
+          "Ignis vs Celerio",
+          "Ignis vs Tiago"
+        ]
+      }
+    ]
+  }
+}

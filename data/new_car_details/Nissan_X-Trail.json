@@ -1,0 +1,205 @@
+{
+  "basic_info": {
+    "name": "Nissan X-Trail",
+    "manufacturer": "Nissan",
+    "model": "X-Trail",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/nissan-cars/x-trail",
+    "image_url": "https://images.carandbike.com/car-images/large/nissan/x-trail/nissan-x-trail.jpg?v=21",
+    "description": "Nissan X-Trail is a 7-seater SUV available at a starting price of Rs. 54.75 Lakh. The car is available in 1 variants, with 1 engine and 1 transmission option. Additionally, X-Trail offers a Ground Clearance measurement of 210 mm and a Boot capacity of 585 liters. You can choose from 3 colors for the X-Trail. The mileage of the X-Trail varies from 13.7 KM/L depending on the model.",
+    "model_date": "2024-08-01",
+    "sku": "nissan-x-trail-1165",
+    "vin": "5NPEL4AB3BH001165",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1498 cc",
+    "power": "161 bhp",
+    "torque": "300 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "CVT",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "13 KM/L"
+  },
+  "dimensions": {
+    "width": "1840 mm ",
+    "height": "1725 mm",
+    "weight": "1676/1676",
+    "seating_capacity": "7",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Diamond Black",
+    "Pearl White",
+    "Champagne Silver"
+  ],
+  "price": {
+    "value": 5474975,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/nissan-cars/x-trail"
+  },
+  "brand": {
+    "name": "Nissan",
+    "image": "https://images.carandbike.com/car-images/big/nissan/nissan.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Nissan X-Trail",
+        "price": "48.2 Lakh",
+        "url": "/nissan-cars/x-trail"
+      },
+      {
+        "name": "Toyota Hilux",
+        "price": "28.02 - 35.37 Lakh",
+        "url": "/toyota-cars/hilux"
+      },
+      {
+        "name": "Isuzu D-Max V-Cross",
+        "price": "19.73 - 35.97 Lakh",
+        "url": "/isuzu-cars/d-max-v-cross"
+      },
+      {
+        "name": "Force Motors Gurkha",
+        "price": "19.46 - 20.92 Lakh",
+        "url": "/force-motors-cars/gurkha"
+      },
+      {
+        "name": "Tata Safari",
+        "price": "14.66 - 25.96 Lakh",
+        "url": "/tata-cars/safari"
+      },
+      {
+        "name": "Mahindra XUV700",
+        "price": "13.66 - 25.19 Lakh",
+        "url": "/mahindra-cars/xuv700"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 48.2 Lakh",
+          "₹ 28.02 - 35.37 Lakh",
+          "₹ 19.73 - 35.97 Lakh",
+          "₹ 19.46 - 20.92 Lakh",
+          "₹ 14.66 - 25.96 Lakh",
+          "₹ 13.66 - 25.19 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "7.8",
+          "7.0",
+          "6.1",
+          "5.5",
+          "8.3"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1498 cc",
+          "2755 CC",
+          "1898 CC",
+          "2596 CC",
+          "1956 CC",
+          "1997 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "CVT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "13 KM/L",
+          "12.6 KM/L",
+          "14.4 KM/L",
+          "15 KM/L",
+          "16.14 KM/L",
+          "13 - 16.57 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Diesel",
+          "Diesel",
+          "Diesel",
+          "Diesel",
+          "Petrol, Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "4 Seater",
+          "7 Seater",
+          "7 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "55.0 L",
+          "80.0 L",
+          "55.0 L",
+          "63.5 L",
+          "50.0 L",
+          "60.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "4",
+          "5",
+          "2",
+          "24",
+          "27"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "X-Trail vs Hilux",
+          "X-Trail vs D-Max V-Cross",
+          "X-Trail vs Gurkha",
+          "X-Trail vs Safari",
+          "X-Trail vs XUV700"
+        ]
+      }
+    ]
+  }
+}

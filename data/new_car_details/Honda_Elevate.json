@@ -1,0 +1,273 @@
+{
+  "basic_info": {
+    "name": "Honda Elevate",
+    "manufacturer": "Honda",
+    "model": "Elevate",
+    "body_type": null,
+    "url": "https://www.carandbike.com/honda-cars/elevate",
+    "image_url": "https://images.carandbike.com/car-images/large/honda/elevate/honda-elevate.jpg?v=21",
+    "description": "Honda Elevate is a 5-seater  available at a starting price of Rs. 11 Lakh. The car is available in 17 variants, with 1 engine and 3 transmission option. Additionally, Elevate offers a Ground Clearance measurement of 220 mm and a Boot capacity of 458 liters. You can choose from 10 colors for the Elevate. The mileage of the Elevate varies from 15.3 - 16.9 KM/L depending on the model.",
+    "model_date": "2023-09-04",
+    "sku": "honda-elevate-1742",
+    "vin": "5NPEL4AB3BH001742",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1498 cc",
+    "power": "120 bhp",
+    "torque": "145 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Manual, Automatic, CVT",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "15 - 16 KM/L"
+  },
+  "dimensions": {
+    "width": "1790 mm ",
+    "height": "1650 mm",
+    "weight": "1206/1258",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Radiant Red Metallic with Crystal Black Pearl Roof",
+    "Platinum White Pearl with Crystal Black Pearl Roof",
+    "Phoenix Orange Pearl with Crystal Black Pearl Roof",
+    "Meteoroid Gray Metallic",
+    "Lunar Silver Metallic",
+    "Golden Brown Metallic",
+    "Platinum White Pearl",
+    "Radiant Red Metallic",
+    "Obsidian Blue Pearl",
+    "Phoenix Orange Pearl"
+  ],
+  "price": {
+    "value": 1099900,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/honda-cars/elevate"
+  },
+  "brand": {
+    "name": "Honda",
+    "image": "https://images.carandbike.com/car-images/big/honda/honda.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "15.3 KM/L",
+      "city_mileage": "14 KM/L",
+      "highway_mileage": "17 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "CVT",
+      "mileage": "16.9 KM/L",
+      "city_mileage": "14 KM/L",
+      "highway_mileage": "17 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "16.9 KM/L",
+      "city_mileage": "14 KM/L",
+      "highway_mileage": "17 KM/L"
+    }
+  ],
+  "whats_new": {
+    "Introduction": [
+      "Honda's latest mid-size SUV, the Elevate, was first launched in India in September 2023.",
+      "While the SUV hasn't changed much, the carmaker has been making changes to it to keep it fresh amidst the competition.",
+      "The upgrades include exterior styling elements, new interior themes, and special editions.",
+      "Amongst these is the latest range-topping version of the Elevate called the Elevate ADV Edition.",
+      "Apart from the existing Black Editions, the ADV variant brings a sportier look and several unique cosmetic enhancements."
+    ],
+    "Exterior": [
+      "The Elevate is a proper mid-size SUV with proportions like its rivals including the Hyundai Creta, Kia Seltos, and the likes.",
+      "Honda has kept the design intact with just a little nip and tuck to keep it afresh.",
+      "For example, the standard Elevate Black Edition comes with chrome and silver highlights.",
+      "On the other hand, the Signature Black Edition gets full blacked-out styling with a new grille.",
+      "Now, the latest ADV Edition stands out with exclusive styling upgrades.",
+      "These include a glossy black Alpha-Bold Plus front grille and an orange-accented hood decal.",
+      "It also gets black roof rails, ORVMs, and black alloy wheels with orange highlights.",
+      "Other highlights include an orange fog lamp garnish, ADV badges, and a rear bumper skid plate with orange accents."
+    ],
+    "Interior": [
+      "The Elevate seating layout and design is more or less the same ever since its launch, expect for some cosmetic changes.",
+      "For example, the biggest addition is in the form of the top-spec ZX variant, which now gets an ivory interior theme with leatherette upholstery, soft-touch inserts on the doors and dashboard.",
+      "Prospective buyers can also opt for a 360-degree surround vision camera and seven-colour ambient lighting.",
+      "Meanwhile, the V and VX trims feature black fabric upholstery with ivory inserts, in place of the earlier shadow beige theme.",
+      "In contrast, the Elevate ADV Edition boasts an all-black cabin with orange stitching and accents on the seats, AC knobs, and gear console.",
+      "Another unique highlight is the first-in-Honda ADV Terrain Pattern backlit illuminated instrument panel.",
+      "Here, even the seats feature embossed ADV logos for added appeal and to stand apart from the standard version.",
+      "Moreover, the Black and Signature Black Editions continue to feature all-black interiors with leatherette seats and soft-touch materials.",
+      "On the safety front, the Elevate top-spec variants including the ADV Edition come equipped a lot of features.",
+      "For example, there's a Honda Sensing ADAS suite, including collision mitigation braking, lane-keep assist, adaptive cruise control, and more.",
+      "Otherwise, the standard safety features include six airbags, lane watch camera, hill start assist, vehicle stability control, and ISOFIX child seat mounts."
+    ],
+    "Powertrain": [
+      "Honda had launched the Elevate with a 1.5-litre i-VTEC petrol engine.",
+      "It comes mated to either a six-speed manual gearbox or a CVT.",
+      "Even the new ADV Edition carries forward this familiar 1.5-litre engine.",
+      "Notably, the CVT automatic is a seven-step transmission with paddle shifters."
+    ]
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Honda Elevate",
+        "price": "11 - 16.67 Lakh",
+        "url": "/honda-cars/elevate"
+      },
+      {
+        "name": "Maruti Suzuki Grand Vitara",
+        "price": "11.03 - 19.66 Lakh",
+        "url": "/maruti-suzuki-cars/grand-vitara"
+      },
+      {
+        "name": "Toyota Urban Cruiser Hyryder",
+        "price": "10.95 - 19.76 Lakh",
+        "url": "/toyota-cars/urban-cruiser-hyryder"
+      },
+      {
+        "name": "Kia Seltos",
+        "price": "10.79 - 19.81 Lakh",
+        "url": "/kia-cars/seltos"
+      },
+      {
+        "name": "Tata Sierra",
+        "price": "11.49 - 18.49 Lakh",
+        "url": "/tata-cars/sierra"
+      },
+      {
+        "name": "Maruti Suzuki Victoris",
+        "price": "10.5 - 19.99 Lakh",
+        "url": "/maruti-suzuki-cars/victoris"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 11 - 16.67 Lakh",
+          "₹ 11.03 - 19.66 Lakh",
+          "₹ 10.95 - 19.76 Lakh",
+          "₹ 10.79 - 19.81 Lakh",
+          "₹ 11.49 - 18.49 Lakh",
+          "₹ 10.5 - 19.99 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "8.5",
+          "7.9",
+          "8.7",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1498 cc",
+          "1462 CC",
+          "1462 CC",
+          "1497 CC",
+          "1498 CC",
+          "1492 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic, CVT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "15 - 16 KM/L",
+          "19.38 - 27.97 KM/L",
+          "19.39 - 27.97 KM/L",
+          "17 - 20.7 KM/L",
+          "16 - 18 KM/L",
+          "21.18 - 28.65 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Hybrid, Petrol, CNG",
+          "Hybrid, Petrol, CNG",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Hybrid, Petrol, CNG"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "40.0 L",
+          "45.0 L",
+          "45.0 L",
+          "50.0 L",
+          "50.0 L",
+          "55.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "17",
+          "27",
+          "27",
+          "23",
+          "17",
+          "34"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Elevate vs Grand Vitara",
+          "Elevate vs Urban Cruiser Hyryder",
+          "Elevate vs Seltos",
+          "Elevate vs Sierra",
+          "Elevate vs Victoris"
+        ]
+      }
+    ]
+  }
+}

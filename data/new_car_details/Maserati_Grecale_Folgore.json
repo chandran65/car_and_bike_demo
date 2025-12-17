@@ -1,0 +1,223 @@
+{
+  "basic_info": {
+    "name": "Maserati Grecale Folgore",
+    "manufacturer": "Maserati",
+    "model": "Grecale Folgore",
+    "body_type": null,
+    "url": "https://www.carandbike.com/maserati-cars/grecale-folgore",
+    "image_url": "https://images.carandbike.com/car-images/large/maserati/grecale-folgore/maserati-grecale-folgore.jpg?v=50",
+    "description": "Maserati Grecale Folgore is a 2-seater electric  available at a starting price of Rs. 3.05 Crore. The electric car is available in 2 variants.Additionally, Grecale Folgore offers a Boot capacity of 535 liters. You can choose from 24 colors for the Grecale Folgore. The battery range/mileage of the Grecale Folgore is 501 Km/Full Charge. ",
+    "model_date": "2025-11-14",
+    "sku": "maserati-grecale-folgore-1907",
+    "vin": "5NPEL4AB3BH001907",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "426 - 501 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1948 mm ",
+    "height": "1651 mm",
+    "weight": "2480/2480",
+    "seating_capacity": "2",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Grigio Lamira Matt",
+    "Blu Royale",
+    "Bordeaux Pontevecchio",
+    "Giallo Corse",
+    "Rosso Gran Turismo",
+    "Blu Nobile",
+    "Verde smeraldo",
+    "Military Teal Matte",
+    "Rose Gold Metal",
+    "Orange Glow",
+    "Azzurro Astro Glassy",
+    "Nero Cometa Gloosy",
+    "Grigio canginate",
+    "Grigio lava Opaco",
+    "Rame Florage",
+    "Devil Orange",
+    "Bianco astro",
+    "Blu Intenso",
+    "Grigio Lava",
+    "Nero Tempesta",
+    "Night Intraction",
+    "Blu Corse Matt",
+    "Verde Royale",
+    "Bianco"
+  ],
+  "price": {
+    "value": "30500000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/maserati-cars/grecale-folgore"
+  },
+  "brand": {
+    "name": "Maserati",
+    "image": "https://images.carandbike.com/car-images/big/maserati/maserati.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Maserati Grecale Folgore",
+        "price": "3.05 - 3.18 Crore",
+        "url": "/maserati-cars/grecale-folgore"
+      },
+      {
+        "name": "Lotus Eletre",
+        "price": "2.55 - 2.99 Crore",
+        "url": "/lotus-cars/eletre"
+      },
+      {
+        "name": "Mercedes-Maybach EQS Electric",
+        "price": "2.4 - 2.63 Crore",
+        "url": "/mercedes-maybach-cars/eqs-electric"
+      },
+      {
+        "name": "Mercedes-AMG EQS",
+        "price": "1.88 Crore",
+        "url": "/mercedes-amg-cars/eqs"
+      },
+      {
+        "name": "Porsche Cayenne Electric",
+        "price": "1.75 - 2.25 Crore",
+        "url": "/porsche-cars/cayenne-electric"
+      },
+      {
+        "name": "Kia EV9",
+        "price": "1.51 Crore",
+        "url": "/kia-cars/ev9"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 3.05 - 3.18 Crore",
+          "₹ 2.55 - 2.99 Crore",
+          "₹ 2.4 - 2.63 Crore",
+          "₹ 1.88 Crore",
+          "₹ 1.75 - 2.25 Crore",
+          "₹ 1.51 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "-",
+          "9.0",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "426,501 Km/Full Charge",
+          "500 Km/Full Charge",
+          "600 Km/Full Charge",
+          "529 Km/Full Charge",
+          "642 Km/Full Charge",
+          "470 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "2 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "6 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "3",
+          "2",
+          "1",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Grecale Folgore vs Eletre",
+          "Grecale Folgore vs EQS Electric",
+          "Grecale Folgore vs EQS",
+          "Grecale Folgore vs Cayenne Electric",
+          "Grecale Folgore vs EV9"
+        ]
+      }
+    ]
+  }
+}

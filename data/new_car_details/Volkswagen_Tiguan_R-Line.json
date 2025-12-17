@@ -1,0 +1,217 @@
+{
+  "basic_info": {
+    "name": "Volkswagen Tiguan R-Line",
+    "manufacturer": "Volkswagen",
+    "model": "Tiguan R-Line",
+    "body_type": null,
+    "url": "https://www.carandbike.com/volkswagen-cars/tiguan-r-line",
+    "image_url": "https://images.carandbike.com/car-images/large/volkswagen/tiguan-r-line/volkswagen-tiguan-r-line.jpg?v=9",
+    "description": "Volkswagen Tiguan R-Line is a 5-seater  available at a starting price of Rs. 45.73 Lakh. The car is available in 1 variants, with 1 engine and 1 transmission option. Additionally, Tiguan R-Line offers a Ground Clearance measurement of 176 mm and a Boot capacity of 652 liters. You can choose from 6 colors for the Tiguan R-Line. The mileage of the Tiguan R-Line varies from 12.6 KM/L depending on the model.",
+    "model_date": "2025-04-14",
+    "sku": "volkswagen-tiguan-r-line-1850",
+    "vin": "5NPEL4AB3BH001850",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1984 cc",
+    "power": "201 bhp @ 4500-6000 rpm bhp",
+    "torque": "320 Nm @ 1500 rpm Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "DCT",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "12 KM/L"
+  },
+  "dimensions": {
+    "width": "1859 mm ",
+    "height": "1656 mm",
+    "weight": "1758/1758",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Grenadilla Black Metallic",
+    "Nightshade Blue Metallic",
+    "Cipressino Green Metallic",
+    "Oyster Silver Metallic",
+    "Oryx White Mother of Pearl Effect",
+    "Persimmon Red Metallic"
+  ],
+  "price": {
+    "value": 4573000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/volkswagen-cars/tiguan-r-line"
+  },
+  "brand": {
+    "name": "Volkswagen",
+    "image": "https://images.carandbike.com/car-images/big/volkswagen/volkswagen.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "whats_new": {
+    "Key Highlights :-": [
+      "Sporty R-Line styling with exclusive design elements",
+      "4MOTION AWD and DSG offer strong on-road dynamics",
+      "Fully loaded with advanced tech and safety features",
+      "Imported as a CBU for superior build quality",
+      "Competes with luxury midsize SUVs in India’s premium segment"
+    ]
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Volkswagen Tiguan R-Line",
+        "price": "45.73 Lakh",
+        "url": "/volkswagen-cars/tiguan-r-line"
+      },
+      {
+        "name": "Jeep Compass",
+        "price": "17.73 - 30.58 Lakh",
+        "url": "/jeep-cars/compass"
+      },
+      {
+        "name": "Hyundai Creta N Line",
+        "price": "16.35 - 20.09 Lakh",
+        "url": "/hyundai-cars/creta-n-line"
+      },
+      {
+        "name": "MG Hector Plus",
+        "price": "16.05 - 21.34 Lakh",
+        "url": "/mg-cars/hector-plus"
+      },
+      {
+        "name": "MG Hector",
+        "price": "14 - 21.52 Lakh",
+        "url": "/mg-cars/hector"
+      },
+      {
+        "name": "Tata Harrier",
+        "price": "14 - 25.25 Lakh",
+        "url": "/tata-cars/harrier"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 45.73 Lakh",
+          "₹ 17.73 - 30.58 Lakh",
+          "₹ 16.35 - 20.09 Lakh",
+          "₹ 16.05 - 21.34 Lakh",
+          "₹ 14 - 21.52 Lakh",
+          "₹ 14 - 25.25 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "8.2",
+          "-",
+          "8.1",
+          "7.5",
+          "7.9"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1984 cc",
+          "1956 CC",
+          "1482 CC",
+          "1956 CC",
+          "1451 CC",
+          "1956 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "DCT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "12 KM/L",
+          "15 - 17 KM/L",
+          "18 - 18.2 KM/L",
+          "16 - 17 KM/L",
+          "13.96 - 17.4 KM/L",
+          "14.6 - 16.8 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Diesel",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "60.0 L",
+          "60.0 L",
+          "51.0 L",
+          "60.0 L",
+          "60.0 L",
+          "50.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "22",
+          "12",
+          "24",
+          "20",
+          "23"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Tiguan R-Line vs Compass",
+          "Tiguan R-Line vs Creta N Line",
+          "Tiguan R-Line vs Hector Plus",
+          "Tiguan R-Line vs Hector",
+          "Tiguan R-Line vs Harrier"
+        ]
+      }
+    ]
+  }
+}

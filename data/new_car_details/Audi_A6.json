@@ -1,0 +1,227 @@
+{
+  "basic_info": {
+    "name": "Audi A6",
+    "manufacturer": "Audi",
+    "model": "A6",
+    "body_type": "Sedan",
+    "url": "https://www.carandbike.com/audi-cars/a6",
+    "image_url": "https://images.carandbike.com/car-images/large/audi/a6/audi-a6.jpg?v=28",
+    "description": "Audi A6 is a 5-seater Sedan available at a starting price of Rs. 63.74 Lakh. The car is available in 4 variants, with 1 engine and 1 transmission option. Additionally, A6 offers a Ground Clearance measurement of 165 mm and a Boot capacity of 560 liters. You can choose from 5 colors for the A6. The mileage of the A6 varies from 14.1 KM/L depending on the model.",
+    "model_date": "2019-10-24",
+    "sku": "audi-a6-1008",
+    "vin": "5NPEL4AB3BH001008",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1984 cc",
+    "power": "241 bhp",
+    "torque": "370 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "14 KM/L"
+  },
+  "dimensions": {
+    "width": "2086 mm ",
+    "height": "1455 mm",
+    "weight": "1780/1780",
+    "seating_capacity": "5",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "Firmament Blue Metallic",
+    "Manhattan Gray Metallic",
+    "Glacier White",
+    "Chronos Gray Metallic",
+    "Mythos Black"
+  ],
+  "price": {
+    "value": 6373999,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/audi-cars/a6"
+  },
+  "brand": {
+    "name": "Audi",
+    "image": "https://images.carandbike.com/car-images/big/audi/audi.png?v=1"
+  },
+  "rating": {
+    "value": "7.6",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "New-Gen Tech",
+    "Increase In Dimensions",
+    "Refined Engine"
+  ],
+  "cons": [
+    "No Diesel Engine",
+    "Limited Interior Storage",
+    "Stiff Ride Quality&nbsp;"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "14.1 KM/L",
+      "city_mileage": "12 KM/L",
+      "highway_mileage": "15 KM/L"
+    }
+  ],
+  "verdict": "The new 5th generation Audi A6 sedan impresses on several levels and leaves its predecessors shortcomings far behind. On the inside the A6 will truly impress as the cabin has moved up several notches on not just design, materials and gadgets, but most importantly - on comfort. The last car had a very awkward rear bench and the new A6 will pamper its rear-seat biased owners with a very comfortable bench and seatback angle. The A6 will be a credible and robust addition to the Audi sedan portfolio.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Audi A6",
+        "price": "63.74 - 70.79 Lakh",
+        "url": "/audi-cars/a6"
+      },
+      {
+        "name": "Lexus ES",
+        "price": "62.65 - 68.23 Lakh",
+        "url": "/lexus-cars/es"
+      },
+      {
+        "name": "BMW 3 Series",
+        "price": "65.01 - 79.53 Lakh",
+        "url": "/bmw-cars/3-series"
+      },
+      {
+        "name": "Mercedes-Benz C-Class",
+        "price": "61 - 68 Lakh",
+        "url": "/mercedes-benz-cars/c-class"
+      },
+      {
+        "name": "Audi S5",
+        "price": "73.57 - 80.5 Lakh",
+        "url": "/audi-cars/s5"
+      },
+      {
+        "name": "Skoda Octavia RS",
+        "price": "49.99 Lakh",
+        "url": "/skoda-cars/octavia-rs"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 63.74 - 70.79 Lakh",
+          "₹ 62.65 - 68.23 Lakh",
+          "₹ 65.01 - 79.53 Lakh",
+          "₹ 61 - 68 Lakh",
+          "₹ 73.57 - 80.5 Lakh",
+          "₹ 49.99 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.6",
+          "6.5",
+          "8.2",
+          "8.1",
+          "7.9",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1984 cc",
+          "2487 CC",
+          "2998 CC",
+          "1496 CC",
+          "2995 CC",
+          "1984 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "14 KM/L",
+          "22.58 KM/L",
+          "16.13 KM/L",
+          "14.49 - 23 KM/L",
+          "13 KM/L",
+          "0 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Hybrid",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "73.0 L",
+          "50.0 L",
+          "59.0 L",
+          "66.0 L",
+          "58.0 L",
+          "50.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "4",
+          "2",
+          "3",
+          "3",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "A6 vs ES",
+          "A6 vs 3 Series",
+          "A6 vs C-Class",
+          "A6 vs S5",
+          "A6 vs Octavia RS"
+        ]
+      }
+    ]
+  }
+}

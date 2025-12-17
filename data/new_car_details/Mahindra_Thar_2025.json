@@ -1,0 +1,256 @@
+{
+  "basic_info": {
+    "name": "Mahindra Thar 2025",
+    "manufacturer": "Mahindra",
+    "model": "2025 Thar",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/mahindra-cars/thar",
+    "image_url": "https://images.carandbike.com/car-images/large/mahindra/thar/mahindra-thar.jpg?v=47",
+    "description": "Mahindra Thar 2025 is a 4-seater SUV available at a starting price of Rs. 9.99 Lakh. The car is available in 7 variants, with 3 engine and 3 transmission option. Additionally, 2025 Thar offers a Ground Clearance measurement of 226 mm and a Boot capacity of 235 liters. You can choose from 6 colors for the 2025 Thar. The mileage of the 2025 Thar varies from 10.2 - 13 KM/L depending on the model.",
+    "model_date": "2025-10-03",
+    "sku": "mahindra-thar-2025-1634",
+    "vin": "5NPEL4AB3BH001634",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1497,1997,2184 cc",
+    "power": "117 bhp @ 3500 rpm,130 bhp @ 3750 rpm,150 bhp @ 5000 rpm bhp",
+    "torque": "300 Nm@ 1250-3000 rpm,300 Nm@ 1600-2800 rpm,300 Nm@ 1750-2500 rpm,320 Nm@ 1500-3000 rpm Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Manual, Automatic, AMT",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "10 - 15 KM/L"
+  },
+  "dimensions": {
+    "width": "1820 mm ",
+    "height": "1855 mm",
+    "weight": "1775/1775",
+    "seating_capacity": "4",
+    "number_of_doors": "3"
+  },
+  "colors": [
+    "Tango Red",
+    "Stealth Black",
+    "Everest White",
+    "Battleship Grey Black",
+    "Galaxy Grey",
+    "Deep Forest"
+  ],
+  "price": {
+    "value": "999000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mahindra-cars/thar"
+  },
+  "brand": {
+    "name": "Mahindra",
+    "image": "https://images.carandbike.com/car-images/big/mahindra/mahindra.png?v=1"
+  },
+  "rating": {
+    "value": "7.4",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Styling",
+    "Refined Engine",
+    "Proper Off-Roader"
+  ],
+  "cons": [
+    "Bumpy Ride Quality",
+    "Not Fuel Efficient",
+    "Premium Pricing"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "AMT",
+      "mileage": "10.2 KM/L",
+      "city_mileage": "12 KM/L",
+      "highway_mileage": "13 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "10.2 KM/L",
+      "city_mileage": "12 KM/L",
+      "highway_mileage": "13 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "15.2 KM/L",
+      "city_mileage": "13 KM/L",
+      "highway_mileage": "15 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Manual",
+      "mileage": "13 KM/L",
+      "city_mileage": "16 KM/L",
+      "highway_mileage": "18 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "13 KM/L",
+      "city_mileage": "16 KM/L",
+      "highway_mileage": "18 KM/L"
+    }
+  ],
+  "verdict": "The Mahindra Thar, with its rugged, hefty look, is mechanically sound with driving manners good enough for city and highway. Whether the three-door Thar suits a family is debatable, but it's always been a niche vehicle for a specific set of buyers.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mahindra 2025 Thar",
+        "price": "9.99 - 16.99 Lakh",
+        "url": "/mahindra-cars/thar"
+      },
+      {
+        "name": "MG Hector Plus",
+        "price": "16.05 - 21.34 Lakh",
+        "url": "/mg-cars/hector-plus"
+      },
+      {
+        "name": "Hyundai Creta",
+        "price": "19.79 L",
+        "url": "/hyundai-cars/creta"
+      },
+      {
+        "name": "Isuzu D-Max",
+        "price": "10.14 - 20.35 Lakh",
+        "url": "/isuzu-cars/d-max"
+      },
+      {
+        "name": "Tata Safari",
+        "price": "14.66 - 25.96 Lakh",
+        "url": "/tata-cars/safari"
+      },
+      {
+        "name": "Force Motors Gurkha",
+        "price": "19.46 - 20.92 Lakh",
+        "url": "/force-motors-cars/gurkha"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 9.99 - 16.99 Lakh",
+          "₹ 16.05 - 21.34 Lakh",
+          "₹ 19.79 L",
+          "₹ 10.14 - 20.35 Lakh",
+          "₹ 14.66 - 25.96 Lakh",
+          "₹ 19.46 - 20.92 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.4",
+          "8.1",
+          "8.4",
+          "7.5",
+          "5.5",
+          "6.1"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1497,1997,2184 cc",
+          "1956 CC",
+          "1497 CC",
+          "2499 CC",
+          "1956 CC",
+          "2596 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic, AMT",
+          "Manual",
+          "IVT",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "10 - 15 KM/L",
+          "16 - 17 KM/L",
+          "17.4 - 21.8 KM/L",
+          "14 KM/L",
+          "16.14 KM/L",
+          "15 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Diesel",
+          "Diesel",
+          "Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "4 Seater",
+          "7 Seater",
+          "5 Seater",
+          "2 Seater",
+          "7 Seater",
+          "4 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "57.0 L",
+          "60.0 L",
+          "50.0 L",
+          "55.0 L",
+          "50.0 L",
+          "63.5 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "7",
+          "24",
+          "32",
+          "6",
+          "24",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Thar vs Hector Plus",
+          "Thar vs Creta",
+          "Thar vs D-Max",
+          "Thar vs Safari",
+          "Thar vs Gurkha"
+        ]
+      }
+    ]
+  }
+}

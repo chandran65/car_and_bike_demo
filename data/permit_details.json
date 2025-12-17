@@ -1,0 +1,304 @@
+{
+  "page_title": "About Permit | Parivahansewa",
+  "url": "https://parivahan.gov.in/content/about-permit",
+  "extraction_date": "2025-12-14",
+  "permit_categories": [
+    {
+      "category": "Permits for Goods Vehicles",
+      "subsections": [
+        {
+          "title": "Goods Carrier Permits :",
+          "description": "Such permit is granted under Section 79 of the Motor Vehicles Act,1988, to a goods vehicle operating within the state. Permits granted to a particular vehicle for carrying a particular load has to be plied for that particular area only.",
+          "tables": []
+        },
+        {
+          "title": "Counter Signatures of Goods Carrier permits:",
+          "description": "These are the permits which are initially issued by one state and later on endorsed in another state by the concerned State or Regional Transport Authority under section 88 of Motor Vehicle Act, 1988. In view of the Delhi Government Notification number F. PA/JCV/OPS/Tpt./1613/05/1447 dated 5th January 2006, counter signatures are not being done under section 88 of Motor Vehicle Act, 1988 for those goods vehicle registered in other states and having a gross vehicle weight upto 7500 kg. if not running on clean fuel.",
+          "tables": []
+        },
+        {
+          "title": "National Permits :",
+          "description": "National permits are issued to goods vehicles to enable them to go outside the home state. National Permit is issued for a minimum of four continuous states (including the home state) under rule 86 & 87 of Central Motor Vehicles Rules, 1989. For obtaining such permits the maximum age of a particular vehicle should not exceed 12 years. However, maximum age in case of a multi-axle vehicle should not exceed 15 years. For the issue of National Permit, applicant has to apply on form 46 and 48 along with other formalities",
+          "tables": []
+        }
+      ]
+    },
+    {
+      "category": "Permits for Passenger Vehicles",
+      "subsections": [
+        {
+          "title": "Auto Rickshaw and Taxi permits :",
+          "description": "Such permits are issued by MLO (AR) Burari for carrying passengers to various places within Delhi. Fare is charged as per the fare meter mounted on such Vehicles & as determined by STA.",
+          "tables": []
+        },
+        {
+          "title": "Prevailing fares are as under:",
+          "description": "a) Auto-Rickshaw-Rs.8.00 for first kilometer and thereafter Rs.3.50 for every additional kilometer.b) Taxi-Rs.10.00 for first kilometer and thereafter Rs.5.00 for every additional kilometer.",
+          "tables": []
+        },
+        {
+          "title": "Maxicabs:",
+          "description": "Such permit are issued by STA to vehicles carrying passengers to various parts of Delhi on a fixed route and as per the fare fixed by the STA. Total seating capacity of such vehicles should not exceed more than 12 excluding the Driver.",
+          "tables": []
+        },
+        {
+          "title": "Phat Phat Sewa :",
+          "description": "The operators using the three wheeled Harley - Davidson engine vehicles were issued Phat Phat Sewa permits. These vehicles have since been replaced with vehicles having maximum seating capacity of 9. They ply on a fixed route and charge the fare as per S.T.A. approval.",
+          "tables": []
+        },
+        {
+          "title": "Eco Friendly Sewa:",
+          "description": "Transport Department has issued permits to battery operated 3 wheeled vehicles having seating capacity up to 10.",
+          "tables": []
+        },
+        {
+          "title": "Contract Carriage Buses Permits (Chartered Buses):",
+          "description": "This is the most common type of permit used for hire and reward purpose. The permit holder can operate under a contract with his client for a fixed destination within Delhi or outside Delhi. For this an agreement should be executed between the clients and the operators and the list of passengers should also be available with the driver of bus. The permit holder cannot pick passengers other than those mentioned in the list. Such type of buses are also known as Chartered Buses. These permits are issued under section 74 of Motor Vehicles Act, 1988. The applicant has to apply on form PCA alongwith other formalities.",
+          "tables": []
+        },
+        {
+          "title": "Stage Carriage Permits :",
+          "description": "State Transport Authority announces scheme for grant of stage carriage permit from time to time, depending upon the requirement of buses on different route of the city. These permits are issued under section 72 of Motor Vehicles Act, 1988. The permit holders can operate their bus under their allotted routes for picking up passengers from one place to another. All DTC and private stage carriage buses come under this category. The fares are fixed by STA. Prevailing fares are as under:",
+          "tables": []
+        },
+        {
+          "title": "Temporary Permits:",
+          "description": "A temporary permit is issued by STA under Section 87 of Motor Vehicles Act, 1988 to transport vehicle for a limited period, enabling the vehicle to go out side Delhi for the following reasons: For the conveyance of passengers on special occasions such as to and from fairs and religious gatherings, or For the purposes of a seasonal business, or To meet a particular temporary need, or Pending decision on an application for the renewal of a permit. The applicant has to apply on form P. TEMP. A.DLY/DLZ (ALL India Tourist Permits cab) :\n\nThis permit is given for motor cabs having seating capacity of five. The colour of the cabs are permitted as white only. The applicant for this permit should have an office having telephone at suitable tourist passengers booking place . The applicant should have authorised parking place to park these vehicles and adequate financial resources to purchase the vehicle. The road tax\\passenger tax of vehicle is paid at state borders. DLZ permits are given to luxury cars.",
+          "tables": []
+        },
+        {
+          "title": "Rent-a-Cab Permits :",
+          "description": "With the increase in no. of multi nationals Companies & tourists requirements Rent-A-Cab scheme was launched in India in 1989. Under this scheme the passenger drives the vehicle himself & fare is charged on no. of days the cab is used. The applicant should have a 24 hrs. accessible telephone, adequate parking space, experience of passenger transport business. The applicant in addition should have a fleet of 50 cabs of which 50% should be air-conditioned. The permit of these schemes are also valid throughout India provided the passenger taxes were paid to the corresponding states",
+          "tables": []
+        },
+        {
+          "title": "Institution / School Buses:",
+          "description": "The vehicles of Educational Institution registered under the Societies Act 1960 (21 of 1960) are issued contract carriage permit by STA. These vehicles are also exempted from road tax. For identification these vehicles are painted in golden yellow paint. Special provisions have been incorporated in Delhi Motor Vehicles Rules, 1993 for additional safeguards in respect of the safety of the children.",
+          "tables": []
+        },
+        {
+          "title": "All India Tourist Permit (AITP):",
+          "description": "This permit is given to luxury buses which have white colour with a blue ribbon of five centimeters width at the center of exterior of the body and the word 'Tourist' shall be inserted on two sides of the vehicle within a circle of sixty centimeters diameter. A tourist permit shall be deemed to be invalid from the date on which the motor vehicle covered by the permit completes 9 years in the case of Motor Cab and 8 years where the motor vehicle is other than a motor cab, unless the motor vehicle is replaced by another, the latter vehicle shall not be more than 2 years old on the date of such replacement. The seating layout shall be two and two or one and two or one and one on either side, all seats facing forwards. The Vehicles should also have other facilities like public address system, drinking water, push full back seats, fans, curtains, a separate driver cabin etc. The applicant has to apply on form 45 & 48 along with other formalities.\n\nEvery motor vehicle or motor cab under the Authorization Certificate issued under these rules shall exhibit the words 'All India Tourist Permit' on the back of the motor vehicle in contrasting colours, so as to be clearly visible. (as per the notification issued by Deptt. Of Road Transport & Highways on 26th June 2007)",
+          "tables": []
+        }
+      ]
+    },
+    {
+      "category": "Permit Fees And Permit Period",
+      "subsections": [
+        {
+          "title": "Local Permit",
+          "description": "",
+          "tables": [
+            [
+              {
+                "S.No.": "(2)",
+                "Type of Vehicle": "Heavy Goods Vehicle",
+                "Fee Payable": "Rs. 2500/-",
+                "Permit Period": "5 yrs."
+              }
+            ]
+          ]
+        },
+        {
+          "title": "National Permit",
+          "description": "For obtaining National Permit for any category of vehicle one should opt for at least three states excluding Delhi. Composite fee as stipulated by the concerned states, in the form of Bank Drafts has also to be deposited with STA, Delhi.",
+          "tables": [
+            [
+              {
+                "S.No.": "(2)",
+                "Type of Vehicle": "Heavy Goods Vehicle",
+                "Fee Payable": "Rs. 2515/-",
+                "Permit Period": "5 yrs."
+              }
+            ]
+          ]
+        },
+        {
+          "title": "Composite fee applicable in few of the states is as under:",
+          "description": "A permit other than temporary permit issued under section 87 or a special permit or a special permit issued under sub section (8) of section 88 shall be effective (from the date of issuance or renewal thereof) for a period of 5 years. The fee for the renewal of permit is same as issuance of permit fee. For the renewal of permit the applicant has to submit application (PRA) along with permit renewal fee and other requirements 15 days before the expiry of said permit. If any fee is not paid by the due date, the following late fee shall be payable for the renewal of permits.\n\nIf any fee is not paid by the due date in case of All India Tourist Permit/ National permits/ Interstate Permit a late fee at the rate of rupees twenty per day shall be paid by the vehicle owner before the issue/ renewal thereof. The fee for the issue of duplicate permit shall be half of the permit fee.",
+          "tables": [
+            [
+              {
+                "S. No.": "(2)",
+                "State": "Rajasthan",
+                "Fee Payable": "Rs. 5000/-"
+              },
+              {
+                "S. No.": "(3)",
+                "State": "U.P.",
+                "Fee Payable": "Rs. 5000/-"
+              },
+              {
+                "S. No.": "(4)",
+                "State": "M.P.",
+                "Fee Payable": "Rs. 5000/-"
+              },
+              {
+                "S. No.": "(5)",
+                "State": "H.P.",
+                "Fee Payable": "Rs. 5000/-"
+              },
+              {
+                "S. No.": "(6)",
+                "State": "J&K",
+                "Fee Payable": "Rs. 5000/-"
+              },
+              {
+                "S. No.": "(7)",
+                "State": "Punjab",
+                "Fee Payable": "Rs. 5000/-"
+              },
+              {
+                "S. No.": "(8)",
+                "State": "Bihar",
+                "Fee Payable": "Rs. 5000/-"
+              },
+              {
+                "S. No.": "(9)",
+                "State": "Gujarat",
+                "Fee Payable": "Rs. 5000/-"
+              },
+              {
+                "S. No.": "(10)",
+                "State": "Maharashtra",
+                "Fee Payable": "Rs. 5000/-"
+              },
+              {
+                "S. No.": "(11)",
+                "State": "Orissa",
+                "Fee Payable": "Rs. 5000/-"
+              },
+              {
+                "S. No.": "(12)",
+                "State": "W.Bengal",
+                "Fee Payable": "Rs. 5000/-"
+              },
+              {
+                "S. No.": "(13)",
+                "State": "Kerala",
+                "Fee Payable": "Rs. 5000/-"
+              },
+              {
+                "S. No.": "(14)",
+                "State": "Assam",
+                "Fee Payable": "Rs. 5000/-"
+              },
+              {
+                "S. No.": "(15)",
+                "State": "Meghalaya",
+                "Fee Payable": "Rs. 5000/-"
+              },
+              {
+                "S. No.": "(16)",
+                "State": "Tamil Nadu",
+                "Fee Payable": "Rs. 3000/-"
+              },
+              {
+                "S. No.": "(17)",
+                "State": "Andhra Pradesh",
+                "Fee Payable": "Rs. 3000/-"
+              },
+              {
+                "S. No.": "(18)",
+                "State": "Chandigarh",
+                "Fee Payable": "Rs. 1500/-"
+              },
+              {
+                "S. No.": "(19)",
+                "State": "Pondicherry",
+                "Fee Payable": "Rs. 1500/-"
+              }
+            ],
+            [
+              {
+                "S.No.": "(2)",
+                "Type of Vehicle": "Heavy Goods Vehicle",
+                "Fee Payable": "Rs. 1615/-",
+                "Permit Period": "For 5 yrs."
+              },
+              {
+                "S.No.": "(3)",
+                "Type of Vehicle": "Contract Carriage Permit for buses",
+                "Fee Payable": "Rs. 1100/-",
+                "Permit Period": "For 5 yrs."
+              },
+              {
+                "S.No.": "(4)",
+                "Type of Vehicle": "All India Tourist Permit for buses",
+                "Fee Payable": "Rs. 500/-",
+                "Permit Period": "For 1 yr"
+              },
+              {
+                "S.No.": "(5)",
+                "Type of Vehicle": "Stage Carriage Permit for Red line, Blue lines, Suvidha and Interstate Permits (Renewal fee)",
+                "Fee Payable": "Rs. 1100/-",
+                "Permit Period": "For 5 yrs"
+              },
+              {
+                "S.No.": "(6)",
+                "Type of Vehicle": "Point to Point Permit",
+                "Fee Payable": "Rs. 500/-",
+                "Permit Period": "For 4 months"
+              },
+              {
+                "S.No.": "(7)",
+                "Type of Vehicle": "Counter signature for Haryana & Punjab State",
+                "Fee Payable": "",
+                "Permit Period": ""
+              },
+              {
+                "S.No.": "",
+                "Type of Vehicle": "LGV",
+                "Fee Payable": "Rs. 1500/-",
+                "Permit Period": "5 yrs"
+              },
+              {
+                "S.No.": "",
+                "Type of Vehicle": "HMV",
+                "Fee Payable": "Rs. 2500/-",
+                "Permit Period": "5 yrs"
+              },
+              {
+                "S.No.": "(8)",
+                "Type of Vehicle": "Counter Signature for other State Stage Carriage",
+                "Fee Payable": "Rs. 2500/-",
+                "Permit Period": "5 yrs"
+              },
+              {
+                "S.No.": "(9)",
+                "Type of Vehicle": "Temporary Permit @ Rs. 20/- per day issued subject to tax paid to Borders."
+              },
+              {
+                "S.No.": "(10)",
+                "Type of Vehicle": "Authorization of AITPs for other states minimum two states are issued on submitting authorization fee as stipulated by different states either with home state or at border."
+              }
+            ],
+            [
+              {
+                "Type of Vehicle": "Local Taxis",
+                "Late Fee Payable": "Rupees One hundred Only",
+                "Column 3": "One hundred rupees plus ten rupees per day"
+              },
+              {
+                "Type of Vehicle": "Light Motor Vehicles/ Medium Motor Vehicles/ Deluxe Taxis/ All India Tourist Taxis",
+                "Late Fee Payable": "Rupees Two hundred Only",
+                "Column 3": "Two hundred rupees plus fifty rupees per day"
+              },
+              {
+                "Type of Vehicle": "Heavy Motor Vehicles/ Heavy Goods Vehicle",
+                "Late Fee Payable": "Rupees Three hundred Only",
+                "Column 3": "Three hundred rupees plus twenty rupees per day"
+              }
+            ]
+          ]
+        },
+        {
+          "title": "Replacement of Vehicle",
+          "description": "The holder of a permit may, with the permission of authority by which the permit was granted, replace any vehicle covered by the permit by any other vehicle of the same nature.A period of 4 months is allowed for the replacement of vehicle in a permit which is deposited on replacement mode, from the date of deposit of permit. Beyond this period, the replacement is allowed after charging the composition fee in pursuance of by the STA Resolution No. 20/2005 dated 29.10.2005 which is reproduced as below:\n\nand such restoration of permit is subject to the approval of Competent Authority.\n\nRequirement of PAN Card and Bank A/c Number at the time of grant/ renewal and transfer of permit State Transport Authority, Government of NCT of Delhi in its meeting held on 7.4.2006 and 18.4.2006 inter-alia vide Resolution No. 21/ 2006 has resolved that the applicant shall submit a self-attested photocopy of PAN card and Bank A/c Number at the time of grant / renewal or transfer of permit for all types of transport vehicles. The PAN Card and Bank A/c number shall form part of the office record and maintained in the computerized data record. Requirement of Speed Limiting Device",
+          "tables": []
+        }
+      ]
+    }
+  ]
+}

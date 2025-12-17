@@ -1,0 +1,236 @@
+{
+  "basic_info": {
+    "name": "Tata Safari",
+    "manufacturer": "Tata",
+    "model": "Safari",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/tata-cars/safari",
+    "image_url": "https://images.carandbike.com/car-images/large/tata/safari/tata-safari.jpg?v=71",
+    "description": "Tata Safari is a 7-seater SUV available at a starting price of Rs. 14.66 Lakh. The car is available in 24 variants, with 1 engine and 2 transmission option. Additionally, Safari offers a Ground Clearance measurement of 205 mm and a Boot capacity of 447 liters. You can choose from 7 colors for the Safari. The mileage of the Safari varies from 16.1 KM/L depending on the model.",
+    "model_date": "2023-10-17",
+    "sku": "tata-safari-1205",
+    "vin": "5NPEL4AB3BH001205",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1956 cc",
+    "power": "168 bhp",
+    "torque": "350 Nm",
+    "fuel_type": "Diesel"
+  },
+  "transmission": "Manual, Automatic",
+  "fuel": {
+    "type": "Diesel",
+    "efficiency": "16 KM/L"
+  },
+  "dimensions": {
+    "width": "1922 mm ",
+    "height": "1795 mm",
+    "weight": "1825/1825",
+    "seating_capacity": "7",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Stealer Frost",
+    "Supernova Copper",
+    "Stardust Ash",
+    "Oberon Black",
+    "Lunar Slate",
+    "Galactic Sapphire",
+    "Cosmic Gold"
+  ],
+  "price": {
+    "value": 1466290,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/tata-cars/safari"
+  },
+  "brand": {
+    "name": "Tata",
+    "image": "https://images.carandbike.com/car-images/big/tata/tata.png?v=1"
+  },
+  "rating": {
+    "value": "5.5",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Solid Road Presence",
+    "Spacious And Comfortable Cabin",
+    "Well-Specced With A Host Of Features"
+  ],
+  "cons": [
+    "Heavy Weight Is Quite Noticeable In Traffic",
+    "Automatic Gearbox Could Be More Responsive",
+    "Infotainment System Feels Not The Most Reliable"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Manual",
+      "mileage": "16.1 KM/L",
+      "city_mileage": "11 KM/L",
+      "highway_mileage": "14 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "16.1 KM/L",
+      "city_mileage": "11 KM/L",
+      "highway_mileage": "14 KM/L"
+    }
+  ],
+  "verdict": "Like many Tata models the Safari also gets drive modes so you have City, Eco and Sport and yes there is perceptible difference between City and Sport for sure. But there is also a terrain response system a la Land Rover. Rough Road mode, Wet mode and then back to the default City drive mode.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Tata Safari",
+        "price": "14.66 - 25.96 Lakh",
+        "url": "/tata-cars/safari"
+      },
+      {
+        "name": "MG Hector",
+        "price": "14 - 21.52 Lakh",
+        "url": "/mg-cars/hector"
+      },
+      {
+        "name": "Mahindra XUV700",
+        "price": "13.66 - 25.19 Lakh",
+        "url": "/mahindra-cars/xuv700"
+      },
+      {
+        "name": "Mahindra Scorpio-N",
+        "price": "13.2 - 23.99 Lakh",
+        "url": "/mahindra-cars/scorpio-n"
+      },
+      {
+        "name": "Mahindra Scorpio Classic",
+        "price": "12.98 - 16.71 Lakh",
+        "url": "/mahindra-cars/scorpio-classic"
+      },
+      {
+        "name": "Mahindra Thar Roxx",
+        "price": "12.25 - 22.06 Lakh",
+        "url": "/mahindra-cars/thar-roxx"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 14.66 - 25.96 Lakh",
+          "₹ 14 - 21.52 Lakh",
+          "₹ 13.66 - 25.19 Lakh",
+          "₹ 13.2 - 23.99 Lakh",
+          "₹ 12.98 - 16.71 Lakh",
+          "₹ 12.25 - 22.06 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "5.5",
+          "7.5",
+          "8.3",
+          "8.4",
+          "7.5",
+          "7.3"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1956 cc",
+          "1451 CC",
+          "1997 CC",
+          "1997 CC",
+          "2184 CC",
+          "1997 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "16 KM/L",
+          "13.96 - 17.4 KM/L",
+          "13 - 16.57 KM/L",
+          "14 - 18.5 KM/L",
+          "15 KM/L",
+          "12.4 - 15 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Diesel",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Diesel",
+          "Petrol, Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "7 Seater",
+          "5 Seater",
+          "7 Seater",
+          "7 Seater",
+          "7 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "50.0 L",
+          "60.0 L",
+          "60.0 L",
+          "57.0 L",
+          "60.0 L",
+          "57.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "24",
+          "20",
+          "27",
+          "31",
+          "4",
+          "25"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Safari vs Hector",
+          "Safari vs XUV700",
+          "Safari vs Scorpio-N",
+          "Safari vs Scorpio Classic",
+          "Safari vs Thar Roxx"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "basic_info": {
+    "name": "Audi RS Q8",
+    "manufacturer": "Audi",
+    "model": "RS Q8",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/audi-cars/rs-q8",
+    "image_url": "https://images.carandbike.com/car-images/large/audi/rs-q8/audi-rs-q8.jpg?v=18",
+    "description": "Audi RS Q8 is a 7-seater SUV available at a starting price of Rs. 2.32 Crore. The car is available in 1 variants, with 1 engine and 1 transmission option. Additionally, RS Q8 offers a Ground Clearance measurement of 220 mm and a Boot capacity of 605 liters. The mileage of the RS Q8 varies from 8.2 KM/L depending on the model.",
+    "model_date": "2020-08-27",
+    "sku": "audi-rs-q8-1633",
+    "vin": "5NPEL4AB3BH001633",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "3996 cc",
+    "power": "592 bhp",
+    "torque": "800 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "8 KM/L"
+  },
+  "dimensions": {
+    "width": "1968 mm ",
+    "height": "1740 mm",
+    "weight": "2390/2390",
+    "seating_capacity": "7",
+    "number_of_doors": "5"
+  },
+  "colors": [],
+  "price": {
+    "value": "23240001",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/audi-cars/rs-q8"
+  },
+  "brand": {
+    "name": "Audi",
+    "image": "https://images.carandbike.com/car-images/big/audi/audi.png?v=1"
+  },
+  "rating": {
+    "value": "8.3",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Sporty, Aggressive Design",
+    "Excellent Performance",
+    "Lots Of Features And Electronic Aids"
+  ],
+  "cons": [
+    "Very Expensive",
+    "High Cost Of Ownership",
+    "Limited Rear Visibility"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "8.2 KM/L",
+      "city_mileage": "6 KM/L",
+      "highway_mileage": "9 KM/L"
+    }
+  ],
+  "verdict": "The Audi RS Q8 carries a price tag of ₹ 2.07 crore (ex-showroom) and that's just for the standard version. There are plenty of optional extras like the RS dynamic package, ceramic brakes, rear sport differential, sports seats and lots more that we think you would want to spend on. The RS Q8 is elegant, suave, outrageously fast and every bit desirable. It is on par with the modern-day supercars but pushes the envelope with its practicality.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Audi RS Q8",
+        "price": "2.32 Crore",
+        "url": "/audi-cars/rs-q8"
+      },
+      {
+        "name": "Land Rover Range Rover",
+        "price": "2.31 - 2.57 Crore",
+        "url": "/land-rover-cars/range-rover"
+      },
+      {
+        "name": "Mercedes-Benz G-Class",
+        "price": "2.38 - 2.9 Crore",
+        "url": "/mercedes-benz-cars/g-class"
+      },
+      {
+        "name": "Toyota Land Cruiser",
+        "price": "2.16 - 2.25 Crore",
+        "url": "/toyota-cars/land-cruiser"
+      },
+      {
+        "name": "BMW XM",
+        "price": "2.76 - 3.42 Crore",
+        "url": "/bmw-cars/xm"
+      },
+      {
+        "name": "Lexus LX",
+        "price": "2.8 - 2.91 Crore",
+        "url": "/lexus-cars/lx"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 2.32 Crore",
+          "₹ 2.31 - 2.57 Crore",
+          "₹ 2.38 - 2.9 Crore",
+          "₹ 2.16 - 2.25 Crore",
+          "₹ 2.76 - 3.42 Crore",
+          "₹ 2.8 - 2.91 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.3",
+          "7.7",
+          "8.2",
+          "5.7",
+          "8.7",
+          "8.5"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "3996 cc",
+          "2997 CC",
+          "2925 CC",
+          "3346 CC",
+          "4395 CC",
+          "3346 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "8 KM/L",
+          "13 - 21 KM/L",
+          "13.9 KM/L",
+          "11 KM/L",
+          "61.9 KM/L",
+          "9.6 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Diesel, Hybrid",
+          "Diesel",
+          "Diesel",
+          "Hybrid",
+          "Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "7 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "85.0 L",
+          "85.0 L",
+          "93.0 L",
+          "80.0 L",
+          "69.0 L",
+          "80.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "2",
+          "2",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "RS Q8 vs Range Rover",
+          "RS Q8 vs G-Class",
+          "RS Q8 vs Land Cruiser",
+          "RS Q8 vs XM",
+          "RS Q8 vs LX"
+        ]
+      }
+    ]
+  }
+}

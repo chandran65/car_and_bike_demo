@@ -1,0 +1,64 @@
+{
+  "General": [
+    {
+      "question": "Why should I buy/renew my Motor Insurance policy online?",
+      "answer": "The benefits are: Purchasing motor insurance policy online makes the process easy No paperwork is required to buy an online Motor Insurance Multiple payment options via Credit Card, Debit Card or Net Banking Highest levels of security"
+    },
+    {
+      "question": "For how long is my Motor Insurance policy valid?",
+      "answer": "Your Motor Insurance policy cover remains in force for 12 months from the date of commencement (or as otherwise shown on your policy schedule)"
+    },
+    {
+      "question": "What happens to NCB if I claim Motor Insurance?",
+      "answer": "NCB is forfeited only if you file a claim within the policy period or fail to renew the Motor Insurance policy within 90 days of its expiration"
+    },
+    {
+      "question": "Can my insurance policy provide me protection when I am taking my vehicle Out of India (abroad)?",
+      "answer": "Yes, the vehicle driving abroad can also be covered by taking the Geographical Extension Cover. They are 1) Bangladesh 2) Bhutan 3) Nepal 4) Pakistan 5) Sri Lanka 6) Maldives Rs.500/ per vehicle, irrespective of the class of vehicle (Package Policy) Rs.100/ per vehicle, irrespective of the class of vehicle. (Liability Only Policy)"
+    },
+    {
+      "question": "What are the add-on covers of a Motor Insurance policy?",
+      "answer": "Electrical and Electronic Accessories, Bi-fuel System (CNG/PNG Kit) and Personal Accident Cover"
+    }
+  ],
+  "Cover": [
+    {
+      "question": "Why is Third-Party Motor Insurance cover, not enough?",
+      "answer": "Third-Party (TP) motor insurance only covers other vehicles or property on the road. But Comprehensive Motor Insurance covers the vehicle against any damage caused to it depending on the add-ons availed while purchasing insurance for your vehicle"
+    },
+    {
+      "question": "What is Zero Depreciation Cover in Motor Insurance?",
+      "answer": "A zero depreciation add-on cover can be availed for brand new vehicles and also can be opted for at the time of policy renewal. In a zero depreciation motor insurance policy, the entire claim amount is paid by the insurance company without considering the depreciation on the value of the vehicle"
+    }
+  ],
+  "Premium": [
+    {
+      "question": "Is the premium calculation similar for commercial and private vehicles?",
+      "answer": "No. the premium calculation is different depending upon the vehicle category"
+    },
+    {
+      "question": "What if the cheque through which payment was made gets dishonoured?",
+      "answer": "In this scenario, the policy will be cancelled and will be declared nullified. If a claim is reported after a policy issue and cheque dishonour, the claim will be denied"
+    }
+  ],
+  "Claim": [
+    {
+      "question": "How much time does it take for claims to get settled?",
+      "answer": "Upon receipt of all the relevant claim documents along with the original repair invoice and satisfaction voucher/discharge voucher and NEFT details, the claim will be processed within seven working days (*T & C apply)"
+    },
+    {
+      "question": "What is the minimum amount of claim to be processed? How many claims can be reimbursed in a policy period?",
+      "answer": "No, there is no such limit available. The insured can claim any amount up to the Insured Declared Value (IDV) of the vehicle from the insurer, at any time within the policy period"
+    }
+  ],
+  "Policy": [
+    {
+      "question": "I have lost the insurance policy. Can I get a duplicate one?",
+      "answer": "Yes, you can approach the same office which had issued the policy with a written request. A nominal fee will have charged for issuing a duplicate policy copy"
+    },
+    {
+      "question": "Can I take insurance policies from two different companies for the same vehicle at the same time?",
+      "answer": "No, a person can have only one insurance policy for a vehicle at a time. If he/she has two policies, they can cancel one of them and the applicable refunds will be processed considering the double insurance status"
+    }
+  ]
+}

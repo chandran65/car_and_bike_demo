@@ -1,0 +1,237 @@
+{
+  "basic_info": {
+    "name": "Porsche 911",
+    "manufacturer": "Porsche",
+    "model": "911",
+    "body_type": "Convertible",
+    "url": "https://www.carandbike.com/porsche-cars/911",
+    "image_url": "https://images.carandbike.com/car-images/large/porsche/911/porsche-911.jpg?v=33",
+    "description": "Porsche 911 is a 4-seater Convertible available at a starting price of Rs. 2 Crore. The car is available in 4 variants, with 1 engine and 1 transmission option. Additionally, 911 offers a Ground Clearance measurement of 109 mm and a Boot capacity of 132 liters. You can choose from 15 colors for the 911. The mileage of the 911 varies from 8.7 KM/L depending on the model.",
+    "model_date": "2019-04-11",
+    "sku": "porsche-911-1269",
+    "vin": "5NPEL4AB3BH001269",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2981,3591 cc",
+    "power": "380,533 bhp",
+    "torque": "450,610 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "8 KM/L"
+  },
+  "dimensions": {
+    "width": "1900 mm ",
+    "height": "1300 mm",
+    "weight": "1575/1600",
+    "seating_capacity": "4",
+    "number_of_doors": "2"
+  },
+  "colors": [
+    "White",
+    "Slate Grey Neo",
+    "Shade Green",
+    "Racing Yellow",
+    "Lugano Blue",
+    "Jet Black Metallic",
+    "Guards Red",
+    "Gt Silver Metallic",
+    "Gentian Blue Metallic",
+    "Crayon",
+    "Cartagena Yellow Metallic",
+    "Carmine Red",
+    "Black",
+    "Aventurine Green Metallic",
+    "Agate Grey Metallic"
+  ],
+  "price": {
+    "value": 19984000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/porsche-cars/911"
+  },
+  "brand": {
+    "name": "Porsche",
+    "image": "https://images.carandbike.com/car-images/big/porsche/porsche.png?v=1"
+  },
+  "rating": {
+    "value": "8.1",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Excellent Driving Dynamics",
+    "Lots Of Features And Tech",
+    "Excellent Design"
+  ],
+  "cons": [
+    "Low Ground Clearance",
+    "Not Very Practical",
+    "Less Space"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "8.7 KM/L",
+      "city_mileage": "8 KM/L",
+      "highway_mileage": "11 KM/L"
+    }
+  ],
+  "verdict": "From the characteristic nose with its distinctive LED headlights, the shape of the Porsche 911 Turbo flows into a distinctive, muscular appearance similar to that of the 911 Turbo S. The exterior design of the new 911 Turbo follows the tradition of these powerful, rear-engined sports cars from Stuttgart, with its broad shoulders giving further emphasis to the increased driving performance. Inside, it gets the Porsche Advanced Cockpit and Direct Touch Control interfaces.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Porsche 911",
+        "price": "2 - 3.8 Crore",
+        "url": "/porsche-cars/911"
+      },
+      {
+        "name": "Lotus Emira",
+        "price": "1.93 - 2.27 Crore",
+        "url": "/lotus-cars/emira"
+      },
+      {
+        "name": "Mercedes-AMG SL-Class",
+        "price": "2.47 Crore",
+        "url": "/mercedes-amg-cars/sl-class"
+      },
+      {
+        "name": "Mercedes-AMG GT",
+        "price": "3.05 - 3.65 Crore",
+        "url": "/mercedes-amg-cars/gt"
+      },
+      {
+        "name": "BMW Z4",
+        "price": "94.53 Lakh - 1.05 Crore",
+        "url": "/bmw-cars/z4"
+      },
+      {
+        "name": "Ferrari Roma",
+        "price": "3.56 Crore",
+        "url": "/ferrari-cars/roma"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 2 - 3.8 Crore",
+          "₹ 1.93 - 2.27 Crore",
+          "₹ 2.47 Crore",
+          "₹ 3.05 - 3.65 Crore",
+          "₹ 94.53 Lakh - 1.05 Crore",
+          "₹ 3.56 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.1",
+          "-",
+          "-",
+          "8.2",
+          "7.6",
+          "8.5"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2981,3591 cc",
+          "1998 CC",
+          "3982 CC",
+          "3982 CC",
+          "2998 CC",
+          "3855 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "8 KM/L",
+          "12 - 12.5 KM/L",
+          "10 KM/L",
+          "11.4 KM/L",
+          "12.82 KM/L",
+          "7 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "4 Seater",
+          "2 Seater",
+          "2 Seater",
+          "2 Seater",
+          "2 Seater",
+          "2 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "64.0 L",
+          "60.0 L",
+          "70.0 L",
+          "75.0 L",
+          "52.0 L",
+          "80.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "4",
+          "2",
+          "1",
+          "2",
+          "3",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "911 vs Emira",
+          "911 vs SL-Class",
+          "911 vs GT",
+          "911 vs Z4",
+          "911 vs Roma"
+        ]
+      }
+    ]
+  }
+}

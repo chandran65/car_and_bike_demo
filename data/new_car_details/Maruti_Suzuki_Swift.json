@@ -1,0 +1,245 @@
+{
+  "basic_info": {
+    "name": "Maruti Suzuki Swift",
+    "manufacturer": "Maruti Suzuki",
+    "model": "Swift",
+    "body_type": "Hatchback",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/swift",
+    "image_url": "https://images.carandbike.com/car-images/large/maruti-suzuki/swift/maruti-suzuki-swift.jpg?v=67",
+    "description": "Maruti Suzuki Swift is a 5-seater Hatchback available at a starting price of Rs. 5.79 Lakh. The car is available in 13 variants, with 1 engine and 2 transmission option. Additionally, Swift offers a Ground Clearance measurement of 163 mm and a Boot capacity of 268 liters. You can choose from 9 colors for the Swift. The mileage of the Swift varies from 22 - 30 KM/L depending on the model.",
+    "model_date": "2021-02-24",
+    "sku": "maruti-suzuki-swift-1140",
+    "vin": "5NPEL4AB3BH001140",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1197 cc",
+    "power": "60,80 bhp",
+    "torque": "111,113,98 Nm",
+    "fuel_type": "Petrol, Petrol+CNG"
+  },
+  "transmission": "Manual, AMT",
+  "fuel": {
+    "type": "Petrol, Petrol+CNG",
+    "efficiency": "20 - 30 KM/L"
+  },
+  "dimensions": {
+    "width": "1735 mm ",
+    "height": "1530 mm",
+    "weight": "855/920",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Pearl Metallic Midnight Blue",
+    "Metallic Magma Grey",
+    "Pearl Arctic White with Pearl Midnight Black Roof",
+    "Pearl Metallic Midnight Blue with Pearl Arctic White Roof",
+    "Magma Grey",
+    "Solid Fire Red",
+    "Pearl Arctic White",
+    "Metallic Silky Silver",
+    "Solid Fire Red with Pearl Midnight Black Roof"
+  ],
+  "price": {
+    "value": "578900",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/swift"
+  },
+  "brand": {
+    "name": "Maruti Suzuki",
+    "image": "https://images.carandbike.com/car-images/big/maruti-suzuki/maruti-suzuki.png?v=1"
+  },
+  "rating": {
+    "value": "8.0",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Better Handling Response",
+    "The Kei car design really stands out",
+    "Improved Fuel Economy"
+  ],
+  "cons": [
+    "Poor Safety Rating",
+    "No Rear Ac Vents",
+    "Slightly Outdated Interior"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "22 KM/L",
+      "city_mileage": "21 KM/L",
+      "highway_mileage": "23.2 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "AMT",
+      "mileage": "22 KM/L",
+      "city_mileage": "21 KM/L",
+      "highway_mileage": "23.2 KM/L"
+    },
+    {
+      "fuel_type": "Petrol+CNG",
+      "transmission": "Manual",
+      "mileage": "30 KM/L",
+      "city_mileage": "31.5 KM/L",
+      "highway_mileage": "32 KM/L"
+    }
+  ],
+  "verdict": "The 2024 Maruti Suzuki Swift remains a fun-to-drive, fuel-efficient hatchback with significant updates in design and technology. While it faces tougher competition today, its blend of efficiency, tech features, and affordability keeps it relevant for buyers seeking a reliable and stylish city car. Its appeal lies in its balance between performance and practicality, making it a good option for first-time buyers or those looking for an upgrade in the hatchback segment.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Maruti Suzuki Swift",
+        "price": "5.79 - 8.65 Lakh",
+        "url": "/maruti-suzuki-cars/swift"
+      },
+      {
+        "name": "Tata Altroz",
+        "price": "6.91 - 11.81 Lakh",
+        "url": "/tata-cars/altroz"
+      },
+      {
+        "name": "Tata Tiago",
+        "price": "4.57 - 7.82 Lakh",
+        "url": "/tata-cars/tiago"
+      },
+      {
+        "name": "Maruti Suzuki Baleno",
+        "price": "5.99 - 8.6 Lakh",
+        "url": "/maruti-suzuki-cars/baleno"
+      },
+      {
+        "name": "Hyundai Grand i10 Nios",
+        "price": "5.47 - 7.92 Lakh",
+        "url": "/hyundai-cars/grand-i10-nios"
+      },
+      {
+        "name": "Toyota Glanza",
+        "price": "6.39 - 8.64 Lakh",
+        "url": "/toyota-cars/glanza"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 5.79 - 8.65 Lakh",
+          "₹ 6.91 - 11.81 Lakh",
+          "₹ 4.57 - 7.82 Lakh",
+          "₹ 5.99 - 8.6 Lakh",
+          "₹ 5.47 - 7.92 Lakh",
+          "₹ 6.39 - 8.64 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.0",
+          "8.8",
+          "8.2",
+          "8.2",
+          "8.5",
+          "7.7"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1197 cc",
+          "1199 CC",
+          "1199 CC",
+          "1197 CC",
+          "1197 CC",
+          "1197 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, AMT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "20 - 30 KM/L",
+          "19 - 25.11 KM/L",
+          "20 - 24 KM/L",
+          "22.35 - 22.94 KM/L",
+          "20.2 - 20.7 KM/L",
+          "22.35 - 22.94 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Petrol+CNG",
+          "Diesel, Petrol, CNG",
+          "Petrol, CNG",
+          "Petrol, CNG",
+          "Petrol, CNG",
+          "Petrol, CNG"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "37.0 L",
+          "37.0 L",
+          "35.0 L",
+          "37.0 L",
+          "37.0 L",
+          "37.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "13",
+          "10",
+          "13",
+          "8",
+          "16",
+          "6"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Swift vs Altroz",
+          "Swift vs Tiago",
+          "Swift vs Baleno",
+          "Swift vs Grand i10 Nios",
+          "Swift vs Glanza"
+        ]
+      }
+    ]
+  }
+}

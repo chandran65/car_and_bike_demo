@@ -1,0 +1,264 @@
+{
+  "basic_info": {
+    "name": "Volvo XC90",
+    "manufacturer": "Volvo",
+    "model": "XC90",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/volvo-cars/xc90",
+    "image_url": "https://images.carandbike.com/car-images/large/volvo/xc90/volvo-xc90.jpg?v=29",
+    "description": "Volvo XC90 is a 7-seater SUV available at a starting price of Rs. 1.13 Crore. The car is available in 1 variants, with 1 engine and 1 transmission option. Additionally, XC90 offers a Ground Clearance measurement of 238 mm and a Boot capacity of 709 liters. You can choose from 5 colors for the XC90. The mileage of the XC90 varies from 11 KM/L depending on the model.",
+    "model_date": "2021-11-15",
+    "sku": "volvo-xc90-1241",
+    "vin": "5NPEL4AB3BH001241",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1969 cc",
+    "power": "250 bhp",
+    "torque": "420 Nm",
+    "fuel_type": "Hybrid"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Hybrid",
+    "efficiency": "11 KM/L"
+  },
+  "dimensions": {
+    "width": "2140 mm ",
+    "height": "1773 mm",
+    "weight": "2154/2154",
+    "seating_capacity": "7",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Onyx Black",
+    "Denim Blue",
+    "Bright Dusk",
+    "Platinum Grey",
+    "Crystal White"
+  ],
+  "price": {
+    "value": "11266834",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/volvo-cars/xc90"
+  },
+  "brand": {
+    "name": "Volvo",
+    "image": "https://images.carandbike.com/car-images/big/volvo/volvo.png?v=1"
+  },
+  "rating": {
+    "value": "7.6",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Sharp Exterior Design",
+    "Comfortable Cabin",
+    "Loaded On The Feature Front",
+    "&nbsp;"
+  ],
+  "cons": [
+    "Climate Control Option Is Confusing",
+    "Touchscreen Takes Effort",
+    "Lacks Outright Performance"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Hybrid",
+      "transmission": "Automatic",
+      "mileage": "11 KM/L",
+      "city_mileage": "10 KM/L",
+      "highway_mileage": "12 KM/L"
+    }
+  ],
+  "whats_new": {
+    "Introduction": [
+      "The XC90 is a big SUV with three rows of seats to comfortably carry seven people inside.",
+      "A simple, yet clean Scandinavian design inside and out that looks classy.",
+      "The SUV is powered by a petrol engine with electric assistance as well.",
+      "Comfort inside is taken care of by heating, ventilation, and massage options.",
+      "Furthermore, sound systems like Harman Kardon/Bowers and Wilkins give a rich audio experience."
+    ],
+    "Volvo XC90 - Exterior": [
+      "Something so confident about the XC90 is a bold, rectangular grille with a Volvo logo.",
+      "Its headlights resemble ‘Thor’s hammer’ making it a signature styling element of the SUV.",
+      "Its bumper design also looks modern and elegant as they’re not overdone.",
+      "The three-row family car has a straight and lengthy roofline with subtle curves and strong lines.",
+      "Large alloy wheels not only give the SUV a sporty stance, but fill the wheel arches too.",
+      "At the rear, there are Volvo’s tall-signature headlamps that are vertical and frame the SUV.",
+      "Moreover, simple badges and a neat tailgate keep it looking tidy and upscale.",
+      "A big panoramic sunroof blends smoothly into the roof, while integrated roof rails add practicality for carrying extra luggage."
+    ],
+    "Volvo XC90 – Interior": [
+      "On a clean, simple dashboard, there’s a large vertical touchscreen taking centre stage.",
+      "Most buttons are kept minimal so that things look uncluttered.",
+      "High‑quality materials within the cabin provide a premium Scandinavian experience.",
+      "Comfortable and supportive seats in all rows ensure a relaxed drive on a long journey.",
+      "A big panoramic sunroof makes the cabin feel open and airy as well.",
+      "Moreover, the XC90’s four-zone climate control keeps all occupants comfy as temperature can be set individually in each section.",
+      "There’s a digital driver’s display and a central touchscreen based on Google OS taking care of media, navigation, and car settings.",
+      "An ambient lighting adds a touch of colour to the cabin and softly lights up.",
+      "Multiple USB ports, wireless phone charging in newer versions, and smart storage spaces keep items easy to keep or charge.",
+      "More fine details on higher trims, such as crystal gear shifter and special trim inserts, add luxury feel that you can touch."
+    ],
+    "Volvo XC90 – Powertrain": [
+      "The XC90 is powered by a turbocharged 2.0-litre four-cylinder petrol engine with 48V hybrid assist.",
+      "This mill produces 253.4bhp and 360Nm of torque.",
+      "It comes mated to an automatic transmission and offers an all-wheel drive."
+    ]
+  },
+  "verdict": "The Volvo delivers an impressive performance without directly contesting the V6 or V8 SUVs. Its combined output of 400bhp, sourced from the electric motor and the 4-cylinder engine, is commendably robust. The vehicle operates smoothly and, when switched to Pure Mode, can cover slightly over 40 kilometres solely on electric power. Additionally, it offers instant torque, thanks to the electric motor's ability to provide maximum torque from a standstill, ensuring responsive and dynamic acceleration right from the get-go.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Volvo XC90",
+        "price": "96.97 Lakh",
+        "url": "/volvo-cars/xc90"
+      },
+      {
+        "name": "Audi Q8",
+        "price": "1.1 Crore",
+        "url": "/audi-cars/q8"
+      },
+      {
+        "name": "Rolls-Royce Cullinan",
+        "price": "1.19 - 7.9 Crore",
+        "url": "/rolls-royce-cars/cullinan"
+      },
+      {
+        "name": "Land Rover Defender",
+        "price": "1 - 2.6 Crore",
+        "url": "/land-rover-cars/defender"
+      },
+      {
+        "name": "Porsche Macan",
+        "price": "1 Crore",
+        "url": "/porsche-cars/macan"
+      },
+      {
+        "name": "BMW X7",
+        "price": "1.33 - 1.4 Crore",
+        "url": "/bmw-cars/x7"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 96.97 Lakh",
+          "₹ 1.1 Crore",
+          "₹ 1.19 - 7.9 Crore",
+          "₹ 1 - 2.6 Crore",
+          "₹ 1 Crore",
+          "₹ 1.33 - 1.4 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.6",
+          "8.5",
+          "8.8",
+          "8.0",
+          "6.5",
+          "9.0"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1969 cc",
+          "2995 CC",
+          "6751 CC",
+          "1997 CC",
+          "1984 CC",
+          "2998 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "11 KM/L",
+          "10 KM/L",
+          "7 KM/L",
+          "8.79 - 14 KM/L",
+          "13.2 KM/L",
+          "11.29 - 14.31 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Hybrid",
+          "Petrol",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol, Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "7 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "71.0 L",
+          "85.0 L",
+          "100.0 L",
+          "90.0 L",
+          "65.0 L",
+          "80.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "1",
+          "3",
+          "20",
+          "1",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "XC90 vs Q8",
+          "XC90 vs Cullinan",
+          "XC90 vs Defender",
+          "XC90 vs Macan",
+          "XC90 vs X7"
+        ]
+      }
+    ]
+  }
+}

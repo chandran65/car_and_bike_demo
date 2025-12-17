@@ -1,0 +1,223 @@
+{
+  "basic_info": {
+    "name": "Mercedes-AMG A 45",
+    "manufacturer": "Mercedes-AMG",
+    "model": "A 45",
+    "body_type": "Hatchback",
+    "url": "https://www.carandbike.com/mercedes-amg-cars/a-45",
+    "image_url": "https://images.carandbike.com/car-images/large/mercedes-amg/a-45/mercedes-amg-a-45.jpg?v=18",
+    "description": "Mercedes-AMG A 45 is a 4-seater Hatchback available at a starting price of Rs. 1 Crore. The car is available in 1 variants, with 1 engine and 1 transmission option. Additionally, A 45 offers a Boot capacity of 370 liters. You can choose from 7 colors for the A 45. The mileage of the A 45 varies from 12 KM/L depending on the model.",
+    "model_date": "2023-05-24",
+    "sku": "mercedes-amg-a-45-1659",
+    "vin": "5NPEL4AB3BH001659",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1991 cc",
+    "power": "416 bhp",
+    "torque": "500 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "12 KM/L"
+  },
+  "dimensions": {
+    "width": "1850 mm ",
+    "height": "1412 mm",
+    "weight": "",
+    "seating_capacity": "4",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Iridium Silver",
+    "Cosmos Black",
+    "Polar White",
+    "Mountain Grey",
+    "Denim Blue",
+    "Sun Yellow",
+    "Night Black"
+  ],
+  "price": {
+    "value": 9947568,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mercedes-amg-cars/a-45"
+  },
+  "brand": {
+    "name": "Mercedes-AMG",
+    "image": "https://images.carandbike.com/car-images/big/mercedes-amg/mercedes-amg.png?v=1"
+  },
+  "rating": {
+    "value": "8.1",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Sexy looks and stunning to look at",
+    "The A45 is the hottest hatch money can buy",
+    "The A45 hatchback is fast and sounds great too"
+  ],
+  "cons": [
+    "Suspension is too stiff and hence not comfortable",
+    "It is the most expensive hatchback in the country",
+    "The automatic gearbox is a little sluggish in initial acceleration"
+  ],
+  "expert_review": {
+    "design_styling": "From the moment you lay eyes on it, the A 45 S announces its presence with an elegant ferocity. The AMG-specific grille and the revamped LED daytime running lights serve as subtle updates from the outgoing model. With 19-inch AMG alloy wheels and a glossy black exterior replete with bold rear diffusers and quad-tip exhausts, this hot hatch appears every bit an AMG as its larger siblings. The all-black rear Aerofoil accessory adds a zesty touch and an aerodynamic edge. It’s not just a car; it’s a showstopper on wheels."
+  },
+  "verdict": "The AMG A45 S of course is the world's hottest. We say hottest, we mean to say powerful, because there will certainly be leaving a trail of fire as it shoots across the streets. All four wheels get power thanks to the 4Matic all-wheel drive system and it's the 8-speed dual clutch transmission that provides the power to them. The A45 features six driving modes - Comfort, Sport, Sport+, Slippery, Individual and Race. It can do a 0-100 kmph run in just 3.9 seconds and that's fast, really fast!",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mercedes-AMG A 45",
+        "price": "87.5 Lakh",
+        "url": "/mercedes-amg-cars/a-45"
+      },
+      {
+        "name": "BMW X5",
+        "price": "1 - 1.16 Crore",
+        "url": "/bmw-cars/x5"
+      },
+      {
+        "name": "Porsche Macan",
+        "price": "1 Crore",
+        "url": "/porsche-cars/macan"
+      },
+      {
+        "name": "Land Rover Defender",
+        "price": "1 - 1.48 Crore",
+        "url": "/land-rover-cars/defender"
+      },
+      {
+        "name": "Mercedes-Benz GLE-Class",
+        "price": "1.03 - 1.2 Crore",
+        "url": "/mercedes-benz-cars/gle-class"
+      },
+      {
+        "name": "BMW Z4",
+        "price": "94.53 Lakh - 1.05 Crore",
+        "url": "/bmw-cars/z4"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 87.5 Lakh",
+          "₹ 1 - 1.16 Crore",
+          "₹ 1 Crore",
+          "₹ 1 - 1.48 Crore",
+          "₹ 1.03 - 1.2 Crore",
+          "₹ 94.53 Lakh - 1.05 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.1",
+          "8.1",
+          "6.5",
+          "8.0",
+          "7.9",
+          "7.6"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1991 cc",
+          "2998 CC",
+          "1984 CC",
+          "1997 CC",
+          "1993 CC",
+          "2998 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "12 KM/L",
+          "11.24 - 13.38 KM/L",
+          "13.2 KM/L",
+          "8.79 - 14 KM/L",
+          "9 - 9.7 KM/L",
+          "12.82 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "4 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "2 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "51.0 L",
+          "85.0 L",
+          "65.0 L",
+          "90.0 L",
+          "93.0 L",
+          "52.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "4",
+          "1",
+          "11",
+          "3",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "A 45 vs X5",
+          "A 45 vs Macan",
+          "A 45 vs Defender",
+          "A 45 vs GLE-Class",
+          "A 45 vs Z4"
+        ]
+      }
+    ]
+  }
+}

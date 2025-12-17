@@ -1,0 +1,244 @@
+{
+  "basic_info": {
+    "name": "Hyundai Grand i10 Nios",
+    "manufacturer": "Hyundai",
+    "model": "Grand i10 Nios",
+    "body_type": "Hatchback",
+    "url": "https://www.carandbike.com/hyundai-cars/grand-i10-nios",
+    "image_url": "https://images.carandbike.com/car-images/large/hyundai/grand-i10-nios/hyundai-grand-i10-nios.jpg?v=31",
+    "description": "Hyundai Grand i10 Nios is a 5-seater Hatchback available at a starting price of Rs. 5.47 Lakh. The car is available in 16 variants, with 3 engine and 2 transmission option. Additionally, Grand i10 Nios offers a Ground Clearance measurement of 165 mm and a Boot capacity of 260 liters. You can choose from 8 colors for the Grand i10 Nios. The mileage of the Grand i10 Nios varies from 20.7 KM/L depending on the model.",
+    "model_date": "2023-01-20",
+    "sku": "hyundai-grand-i10-nios-1595",
+    "vin": "5NPEL4AB3BH001595",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1197 cc",
+    "power": "68,82 bhp",
+    "torque": "114,95 Nm",
+    "fuel_type": "Petrol, Petrol+CNG"
+  },
+  "transmission": "Manual, AMT",
+  "fuel": {
+    "type": "Petrol, Petrol+CNG",
+    "efficiency": "20 - 20 KM/L"
+  },
+  "dimensions": {
+    "width": "1680 mm ",
+    "height": "1520 mm",
+    "weight": "920/920",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Fiery Red",
+    "Polar White",
+    "Aqua Teal",
+    "Typhoon Silver",
+    "Titan Grey",
+    "Spark Green",
+    "Spark Green Dual Tone",
+    "Polar White Dual Tone"
+  ],
+  "price": {
+    "value": 547278,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/hyundai-cars/grand-i10-nios"
+  },
+  "brand": {
+    "name": "Hyundai",
+    "image": "https://images.carandbike.com/car-images/big/hyundai/hyundai.png?v=1"
+  },
+  "rating": {
+    "value": "8.5",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Long List Of Features",
+    "Looks Sporty",
+    "Powerful Turbocharged Petrol Engine&nbsp;"
+  ],
+  "cons": [
+    "1.0 Turbo Is Expensive",
+    "Outdated Interior",
+    "Lack Of Features On Lower Trims"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "20.7 KM/L",
+      "city_mileage": "18 KM/L",
+      "highway_mileage": "21 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "AMT",
+      "mileage": "20.7 KM/L",
+      "city_mileage": "18 KM/L",
+      "highway_mileage": "21 KM/L"
+    },
+    {
+      "fuel_type": "Petrol+CNG",
+      "transmission": "Manual",
+      "mileage": "20.7 KM/L",
+      "city_mileage": "26 KM/L",
+      "highway_mileage": "30 KM/L"
+    }
+  ],
+  "verdict": "Hyundai Grand i10 Nios definitely has the makings of a best-seller. It looks good, packs in a whole lot of features and has likeable performance too. There are multiple variants to choose from and the pricing we believe, is competitive too! It is a wholesome package and will definitely give some food for thought to its rivals. Hyundai has also announced that it will be offering variable warranty options, which the customer can choose as per his or her need, making it an industry unique feature.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Hyundai Grand i10 Nios",
+        "price": "5.47 - 7.92 Lakh",
+        "url": "/hyundai-cars/grand-i10-nios"
+      },
+      {
+        "name": "Maruti Suzuki Wagon R",
+        "price": "5.16 - 7.94 Lakh",
+        "url": "/maruti-suzuki-cars/wagon-r"
+      },
+      {
+        "name": "Renault Triber",
+        "price": "6.14 - 9.42 Lakh",
+        "url": "/renault-cars/triber"
+      },
+      {
+        "name": "Citroen C3",
+        "price": "4.8 - 9.05 Lakh",
+        "url": "/citroen-cars/c3"
+      },
+      {
+        "name": "Maruti Suzuki Celerio",
+        "price": "4.7 - 6.73 Lakh",
+        "url": "/maruti-suzuki-cars/celerio"
+      },
+      {
+        "name": "Tata Tiago",
+        "price": "4.57 - 7.82 Lakh",
+        "url": "/tata-cars/tiago"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 5.47 - 7.92 Lakh",
+          "₹ 5.16 - 7.94 Lakh",
+          "₹ 6.14 - 9.42 Lakh",
+          "₹ 4.8 - 9.05 Lakh",
+          "₹ 4.7 - 6.73 Lakh",
+          "₹ 4.57 - 7.82 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.5",
+          "6.1",
+          "8.4",
+          "8.4",
+          "6.5",
+          "8.2"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1197 cc",
+          "998 CC",
+          "999 CC",
+          "1198 CC",
+          "998 CC",
+          "1199 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, AMT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "20 - 20 KM/L",
+          "21.5 - 33.4 KM/L",
+          "19 - 20 KM/L",
+          "19.4 - 19.8 KM/L",
+          "24.97 - 26.68 KM/L",
+          "20 - 24 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Petrol+CNG",
+          "Petrol, CNG",
+          "Petrol",
+          "Petrol",
+          "Petrol, CNG",
+          "Petrol, CNG"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "37.0 L",
+          "32.0 L",
+          "40.0 L",
+          "30.0 L",
+          "32.0 L",
+          "35.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "16",
+          "11",
+          "7",
+          "6",
+          "8",
+          "13"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Grand i10 Nios vs Wagon R",
+          "Grand i10 Nios vs Triber",
+          "Grand i10 Nios vs C3",
+          "Grand i10 Nios vs Celerio",
+          "Grand i10 Nios vs Tiago"
+        ]
+      }
+    ]
+  }
+}

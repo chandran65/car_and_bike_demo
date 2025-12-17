@@ -1,0 +1,294 @@
+{
+  "basic_info": {
+    "name": "Tata Altroz 2025",
+    "manufacturer": "Tata",
+    "model": "2025 Altroz",
+    "body_type": "Hatchback",
+    "url": "https://www.carandbike.com/tata-cars/altroz",
+    "image_url": "https://images.carandbike.com/car-images/large/tata/altroz/tata-altroz.jpg?v=38",
+    "description": "Tata Altroz 2025 is a 5-seater Hatchback available at a starting price of Rs. 6.3 Lakh. The car is available in 22 variants, with 3 engine and 3 transmission option. Additionally, 2025 Altroz offers a Ground Clearance measurement of 165 mm and a Boot capacity of 345 liters. You can choose from 5 colors for the 2025 Altroz. The mileage of the 2025 Altroz varies from 19 - 19.1 KM/L depending on the model.",
+    "model_date": "2025-05-22",
+    "sku": "tata-altroz-2025-1576",
+    "vin": "5NPEL4AB3BH001576",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1199,1497 cc",
+    "power": "72 bhp @ 6000 rpm,86 bhp @ 6000 rpm,89 bhp @ 4000 rpm bhp",
+    "torque": "103 Nm @ 3500 rpm,115 Nm @ 3250 rpm,200 Nm @ 1250- 3000 rpm Nm",
+    "fuel_type": "Diesel, Petrol, Petrol+CNG"
+  },
+  "transmission": "Manual, AMT, DCT",
+  "fuel": {
+    "type": "Diesel, Petrol, Petrol+CNG",
+    "efficiency": "19 - 25 KM/L"
+  },
+  "dimensions": {
+    "width": "1755 mm ",
+    "height": "1523 mm",
+    "weight": "1036/1036",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Pure Grey",
+    "Royale Blue",
+    "Dune Glow",
+    "Pristine White",
+    "Ember Glow"
+  ],
+  "price": {
+    "value": "630390",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/tata-cars/altroz"
+  },
+  "brand": {
+    "name": "Tata",
+    "image": "https://images.carandbike.com/car-images/big/tata/tata.png?v=1"
+  },
+  "rating": {
+    "value": "8.8",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "5-Star Gncap Rating",
+    "Spacious&nbsp;Cabin",
+    "Turbo Engine Option / Dca"
+  ],
+  "cons": [
+    "Less On Features",
+    "Too Many Variants",
+    "Not Premium Enough"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "DCT",
+      "mileage": "19 KM/L",
+      "city_mileage": "18 KM/L",
+      "highway_mileage": "21 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "19 KM/L",
+      "city_mileage": "18 KM/L",
+      "highway_mileage": "21 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "AMT",
+      "mileage": "19 KM/L",
+      "city_mileage": "18 KM/L",
+      "highway_mileage": "21 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Manual",
+      "mileage": "25.1 KM/L",
+      "city_mileage": "24 KM/L",
+      "highway_mileage": "22 KM/L"
+    },
+    {
+      "fuel_type": "Petrol+CNG",
+      "transmission": "Manual",
+      "mileage": "19.1 KM/L",
+      "city_mileage": "27 KM/L",
+      "highway_mileage": "30 KM/L"
+    }
+  ],
+  "whats_new": {
+    "Introduction": [
+      "The Altroz is a premium hatchback, designed for daily city use and occasional long drives.",
+      "This subcompact car was first revealed at the 89th Geneva International Motor Show.",
+      "It comes with different engine options, so one can pick what suits their running and fuel preference.",
+      "There are many features like a sunroof, connected tech, wireless charging and more according to its variants.",
+      "Safety is a big selling point of the Altroz as it has scored five stars in both adult and child occupants in 2023."
+    ],
+    "Exterior": [
+      "The fascia features sharp and swept-back headlamps at the front, which use LED projectors on higher versions.",
+      "Slim and eyebrow-styled DRLs stay on while on the go, make it easier to spot.",
+      "A wide, black front grille stretches across the nose with a textured pattern and the Tata logo in the middle.",
+      "Its sculpted front bumper with sharp lines and separate housings for fog lamps on other variants, give it a sporty look.",
+      "Flush-fitting front door handles on newer models sit almost flat against the body, which help slightly with aerodynamics.",
+      "The rear door handles are hidden near the back window, making its side possibly resemble a two-door car.",
+      "On the top, some variants get a contrasting black roof and an electric sunroof.",
+      "At the back, the car features connected LED tail-lamps, a glossy black panel, a chunky rear bumper and a small roof spoiler."
+    ],
+    "Interior": [
+      "Step inside, and the cabin has a stylish dual-tone black and beige theme, giving it a fresh look with a layered dashboard design.",
+      "The Altroz’s seating is spacious and comfortable front seats placed at a normal height.",
+      "Then, the rear seats have adjustable headrests and a centre armrest with cup holders for extra comfort.",
+      "It comes with a with a modern 10.25-inch touchscreen infotainment system that’s clear and easy to use.",
+      "While, paired with the infotainment is a digital driver’s display that shows all important information.",
+      "An automatic climate control with rear AC vents and a quick-cool express function keeps the cabin cool as required.",
+      "The premium hatchback has smart conveniences like push-button start/stop, keyless entry, cruise control and more.",
+      "An ambient lighting adds colour as per taste, and there’s a single-pane sunroof that can be opened using voice commands.",
+      "Storage options include bottle holders in all doors, a cooled glovebox, an umbrella holder, and spaces in door pockets.",
+      "The steering wheel is wrapped in leather and packed with controls for managing audio and calls.",
+      "Additional perks include wireless phone charging and a sound system that can go up to eight speakers in higher variants."
+    ],
+    "Powertrain": [
+      "The Altroz is powered by a 1.2-litre petrol engine which produces an output of 90bhp and 200Nm of torque.",
+      "This engine can be mated to a five-speed manual or a six-speed automatic transmission as per choice.",
+      "There is also a diesel variant with a 1.5-litre turbocharged engine delivering 91.2bhp and 200Nm of torque.",
+      "Additionally, the Altroz offers a 1.2-litre CNG engine option which generates an output of 73bhp and 103Nm of torque.",
+      "The Altroz’s CNG variant, however, only comes mated to a five-speed manual, like the diesel variant."
+    ]
+  },
+  "verdict": "The Tata Altroz facelift brings in modern tech with a premium design, especially with its new bold grille and LED lighting. Features like a 10.25-inch touchscreen are latest to its segment, but the good thing is, it continues to boast a five-star safety rating (Bharat NCAP) across petrol, diesel, and CNG variants. So, with multiple powertrain options, adequate comfort, safety, and style; it shines in its segment.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Tata 2025 Altroz",
+        "price": "6.3 - 10.51 Lakh",
+        "url": "/tata-cars/altroz"
+      },
+      {
+        "name": "Maruti Suzuki Baleno",
+        "price": "5.99 - 9.1 Lakh",
+        "url": "/maruti-suzuki-cars/baleno"
+      },
+      {
+        "name": "Hyundai Elite i20",
+        "price": "6.87 - 10.52 Lakh",
+        "url": "/hyundai-cars/elite-i20"
+      },
+      {
+        "name": "Toyota Glanza",
+        "price": "6.39 - 9.15 Lakh",
+        "url": "/toyota-cars/glanza"
+      },
+      {
+        "name": "Tata Tiago NRG",
+        "price": "6.68 - 8.1 Lakh",
+        "url": "/tata-cars/tiago-nrg"
+      },
+      {
+        "name": "Maruti Suzuki Swift",
+        "price": "5.79 - 8.65 Lakh",
+        "url": "/maruti-suzuki-cars/swift"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 6.3 - 10.51 Lakh",
+          "₹ 5.99 - 9.1 Lakh",
+          "₹ 6.87 - 10.52 Lakh",
+          "₹ 6.39 - 9.15 Lakh",
+          "₹ 6.68 - 8.1 Lakh",
+          "₹ 5.79 - 8.65 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.8",
+          "8.2",
+          "8.2",
+          "7.7",
+          "8.3",
+          "8.0"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1199,1497 cc",
+          "1197 CC",
+          "1197 CC",
+          "1197 CC",
+          "1199 CC",
+          "1197 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, AMT, DCT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "19 - 25 KM/L",
+          "22.35 - 22.94 KM/L",
+          "19.65 - 20.35 KM/L",
+          "22.35 - 22.94 KM/L",
+          "23.84 - 26.49 KM/L",
+          "20.4 - 30 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Diesel, Petrol, Petrol+CNG",
+          "Petrol, CNG",
+          "Petrol",
+          "Petrol, CNG",
+          "Petrol, CNG",
+          "Petrol, CNG"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "37.0, 60.0 L",
+          "37.0 L",
+          "37.0 L",
+          "37.0 L",
+          "35.0 L",
+          "37.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "22",
+          "9",
+          "18",
+          "9",
+          "4",
+          "13"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Altroz vs Baleno",
+          "Altroz vs Elite i20",
+          "Altroz vs Glanza",
+          "Altroz vs Tiago NRG",
+          "Altroz vs Swift"
+        ]
+      }
+    ]
+  }
+}

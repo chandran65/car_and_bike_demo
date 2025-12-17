@@ -1,0 +1,227 @@
+{
+  "basic_info": {
+    "name": "Maruti Suzuki Eeco",
+    "manufacturer": "Maruti Suzuki",
+    "model": "Eeco",
+    "body_type": null,
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/eeco",
+    "image_url": "https://images.carandbike.com/car-images/large/maruti-suzuki/eeco/maruti-suzuki-eeco.jpg?v=16",
+    "description": "Maruti Suzuki Eeco is a 5,6-seater  available at a starting price of Rs. 5.21 Lakh. The car is available in 4 variants, with 2 engine and 1 transmission option. Additionally, Eeco offers a Ground Clearance measurement of 160 mm and a Boot capacity of 540 liters. You can choose from 5 colors for the Eeco. The mileage of the Eeco varies from 26.8 KM/L depending on the model.",
+    "model_date": "2010-01-01",
+    "sku": "maruti-suzuki-eeco-1127",
+    "vin": "5NPEL4AB3BH001127",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1196 cc",
+    "power": "72,80 bhp",
+    "torque": "104,71 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Manual",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "19 - 26 KM/L"
+  },
+  "dimensions": {
+    "width": "1475 mm ",
+    "height": "1825 mm",
+    "weight": "935/1050",
+    "seating_capacity": "5,6",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Metallic Glistening Grey",
+    "Pearl Midnight Black",
+    "Solid White",
+    "Metallic Silky Silver",
+    "Cerulean Blue"
+  ],
+  "price": {
+    "value": "520900",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/eeco"
+  },
+  "brand": {
+    "name": "Maruti Suzuki",
+    "image": "https://images.carandbike.com/car-images/big/maruti-suzuki/maruti-suzuki.png?v=1"
+  },
+  "rating": {
+    "value": "7.7",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Spacious",
+    "Good Mileage Figures",
+    "Low On Maintenance"
+  ],
+  "cons": [
+    "Rear Seats Have No Head Rests&nbsp;",
+    "Interior Has Poor Cushioning",
+    "No Rear Ac Vents"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "26.8 KM/L",
+      "city_mileage": "24 KM/L",
+      "highway_mileage": "28 KM/L"
+    }
+  ],
+  "verdict": "Pros",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Maruti Suzuki Eeco",
+        "price": "5.21 - 6.36 Lakh",
+        "url": "/maruti-suzuki-cars/eeco"
+      },
+      {
+        "name": "Maruti Suzuki Wagon R",
+        "price": "5.16 - 7.94 Lakh",
+        "url": "/maruti-suzuki-cars/wagon-r"
+      },
+      {
+        "name": "Renault Triber",
+        "price": "6.14 - 9.42 Lakh",
+        "url": "/renault-cars/triber"
+      },
+      {
+        "name": "Hyundai Grand i10 Nios",
+        "price": "5.47 - 7.67 Lakh",
+        "url": "/hyundai-cars/grand-i10-nios"
+      },
+      {
+        "name": "Hyundai Exter",
+        "price": "5.49 - 7.78 Lakh",
+        "url": "/hyundai-cars/exter"
+      },
+      {
+        "name": "Tata Tigor",
+        "price": "5.49 - 7.78 Lakh",
+        "url": "/tata-cars/tigor"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 5.21 - 6.36 Lakh",
+          "₹ 5.16 - 7.94 Lakh",
+          "₹ 6.14 - 9.42 Lakh",
+          "₹ 5.47 - 7.67 Lakh",
+          "₹ 5.49 - 7.78 Lakh",
+          "₹ 5.49 - 7.78 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.7",
+          "6.1",
+          "8.4",
+          "8.5",
+          "7.0",
+          "7.6"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1196 cc",
+          "998 CC",
+          "999 CC",
+          "1197 CC",
+          "1197 CC",
+          "1199 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "19 - 26 KM/L",
+          "21.5 - 33.4 KM/L",
+          "19 - 20 KM/L",
+          "20.2 - 20.7 KM/L",
+          "19.4 - 27 KM/L",
+          "17 - 26 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol, CNG",
+          "Petrol",
+          "Petrol, CNG",
+          "Petrol, CNG",
+          "Petrol, CNG"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5,6 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "32.0, 65.0 L",
+          "32.0 L",
+          "40.0 L",
+          "37.0 L",
+          "37.0 L",
+          "35.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "4",
+          "11",
+          "7",
+          "15",
+          "14",
+          "9"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Eeco vs Wagon R",
+          "Eeco vs Triber",
+          "Eeco vs Grand i10 Nios",
+          "Eeco vs Exter",
+          "Eeco vs Tigor"
+        ]
+      }
+    ]
+  }
+}

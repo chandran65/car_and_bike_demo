@@ -1,0 +1,234 @@
+{
+  "basic_info": {
+    "name": "Mercedes-Benz GLS",
+    "manufacturer": "Mercedes-Benz",
+    "model": "GLS",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/mercedes-benz-cars/gls",
+    "image_url": "https://images.carandbike.com/car-images/large/mercedes-benz/gls/mercedes-benz-gls.jpg?v=27",
+    "description": "Mercedes-Benz GLS is a 7-seater SUV available at a starting price of Rs. 1.37 Crore. The car is available in 4 variants, with 2 engine and 1 transmission option. Additionally, GLS offers a Ground Clearance measurement of 210 mm and a Boot capacity of 655 liters. You can choose from 5 colors for the GLS. The mileage of the GLS varies from 11 - 13 KM/L depending on the model.",
+    "model_date": "2024-01-09",
+    "sku": "mercedes-benz-gls-1455",
+    "vin": "5NPEL4AB3BH001455",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2989,2999 cc",
+    "power": "362?bhp@4,000?rpm,381 bhp@ 5,900–6,100?rpm bhp",
+    "torque": "500?Nm @ 1,800?rpm,750?Nm@1,350?2,800?rpm Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "11 - 13 KM/L"
+  },
+  "dimensions": {
+    "width": "2157 mm ",
+    "height": "1823 mm",
+    "weight": "2460/2505",
+    "seating_capacity": "7",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Selenite Grey",
+    "Obsidian Black",
+    "Sodalite Blue",
+    "High-Tech Silver",
+    "Polar White"
+  ],
+  "price": {
+    "value": "13700000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mercedes-benz-cars/gls"
+  },
+  "brand": {
+    "name": "Mercedes-Benz",
+    "image": "https://images.carandbike.com/car-images/big/mercedes-benz/mercedes-benz.png?v=1"
+  },
+  "rating": {
+    "value": "8.4",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Powerful SUV",
+    "Muscular Stance",
+    "Practical"
+  ],
+  "cons": [
+    "Overpriced",
+    "Expensive running cost",
+    "Some body roll"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "11 KM/L",
+      "city_mileage": "8.5 KM/L",
+      "highway_mileage": "11.5 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "13 KM/L",
+      "city_mileage": "9 KM/L",
+      "highway_mileage": "13 KM/L"
+    }
+  ],
+  "verdict": "The Mercedes-Benz GLS embodies a harmonious blend of power, technology, luxury, and comfort, akin to that of a high-end sedan. A preferred choice among the affluent and celebrated, its commanding road presence is unparalleled. Fueled by a robust and potent engine, the GLS ensures a distinguished driving experience, regardless of whether you're seated in the front or the back. This SUV consistently delivers beyond expectations, never falling short of providing an exceptional journey.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mercedes-Benz GLS",
+        "price": "1.37 - 1.44 Crore",
+        "url": "/mercedes-benz-cars/gls"
+      },
+      {
+        "name": "Audi Q7",
+        "price": "86.14 - 95.03 Lakh",
+        "url": "/audi-cars/q7"
+      },
+      {
+        "name": "BMW X5",
+        "price": "1 - 1.16 Crore",
+        "url": "/bmw-cars/x5"
+      },
+      {
+        "name": "Audi RS Q8",
+        "price": "2.32 Crore",
+        "url": "/audi-cars/rs-q8"
+      },
+      {
+        "name": "BMW XM",
+        "price": "2.76 - 3.42 Crore",
+        "url": "/bmw-cars/xm"
+      },
+      {
+        "name": "Lexus LX",
+        "price": "2.8 - 2.91 Crore",
+        "url": "/lexus-cars/lx"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.37 - 1.44 Crore",
+          "₹ 86.14 - 95.03 Lakh",
+          "₹ 1 - 1.16 Crore",
+          "₹ 2.32 Crore",
+          "₹ 2.76 - 3.42 Crore",
+          "₹ 2.8 - 2.91 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.4",
+          "8.4",
+          "8.1",
+          "8.3",
+          "8.7",
+          "8.5"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2989,2999 cc",
+          "2995 CC",
+          "2998 CC",
+          "3996 CC",
+          "4395 CC",
+          "3346 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "11 - 13 KM/L",
+          "11 KM/L",
+          "11.24 - 13.38 KM/L",
+          "8.2 KM/L",
+          "61.9 KM/L",
+          "9.6 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol",
+          "Hybrid",
+          "Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "90.0 L",
+          "85.0 L",
+          "85.0 L",
+          "85.0 L",
+          "69.0 L",
+          "80.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "4",
+          "4",
+          "4",
+          "1",
+          "2",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "GLS vs Q7",
+          "GLS vs X5",
+          "GLS vs RS Q8",
+          "GLS vs XM",
+          "GLS vs LX"
+        ]
+      }
+    ]
+  }
+}

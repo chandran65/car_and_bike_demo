@@ -1,0 +1,228 @@
+{
+  "basic_info": {
+    "name": "Mahindra Marazzo",
+    "manufacturer": "Mahindra",
+    "model": "Marazzo",
+    "body_type": "MUV",
+    "url": "https://www.carandbike.com/mahindra-cars/marazzo",
+    "image_url": "https://images.carandbike.com/car-images/large/mahindra/marazzo/mahindra-marazzo.jpg?v=21",
+    "description": "Mahindra Marazzo is a 7,8-seater MUV available at a starting price of Rs. 14.06 Lakh. The car is available in 6 variants, with 1 engine and 1 transmission option. Additionally, Marazzo offers a Ground Clearance measurement of 200 mm and a Boot capacity of 190 liters. You can choose from 6 colors for the Marazzo. The mileage of the Marazzo varies from 17.6 KM/L depending on the model.",
+    "model_date": "2018-09-03",
+    "sku": "mahindra-marazzo-1407",
+    "vin": "5NPEL4AB3BH001407",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1497 cc",
+    "power": "121 bhp @ 3500 rpm bhp",
+    "torque": "300 Nm @ 1750–2500 rpm Nm",
+    "fuel_type": "Diesel"
+  },
+  "transmission": "Manual",
+  "fuel": {
+    "type": "Diesel",
+    "efficiency": "17 KM/L"
+  },
+  "dimensions": {
+    "width": "1866 mm ",
+    "height": "1774 mm",
+    "weight": "1680/1680",
+    "seating_capacity": "7,8",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Aqua Marine",
+    "Shimmering Silver",
+    "Iceberg White",
+    "Poseidon Purple",
+    "Mariner Maroon",
+    "Oceanic Black"
+  ],
+  "price": {
+    "value": "1405900",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mahindra-cars/marazzo"
+  },
+  "brand": {
+    "name": "Mahindra",
+    "image": "https://images.carandbike.com/car-images/big/mahindra/mahindra.png?v=1"
+  },
+  "rating": {
+    "value": "8.3",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "The spacious cabin leads to a sense of airiness on the inside",
+    "The 4-Star Global NCAP crash test rating shows how safe the car is",
+    "The diesel engine is frugal and fuel efficient too"
+  ],
+  "cons": [
+    "There is no petrol engine on offer",
+    "The diesel automatic variant is missing",
+    "Storage spaces are a not too many considering the size of the car"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Manual",
+      "mileage": "17.6 KM/L",
+      "city_mileage": "15 KM/L",
+      "highway_mileage": "17 KM/L"
+    }
+  ],
+  "verdict": "Mahindra's launch of the Marazzo marks a significant milestone, showcasing the company's commitment to elevating quality standards. The Marazzo's superior fit and finish set a new benchmark for Mahindra, surpassing previous offerings in terms of build quality and refinement. This development could very well signify a pivotal moment in the company's trajectory, potentially transforming its market perception and fortune. By raising the bar with the Marazzo, Mahindra positions itself as a formidable contender in the competitive automotive landscape, ready to challenge established norms and expectations.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mahindra Marazzo",
+        "price": "14.06 - 16.38 Lakh",
+        "url": "/mahindra-cars/marazzo"
+      },
+      {
+        "name": "Kia Seltos",
+        "price": "10.79 - 19.81 Lakh",
+        "url": "/kia-cars/seltos"
+      },
+      {
+        "name": "Force Motors Gurkha",
+        "price": "19.46 - 20.92 Lakh",
+        "url": "/force-motors-cars/gurkha"
+      },
+      {
+        "name": "Hyundai Alcazar",
+        "price": "14.47 - 21.1 Lakh",
+        "url": "/hyundai-cars/alcazar"
+      },
+      {
+        "name": "Maruti Suzuki XL6",
+        "price": "11.52 - 14.48 Lakh",
+        "url": "/maruti-suzuki-cars/xl6"
+      },
+      {
+        "name": "Kia Carens Clavis",
+        "price": "11.08 - 20.71 Lakh",
+        "url": "/kia-cars/carens-clavis"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 14.06 - 16.38 Lakh",
+          "₹ 10.79 - 19.81 Lakh",
+          "₹ 19.46 - 20.92 Lakh",
+          "₹ 14.47 - 21.1 Lakh",
+          "₹ 11.52 - 14.48 Lakh",
+          "₹ 11.08 - 20.71 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.3",
+          "8.7",
+          "6.1",
+          "8.3",
+          "7.7",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1497 cc",
+          "1497 CC",
+          "2596 CC",
+          "1482 CC",
+          "1462 CC",
+          "1497 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "17 KM/L",
+          "17 - 20.7 KM/L",
+          "15 KM/L",
+          "17.5 - 20.4 KM/L",
+          "20.27 - 26 KM/L",
+          "16.2 - 16.8 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Diesel",
+          "Petrol, Diesel",
+          "Diesel",
+          "Petrol, Diesel",
+          "Petrol, CNG",
+          "Petrol, Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "7,8 Seater",
+          "5 Seater",
+          "4 Seater",
+          "7 Seater",
+          "6 Seater",
+          "7 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "45.0 L",
+          "50.0 L",
+          "63.5 L",
+          "50.0 L",
+          "45.0 L",
+          "45.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "6",
+          "23",
+          "2",
+          "23",
+          "9",
+          "27"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Marazzo vs Seltos",
+          "Marazzo vs Gurkha",
+          "Marazzo vs Alcazar",
+          "Marazzo vs XL6",
+          "Marazzo vs Carens Clavis"
+        ]
+      }
+    ]
+  }
+}

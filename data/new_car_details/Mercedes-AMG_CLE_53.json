@@ -1,0 +1,209 @@
+{
+  "basic_info": {
+    "name": "Mercedes-AMG CLE 53",
+    "manufacturer": "Mercedes-AMG",
+    "model": "CLE 53",
+    "body_type": null,
+    "url": "https://www.carandbike.com/mercedes-amg-cars/cle-53",
+    "image_url": "https://images.carandbike.com/car-images/large/mercedes-amg/cle-53/mercedes-amg-cle-53.jpg?v=13",
+    "description": "Mercedes-AMG CLE 53 is a 5-seater  available at a starting price of Rs. 1.35 Crore. The car is available in 1 variants, with 1 engine and 1 transmission option. You can choose from 7 colors for the CLE 53. The mileage of the CLE 53 varies from 10 KM/L depending on the model.",
+    "model_date": "2025-08-12",
+    "sku": "mercedes-amg-cle-53-1880",
+    "vin": "5NPEL4AB3BH001880",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2999 cc",
+    "power": "442 bhp @ 5800-6100 rpm bhp",
+    "torque": "560 Nm @ 2200 rpm Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "10 KM/L"
+  },
+  "dimensions": {
+    "width": "1890 mm ",
+    "height": "1620 mm",
+    "weight": "",
+    "seating_capacity": "5",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "Spectral Blue",
+    "Obsidian black",
+    "Alpine Grey",
+    "Patagonia Red Bright",
+    "Opalite white Bright",
+    "Graphite Grey Mango",
+    "Spectral Blue Magno"
+  ],
+  "price": {
+    "value": 13500000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mercedes-amg-cars/cle-53"
+  },
+  "brand": {
+    "name": "Mercedes-AMG",
+    "image": "https://images.carandbike.com/car-images/big/mercedes-amg/mercedes-amg.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mercedes-AMG CLE 53",
+        "price": "1.35 Crore",
+        "url": "/mercedes-amg-cars/cle-53"
+      },
+      {
+        "name": "BMW M2",
+        "price": "1.08 Crore",
+        "url": "/bmw-cars/m2"
+      },
+      {
+        "name": "BMW M4",
+        "price": "1.64 - 1.92 Crore",
+        "url": "/bmw-cars/m4"
+      },
+      {
+        "name": "Porsche Cayenne Coupe",
+        "price": "1.76 - 2.38 Crore",
+        "url": "/porsche-cars/cayenne-coupe"
+      },
+      {
+        "name": "BMW 2 Series Gran Coupe",
+        "price": "48.72 - 50.76 Lakh",
+        "url": "/bmw-cars/2-series-gran-coupe"
+      },
+      {
+        "name": "Maserati GranTurismo",
+        "price": "3.09 - 3.3 Crore",
+        "url": "/maserati-cars/granturismo"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.35 Crore",
+          "₹ 1.08 Crore",
+          "₹ 1.64 - 1.92 Crore",
+          "₹ 1.76 - 2.38 Crore",
+          "₹ 48.72 - 50.76 Lakh",
+          "₹ 3.09 - 3.3 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "8.3",
+          "8.4",
+          "8.1",
+          "8.5",
+          "8.0"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2999 cc",
+          "2993 CC",
+          "2993 CC",
+          "2995 CC",
+          "1998 CC",
+          "4691 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "10 KM/L",
+          "10.13 KM/L",
+          "9.76 KM/L",
+          "8.84 - 10.75 KM/L",
+          "14.82 KM/L",
+          "14.3 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "4 Seater",
+          "4 Seater",
+          "4 Seater",
+          "5 Seater",
+          "4 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "52.0 L",
+          "52.0 L",
+          "59.0 L",
+          "75.0 L",
+          "50.0 L",
+          "86.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "1",
+          "2",
+          "3",
+          "2",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "CLE 53 vs M2",
+          "CLE 53 vs M4",
+          "CLE 53 vs Cayenne Coupe",
+          "CLE 53 vs 2 Series Gran Coupe",
+          "CLE 53 vs GranTurismo"
+        ]
+      }
+    ]
+  }
+}

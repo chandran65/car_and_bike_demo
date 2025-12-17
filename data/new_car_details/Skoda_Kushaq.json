@@ -1,0 +1,235 @@
+{
+  "basic_info": {
+    "name": "Skoda Kushaq",
+    "manufacturer": "Skoda",
+    "model": "Kushaq",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/skoda-cars/kushaq",
+    "image_url": "https://images.carandbike.com/car-images/large/skoda/kushaq/skoda-kushaq.jpg?v=11",
+    "description": "Skoda Kushaq is a 5-seater SUV available at a starting price of Rs. 10.61 Lakh. The car is available in 32 variants, with 2 engine and 2 transmission option. Additionally, Kushaq offers a Ground Clearance measurement of 188 mm and a Boot capacity of 1405 liters. You can choose from 6 colors for the Kushaq. The mileage of the Kushaq varies from 19.8 KM/L depending on the model.",
+    "model_date": "2021-06-28",
+    "sku": "skoda-kushaq-1608",
+    "vin": "5NPEL4AB3BH001608",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1498,999 cc",
+    "power": "114 bhp @ 5000-5500 rpm,296 bhp @ 4,000 rpm bhp",
+    "torque": "178 Nm @ 1750-4500 rpm,250 Nm @ 1,600-3,500 rpm Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Manual, Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "19 KM/L"
+  },
+  "dimensions": {
+    "width": "1760 mm ",
+    "height": "1612 mm",
+    "weight": "1185/1265",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Deep Black",
+    "Honey Orange",
+    "Brilliant Silver",
+    "Candy White",
+    "Tornado Red",
+    "Carbon Steel"
+  ],
+  "price": {
+    "value": "1061103",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/skoda-cars/kushaq"
+  },
+  "brand": {
+    "name": "Skoda",
+    "image": "https://images.carandbike.com/car-images/big/skoda/skoda.png?v=1"
+  },
+  "rating": {
+    "value": "8.0",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Muscular Design With Strong Road Presence",
+    "Powerful Turbo Petrol Engines",
+    "Gets Ventilated Front Seats"
+  ],
+  "cons": [
+    "1.5 Turbo Only Offered With Top-Spec Trim",
+    "Rear Seat Space Could Have Been Better",
+    "No Diesel Version On Offer"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "19.8 KM/L",
+      "city_mileage": "14 KM/L",
+      "highway_mileage": "19 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "19.8 KM/L",
+      "city_mileage": "14 KM/L",
+      "highway_mileage": "21 KM/L"
+    }
+  ],
+  "verdict": "The Skoda Kushaq presents itself as a compelling option in its segment, offering features and incentives that are likely to attract customers. With a generous 4-year warranty and coverage for up to 1 lakh kilometres, along with flexible maintenance packages, Skoda demonstrates its commitment to customer satisfaction and vehicle reliability. The Kushaq checks most of the essential boxes for consumers, and although it may not completely revolutionize its segment, it's poised to make a significant impact. It is likely to draw customers away from its competitors, creating a noticeable dent in their sales, thanks to its balanced blend of features, warranty, and maintenance offerings.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Skoda Kushaq",
+        "price": "10.61 - 18.45 Lakh",
+        "url": "/skoda-cars/kushaq"
+      },
+      {
+        "name": "Hyundai Venue N Line",
+        "price": "10.55 - 15.48 Lakh",
+        "url": "/hyundai-cars/venue-n-line"
+      },
+      {
+        "name": "Volkswagen Taigun",
+        "price": "11.42 - 19.19 Lakh",
+        "url": "/volkswagen-cars/taigun"
+      },
+      {
+        "name": "Maruti Suzuki Jimny",
+        "price": "12.32 - 14.45 Lakh",
+        "url": "/maruti-suzuki-cars/jimny"
+      },
+      {
+        "name": "Citroen C3 Aircross",
+        "price": "8.32 - 14.1 Lakh",
+        "url": "/citroen-cars/c3-aircross"
+      },
+      {
+        "name": "Citroen Aircross X",
+        "price": "8.29 - 13.69 Lakh",
+        "url": "/citroen-cars/aircross-x"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 10.61 - 18.45 Lakh",
+          "₹ 10.55 - 15.48 Lakh",
+          "₹ 11.42 - 19.19 Lakh",
+          "₹ 12.32 - 14.45 Lakh",
+          "₹ 8.32 - 14.1 Lakh",
+          "₹ 8.29 - 13.69 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.0",
+          "-",
+          "8.5",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1498,999 cc",
+          "998 CC",
+          "999 CC",
+          "1462 CC",
+          "1199 CC",
+          "1199 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "19 KM/L",
+          "18 KM/L",
+          "18.15 - 19.87 KM/L",
+          "16.3 - 16.9 KM/L",
+          "17.6 - 18.5 KM/L",
+          "17.5 - 18.5 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "4 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "50.0 L",
+          "45.0 L",
+          "50.0 L",
+          "40.0 L",
+          "45.0 L",
+          "45.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "32",
+          "6",
+          "13",
+          "6",
+          "17",
+          "7"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Kushaq vs Venue N Line",
+          "Kushaq vs Taigun",
+          "Kushaq vs Jimny",
+          "Kushaq vs C3 Aircross",
+          "Kushaq vs Aircross X"
+        ]
+      }
+    ]
+  }
+}

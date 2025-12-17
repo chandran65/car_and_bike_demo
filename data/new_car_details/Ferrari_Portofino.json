@@ -1,0 +1,223 @@
+{
+  "basic_info": {
+    "name": "Ferrari Portofino",
+    "manufacturer": "Ferrari",
+    "model": "Portofino",
+    "body_type": "Convertible",
+    "url": "https://www.carandbike.com/ferrari-cars/portofino",
+    "image_url": "https://images.carandbike.com/car-images/large/ferrari/portofino/ferrari-portofino.jpg?v=40",
+    "description": "Ferrari Portofino is a 2-seater Convertible available at a starting price of Rs. 3.31 Crore. The car is available in 1 variants, with 1 engine and 1 transmission option. Additionally, Portofino offers a Ground Clearance measurement of 119 mm and a Boot capacity of 292 liters. You can choose from 7 colors for the Portofino. The mileage of the Portofino varies from 10 KM/L depending on the model.",
+    "model_date": "2018-09-28",
+    "sku": "ferrari-portofino-1542",
+    "vin": "5NPEL4AB3BH001542",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "3855 cc",
+    "power": "591 bhp",
+    "torque": "760 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "10 KM/L"
+  },
+  "dimensions": {
+    "width": "1938 mm ",
+    "height": "1318 mm",
+    "weight": "1664/1664",
+    "seating_capacity": "2",
+    "number_of_doors": "2"
+  },
+  "colors": [
+    "Rosso Scudaria",
+    "Rosso Mugello",
+    "Rosso Corsa",
+    "Nero Ds150",
+    "Gallo Modena",
+    "Blu Pozzi",
+    "Bianco Avus"
+  ],
+  "price": {
+    "value": 33108108,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/ferrari-cars/portofino"
+  },
+  "brand": {
+    "name": "Ferrari",
+    "image": "https://images.carandbike.com/car-images/big/ferrari/ferrari.png?v=1"
+  },
+  "rating": {
+    "value": "8.0",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Hard-Top Convertible",
+    "Powerful Performance",
+    "Premium Fit And Finish"
+  ],
+  "cons": [
+    "Lacks Rear Seat Comfort",
+    "Less Cargo Space With The Roof Down",
+    "Quite Expensive"
+  ],
+  "expert_review": {
+    "design_styling": "Replacing the California T, the Portofino wasn’t merely an iteration; it was a revolution in design language. At the front, the car showcased a series of cleverly placed vents and air ducts. These design features played a significant role in maintaining optimal engine temperatures while ensuring downforce. The real magic, however, was in its proportions. The elongated hood complemented the more compact rear, evoking that quintessential sports car silhouette. Unlike the California’s somewhat awkward rear-end, the Portofino perfected it. With its quad exhausts, integrated spoiler, and a rear diffuser, the back of the Portofino was a masterpiece in itself."
+  },
+  "verdict": "The Ferrari Portofino isn't the fastest, best handling or loudest supercar out there. But for what it is meant to do i.e. look good while being drivable enough to be used every day, it is nearly perfect. The roof mechanism could be better engineered to take real life problems like dust. We still think it is the prettiest car out there today and considering the fact that it is the entry-level vehicle in the Ferrari lineup, expect it to sell like hot cakes.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Ferrari Portofino",
+        "price": "3.31 Crore",
+        "url": "/ferrari-cars/portofino"
+      },
+      {
+        "name": "Mercedes-AMG GT 4-Door Coupe",
+        "price": "3.34 Crore",
+        "url": "/mercedes-amg-cars/gt-4-door-coupe"
+      },
+      {
+        "name": "Maserati GranTurismo",
+        "price": "3.09 - 3.3 Crore",
+        "url": "/maserati-cars/granturismo"
+      },
+      {
+        "name": "Bentley Continental",
+        "price": "3.77 - 5.03 Crore",
+        "url": "/bentley-cars/continental"
+      },
+      {
+        "name": "Aston Martin Vantage",
+        "price": "3.77 Crore",
+        "url": "/aston-martin-cars/vantage"
+      },
+      {
+        "name": "Porsche Cayenne Coupe",
+        "price": "1.76 - 2.38 Crore",
+        "url": "/porsche-cars/cayenne-coupe"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 3.31 Crore",
+          "₹ 3.34 Crore",
+          "₹ 3.09 - 3.3 Crore",
+          "₹ 3.77 - 5.03 Crore",
+          "₹ 3.77 Crore",
+          "₹ 1.76 - 2.38 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.0",
+          "-",
+          "8.0",
+          "8.1",
+          "7.8",
+          "8.1"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "3855 cc",
+          "3982 CC",
+          "4691 CC",
+          "3993 CC",
+          "3982 CC",
+          "2995 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "10 KM/L",
+          "10 KM/L",
+          "14.3 KM/L",
+          "8.5 - 10.62 KM/L",
+          "7 KM/L",
+          "8.84 - 10.75 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Hybrid",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "2 Seater",
+          "5 Seater",
+          "4 Seater",
+          "4 Seater",
+          "2 Seater",
+          "4 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "80.0 L",
+          "75.0 L",
+          "86.0 L",
+          "90.0 L",
+          "73.0 L",
+          "75.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "1",
+          "2",
+          "8",
+          "1",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Portofino vs GT 4-Door Coupe",
+          "Portofino vs GranTurismo",
+          "Portofino vs Continental",
+          "Portofino vs Vantage",
+          "Portofino vs Cayenne Coupe"
+        ]
+      }
+    ]
+  }
+}

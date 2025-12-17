@@ -1,0 +1,212 @@
+{
+  "basic_info": {
+    "name": "Toyota Fortuner Legender",
+    "manufacturer": "Toyota",
+    "model": "Fortuner Legender",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/toyota-cars/fortuner-legender",
+    "image_url": "https://images.carandbike.com/car-images/large/toyota/fortuner-legender/toyota-fortuner-legender.jpg?v=4",
+    "description": "Toyota Fortuner Legender is a 7-seater SUV available at a starting price of Rs. 41.54 Lakh. The car is available in 4 variants, with 1 engine and 1 transmission option. Additionally, Fortuner Legender offers a Ground Clearance measurement of 279 mm and a Boot capacity of 296 liters. You can choose from 1 colors for the Fortuner Legender. The mileage of the Fortuner Legender varies from 14.4 KM/L depending on the model.",
+    "model_date": "2021-01-26",
+    "sku": "toyota-fortuner-legender-1771",
+    "vin": "5NPEL4AB3BH001771",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2755 cc",
+    "power": "201  @ 3000-3400 rpm bhp",
+    "torque": "400 Nm @ 1600 - 2800 rpm,500 Nm @ 1600 - 2800 rpm Nm",
+    "fuel_type": "Diesel"
+  },
+  "transmission": "Manual",
+  "fuel": {
+    "type": "Diesel",
+    "efficiency": "14 - 14 KM/L"
+  },
+  "dimensions": {
+    "width": "1855 mm ",
+    "height": "1835 mm",
+    "weight": "2180/2180",
+    "seating_capacity": "7",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Platinum White Pearl with black roof"
+  ],
+  "price": {
+    "value": "4154200",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/toyota-cars/fortuner-legender"
+  },
+  "brand": {
+    "name": "Toyota",
+    "image": "https://images.carandbike.com/car-images/big/toyota/toyota.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "mileage_details": [
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Manual",
+      "mileage": "14.4 KM/L",
+      "city_mileage": "12 KM/L",
+      "highway_mileage": "16 KM/L"
+    }
+  ],
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Toyota Fortuner Legender",
+        "price": "41.54 - 46.75 Lakh",
+        "url": "/toyota-cars/fortuner-legender"
+      },
+      {
+        "name": "Isuzu MU-X",
+        "price": "40.67 - 44.04 Lakh",
+        "url": "/isuzu-cars/mu-x"
+      },
+      {
+        "name": "Skoda Kodiaq",
+        "price": "39.99 - 45.96 Lakh",
+        "url": "/skoda-cars/kodiaq"
+      },
+      {
+        "name": "MG Gloster",
+        "price": "38.33 - 42.49 Lakh",
+        "url": "/mg-cars/gloster"
+      },
+      {
+        "name": "Mercedes-Benz GLA-Class",
+        "price": "51.5 - 56.5 Lakh",
+        "url": "/mercedes-benz-cars/gla-class"
+      },
+      {
+        "name": "Jeep Grand Cherokee",
+        "price": "63 Lakh",
+        "url": "/jeep-cars/grand-cherokee"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 41.54 - 46.75 Lakh",
+          "₹ 40.67 - 44.04 Lakh",
+          "₹ 39.99 - 45.96 Lakh",
+          "₹ 38.33 - 42.49 Lakh",
+          "₹ 51.5 - 56.5 Lakh",
+          "₹ 63 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "7.3",
+          "8.2",
+          "7.8",
+          "8.6",
+          "8.1"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2755 cc",
+          "2999 CC",
+          "1984 CC",
+          "1996 CC",
+          "1332 CC",
+          "1998 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "14 - 14 KM/L",
+          "13 KM/L",
+          "14.86 KM/L",
+          "12.35 KM/L",
+          "13 - 17 KM/L",
+          "8.61 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Diesel",
+          "Diesel",
+          "Petrol",
+          "Diesel",
+          "Petrol, Diesel",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "7 Seater",
+          "7 Seater",
+          "7 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "80.0 L",
+          "65.0 L",
+          "62.0 L",
+          "75.0 L",
+          "50.0 L",
+          "93.5 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "4",
+          "2",
+          "3",
+          "5",
+          "3",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Fortuner Legender vs MU-X",
+          "Fortuner Legender vs Kodiaq",
+          "Fortuner Legender vs Gloster",
+          "Fortuner Legender vs GLA-Class",
+          "Fortuner Legender vs Grand Cherokee"
+        ]
+      }
+    ]
+  }
+}

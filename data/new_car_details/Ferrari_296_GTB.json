@@ -1,0 +1,201 @@
+{
+  "basic_info": {
+    "name": "Ferrari 296 GTB",
+    "manufacturer": "Ferrari",
+    "model": "296 GTB",
+    "body_type": null,
+    "url": "https://www.carandbike.com/ferrari-cars/296-gtb",
+    "image_url": "https://images.carandbike.com/car-images/large/ferrari/296-gtb/ferrari-296-gtb.jpg?v=3",
+    "description": "Ferrari 296 GTB is a 2-seater  available at a starting price of Rs. 5.11 Crore. The car is available in 1 variants, with 1 engine and 1 transmission option. Additionally, 296 GTB offers a Boot capacity of 113 liters. The mileage of the 296 GTB varies from 15.6 KM/L depending on the model.",
+    "model_date": "2022-08-23",
+    "sku": "ferrari-296-gtb-1900",
+    "vin": "5NPEL4AB3BH001900",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2996 cc",
+    "power": "663 bhp @ 8,500 bhp",
+    "torque": "740 Nm Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "15 KM/L"
+  },
+  "dimensions": {
+    "width": "1958 mm ",
+    "height": "1187 mm",
+    "weight": "1470/1470",
+    "seating_capacity": "2",
+    "number_of_doors": "2"
+  },
+  "colors": [],
+  "price": {
+    "value": "51081081",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/ferrari-cars/296-gtb"
+  },
+  "brand": {
+    "name": "Ferrari",
+    "image": "https://images.carandbike.com/car-images/big/ferrari/ferrari.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Ferrari 296 GTB",
+        "price": "5.11 Crore",
+        "url": "/ferrari-cars/296-gtb"
+      },
+      {
+        "name": "Aston Martin Vantage",
+        "price": "3.77 Crore",
+        "url": "/aston-martin-cars/vantage"
+      },
+      {
+        "name": "Bentley Continental",
+        "price": "3.77 - 5.03 Crore",
+        "url": "/bentley-cars/continental"
+      },
+      {
+        "name": "Mercedes-AMG GT 4-Door Coupe",
+        "price": "3.34 Crore",
+        "url": "/mercedes-amg-cars/gt-4-door-coupe"
+      },
+      {
+        "name": "Maserati GranTurismo",
+        "price": "3.09 - 3.3 Crore",
+        "url": "/maserati-cars/granturismo"
+      },
+      {
+        "name": "Aston Martin V12 Vanquish",
+        "price": "8.37 Crore",
+        "url": "/aston-martin-cars/v12-vanquish"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 5.11 Crore",
+          "₹ 3.77 Crore",
+          "₹ 3.77 - 5.03 Crore",
+          "₹ 3.34 Crore",
+          "₹ 3.09 - 3.3 Crore",
+          "₹ 8.37 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "7.8",
+          "8.1",
+          "-",
+          "8.0",
+          "7.4"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2996 cc",
+          "3982 CC",
+          "3993 CC",
+          "3982 CC",
+          "4691 CC",
+          "5935 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "15 KM/L",
+          "7 KM/L",
+          "8.5 - 10.62 KM/L",
+          "10 KM/L",
+          "14.3 KM/L",
+          "12.8 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Hybrid",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "2 Seater",
+          "2 Seater",
+          "4 Seater",
+          "5 Seater",
+          "4 Seater",
+          "2 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "65.0 L",
+          "73.0 L",
+          "90.0 L",
+          "75.0 L",
+          "86.0 L",
+          "78.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "1",
+          "8",
+          "1",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "296 GTB vs Vantage",
+          "296 GTB vs Continental",
+          "296 GTB vs GT 4-Door Coupe",
+          "296 GTB vs GranTurismo",
+          "296 GTB vs V12 Vanquish"
+        ]
+      }
+    ]
+  }
+}

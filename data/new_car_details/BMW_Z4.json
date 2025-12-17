@@ -1,0 +1,235 @@
+{
+  "basic_info": {
+    "name": "BMW Z4",
+    "manufacturer": "BMW",
+    "model": "Z4",
+    "body_type": "Convertible",
+    "url": "https://www.carandbike.com/bmw-cars/z4",
+    "image_url": "https://images.carandbike.com/car-images/large/bmw/z4/bmw-z4.jpg?v=55",
+    "description": "BMW Z4 is a 2-seater Convertible available at a starting price of Rs. 94.53 Lakh. The car is available in 3 variants, with 1 engine and 2 transmission option. Additionally, Z4 offers a Ground Clearance measurement of 117 mm and a Boot capacity of 281 liters. You can choose from 6 colors for the Z4. The mileage of the Z4 varies from 12.8 KM/L depending on the model.",
+    "model_date": "2023-05-25",
+    "sku": "bmw-z4-1027",
+    "vin": "5NPEL4AB3BH001027",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2998 cc",
+    "power": "345,370 bhp",
+    "torque": "500 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Manual, Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "12 KM/L"
+  },
+  "dimensions": {
+    "width": "1459 mm ",
+    "height": "1304 mm",
+    "weight": "1610/1610",
+    "seating_capacity": "2",
+    "number_of_doors": "2"
+  },
+  "colors": [
+    "Thundernight metallic",
+    "Skyscraper Grey metallic",
+    "San Francisco Red Metallic",
+    "M Portimao Blau metallic",
+    "Black Sapphire",
+    "Alpine White"
+  ],
+  "price": {
+    "value": 9452899,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/bmw-cars/z4"
+  },
+  "brand": {
+    "name": "BMW",
+    "image": "https://images.carandbike.com/car-images/big/bmw/bmw.png?v=1"
+  },
+  "rating": {
+    "value": "7.6",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Stunning Design",
+    "Inline Six-Cylinder Motor Is Fun",
+    "Open-Top Motoring"
+  ],
+  "cons": [
+    "Not The Most Spacious Cabin",
+    "Small Boot",
+    "No Significant Updates"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "12.8 KM/L",
+      "city_mileage": "9 KM/L",
+      "highway_mileage": "13 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "12.8 KM/L",
+      "city_mileage": "9 KM/L",
+      "highway_mileage": "13 KM/L"
+    }
+  ],
+  "verdict": "It drives like a BMW should, it's quick on its heels and you'll love the grip that is on offer if you bend into the curves. It's been 4 years that the Z4 is in India and the customers still believe that the car is good looking and fun to drive. BMW has priced it at Rs 69.9 lakhs which is at par with most of its competitors. However, BMW has to think of a serious facelift of the Z4 perhaps a new beginning will mean a bigger and brighter future.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "BMW Z4",
+        "price": "83.15 - 92.7 Lakh",
+        "url": "/bmw-cars/z4"
+      },
+      {
+        "name": "Lotus Emira",
+        "price": "1.93 - 2.27 Crore",
+        "url": "/lotus-cars/emira"
+      },
+      {
+        "name": "Porsche 911",
+        "price": "2 - 3.8 Crore",
+        "url": "/porsche-cars/911"
+      },
+      {
+        "name": "Mercedes-AMG SL-Class",
+        "price": "2.47 Crore",
+        "url": "/mercedes-amg-cars/sl-class"
+      },
+      {
+        "name": "Mercedes-AMG GT",
+        "price": "3.05 - 3.65 Crore",
+        "url": "/mercedes-amg-cars/gt"
+      },
+      {
+        "name": "Ferrari Roma",
+        "price": "3.56 Crore",
+        "url": "/ferrari-cars/roma"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 83.15 - 92.7 Lakh",
+          "₹ 1.93 - 2.27 Crore",
+          "₹ 2 - 3.8 Crore",
+          "₹ 2.47 Crore",
+          "₹ 3.05 - 3.65 Crore",
+          "₹ 3.56 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.6",
+          "-",
+          "8.1",
+          "-",
+          "8.2",
+          "8.5"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2998 cc",
+          "1998 CC",
+          "2981 CC",
+          "3982 CC",
+          "3982 CC",
+          "3855 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "12 KM/L",
+          "12 - 12.5 KM/L",
+          "8.7 KM/L",
+          "10 KM/L",
+          "11.4 KM/L",
+          "7 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "2 Seater",
+          "2 Seater",
+          "4 Seater",
+          "2 Seater",
+          "2 Seater",
+          "2 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "52.0 L",
+          "60.0 L",
+          "64.0 L",
+          "70.0 L",
+          "75.0 L",
+          "80.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "3",
+          "2",
+          "4",
+          "1",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Z4 vs Emira",
+          "Z4 vs 911",
+          "Z4 vs SL-Class",
+          "Z4 vs GT",
+          "Z4 vs Roma"
+        ]
+      }
+    ]
+  }
+}

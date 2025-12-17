@@ -1,0 +1,233 @@
+{
+  "basic_info": {
+    "name": "Land Rover Range Rover Velar",
+    "manufacturer": "Land Rover",
+    "model": "Range Rover Velar",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/land-rover-cars/range-rover-velar",
+    "image_url": "https://images.carandbike.com/car-images/large/land-rover/range-rover-velar/land-rover-range-rover-velar.jpg?v=15",
+    "description": "Land Rover Range Rover Velar is a 5-seater SUV available at a starting price of Rs. 79.24 Lakh. The car is available in 3 variants, with 2 engine and 1 transmission option. Additionally, Range Rover Velar offers a Ground Clearance measurement of 210 mm and a Boot capacity of 558 liters. You can choose from 4 colors for the Range Rover Velar. The mileage of the Range Rover Velar varies from 9.2 - 16.6 KM/L depending on the model.",
+    "model_date": "2023-07-25",
+    "sku": "land-rover-range-rover-velar-1511",
+    "vin": "5NPEL4AB3BH001511",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1997,1999 cc",
+    "power": "201,246 bhp",
+    "torque": "365,430 Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "9 - 16 KM/L"
+  },
+  "dimensions": {
+    "width": "2145 mm ",
+    "height": "1665 mm",
+    "weight": "1959/2046",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Varesine Blue",
+    "Zadar Grey",
+    "Santorini Black-metallic",
+    "Fuji White"
+  ],
+  "price": {
+    "value": "7924000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/land-rover-cars/range-rover-velar"
+  },
+  "brand": {
+    "name": "Land Rover",
+    "image": "https://images.carandbike.com/car-images/big/land-rover/land-rover.png?v=1"
+  },
+  "rating": {
+    "value": "8.1",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Good Off-Road Capability",
+    "Premium Fit And Finish",
+    "Great Cargo Space"
+  ],
+  "cons": [
+    "Rear Set Space Could Be Better",
+    "A Bit On The Pricier Side",
+    "Overly Reliant On Touch Controls"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "9.2 KM/L",
+      "city_mileage": "8 KM/L",
+      "highway_mileage": "11 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "16.6 KM/L",
+      "city_mileage": "12 KM/L",
+      "highway_mileage": "15 KM/L"
+    }
+  ],
+  "verdict": "The 2024 Range Rover Velar excels as a luxurious, tech-forward SUV with a design that turns heads. While it may not be the most engaging drive due to its size, it offers a refined, quiet ride and a premium cabin experience that is hard to match. Ideal for those who value style and comfort, the Velar remains a distinctive choice in the compact luxury SUV segment.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Land Rover Range Rover Velar",
+        "price": "79.24 - 83.91 Lakh",
+        "url": "/land-rover-cars/range-rover-velar"
+      },
+      {
+        "name": "Jaguar F-Pace",
+        "price": "82.88 - 84.7 Lakh",
+        "url": "/jaguar-cars/f-pace"
+      },
+      {
+        "name": "Jeep Wrangler Unlimited",
+        "price": "64.08 - 67.81 Lakh",
+        "url": "/jeep-cars/wrangler-unlimited"
+      },
+      {
+        "name": "Jeep Grand Cherokee",
+        "price": "63 Lakh",
+        "url": "/jeep-cars/grand-cherokee"
+      },
+      {
+        "name": "Porsche Macan",
+        "price": "1 Crore",
+        "url": "/porsche-cars/macan"
+      },
+      {
+        "name": "Mercedes-Benz GLA-Class",
+        "price": "51.5 - 56.5 Lakh",
+        "url": "/mercedes-benz-cars/gla-class"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 79.24 - 83.91 Lakh",
+          "₹ 82.88 - 84.7 Lakh",
+          "₹ 64.08 - 67.81 Lakh",
+          "₹ 63 Lakh",
+          "₹ 1 Crore",
+          "₹ 51.5 - 56.5 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.1",
+          "8.8",
+          "7.0",
+          "8.1",
+          "6.5",
+          "8.6"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1997,1999 cc",
+          "1997 CC",
+          "1998 CC",
+          "1998 CC",
+          "1984 CC",
+          "1332 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "9 - 16 KM/L",
+          "13 - 18 KM/L",
+          "12.01 KM/L",
+          "8.61 KM/L",
+          "13.2 KM/L",
+          "13 - 17 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol, Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "89.0 L",
+          "82.0 L",
+          "87.0 L",
+          "93.5 L",
+          "65.0 L",
+          "50.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "3",
+          "2",
+          "2",
+          "1",
+          "1",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Range Rover Velar vs F-Pace",
+          "Range Rover Velar vs Wrangler Unlimited",
+          "Range Rover Velar vs Grand Cherokee",
+          "Range Rover Velar vs Macan",
+          "Range Rover Velar vs GLA-Class"
+        ]
+      }
+    ]
+  }
+}

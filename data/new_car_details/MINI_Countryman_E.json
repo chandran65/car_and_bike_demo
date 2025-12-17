@@ -1,0 +1,202 @@
+{
+  "basic_info": {
+    "name": "MINI Countryman E",
+    "manufacturer": "MINI",
+    "model": "Countryman E",
+    "body_type": "Hatchback",
+    "url": "https://www.carandbike.com/mini-cars/countryman-e",
+    "image_url": "https://images.carandbike.com/car-images/large/mini/countryman-e/mini-countryman-e.jpg?v=8",
+    "description": "MINI Countryman E is a 5-seater electric Hatchback available at a starting price of Rs. 63.68 Lakh. The electric car is available in 2 variants.Additionally, Countryman E offers a Ground Clearance measurement of 165 mm and a Boot capacity of 460 liters. You can choose from 3 colors for the Countryman E. The battery range/mileage of the Countryman E is 462 Km/Full Charge. ",
+    "model_date": "2024-07-24",
+    "sku": "mini-countryman-e-1737",
+    "vin": "5NPEL4AB3BH001737",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "462 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1822 mm ",
+    "height": "1635 mm",
+    "weight": "1505/1505",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Smokey Green",
+    "Island Blue",
+    "British Racing Green"
+  ],
+  "price": {
+    "value": 6368311,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mini-cars/countryman-e"
+  },
+  "brand": {
+    "name": "MINI",
+    "image": "https://images.carandbike.com/car-images/big/mini/mini.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "MINI Countryman E",
+        "price": "54.9 - 62 Lakh",
+        "url": "/mini-cars/countryman-e"
+      },
+      {
+        "name": "Volvo EX40",
+        "price": "65.07 - 67.16 Lakh",
+        "url": "/volvo-cars/ex40"
+      },
+      {
+        "name": "Mercedes-Benz EQB",
+        "price": "67.2 - 78.9 Lakh",
+        "url": "/mercedes-benz-cars/eqb"
+      },
+      {
+        "name": "Mercedes-Benz EQA",
+        "price": "67.2 Lakh",
+        "url": "/mercedes-benz-cars/eqa"
+      },
+      {
+        "name": "Tesla Model Y",
+        "price": "69.47 - 78.75 Lakh",
+        "url": "/tesla-cars/model-y"
+      },
+      {
+        "name": "BMW ix1 L",
+        "price": "57.88 Lakh",
+        "url": "/bmw-cars/ix1-l"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 54.9 - 62 Lakh",
+          "₹ 65.07 - 67.16 Lakh",
+          "₹ 67.2 - 78.9 Lakh",
+          "₹ 67.2 Lakh",
+          "₹ 69.47 - 78.75 Lakh",
+          "₹ 57.88 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "8.0",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "462 Km/Full Charge",
+          "475 - 565 Km/Full Charge",
+          "423 Km/Full Charge",
+          "350 Km/Full Charge",
+          "500 - 622 Km/Full Charge",
+          "440 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "2",
+          "2",
+          "1",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Countryman E vs EX40",
+          "Countryman E vs EQB",
+          "Countryman E vs EQA",
+          "Countryman E vs Model Y",
+          "Countryman E vs ix1 L"
+        ]
+      }
+    ]
+  }
+}

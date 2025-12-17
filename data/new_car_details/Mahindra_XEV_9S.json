@@ -1,0 +1,236 @@
+{
+  "basic_info": {
+    "name": "Mahindra XEV 9S",
+    "manufacturer": "Mahindra",
+    "model": "XEV 9S",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/mahindra-cars/xev-9s",
+    "image_url": "https://images.carandbike.com/car-images/large/mahindra/xev-9s/mahindra-xev-9s.jpg?v=12",
+    "description": "Mahindra XEV 9S is a 7-seater electric SUV available at a starting price of Rs. 19.95 Lakh. The electric car is available in 6 variants.Additionally, XEV 9S offers a Ground Clearance measurement of 201 mm and a Boot capacity of 500 liters. You can choose from 6 colors for the XEV 9S. The battery range/mileage of the XEV 9S is 679 Km/Full Charge. ",
+    "model_date": "2025-11-27",
+    "sku": "mahindra-xev-9s-1729",
+    "vin": "5NPEL4AB3BH001729",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "521 - 679 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1900 mm ",
+    "height": "1747 mm",
+    "weight": "",
+    "seating_capacity": "7",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Nebula Blue",
+    "Midnight Black",
+    "Ruby Velvet",
+    "Stealth Black",
+    "Desert Myst",
+    "Everest White"
+  ],
+  "price": {
+    "value": 1995000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mahindra-cars/xev-9s"
+  },
+  "brand": {
+    "name": "Mahindra",
+    "image": "https://images.carandbike.com/car-images/big/mahindra/mahindra.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "whats_new": {
+    "Introduction": [
+      "Mahindra launched the new XEV 9S in India on 27 November, 2025.",
+      "It is the brand's first three-row electric offering for the Indian market.",
+      "Prices start at Rs. 19.95 lakh (ex-showroom) for the Pack One XEV 9s, and go up to Rs. 29.5 lakh for the Pack Three.",
+      "The XEV 9s is essentially an EV derivative of the XUV700.",
+      "It joins the XEV 9e, BE 6, and the XUV400 in the brand’s electric SUV portfolio."
+    ],
+    "Exterior": [
+      "The Mahindra XEV 9S looks similar to the XUV700, but with a revamped exterior, especially the front.",
+      "It gets a blanked-out front grille, L-shaped LED DRLs, a light bar, and vertically stacked projector units in the headlight module.",
+      "The silhouette is like the XUV700 with flush-fitting door handles.",
+      "However, the XEV 9S rides on a fresh set of alloys with aero inserts.",
+      "Moreover, it boasts roof rails, Mahindra Electric logo on both ends, and a shark-fin antenna."
+    ],
+    "Interior": [
+      "Inside, the seven-seat XEV 9S boasts a three-screen setup on the dashboard.",
+      "This is paired to a Harman Kardon music system and, in fact, there are screens for second row occupants as well.",
+      "The Mahindra electric SUV also comes equipped with a powered Boss mode, two-spoke multifunction flat-bottom steering wheel, auto-dimming IRVM, ambient lighting, and a powered tailgate.",
+      "Other notable features include a panoramic sunroof, reclining second row seats, frunk, EPB with auto-hold, and headrests for all occupants.",
+      "The XEV 9S also gets four drive modes (Everyday, Race, Range, and Snow), five levels of regen, and a 150-litre frunk."
+    ],
+    "Powertrain": [
+      "The new Mahindra XEV 9S gets the familiar 59kWh and 79kWh battery packs borrowed from the BE6 and XEV 9e siblings respectively.",
+      "While the torque output remains the same at 380Nm for both variants, the power output is 228bhp and 282bhp for the smaller and larger battery packs respectively.",
+      "Interestingly, there is a new 70kWh battery pack with a single electric motor.",
+      "The latter produces 241bhp and 380Nm of torque.",
+      "It is pitted to be the fastest seven-seater EV that can sprint from 0-100kmph in seven seconds."
+    ]
+  },
+  "verdict": "The Mahindra XEV 9S is a feature-packed, spacious seven-seater electric SUV. It boasts a 679km driving range and 0-100kmph in 7 seconds. With a starting price of Rs. 19.95 lakh, it offers great value with a triple-screen setup, advanced safety features, and a panoramic sunroof. And though the third-row seating is a bit of a squeeze, the XEV9S can be a great electric seven-seater for extended families.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mahindra XEV 9S",
+        "price": "19.95 - 29.45 Lakh",
+        "url": "/mahindra-cars/xev-9s"
+      },
+      {
+        "name": "Volvo EX30 Recharge",
+        "price": "39.99 Lakh",
+        "url": "/volvo-cars/ex30-recharge"
+      },
+      {
+        "name": "Volvo EX40",
+        "price": "65.07 - 67.16 Lakh",
+        "url": "/volvo-cars/ex40"
+      },
+      {
+        "name": "Mercedes-Benz EQB",
+        "price": "67.2 - 78.9 Lakh",
+        "url": "/mercedes-benz-cars/eqb"
+      },
+      {
+        "name": "Mercedes-Benz EQA",
+        "price": "67.2 Lakh",
+        "url": "/mercedes-benz-cars/eqa"
+      },
+      {
+        "name": "Mercedes-Benz EQE SUV",
+        "price": "1.41 Crore",
+        "url": "/mercedes-benz-cars/eqe-suv"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 19.95 - 29.45 Lakh",
+          "₹ 39.99 Lakh",
+          "₹ 65.07 - 67.16 Lakh",
+          "₹ 67.2 - 78.9 Lakh",
+          "₹ 67.2 Lakh",
+          "₹ 1.41 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "-",
+          "8.0",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "521,600,679 Km/Full Charge",
+          "480 Km/Full Charge",
+          "475 - 565 Km/Full Charge",
+          "423 Km/Full Charge",
+          "350 Km/Full Charge",
+          "550 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "6",
+          "1",
+          "2",
+          "2",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "XEV 9S vs EX30 Recharge",
+          "XEV 9S vs EX40",
+          "XEV 9S vs EQB",
+          "XEV 9S vs EQA",
+          "XEV 9S vs EQE SUV"
+        ]
+      }
+    ]
+  }
+}

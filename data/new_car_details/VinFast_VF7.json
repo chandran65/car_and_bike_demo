@@ -1,0 +1,205 @@
+{
+  "basic_info": {
+    "name": "VinFast VF7",
+    "manufacturer": "VinFast",
+    "model": "VF7",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/vinfast-cars/vf7",
+    "image_url": "https://images.carandbike.com/car-images/large/vinfast/vf7/vinfast-vf7.jpg?v=11",
+    "description": "VinFast VF7 is a 5-seater electric SUV available at a starting price of Rs. 24.23 Lakh. The electric car is available in 5 variants.Additionally, VF7 offers a Ground Clearance measurement of 190 mm and a Boot capacity of 537 liters. You can choose from 6 colors for the VF7. The battery range/mileage of the VF7 is 532 Km/Full Charge. ",
+    "model_date": "2025-09-07",
+    "sku": "vinfast-vf7-1867",
+    "vin": "5NPEL4AB3BH001867",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "438 - 532 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1893 mm ",
+    "height": "1596 mm",
+    "weight": "2085/2218",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Urban Mint",
+    "Zenith Grey",
+    "Desat Silver",
+    "Jet Black",
+    "Crimson Red",
+    "Infinity Blanc"
+  ],
+  "price": {
+    "value": "2423480",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/vinfast-cars/vf7"
+  },
+  "brand": {
+    "name": "VinFast",
+    "image": "https://images.carandbike.com/car-images/big/vinfast/vinfast.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "VinFast VF7",
+        "price": "20.89 - 25.49 Lakh",
+        "url": "/vinfast-cars/vf7"
+      },
+      {
+        "name": "Tata Harrier EV",
+        "price": "24.93 - 35.07 Lakh",
+        "url": "/tata-cars/harrier-ev"
+      },
+      {
+        "name": "Mahindra XEV 9e",
+        "price": "21.9 - 32 Lakh",
+        "url": "/mahindra-cars/xev-9e"
+      },
+      {
+        "name": "Mahindra XEV 9S",
+        "price": "19.95 - 29.45 Lakh",
+        "url": "/mahindra-cars/xev-9s"
+      },
+      {
+        "name": "BYD Atto 3 EV",
+        "price": "28.99 - 34.63 Lakh",
+        "url": "/byd-cars/atto-3-ev"
+      },
+      {
+        "name": "VinFast VF6",
+        "price": "19.13 - 21.22 Lakh",
+        "url": "/vinfast-cars/vf6"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 20.89 - 25.49 Lakh",
+          "₹ 24.93 - 35.07 Lakh",
+          "₹ 21.9 - 32 Lakh",
+          "₹ 19.95 - 29.45 Lakh",
+          "₹ 28.99 - 34.63 Lakh",
+          "₹ 19.13 - 21.22 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "-",
+          "-",
+          "8.1",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "438,510,532 Km/Full Charge",
+          "627 Km/Full Charge",
+          "542 - 656 Km/Full Charge",
+          "521 - 679 Km/Full Charge",
+          "468 - 521 Km/Full Charge",
+          "460 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "5",
+          "16",
+          "17",
+          "6",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "VF7 vs Harrier EV",
+          "VF7 vs XEV 9e",
+          "VF7 vs XEV 9S",
+          "VF7 vs Atto 3 EV",
+          "VF7 vs VF6"
+        ]
+      }
+    ]
+  }
+}

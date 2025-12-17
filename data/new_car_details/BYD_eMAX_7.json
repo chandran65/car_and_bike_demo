@@ -1,0 +1,198 @@
+{
+  "basic_info": {
+    "name": "BYD eMAX 7",
+    "manufacturer": "BYD",
+    "model": "eMAX 7",
+    "body_type": "MUV",
+    "url": "https://www.carandbike.com/byd-cars/emax-7",
+    "image_url": "https://images.carandbike.com/car-images/large/byd/emax-7/byd-emax-7.jpg?v=8",
+    "description": "BYD eMAX 7 is a 6,7-seater electric MUV available at a starting price of Rs. 31.21 Lakh. The electric car is available in 4 variants.Additionally, eMAX 7 offers a Ground Clearance measurement of 170 mm and a Boot capacity of 180 liters. You can choose from 0 colors for the eMAX 7. The battery range/mileage of the eMAX 7 is 530 Km/Full Charge. ",
+    "model_date": "2024-10-08",
+    "sku": "byd-emax-7-1808",
+    "vin": "5NPEL4AB3BH001808",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "420 - 530 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1810 mm ",
+    "height": "1690 mm",
+    "weight": "1780/1930",
+    "seating_capacity": "6,7",
+    "number_of_doors": "5"
+  },
+  "colors": [],
+  "price": {
+    "value": 3120582,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/byd-cars/emax-7"
+  },
+  "brand": {
+    "name": "BYD",
+    "image": "https://images.carandbike.com/car-images/big/byd/byd.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "BYD eMAX 7",
+        "price": "26.9 - 29.9 Lakh",
+        "url": "/byd-cars/emax-7"
+      },
+      {
+        "name": "Tata Harrier EV",
+        "price": "24.93 - 35.07 Lakh",
+        "url": "/tata-cars/harrier-ev"
+      },
+      {
+        "name": "VinFast VF7",
+        "price": "24.23 - 29.57 Lakh",
+        "url": "/vinfast-cars/vf7"
+      },
+      {
+        "name": "Volvo EX30 Recharge",
+        "price": "39.99 Lakh",
+        "url": "/volvo-cars/ex30-recharge"
+      },
+      {
+        "name": "Mahindra XEV 9e",
+        "price": "21.9 - 32 Lakh",
+        "url": "/mahindra-cars/xev-9e"
+      },
+      {
+        "name": "Tata Curvv EV",
+        "price": "20.31 - 25.82 Lakh",
+        "url": "/tata-cars/curvv-ev"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 26.9 - 29.9 Lakh",
+          "₹ 24.93 - 35.07 Lakh",
+          "₹ 24.23 - 29.57 Lakh",
+          "₹ 39.99 Lakh",
+          "₹ 21.9 - 32 Lakh",
+          "₹ 20.31 - 25.82 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "420,530 Km/Full Charge",
+          "627 Km/Full Charge",
+          "438 - 532 Km/Full Charge",
+          "480 Km/Full Charge",
+          "542 - 656 Km/Full Charge",
+          "430 - 502 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "6,7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "4",
+          "16",
+          "5",
+          "1",
+          "17",
+          "8"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "eMAX 7 vs Harrier EV",
+          "eMAX 7 vs VF7",
+          "eMAX 7 vs EX30 Recharge",
+          "eMAX 7 vs XEV 9e",
+          "eMAX 7 vs Curvv EV"
+        ]
+      }
+    ]
+  }
+}

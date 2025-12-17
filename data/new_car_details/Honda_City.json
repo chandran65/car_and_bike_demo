@@ -1,0 +1,245 @@
+{
+  "basic_info": {
+    "name": "Honda City",
+    "manufacturer": "Honda",
+    "model": "City",
+    "body_type": "Sedan",
+    "url": "https://www.carandbike.com/honda-cars/city",
+    "image_url": "https://images.carandbike.com/car-images/large/honda/city/honda-city.jpg?v=43",
+    "description": "Honda City is a 5-seater Sedan available at a starting price of Rs. 11.95 Lakh. The car is available in 8 variants, with 1 engine and 3 transmission option. Additionally, City offers a Ground Clearance measurement of 165 mm and a Boot capacity of 506 liters. You can choose from 6 colors for the City. The mileage of the City varies from 18.4 KM/L depending on the model.",
+    "model_date": "2023-03-02",
+    "sku": "honda-city-1076",
+    "vin": "5NPEL4AB3BH001076",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1498 cc",
+    "power": "119 bhp",
+    "torque": "145 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Manual, Automatic, CVT",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "17 - 18 KM/L"
+  },
+  "dimensions": {
+    "width": "1748 mm ",
+    "height": "1489 mm",
+    "weight": "1153/1153",
+    "seating_capacity": "5",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "Obsidian Blue Pearl",
+    "Radiant Red Metallic",
+    "Golden Brown Mettalic",
+    "Lunar Silver Metallic",
+    "Platinum White Pearl",
+    "Meteoroid Grey Metallic"
+  ],
+  "price": {
+    "value": "1195300",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/honda-cars/city"
+  },
+  "brand": {
+    "name": "Honda",
+    "image": "https://images.carandbike.com/car-images/big/honda/honda.png?v=1"
+  },
+  "rating": {
+    "value": "8.2",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Potent Engine",
+    "Sporty Design",
+    "Spacious Cabin"
+  ],
+  "cons": [
+    "Honda has missed out on the spirited 1.0-litre turbo petrol for India",
+    "Outdated Infotainment System",
+    "Slightly Expensive"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "CVT",
+      "mileage": "18.4 KM/L",
+      "city_mileage": "14 KM/L",
+      "highway_mileage": "18 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "17.8 KM/L",
+      "city_mileage": "14 KM/L",
+      "highway_mileage": "18 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "18.4 KM/L",
+      "city_mileage": "14 KM/L",
+      "highway_mileage": "18 KM/L"
+    }
+  ],
+  "expert_review": {
+    "design_styling": "The City 2023 offers two distinct aesthetic options: Elegance and Sporty. The Elegance trim retains the essence of the pre-facelift design, while the Sporty variant introduces more pronounced bumpers, a mesh grille, and faux carbon fiber-finished lower extensions. The fog lamp housings exhibit greater intricacy, and the rear bumper boasts a diffuser-like design. It's important to note that the Sporty trim is exclusive to the City e:HEV and the top-tier petrol trim (VX) and definitely offers a unique look in the segment. The City 2023 is able to maintain the sleek and balanced silhouette of its predecessor, with different alloy wheel choices being the only notable change in its profile. This facelift marginally enhances the already appealing aesthetics of the fifth-generation of the sedan, contributing to its premium look."
+  },
+  "verdict": "A premium, well loaded, and well designed car – fitting of the City nameplate. There are bits we could have been happier with, but there's plenty here to excite the segment. And the die-hard Honda City fan.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Honda City",
+        "price": "11.95 - 16.07 Lakh",
+        "url": "/honda-cars/city"
+      },
+      {
+        "name": "Hyundai Verna",
+        "price": "10.69 - 16.98 Lakh",
+        "url": "/hyundai-cars/verna"
+      },
+      {
+        "name": "Maruti Suzuki Ciaz",
+        "price": "9.09 - 11.89 Lakh",
+        "url": "/maruti-suzuki-cars/ciaz"
+      },
+      {
+        "name": "Volkswagen Virtus",
+        "price": "11.2 - 17.29 Lakh",
+        "url": "/volkswagen-cars/virtus"
+      },
+      {
+        "name": "Skoda Slavia",
+        "price": "10 - 17.7 Lakh",
+        "url": "/skoda-cars/slavia"
+      },
+      {
+        "name": "Honda 2025 Amaze",
+        "price": "7.41 - 10 Lakh",
+        "url": "/honda-cars/2025-amaze"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 11.95 - 16.07 Lakh",
+          "₹ 10.69 - 16.98 Lakh",
+          "₹ 9.09 - 11.89 Lakh",
+          "₹ 11.2 - 17.29 Lakh",
+          "₹ 10 - 17.7 Lakh",
+          "₹ 7.41 - 10 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.2",
+          "8.5",
+          "7.0",
+          "8.3",
+          "8.3",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1498 cc",
+          "1497 CC",
+          "1462 CC",
+          "999 CC",
+          "999 CC",
+          "1199 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic, CVT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "17 - 18 KM/L",
+          "18.6 - 20.6 KM/L",
+          "20.04 - 20.65 KM/L",
+          "18.12 - 20.19 KM/L",
+          "18 - 20 KM/L",
+          "18.6 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "40.0 L",
+          "45.0 L",
+          "43.0 L",
+          "45.0 L",
+          "45.0 L",
+          "35.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "8",
+          "17",
+          "9",
+          "11",
+          "28",
+          "6"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "City vs Verna",
+          "City vs Ciaz",
+          "City vs Virtus",
+          "City vs Slavia",
+          "City vs 2025 Amaze"
+        ]
+      }
+    ]
+  }
+}

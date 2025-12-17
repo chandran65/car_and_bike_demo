@@ -1,0 +1,242 @@
+{
+  "basic_info": {
+    "name": "Hyundai Aura",
+    "manufacturer": "Hyundai",
+    "model": "Aura",
+    "body_type": "Sedan",
+    "url": "https://www.carandbike.com/hyundai-cars/aura",
+    "image_url": "https://images.carandbike.com/car-images/large/hyundai/aura/hyundai-aura.jpg?v=33",
+    "description": "Hyundai Aura is a 5-seater Sedan available at a starting price of Rs. 5.98 Lakh. The car is available in 11 variants, with 2 engine and 2 transmission option. Additionally, Aura offers a Ground Clearance measurement of 165 mm and a Boot capacity of 402 liters. You can choose from 6 colors for the Aura. The mileage of the Aura varies from 20.5 - 28 KM/L depending on the model.",
+    "model_date": "2023-01-23",
+    "sku": "hyundai-aura-1601",
+    "vin": "5NPEL4AB3BH001601",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1197 cc",
+    "power": "68 @ 6 000 r/ min,82@ 6 000 r/ min bhp",
+    "torque": "113.8 Nm (11.6 kgm) @ 4 000 r/min,95.2 Nm (9.7 kgm) @ 4 000 r/,95.2 Nm (9.7 kgm) @ 4 000 r/min Nm",
+    "fuel_type": "Petrol, Petrol+CNG"
+  },
+  "transmission": "Manual, AMT",
+  "fuel": {
+    "type": "Petrol, Petrol+CNG",
+    "efficiency": "20 - 28 KM/L"
+  },
+  "dimensions": {
+    "width": "1680 mm ",
+    "height": "1520 mm",
+    "weight": "935/1013",
+    "seating_capacity": "5",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "Fiery Red",
+    "Polar White",
+    "Typhoon Silver",
+    "Titan Grey",
+    "Starry Night",
+    "Aqua Teal"
+  ],
+  "price": {
+    "value": 598320,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/hyundai-cars/aura"
+  },
+  "brand": {
+    "name": "Hyundai",
+    "image": "https://images.carandbike.com/car-images/big/hyundai/hyundai.png?v=1"
+  },
+  "rating": {
+    "value": "7.8",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Lively Engine",
+    "Soft Slow Speed Ride",
+    "Fresh Looking Cabin"
+  ],
+  "cons": [
+    "Bouncy High-Speed Ride",
+    "Rear Looks Displeasing",
+    "Lack Of Retractable Seat Belts"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "20.5 KM/L",
+      "city_mileage": "17 KM/L",
+      "highway_mileage": "21 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "AMT",
+      "mileage": "20.5 KM/L",
+      "city_mileage": "17 KM/L",
+      "highway_mileage": "21 KM/L"
+    },
+    {
+      "fuel_type": "Petrol+CNG",
+      "transmission": "Manual",
+      "mileage": "28 KM/L",
+      "city_mileage": "20 KM/L",
+      "highway_mileage": "22 KM/L"
+    }
+  ],
+  "verdict": "Needless to say, the Hyundai Aura does impress us with what it has to offer in terms of performance and features. The car is a definite upgrade over the Xcent in terms of looks as well, maybe! The prices start at ₹ 5.80 lakh and go up to ₹ 9.22 lakh, undercutting the Suzuki Dzire and the Honda Amaze, two of its biggest rivals, by a slight margin. Is it value for money? Yes, definitely! Should it feature on your consideration list for a subcompact sedan? A hundred per cent!",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Hyundai Aura",
+        "price": "5.98 - 8.42 Lakh",
+        "url": "/hyundai-cars/aura"
+      },
+      {
+        "name": "Maruti Suzuki Baleno",
+        "price": "5.99 - 8.6 Lakh",
+        "url": "/maruti-suzuki-cars/baleno"
+      },
+      {
+        "name": "Renault Kiger",
+        "price": "6.14 - 8.95 Lakh",
+        "url": "/renault-cars/kiger"
+      },
+      {
+        "name": "Renault Triber",
+        "price": "6.14 - 8.9 Lakh",
+        "url": "/renault-cars/triber"
+      },
+      {
+        "name": "Maruti Suzuki Swift",
+        "price": "5.79 - 8.65 Lakh",
+        "url": "/maruti-suzuki-cars/swift"
+      },
+      {
+        "name": "Maruti Suzuki 2025 New Dzire",
+        "price": "6.26 - 8.86 Lakh",
+        "url": "/maruti-suzuki-cars/2025-new-dzire"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 5.98 - 8.42 Lakh",
+          "₹ 5.99 - 8.6 Lakh",
+          "₹ 6.14 - 8.95 Lakh",
+          "₹ 6.14 - 8.9 Lakh",
+          "₹ 5.79 - 8.65 Lakh",
+          "₹ 6.26 - 8.86 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.8",
+          "8.2",
+          "8.1",
+          "8.4",
+          "8.0",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1197 cc",
+          "1197 CC",
+          "999 CC",
+          "999 CC",
+          "1197 CC",
+          "1197 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, AMT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "20 - 28 KM/L",
+          "22.35 - 22.94 KM/L",
+          "20 KM/L",
+          "19 - 20 KM/L",
+          "20.4 - 30 KM/L",
+          "24.7 - 34 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Petrol+CNG",
+          "Petrol, CNG",
+          "Petrol",
+          "Petrol",
+          "Petrol, CNG",
+          "Petrol, CNG"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "37.0, 65.0 L",
+          "37.0 L",
+          "40.0 L",
+          "40.0 L",
+          "37.0 L",
+          "37.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "11",
+          "8",
+          "7",
+          "5",
+          "13",
+          "7"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Aura vs Baleno",
+          "Aura vs Kiger",
+          "Aura vs Triber",
+          "Aura vs Swift",
+          "Aura vs 2025 New Dzire"
+        ]
+      }
+    ]
+  }
+}

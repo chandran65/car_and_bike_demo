@@ -1,0 +1,225 @@
+{
+  "basic_info": {
+    "name": "Porsche Taycan",
+    "manufacturer": "Porsche",
+    "model": "Taycan",
+    "body_type": "Coupe",
+    "url": "https://www.carandbike.com/porsche-cars/taycan",
+    "image_url": "https://images.carandbike.com/car-images/large/porsche/taycan/porsche-taycan.jpg?v=19",
+    "description": "Porsche Taycan is a 4-seater electric Coupe available at a starting price of Rs. 1.97 Crore. The electric car is available in 3 variants.Additionally, Taycan offers a Ground Clearance measurement of 128 mm and a Boot capacity of 407 liters. You can choose from 11 colors for the Taycan. The battery range/mileage of the Taycan is 463 Km/Full Charge. ",
+    "model_date": "2024-07-01",
+    "sku": "porsche-taycan-1606",
+    "vin": "5NPEL4AB3BH001606",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "452 - 463 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1966 mm ",
+    "height": "1381 mm",
+    "weight": "2215/2215",
+    "seating_capacity": "4",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "Frozen Berry",
+    "Frozen Blue",
+    "Neptune blue",
+    "Gentian Blue Metallic",
+    "Provence",
+    "Carmine Red",
+    "Dolomite Silver Metallic",
+    "Volcano Grey Metallic",
+    "Ice Grey Metallic",
+    "Black",
+    "White"
+  ],
+  "price": {
+    "value": 19718793,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/porsche-cars/taycan"
+  },
+  "brand": {
+    "name": "Porsche",
+    "image": "https://images.carandbike.com/car-images/big/porsche/porsche.png?v=1"
+  },
+  "rating": {
+    "value": "8.1",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Excellent Design",
+    "Lots Of Features And Tech",
+    "Excellent Driving Dynamics"
+  ],
+  "cons": [
+    "Low Ground Clearance",
+    "Range Anxiety",
+    "Availability &amp; After Sales"
+  ],
+  "expert_review": {
+    "design_styling": "The Porsche Taycan stands as a testament to Porsche’s unwavering commitment to innovation without compromising its iconic design philosophy. Initially introduced as the Mission E Concept car, the Taycan carries forward the legacy of this design, but with added panache. Porsche’s signature design elements are prominently visible, making it reminiscent of the Panamera, its combustion engine counterpart. Decked in Frozen Metallic Blue, the Taycan commands attention. This colour not only accentuates the car’s form but also amplifies the allure of the headlights. The LED DRL housing presents a unique design that complements the car’s wide and flat front, accentuated by its contoured wings. Moving along the side, the silhouette is dominated by the descending roofline, which gives the Taycan its sporty stance. True to Porsche’s design legacy, the Taycan features sculpted side sections. The rear is no less captivating with the drawn-in rear C-pillar and pronounced shoulders. A subtle yet impactful touch is the glass-look Porsche lettering, seamlessly integrated into the rear light bar. However, what sets the Taycan apart is its charging port on the front fender, which is more than just functional. Contrary to expectations, the charging cap does not open with a simple tap. Instead, an innovative sensor-based mechanism is at play. A gesture under the sensor pops open the AC charging port that recesses into the fender. This design not only offers a futuristic touch but also eliminates the traditional swinging mechanism seen in combustion engine vehicles. Moreover, Porsche has equipped the Taycan with a second charging port, catering to both AC and DC charging.",
+    "interior_features": "ThePorsche Taycanis renowned for its impressive acceleration capabilities, showcasing its advanced electric powertrain. TheTaycan Turbo Sstands out as one of the fastestelectricvehicles available, achieving the 0 to 100 km/h sprint in just 2.8 seconds. This exceptional acceleration is made possible by its high-performance 2.9-liter dual-motor system, which delivers a staggering 750 bhp (761 bhp with over boost) and 620 Nm of torque. This model is designed for those seeking top-tier performance and thrilling driving dynamics. TheTaycan Turboalso offers remarkable acceleration, completing the 0 to 100 km/h run in approximately 3.2 seconds. This variant features a slightly less powerful version of the dual-motor setup, delivering 616 bhp (670 bhp with over boost) and 850 Nm of torque, but still provides an exhilarating driving experience. The Taycan 4S, positioned as a more balanced option, accelerates from 0 to 100 km/h in around 4.0 seconds. It features a dual-motor system producing 429 bhp (522 bhp with over boost) and 650 Nm of torque, combining performance with everyday usability. Each variant of the Taycan highlightsPorsche'scommitment to delivering high-speed performance and agility, making it a standout choice in the electric vehicle market."
+  },
+  "verdict": "Porsche always impresses us with its interior, and the case is the same here with plush interiors, intuitive displays, and plastics making it worth the cost. Compared to its aggressive siblings, this younger apprentice is worth the buy. Although the car can be upgraded with user preferences and may end up a bit more than its base cost, this vehicle can be defined as a true electric sports car, and possibly the best EV on sale in the Indian market!",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Porsche Taycan",
+        "price": "1.7 - 2.69 Crore",
+        "url": "/porsche-cars/taycan"
+      },
+      {
+        "name": "Mercedes-AMG EQS",
+        "price": "1.88 Crore",
+        "url": "/mercedes-amg-cars/eqs"
+      },
+      {
+        "name": "BMW iX",
+        "price": "1.62 Crore",
+        "url": "/bmw-cars/ix"
+      },
+      {
+        "name": "Lotus Emeya",
+        "price": "2.34 Crore",
+        "url": "/lotus-cars/emeya"
+      },
+      {
+        "name": "BMW i7",
+        "price": "2.36 - 2.9 Crore",
+        "url": "/bmw-cars/i7"
+      },
+      {
+        "name": "Audi RS E-Tron GT",
+        "price": "2.37 Crore",
+        "url": "/audi-cars/rs-e-tron-gt"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.7 - 2.69 Crore",
+          "₹ 1.88 Crore",
+          "₹ 1.62 Crore",
+          "₹ 2.34 Crore",
+          "₹ 2.36 - 2.9 Crore",
+          "₹ 2.37 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.1",
+          "9.0",
+          "8.5",
+          "-",
+          "8.7",
+          "8.3"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "452,463 Km/Full Charge",
+          "529 Km/Full Charge",
+          "425 Km/Full Charge",
+          "600 Km/Full Charge",
+          "510 - 595 Km/Full Charge",
+          "401 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "4 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "3",
+          "1",
+          "1",
+          "3",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Taycan vs EQS",
+          "Taycan vs iX",
+          "Taycan vs Emeya",
+          "Taycan vs i7",
+          "Taycan vs RS E-Tron GT"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "basic_info": {
+    "name": "MINI Cooper S Convertible",
+    "manufacturer": "MINI",
+    "model": "Cooper S Convertible",
+    "body_type": "Hatchback",
+    "url": "https://www.carandbike.com/mini-cars/cooper-s-convertible",
+    "image_url": "https://images.carandbike.com/car-images/large/mini/cooper-s-convertible/mini-cooper-s-convertible.jpg?v=1",
+    "description": "MINI Cooper S Convertible is a 5-seater Hatchback available at a starting price of Rs. 58.5 Lakh. The car is available in 1 variants, with 1 engine and 1 transmission option. Additionally, Cooper S Convertible offers a Ground Clearance measurement of 146 mm and a Boot capacity of 215 liters. The mileage of the Cooper S Convertible varies from 16.8 KM/L depending on the model.",
+    "model_date": "2025-12-12",
+    "sku": "mini-cooper-s-convertible-1915",
+    "vin": "5NPEL4AB3BH001915",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1998 cc",
+    "power": "204 bhp",
+    "torque": "300 Nm @ 1450 - 4500 rpm Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "16 KM/L"
+  },
+  "dimensions": {
+    "width": "1744 mm ",
+    "height": "1432 mm",
+    "weight": "1370/1370",
+    "seating_capacity": "5",
+    "number_of_doors": "2"
+  },
+  "colors": [],
+  "price": {
+    "value": "5850000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mini-cars/cooper-s-convertible"
+  },
+  "brand": {
+    "name": "MINI",
+    "image": "https://images.carandbike.com/car-images/big/mini/mini.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "16.8 KM/L",
+      "city_mileage": "14.6 KM/L",
+      "highway_mileage": "17 KM/L"
+    }
+  ],
+  "whats_new": {
+    "Introduction": [
+      "Mini launched the 2025 edition of the Cooper S Convertible in India in December 2025.",
+      "It is imported as a completely built unit (CBU) and was priced at Rs 58.50 lakh (ex-showroom).",
+      "The biggest USP of this compact cutesy car is its open roof for a wind-in-the-hair experience.",
+      "This fabric roof can be lowered or raised in 18 seconds and 15 seconds, respectively.",
+      "It has a ‘sunroof mode’ where the top slides open partially.",
+      "And interestingly, all of these mechanisms can happen at speeds of up to 30kmph."
+    ],
+    "Mini Cooper S Convertible - Exterior": [
+      "In typical 'Mini' style, the new Cooper S Convertible also features circular LED headlamps.",
+      "Then, there's an octagonal grille and the taillights which come integrated with a Union Jack graphic.",
+      "The car rides on big 18-inch alloy wheels filling the wheel wells nicely.",
+      "It even has a black plastic cladding around the wheel arches, side skirts, and bumpers."
+    ],
+    "Mini Cooper S Convertible - Interior": [
+      "Inside, the Cooper S Convertible sports a minimalistic dashboard.",
+      "Again, in typical 'Mini' style, it boasts a circular 9.4-inch OLED touchscreen in the centre.",
+      "The Cooper S also gets a two-spoke steering wheel with a head-up display.",
+      "Features like a Harman Kardon sound system, wireless Android Auto and Apple CarPlay, ambient lighting, and a wireless charger are standard.",
+      "There are even features such as a rearview camera and a driver’s seat with massage function."
+    ],
+    "Powertrain of the Mini Cooper S Convertible": [
+      "Under the bonnet of the Mini Cooper S Convertible is a 2.0-litre, four-cylinder, turbo-petrol engine.",
+      "This mill produces 201bhp and 300Nm of torque, and power is sent to the front wheels.",
+      "On the transmission front, the engine comes mated to a seven-speed dual-clutch automatic transmission.",
+      "Interestingly, Mini claims a 0-100kmph time of 6.9 seconds and a top speed of 237kmph."
+    ]
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "MINI Cooper S Convertible",
+        "price": "58.5 Lakh",
+        "url": "/mini-cars/cooper-s-convertible"
+      },
+      {
+        "name": "Kia Carnival",
+        "price": "59.42 Lakh",
+        "url": "/kia-cars/carnival"
+      },
+      {
+        "name": "Mercedes-Benz C-Class",
+        "price": "61 - 68 Lakh",
+        "url": "/mercedes-benz-cars/c-class"
+      },
+      {
+        "name": "BMW X1",
+        "price": "55.5 - 75.13 Lakh",
+        "url": "/bmw-cars/x1"
+      },
+      {
+        "name": "Nissan X-Trail",
+        "price": "54.75 Lakh",
+        "url": "/nissan-cars/x-trail"
+      },
+      {
+        "name": "Lexus ES",
+        "price": "62.65 - 68.23 Lakh",
+        "url": "/lexus-cars/es"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 58.5 Lakh",
+          "₹ 59.42 Lakh",
+          "₹ 61 - 68 Lakh",
+          "₹ 55.5 - 75.13 Lakh",
+          "₹ 54.75 Lakh",
+          "₹ 62.65 - 68.23 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "8.0",
+          "8.1",
+          "8.0",
+          "-",
+          "6.5"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1998 cc",
+          "2151 CC",
+          "1496 CC",
+          "1499 CC",
+          "1498 CC",
+          "2487 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "CVT",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "16 KM/L",
+          "13.9 KM/L",
+          "14.49 - 23 KM/L",
+          "16.35 - 20.37 KM/L",
+          "13.7 KM/L",
+          "22.58 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Diesel",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol",
+          "Hybrid"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "44.0 L",
+          "72.0 L",
+          "66.0 L",
+          "51.0 L",
+          "55.0 L",
+          "50.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "1",
+          "3",
+          "3",
+          "1",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Cooper S Convertible vs Carnival",
+          "Cooper S Convertible vs C-Class",
+          "Cooper S Convertible vs X1",
+          "Cooper S Convertible vs X-Trail",
+          "Cooper S Convertible vs ES"
+        ]
+      }
+    ]
+  }
+}

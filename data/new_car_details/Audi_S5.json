@@ -1,0 +1,227 @@
+{
+  "basic_info": {
+    "name": "Audi S5",
+    "manufacturer": "Audi",
+    "model": "S5",
+    "body_type": "Sedan",
+    "url": "https://www.carandbike.com/audi-cars/s5",
+    "image_url": "https://images.carandbike.com/car-images/large/audi/s5/audi-s5.jpg?v=27",
+    "description": "Audi S5 is a 5-seater Sedan available at a starting price of Rs. 73.57 Lakh. The car is available in 2 variants, with 1 engine and 1 transmission option. Additionally, S5 offers a Ground Clearance measurement of 160 mm and a Boot capacity of 480 liters. You can choose from 5 colors for the S5. The mileage of the S5 varies from 13 KM/L depending on the model.",
+    "model_date": "2021-03-22",
+    "sku": "audi-s5-1424",
+    "vin": "5NPEL4AB3BH001424",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2995 cc",
+    "power": "347 bhp",
+    "torque": "500 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "13 KM/L"
+  },
+  "dimensions": {
+    "width": "1845 mm ",
+    "height": "1390 mm",
+    "weight": "1760/1760",
+    "seating_capacity": "5",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "Glacier White",
+    "Tango Red",
+    "Navarra Blue",
+    "Mythos Black",
+    "District Green"
+  ],
+  "price": {
+    "value": 7357000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/audi-cars/s5"
+  },
+  "brand": {
+    "name": "Audi",
+    "image": "https://images.carandbike.com/car-images/big/audi/audi.png?v=1"
+  },
+  "rating": {
+    "value": "7.9",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Based on the MLB platform, the A5 is sturdily built",
+    "The A5 is only available with the sporty variants",
+    "The RS5 is quite the looker"
+  ],
+  "cons": [
+    "Low on connected car features",
+    "The S5 looks simple and very understated",
+    "The gearbox could have been more responsive"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "13 KM/L",
+      "city_mileage": "8.5 KM/L",
+      "highway_mileage": "12 KM/L"
+    }
+  ],
+  "verdict": "It is a niche model, and also given that it will be a direct import - so that price is more attractive than you think. But with BMW assembling the M340i locally, an over 10 lakh price difference between the two in favour of the Bimmer.  But it is good to see Audi getting us many brand shaping and relevant models. And especially a car like the S5 - which arrives at a time when many premium brands are once again showing some love to the sedan space.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Audi S5",
+        "price": "73.57 - 80.5 Lakh",
+        "url": "/audi-cars/s5"
+      },
+      {
+        "name": "BMW 5 Series",
+        "price": "77.81 Lakh",
+        "url": "/bmw-cars/5-series"
+      },
+      {
+        "name": "BMW 6 Series Gran Turismo",
+        "price": "79.04 - 86.72 Lakh",
+        "url": "/bmw-cars/6-series-gran-turismo"
+      },
+      {
+        "name": "BMW 3 Series",
+        "price": "65.01 - 79.53 Lakh",
+        "url": "/bmw-cars/3-series"
+      },
+      {
+        "name": "Mercedes-Benz E-Class",
+        "price": "83 - 96.9 Lakh",
+        "url": "/mercedes-benz-cars/e-class"
+      },
+      {
+        "name": "Audi A6",
+        "price": "63.74 - 70.79 Lakh",
+        "url": "/audi-cars/a6"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 73.57 - 80.5 Lakh",
+          "₹ 77.81 Lakh",
+          "₹ 79.04 - 86.72 Lakh",
+          "₹ 65.01 - 79.53 Lakh",
+          "₹ 83 - 96.9 Lakh",
+          "₹ 63.74 - 70.79 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.9",
+          "8.0",
+          "8.0",
+          "8.2",
+          "7.8",
+          "7.6"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2995 cc",
+          "1998 CC",
+          "1998 CC",
+          "2998 CC",
+          "1991 CC",
+          "1984 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "13 KM/L",
+          "15.56 KM/L",
+          "13.32 - 18.65 KM/L",
+          "16.13 KM/L",
+          "12.06 KM/L",
+          "14.11 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "58.0 L",
+          "68.0 L",
+          "68.0 L",
+          "59.0 L",
+          "80.0 L",
+          "73.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "1",
+          "4",
+          "3",
+          "3",
+          "4"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "S5 vs 5 Series",
+          "S5 vs 6 Series Gran Turismo",
+          "S5 vs 3 Series",
+          "S5 vs E-Class",
+          "S5 vs A6"
+        ]
+      }
+    ]
+  }
+}

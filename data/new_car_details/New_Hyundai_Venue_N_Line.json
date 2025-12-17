@@ -1,0 +1,237 @@
+{
+  "basic_info": {
+    "name": "New Hyundai Venue N Line",
+    "manufacturer": "Hyundai",
+    "model": "New Venue N Line",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/hyundai-cars/venue-n-line",
+    "image_url": "https://images.carandbike.com/car-images/large/hyundai/venue-n-line/hyundai-venue-n-line.jpg?v=27",
+    "description": "New Hyundai Venue N Line is a 5-seater SUV available at a starting price of Rs. 10.55 Lakh. The car is available in 6 variants, with 1 engine and 2 transmission option. Additionally, New Venue N Line offers a Boot capacity of 350 liters. You can choose from 8 colors for the New Venue N Line. The mileage of the New Venue N Line varies from 18 KM/L depending on the model.",
+    "model_date": "2025-11-04",
+    "sku": "new-hyundai-venue-n-line-1788",
+    "vin": "5NPEL4AB3BH001788",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "998 cc",
+    "power": "118 bhp @6000 rpm bhp",
+    "torque": "172 Nm@ 1500-4000 rpm Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Manual, DCT",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "18 KM/L"
+  },
+  "dimensions": {
+    "width": "1800 mm ",
+    "height": "1665 mm",
+    "weight": "1239/1239",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Titan Grey",
+    "Hazel Blue DualTone",
+    "Hazel Blue",
+    "Dragon Red Dualtone",
+    "Dragon Red",
+    "Atlas White Dual Tone",
+    "Atlas White",
+    "Abyss Black"
+  ],
+  "price": {
+    "value": 1055400,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/hyundai-cars/venue-n-line"
+  },
+  "brand": {
+    "name": "Hyundai",
+    "image": "https://images.carandbike.com/car-images/big/hyundai/hyundai.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "whats_new": {
+    "Introduction": [
+      "Hyundai launched the second-gen Venue in India and even the N Line based on it.",
+      "The N Line continues to get the cosmetic changes and new features from the latest iteration, but with more equipment.",
+      "To visually stand out, it features sportier elements inside and out.",
+      "It is offered in two variants – N6 and N10."
+    ],
+    "Exterior": [
+      "In terms of appearance, the Venue N Line gets a sportier appeal with differentiating elements.",
+      "These include a dark chrome radiator grille, new skid plates, roof rails, and N Line emblems all around.",
+      "Even the 17-inch diamond-cut alloy wheels come with ‘N’ emblems.",
+      "Look closely, and you'll observe that the ORVMs, spoiler, and the door handles have been blacked out.",
+      "Apart from the red accents, round at the back, there's a twin-tip exhaust."
+    ],
+    "Interior": [
+      "Unlike the standard version that gets a dual-tone black and beige upholstery, the N Line features an all-black theme with red highlights.",
+      "Moreover, there are leatherette inserts and the carmaker has equipped it with metal pedals.",
+      "All the other equipment and features are identical to the N6 and the N10 variants of the standard Venue."
+    ],
+    "Powertrain": [
+      "The N Line will be exclusively offered with the turbo-petrol powertrain.",
+      "At the heart of the new Venue N Line, is a 1.0-litre, three-cylinder turbo-petrol engine.",
+      "This mill has been tuned to churn out 118bhp and 172Nm of torque.",
+      "It can be had with the six-speed manual or seven-speed DCT automatic units.",
+      "Most interestingly, the compact SUV has a throatier audio output from the twin exhausts."
+    ]
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Hyundai New Venue N Line",
+        "price": "10.55 - 15.48 Lakh",
+        "url": "/hyundai-cars/venue-n-line"
+      },
+      {
+        "name": "Skoda Kushaq",
+        "price": "10.61 - 18.45 Lakh",
+        "url": "/skoda-cars/kushaq"
+      },
+      {
+        "name": "Volkswagen Taigun",
+        "price": "11.42 - 19.19 Lakh",
+        "url": "/volkswagen-cars/taigun"
+      },
+      {
+        "name": "Maruti Suzuki Jimny",
+        "price": "12.32 - 14.45 Lakh",
+        "url": "/maruti-suzuki-cars/jimny"
+      },
+      {
+        "name": "Citroen C3 Aircross",
+        "price": "8.32 - 14.1 Lakh",
+        "url": "/citroen-cars/c3-aircross"
+      },
+      {
+        "name": "Citroen Aircross X",
+        "price": "8.29 - 13.69 Lakh",
+        "url": "/citroen-cars/aircross-x"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 10.55 - 15.48 Lakh",
+          "₹ 10.61 - 18.45 Lakh",
+          "₹ 11.42 - 19.19 Lakh",
+          "₹ 12.32 - 14.45 Lakh",
+          "₹ 8.32 - 14.1 Lakh",
+          "₹ 8.29 - 13.69 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "8.0",
+          "8.5",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "998 cc",
+          "999 CC",
+          "999 CC",
+          "1462 CC",
+          "1199 CC",
+          "1199 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, DCT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "18 KM/L",
+          "19.76 KM/L",
+          "18.15 - 19.87 KM/L",
+          "16.3 - 16.9 KM/L",
+          "17.6 - 18.5 KM/L",
+          "17.5 - 18.5 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "4 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "45.0 L",
+          "50.0 L",
+          "50.0 L",
+          "40.0 L",
+          "45.0 L",
+          "45.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "6",
+          "31",
+          "13",
+          "6",
+          "17",
+          "7"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Venue N Line vs Kushaq",
+          "Venue N Line vs Taigun",
+          "Venue N Line vs Jimny",
+          "Venue N Line vs C3 Aircross",
+          "Venue N Line vs Aircross X"
+        ]
+      }
+    ]
+  }
+}

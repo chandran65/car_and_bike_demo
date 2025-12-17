@@ -1,0 +1,254 @@
+{
+  "basic_info": {
+    "name": "Mahindra XUV 3XO",
+    "manufacturer": "Mahindra",
+    "model": "XUV 3XO",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/mahindra-cars/xuv-3xo",
+    "image_url": "https://images.carandbike.com/car-images/large/mahindra/xuv-3xo/mahindra-xuv-3xo.jpg?v=30",
+    "description": "Mahindra XUV 3XO is a 5-seater SUV available at a starting price of Rs. 7.28 Lakh. The car is available in 29 variants, with 3 engine and 3 transmission option. Additionally, XUV 3XO offers a Ground Clearance measurement of 180 mm and a Boot capacity of 364 liters. You can choose from 16 colors for the XUV 3XO. The mileage of the XUV 3XO varies from 18.9 - 21.2 KM/L depending on the model.",
+    "model_date": "2024-04-29",
+    "sku": "mahindra-xuv-3xo-1779",
+    "vin": "5NPEL4AB3BH001779",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1197,1497 cc",
+    "power": "109bhp @5000 rpm,110bhp @5000 rpm,115bhp @3750 rpm,128bhp @5000 rpm bhp",
+    "torque": "200Nm @1500-3500 rpm,230Nm @1500-3750 rpm,300Nm @1500-2500 rpm Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Manual, Automatic, AMT",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "18 - 21 KM/L"
+  },
+  "dimensions": {
+    "width": "1821 mm ",
+    "height": "1647 mm",
+    "weight": "1362/1362",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Tango Red Black",
+    "Stealth Black Grey",
+    "Stealth Black",
+    "Nebula Blue Grey",
+    "Galaxy Grey Black",
+    "Galaxy Grey",
+    "Everest White Black",
+    "Everest White",
+    "Dune Beige Black",
+    "Dune Beige",
+    "Deep Forest Grey",
+    "Deep Forest",
+    "Citrine Yellow Black",
+    "Citrine Yellow",
+    "Tango Red",
+    "Nebula Blue"
+  ],
+  "price": {
+    "value": "728300",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mahindra-cars/xuv-3xo"
+  },
+  "brand": {
+    "name": "Mahindra",
+    "image": "https://images.carandbike.com/car-images/big/mahindra/mahindra.png?v=1"
+  },
+  "rating": {
+    "value": "7.5",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "whats_new": {
+    "Introduction": [
+      "The Mahindra XUV 3XO is another contender in the highly competitive compact SUV segment in India.",
+      "It is essentially a revamped version of the XUV300 building on to the strengths of the outgoing car.",
+      "In 2025, Mahindra brought in the 3XO REVX, which incorporates new variants that are not special editions.",
+      "The REVX variants fill in the gap between existing variants offering more choices at different price points."
+    ],
+    "Exterior": [
+      "A slight departure from the XUV300, cosmetic updates to the new XUV 3XO's fascia include new front and rear bumpers and revised LED headlamps.",
+      "The silhouette remains largely the same with a compact footprint.",
+      "However, the SUV now rides on a new set of alloy wheels and boasts new tail lamps.",
+      "As for the REVX variants, there's a body-coloured front fascia for the grille.",
+      "The standard variants get the piano black panel introduced earlier.",
+      "With a black roof and black ORVMs, the REVX further enhances the dual-tone colour scheme.",
+      "Moreover, the REVX rides on 16-inch blacked-out wheels, though the design pattern remains the same as the standard variants.",
+      "To round it off, there are exclusive REVX badges on the C-pillars and the boot lid."
+    ],
+    "Interior": [
+      "The Mahindra 3XO is a big step up inside as compared to the XUV300.",
+      "Now, the compact SUV boasts new features such as a large touchscreen infotainment system, new steering wheel, and digital instrument cluster.",
+      "Then, it has a revised centre console, automatic climate control, and a wireless charger.",
+      "Other USPs include a 360-degree surround camera, Harman Kardon-sourced music system, front and rear parking sensors, panoramic sunroof, and an ADAS suite.",
+      "Even the XUV 3XO REVX features a sporty two-tone interior with black and beige colours.",
+      "Its equipment includes leatherette seat upholstery with contrast stitching and aluminium pedals."
+    ],
+    "Powertrain": [
+      "The XUV 3XO continues to be offered with a choice of petrol and diesel powertrains.",
+      "As for the standard petrol model buyers, there's a 1.2-litre turbo-petrol engine producing 109bhp and 200Nm of torque.",
+      "But for enthusiasts, there's even a more powerful TGDi version producing 129bhp and 230Nm of torque.",
+      "For diesel lovers, there’s a 1.5-litre motor tuned to churn out 115bhp and 300Nm of torque.",
+      "Gearbox options include a six-speed manual, six-speed torque converter automatic, and a six-speed AMT.",
+      "Mechanically, the XUV 3XO REVX is identical to the standard version.",
+      "However, it is offered only with 1.2-litre turbo-petrol engine options.",
+      "These come mated to either a six-speed manual or a six-speed automatic transmission."
+    ]
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mahindra XUV 3XO",
+        "price": "7.28 - 14.4 Lakh",
+        "url": "/mahindra-cars/xuv-3xo"
+      },
+      {
+        "name": "Tata Nexon",
+        "price": "7.32 - 14.7 Lakh",
+        "url": "/tata-cars/nexon"
+      },
+      {
+        "name": "Hyundai Venue",
+        "price": "7.9 - 15.69 Lakh",
+        "url": "/hyundai-cars/venue"
+      },
+      {
+        "name": "Citroen Aircross X",
+        "price": "8.29 - 13.69 Lakh",
+        "url": "/citroen-cars/aircross-x"
+      },
+      {
+        "name": "Citroen C3 Aircross",
+        "price": "8.32 - 14.1 Lakh",
+        "url": "/citroen-cars/c3-aircross"
+      },
+      {
+        "name": "Hyundai Venue N Line",
+        "price": "10.55 - 15.48 Lakh",
+        "url": "/hyundai-cars/venue-n-line"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 7.28 - 14.4 Lakh",
+          "₹ 7.32 - 14.7 Lakh",
+          "₹ 7.9 - 15.69 Lakh",
+          "₹ 8.29 - 13.69 Lakh",
+          "₹ 8.32 - 14.1 Lakh",
+          "₹ 10.55 - 15.48 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.5",
+          "7.8",
+          "8.3",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1197,1497 cc",
+          "1199 CC",
+          "1197 CC",
+          "1199 CC",
+          "1199 CC",
+          "998 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic, AMT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "18 - 21 KM/L",
+          "17.8 - 23 KM/L",
+          "18.34 - 21 KM/L",
+          "17.5 - 18.5 KM/L",
+          "17.6 - 18.5 KM/L",
+          "18 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Diesel, Petrol, CNG",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "42.0 L",
+          "44.0 L",
+          "45.0 L",
+          "45.0 L",
+          "45.0 L",
+          "45.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "29",
+          "28",
+          "25",
+          "7",
+          "17",
+          "6"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "XUV 3XO vs Nexon",
+          "XUV 3XO vs Venue",
+          "XUV 3XO vs Aircross X",
+          "XUV 3XO vs C3 Aircross",
+          "XUV 3XO vs Venue N Line"
+        ]
+      }
+    ]
+  }
+}

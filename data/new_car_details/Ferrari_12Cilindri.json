@@ -1,0 +1,209 @@
+{
+  "basic_info": {
+    "name": "Ferrari 12Cilindri",
+    "manufacturer": "Ferrari",
+    "model": "12Cilindri",
+    "body_type": "Coupe",
+    "url": "https://www.carandbike.com/ferrari-cars/12cilindri",
+    "image_url": "https://images.carandbike.com/car-images/large/ferrari/12cilindri/ferrari-12cilindri.jpg?v=12",
+    "description": "Ferrari 12Cilindri is a 2-seater Coupe available at a starting price of Rs. 8.5 Crore. The car is available in 2 variants, with 1 engine and 1 transmission option. You can choose from 7 colors for the 12Cilindri. ",
+    "model_date": "2025-01-15",
+    "sku": "ferrari-12cilindri-1908",
+    "vin": "5NPEL4AB3BH001908",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "6496 cc",
+    "power": "830 bhp",
+    "torque": "9250 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": null
+  },
+  "dimensions": {
+    "width": "1971 mm ",
+    "height": "1276 mm",
+    "weight": "1630/1630",
+    "seating_capacity": "2",
+    "number_of_doors": "2"
+  },
+  "colors": [
+    "Rosso Imola",
+    "Rosso Corsa",
+    "Giallo Motecarlo",
+    "Celeste Trevi",
+    "Blu Corsa",
+    "Bianco Artico",
+    "Argento Nurburgring"
+  ],
+  "price": {
+    "value": "85000000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/ferrari-cars/12cilindri"
+  },
+  "brand": {
+    "name": "Ferrari",
+    "image": "https://images.carandbike.com/car-images/big/ferrari/ferrari.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Ferrari 12Cilindri",
+        "price": "8.5 - 9.15 Crore",
+        "url": "/ferrari-cars/12cilindri"
+      },
+      {
+        "name": "Aston Martin V12 Vanquish",
+        "price": "8.37 Crore",
+        "url": "/aston-martin-cars/v12-vanquish"
+      },
+      {
+        "name": "Lamborghini Revuelto",
+        "price": "8.7 Crore",
+        "url": "/lamborghini-cars/revuelto"
+      },
+      {
+        "name": "Aston Martin Vantage",
+        "price": "3.77 Crore",
+        "url": "/aston-martin-cars/vantage"
+      },
+      {
+        "name": "Bentley Continental",
+        "price": "3.77 - 5.03 Crore",
+        "url": "/bentley-cars/continental"
+      },
+      {
+        "name": "Mercedes-AMG GT 4-Door Coupe",
+        "price": "3.34 Crore",
+        "url": "/mercedes-amg-cars/gt-4-door-coupe"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 8.5 - 9.15 Crore",
+          "₹ 8.37 Crore",
+          "₹ 8.7 Crore",
+          "₹ 3.77 Crore",
+          "₹ 3.77 - 5.03 Crore",
+          "₹ 3.34 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "7.4",
+          "-",
+          "7.8",
+          "8.1",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "6496 cc",
+          "5935 CC",
+          "6498 CC",
+          "3982 CC",
+          "3993 CC",
+          "3982 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "0 KM/L",
+          "12.8 KM/L",
+          "10 KM/L",
+          "7 KM/L",
+          "8.5 - 10.62 KM/L",
+          "10 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Hybrid",
+          "Petrol",
+          "Petrol",
+          "Hybrid"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "2 Seater",
+          "2 Seater",
+          "2 Seater",
+          "2 Seater",
+          "4 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "78.0 L",
+          "90.0 L",
+          "73.0 L",
+          "90.0 L",
+          "75.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "1",
+          "1",
+          "1",
+          "8",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "12Cilindri vs V12 Vanquish",
+          "12Cilindri vs Revuelto",
+          "12Cilindri vs Vantage",
+          "12Cilindri vs Continental",
+          "12Cilindri vs GT 4-Door Coupe"
+        ]
+      }
+    ]
+  }
+}

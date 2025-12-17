@@ -1,0 +1,236 @@
+{
+  "basic_info": {
+    "name": "Porsche Panamera",
+    "manufacturer": "Porsche",
+    "model": "Panamera",
+    "body_type": "Sedan",
+    "url": "https://www.carandbike.com/porsche-cars/panamera",
+    "image_url": "https://images.carandbike.com/car-images/large/porsche/panamera/porsche-panamera.jpg?v=43",
+    "description": "Porsche Panamera is a 4-seater Sedan available at a starting price of Rs. 2.05 Crore. The car is available in 2 variants, with 2 engine and 1 transmission option. Additionally, Panamera offers a Ground Clearance measurement of 112 mm and a Boot capacity of 500 liters. You can choose from 11 colors for the Panamera. The mileage of the Panamera varies from 8 KM/L depending on the model.",
+    "model_date": "2009-10-01",
+    "sku": "porsche-panamera-1178",
+    "vin": "5NPEL4AB3BH001178",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "3996 cc",
+    "power": "326,473 bhp",
+    "torque": "450,620 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "8 KM/L"
+  },
+  "dimensions": {
+    "width": "1937 mm ",
+    "height": "1427 mm",
+    "weight": "2070/2070",
+    "seating_capacity": "4",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "Mahogany Metallic",
+    "Truffle Brown Metallic",
+    "Mamba Green Metallic",
+    "Night Blue Metallic",
+    "Gentian Blue Metallic",
+    "Gt Silver Metallic",
+    "Dolomite Silver Metallic",
+    "Cherry Metallic",
+    "Volcano Grey Metallic",
+    "Jet Black Metallic",
+    "Carrara White Metallic"
+  ],
+  "price": {
+    "value": 20463100,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/porsche-cars/panamera"
+  },
+  "brand": {
+    "name": "Porsche",
+    "image": "https://images.carandbike.com/car-images/big/porsche/porsche.png?v=1"
+  },
+  "rating": {
+    "value": "6.6",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Decent Engine Options",
+    "Lots Of Trims To Choose From",
+    "Luxurious Interior"
+  ],
+  "cons": [
+    "Availability &amp; After Sales",
+    "Pricey Proposition",
+    "Expensive Optional Equipment"
+  ],
+  "whats_new": {
+    "Exterior": [
+      "The new Panamera models gets a front end which has striking air intake grilles, large side cooling openings and a single-bar front light module. The completely new front end of the Panamera Turbo S is differentiated by the larger side air intakes and newly designed elements in the exterior colour, which are connected horizontally and thus emphasise the width of the vehicle. The revamped light strip at the rear now runs seamlessly over the luggage compartment lid with an adapted contour. It thus provides a continuous and flowing connection between the two newly designed LED tail light clusters. The GTS models of the Panamera sport the new darkened Exclusive Design tail light clusters as standard with dynamic coming/leaving home function. Three new 20- and 21-inch wheels have been added to the wheel range, so that a total of 10 different designs are now on offer"
+    ],
+    "Interior": [
+      "The cabin too comes with a host of new features which have been included in the Porsche Communication Management. These include additional digital functions and services such as the improved Voice Pilot online voice control, Risk Radar for up-to-date road sign and hazard information, wireless Apple CarPlay among others."
+    ],
+    "Engine": [
+      "The Panamera Turbo S models get a 621 bhp churning 4-litre V8 petrol engine with a torque of 820 Nm. That's a bump in power of 79 bhp. 0-100 kmph in Sport Plus mode is done in just 3.1 seconds and top speed is rated at 315 kmph. In order to transfer the enormous power to the road in a controlled manner and maximise cornering performance, the three-chamber air suspension, the Porsche Active Suspension Management (PASM) and the roll stabilisation system Porsche Dynamic Chassis Control Sport (PDCC Sport) including Porsche Torque Vectoring Plus (PTV Plus) have been customised to each specific model and optimised accordingly. The Panamera 4S E-Hybrid is a new addition to the range of plug-in hybrids, offering a completely new drive system with 552 bhp on offer. Compared to the previous hybrid models, the all-electric range has been boosted by up to 30 per cent according to Porsche. The E-Hybrid uses a 134 bhp electric motor integrated into the eight-speed dual-clutch PDK transmission and the 2.9-litre V6 biturbo engine with 434 bhp generates a system output of 412 kW and a maximum system torque of 750 Nm. The V8 biturbo engine in the Panamera GTS was optimised with a specific focus on its power delivery. With 473 bhp and 620 Nm on offer, the new Panamera GTS delivers 19 bhp more power than its predecessor. The power output continuously increases up to close to the engine speed limit. The power delivery is therefore like that of a classic sports car with naturally aspirated engine. The traditional V8 sound characteristics are even more prominent than before thanks to the new standard sports exhaust system featuring asymmetrically positioned rear silencers.",
+      "The chassis and control systems have been geared towards a sporty and also comfortable character for all new Panamera models. Some systems have even been applied completely from scratch. For example, the revamped Porsche Active Suspension Management (PASM) system results in a noticeable improvement in damping comfort, while the control of the electric roll stabilisation system Porsche Dynamic Chassis Control Sport (PDCC Sport) ensures improved body stability. There is also a new equipment generation for the steering control and tyres."
+    ]
+  },
+  "verdict": "One might think this is a big car and might think twice before attacking a corner but trust me it's absolutely mind blowing. In sport mode, the engine demonstrates a side of the Panamera that we really wouldn't have seen. At the end of the day though, performance comes at a price and the Panamera comes priced at ₹ 1.23 crores. If you are the kinds who doesn't care about what you spend on, then this is your deal car but there are grander options out there and maybe cheaper ones too.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Porsche Panamera",
+        "price": "1.7 - 2.34 Crore",
+        "url": "/porsche-cars/panamera"
+      },
+      {
+        "name": "Mercedes-AMG C 63 S",
+        "price": "1.95 Crore",
+        "url": "/mercedes-amg-cars/c-63-s"
+      },
+      {
+        "name": "BMW 7 Series",
+        "price": "1.93 - 2.01 Crore",
+        "url": "/bmw-cars/7-series"
+      },
+      {
+        "name": "BMW M5",
+        "price": "2.21 Crore",
+        "url": "/bmw-cars/m5"
+      },
+      {
+        "name": "Maserati Quattroporte",
+        "price": "1.89 - 2.91 Crore",
+        "url": "/maserati-cars/quattroporte"
+      },
+      {
+        "name": "Mercedes-Benz S-Class",
+        "price": "1.88 - 1.99 Crore",
+        "url": "/mercedes-benz-cars/s-class"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.7 - 2.34 Crore",
+          "₹ 1.95 Crore",
+          "₹ 1.93 - 2.01 Crore",
+          "₹ 2.21 Crore",
+          "₹ 1.89 - 2.91 Crore",
+          "₹ 1.88 - 1.99 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "6.6",
+          "6.9",
+          "7.7",
+          "7.6",
+          "7.6",
+          "8.6"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "3996 cc",
+          "3982 CC",
+          "2998 CC",
+          "4395 CC",
+          "2979 CC",
+          "2925 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "8 KM/L",
+          "14.49 KM/L",
+          "12.61 - 14 KM/L",
+          "9.12 KM/L",
+          "7.9 - 10.7 KM/L",
+          "10.1 - 13.5 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol, Diesel",
+          "Hybrid",
+          "Petrol, Diesel",
+          "Petrol, Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "4 Seater",
+          "5 Seater",
+          "5 Seater",
+          "4 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "90.0 L",
+          "66.0 L",
+          "72.0 L",
+          "68.0 L",
+          "70.0 L",
+          "70.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "1",
+          "2",
+          "1",
+          "7",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Panamera vs C 63 S",
+          "Panamera vs 7 Series",
+          "Panamera vs M5",
+          "Panamera vs Quattroporte",
+          "Panamera vs S-Class"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "basic_info": {
+    "name": "Volvo EX40",
+    "manufacturer": "Volvo",
+    "model": "EX40",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/volvo-cars/ex40",
+    "image_url": "https://images.carandbike.com/car-images/large/volvo/ex40/volvo-ex40.jpg?v=6",
+    "description": "Volvo EX40 is a 5-seater electric SUV available at a starting price of Rs. 65.07 Lakh. The electric car is available in 2 variants.Additionally, EX40 offers a Ground Clearance measurement of 175 mm and a Boot capacity of 419 liters. You can choose from 0 colors for the EX40. The battery range/mileage of the EX40 is 565 Km/Full Charge. ",
+    "model_date": "2024-09-09",
+    "sku": "volvo-ex40-1822",
+    "vin": "5NPEL4AB3BH001822",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "475 - 565 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1873 mm ",
+    "height": "1647 mm",
+    "weight": "2205/2205",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [],
+  "price": {
+    "value": 6507499,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/volvo-cars/ex40"
+  },
+  "brand": {
+    "name": "Volvo",
+    "image": "https://images.carandbike.com/car-images/big/volvo/volvo.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Volvo EX40",
+        "price": "56.1 - 57.9 Lakh",
+        "url": "/volvo-cars/ex40"
+      },
+      {
+        "name": "Mercedes-Benz EQB",
+        "price": "67.2 - 78.9 Lakh",
+        "url": "/mercedes-benz-cars/eqb"
+      },
+      {
+        "name": "Mercedes-Benz EQA",
+        "price": "67.2 Lakh",
+        "url": "/mercedes-benz-cars/eqa"
+      },
+      {
+        "name": "Tesla Model Y",
+        "price": "69.47 - 78.75 Lakh",
+        "url": "/tesla-cars/model-y"
+      },
+      {
+        "name": "BMW ix1 L",
+        "price": "57.88 Lakh",
+        "url": "/bmw-cars/ix1-l"
+      },
+      {
+        "name": "Volvo C40 Recharge",
+        "price": "73.02 Lakh",
+        "url": "/volvo-cars/c40-recharge"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 56.1 - 57.9 Lakh",
+          "₹ 67.2 - 78.9 Lakh",
+          "₹ 67.2 Lakh",
+          "₹ 69.47 - 78.75 Lakh",
+          "₹ 57.88 Lakh",
+          "₹ 73.02 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "8.0",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "475,565 Km/Full Charge",
+          "423 Km/Full Charge",
+          "350 Km/Full Charge",
+          "500 - 622 Km/Full Charge",
+          "440 Km/Full Charge",
+          "530 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "2",
+          "1",
+          "2",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "EX40 vs EQB",
+          "EX40 vs EQA",
+          "EX40 vs Model Y",
+          "EX40 vs ix1 L",
+          "EX40 vs C40 Recharge"
+        ]
+      }
+    ]
+  }
+}

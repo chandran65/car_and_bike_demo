@@ -1,0 +1,40 @@
+{
+  "basic_info": {
+    "name": "Aircross",
+    "manufacturer": null,
+    "model": "New Aircross",
+    "body_type": null,
+    "url": null,
+    "image_url": "https://images.carandbike.com/car-images/large/citroen/new-aircross/citroen-new-aircross.jpg?v=4",
+    "description": "",
+    "model_date": "2025-12-15",
+    "sku": "aircross-1727",
+    "vin": "5NPEL4AB3BH001727",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {},
+  "transmission": null,
+  "fuel": {
+    "type": null,
+    "efficiency": null
+  },
+  "dimensions": {
+    "width": null,
+    "height": null,
+    "weight": null,
+    "seating_capacity": 5,
+    "number_of_doors": 4
+  },
+  "colors": [],
+  "price": {
+    "value": 1100000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": null
+  },
+  "brand": {
+    "name": "Citroen",
+    "image": null
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "basic_info": {
+    "name": "BMW 6 Series Gran Turismo",
+    "manufacturer": "BMW",
+    "model": "6 Series Gran Turismo",
+    "body_type": "Sedan",
+    "url": "https://www.carandbike.com/bmw-cars/6-series-gran-turismo",
+    "image_url": "https://images.carandbike.com/car-images/large/bmw/6-series-gran-turismo/bmw-6-series-gran-turismo.jpg?v=15",
+    "description": "BMW 6 Series Gran Turismo is a 5-seater Sedan available at a starting price of Rs. 79.04 Lakh. The car is available in 4 variants, with 2 engine and 1 transmission option. Additionally, 6 Series Gran Turismo offers a Ground Clearance measurement of 138 mm and a Boot capacity of 600 liters. You can choose from 5 colors for the 6 Series Gran Turismo. The mileage of the 6 Series Gran Turismo varies from 13.3 - 18.7 KM/L depending on the model.",
+    "model_date": "2021-04-08",
+    "sku": "bmw-6-series-gran-turismo-1537",
+    "vin": "5NPEL4AB3BH001537",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1995,1998 cc",
+    "power": "188,255 bhp",
+    "torque": "400 Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "13 - 18 KM/L"
+  },
+  "dimensions": {
+    "width": "2158 mm ",
+    "height": "1588 mm",
+    "weight": "1735/1820",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Piemont Red",
+    "Bernina Grey Brilliant Effect",
+    "Tanzanite Blue",
+    "Carbon Black (metallic)",
+    "Mineral White (metallic)"
+  ],
+  "price": {
+    "value": 7904374,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/bmw-cars/6-series-gran-turismo"
+  },
+  "brand": {
+    "name": "BMW",
+    "image": "https://images.carandbike.com/car-images/big/bmw/bmw.png?v=1"
+  },
+  "rating": {
+    "value": "8.0",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Big on space at the front and rear",
+    "Long wheelbase does not compromise on driving dynamics",
+    "Gearbox is quick to respond to inputs"
+  ],
+  "cons": [
+    "More expensive than the regular 3-Series",
+    "Design is not great and very simple",
+    "hardly any features for the rear seat passengers"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "13.3 KM/L",
+      "city_mileage": "11 KM/L",
+      "highway_mileage": "14 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "18.7 KM/L",
+      "city_mileage": "15 KM/L",
+      "highway_mileage": "19 KM/L"
+    }
+  ],
+  "verdict": "While the 2021 BMW 6 Series Gran Turismo may not look like it gets a bunch of updates, it does make more sense to buy one now. You won't be disappointed whether you drive it yourself or be driven around in it. There's a lot of space for your luggage, should you wish to go on a grand tour and you will be doing so in utmost comfort.  It almost feels like an epic chess match. Barely a month ago, Mercedes-Benz launched the 2021 E-Class facelift in India and BMW responds by launching the updated 6GT.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "BMW 6 Series Gran Turismo",
+        "price": "69.53 - 74.64 Lakh",
+        "url": "/bmw-cars/6-series-gran-turismo"
+      },
+      {
+        "name": "Mercedes-AMG GLC 43 Coupe",
+        "price": "1.17 Crore",
+        "url": "/mercedes-amg-cars/glc-43-coupe"
+      },
+      {
+        "name": "Mercedes-Benz CLE Cabriolet",
+        "price": "1.17 Crore",
+        "url": "/mercedes-benz-cars/cle-cabriolet"
+      },
+      {
+        "name": "Tata Curvv",
+        "price": "9.66 - 18.54 Lakh",
+        "url": "/tata-cars/curvv"
+      },
+      {
+        "name": "Citroen Basalt X",
+        "price": "7.95 - 13.11 Lakh",
+        "url": "/citroen-cars/basalt-x"
+      },
+      {
+        "name": "Aston Martin DB12",
+        "price": "4.34 Crore",
+        "url": "/aston-martin-cars/db12"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 69.53 - 74.64 Lakh",
+          "₹ 1.17 Crore",
+          "₹ 1.17 Crore",
+          "₹ 9.66 - 18.54 Lakh",
+          "₹ 7.95 - 13.11 Lakh",
+          "₹ 4.34 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.0",
+          "7.1",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1995,1998 cc",
+          "1996 CC",
+          "1999 CC",
+          "1199 CC",
+          "1199 CC",
+          "3982 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Manual",
+          "Manual",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "13 - 18 KM/L",
+          "13 KM/L",
+          "12 KM/L",
+          "16 - 19 KM/L",
+          "18 - 19.5 KM/L",
+          "12.75 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "2 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "66.0, 68.0 L",
+          "93.0 L",
+          "66.0 L",
+          "44.0 L",
+          "45.0 L",
+          "78.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "4",
+          "1",
+          "1",
+          "22",
+          "8",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "6 Series Gran Turismo vs GLC 43 Coupe",
+          "6 Series Gran Turismo vs CLE Cabriolet",
+          "6 Series Gran Turismo vs Curvv",
+          "6 Series Gran Turismo vs Basalt X",
+          "6 Series Gran Turismo vs DB12"
+        ]
+      }
+    ]
+  }
+}

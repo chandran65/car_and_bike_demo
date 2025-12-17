@@ -1,0 +1,236 @@
+{
+  "basic_info": {
+    "name": "Skoda Octavia RS",
+    "manufacturer": "Skoda",
+    "model": "Octavia RS",
+    "body_type": "Sedan",
+    "url": "https://www.carandbike.com/skoda-cars/octavia-rs",
+    "image_url": "https://images.carandbike.com/car-images/large/skoda/octavia-rs/skoda-octavia-rs.jpg?v=10",
+    "description": "Skoda Octavia RS is a 5-seater Sedan available at a starting price of Rs. 49.99 Lakh. The car is available in 1 variants, with 1 engine and 1 transmission option. Additionally, Octavia RS offers a Ground Clearance measurement of 128 mm and a Boot capacity of 600 liters. You can choose from 5 colors for the Octavia RS. ",
+    "model_date": "2025-10-17",
+    "sku": "skoda-octavia-rs-1902",
+    "vin": "5NPEL4AB3BH001902",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1984 cc",
+    "power": "261 bhp bhp",
+    "torque": "370 Nm @1600 -4500 rpm Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": null
+  },
+  "dimensions": {
+    "width": "1829 mm ",
+    "height": "1457 mm",
+    "weight": "1528/1528",
+    "seating_capacity": "5",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "Velvet Red",
+    "Race Blue",
+    "Candy White",
+    "Magic Black",
+    "Mamba Green"
+  ],
+  "price": {
+    "value": "4999000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/skoda-cars/octavia-rs"
+  },
+  "brand": {
+    "name": "Skoda",
+    "image": "https://images.carandbike.com/car-images/big/skoda/skoda.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "whats_new": {
+    "Introduction": [
+      "Skoda Auto India officially launched the new Octavia RS on October 17, 2025 at Rs. 49.99 lakh (ex-showroom).",
+      "However, this price was for the first 100 units which got instantly sold out.",
+      "The Octavia RS is a high-performance version of the standard sedan, marking the return of the RS variant to India.",
+      "It is offered in a single variant, five colours, and with a single engine and transmission option.",
+      "Deliveries of the first lot were scheduled to begin on 6 November and later slots not confirmed.",
+      "The original RS variant of the Octavia was discontinued in April 2023 due to new BS6 Phase 2 emission standards.",
+      "Currently in its fourth generation, the Octavia RS is offered in India as a Completely Built Unit (CBU)."
+    ],
+    "Exterior": [
+      "Prospective buyers can opt for the 2025 Skoda Octavia RS in five colours such as Race Blue, Velvet Red, Candy White, Magic Black, and the signature Mamba Green.",
+      "The RS differentiates itself from the standard Octavia with subtle tweaks and different badging.",
+      "For example, the bright Mamba Green is exclusively for the RS, while a special RS badge adorns the front grille and tailgate.",
+      "The bumpers look sportier and given the RS suffix, this version of the Octavia rides 15mm lower than the standard Octavia.",
+      "Moreover, the sports sedan features a sports exhaust system with black tailpipes as standard.",
+      "Other exterior highlights include all-LED lights, 19-inch dual-tone alloys, dynamic turn indicators, and red brake calipers."
+    ],
+    "Interior": [
+      "The Skoda Octavia RS also boasts an impressive feature list, with a 12.9-inch touchscreen, 360-degree camera, three-zone climate control, and a 10.25-inch instrument cluster.",
+      "The front sport seats offer massage, heating, cooling, and memory functions.",
+      "Notably, the India-spec model lacks Dynamic Chassis Control (DCC) and a sunroof.",
+      "However, Skoda has equipped it with an electronic limited-slip differential on the front axle."
+    ],
+    "Powertrain": [
+      "Under the hood of the new Octavia RS is a 2.0-litre, TSI petrol engine.It comes mated to a seven-speed DCT automatic gearbox with no manual option.",
+      "This mill is tuned to produce 261bhp and 370Nm of torque.Interestingly, it lends the car a 0-100kmph sprint time of just above six seconds."
+    ]
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Skoda Octavia RS",
+        "price": "49.99 Lakh",
+        "url": "/skoda-cars/octavia-rs"
+      },
+      {
+        "name": "Toyota Camry",
+        "price": "47.48 - 47.62 Lakh",
+        "url": "/toyota-cars/camry"
+      },
+      {
+        "name": "Audi A4",
+        "price": "46.25 - 55.11 Lakh",
+        "url": "/audi-cars/a4"
+      },
+      {
+        "name": "Mercedes-Benz A-Class Limousine",
+        "price": "46.05 - 48.55 Lakh",
+        "url": "/mercedes-benz-cars/a-class-limousine"
+      },
+      {
+        "name": "Mercedes-Benz C-Class",
+        "price": "61 - 68 Lakh",
+        "url": "/mercedes-benz-cars/c-class"
+      },
+      {
+        "name": "Lexus ES",
+        "price": "62.65 - 68.23 Lakh",
+        "url": "/lexus-cars/es"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 49.99 Lakh",
+          "₹ 47.48 - 47.62 Lakh",
+          "₹ 46.25 - 55.11 Lakh",
+          "₹ 46.05 - 48.55 Lakh",
+          "₹ 61 - 68 Lakh",
+          "₹ 62.65 - 68.23 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "7.4",
+          "7.5",
+          "8.2",
+          "8.1",
+          "6.5"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1984 cc",
+          "2487 CC",
+          "1984 CC",
+          "1332 CC",
+          "1496 CC",
+          "2487 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "0 KM/L",
+          "25 KM/L",
+          "17.84 KM/L",
+          "17.5 - 20 KM/L",
+          "14.49 - 23 KM/L",
+          "22.58 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Hybrid",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Hybrid"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "50.0 L",
+          "50.0 L",
+          "54.0 L",
+          "66.0 L",
+          "66.0 L",
+          "50.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "4",
+          "5",
+          "2",
+          "3",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Octavia RS vs Camry",
+          "Octavia RS vs A4",
+          "Octavia RS vs A-Class Limousine",
+          "Octavia RS vs C-Class",
+          "Octavia RS vs ES"
+        ]
+      }
+    ]
+  }
+}

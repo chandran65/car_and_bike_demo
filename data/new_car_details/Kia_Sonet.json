@@ -1,0 +1,266 @@
+{
+  "basic_info": {
+    "name": "Kia Sonet",
+    "manufacturer": "Kia",
+    "model": "Sonet",
+    "body_type": null,
+    "url": "https://www.carandbike.com/kia-cars/sonet",
+    "image_url": "https://images.carandbike.com/car-images/large/kia/sonet/kia-sonet.jpg?v=45",
+    "description": "Kia Sonet is a 5-seater  available at a starting price of Rs. 7.3 Lakh. The car is available in 24 variants, with 4 engine and 4 transmission option. Additionally, Sonet offers a Ground Clearance measurement of 205 mm and a Boot capacity of 392 liters. You can choose from 9 colors for the Sonet. The mileage of the Sonet varies from 18.4 - 24.1 KM/L depending on the model.",
+    "model_date": "2024-01-12",
+    "sku": "kia-sonet-1617",
+    "vin": "5NPEL4AB3BH001617",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1197,1493,998 cc",
+    "power": "113,118,82 bhp",
+    "torque": "115,172,250 Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Manual, Automatic, IMT, DCT",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "18 - 24 KM/L"
+  },
+  "dimensions": {
+    "width": "1790 mm ",
+    "height": "1647 mm",
+    "weight": "1035/1035",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Sparkling Silver",
+    "Aurora Black Pearl",
+    "Intense Red",
+    "Gravity Grey",
+    "Glacier White Pearl",
+    "Glacier white Pearl/Aurora black pearl",
+    "Intense Red/Aurora black pearl",
+    "Imperial Blue",
+    "Pewter Olive"
+  ],
+  "price": {
+    "value": "730138",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/kia-cars/sonet"
+  },
+  "brand": {
+    "name": "Kia",
+    "image": "https://images.carandbike.com/car-images/big/kia/kia.png?v=1"
+  },
+  "rating": {
+    "value": "8.4",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Brilliant Driving Dynamics",
+    "Sporty Looks",
+    "Multiple Transmission Options"
+  ],
+  "cons": [
+    "Lacks Rear-Seat Legroom",
+    "Gt Line Commands A Significant Premium",
+    "No 60:40 Split Rear Seats On Any Variant"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "DCT",
+      "mileage": "18.4 KM/L",
+      "city_mileage": "17 KM/L",
+      "highway_mileage": "20 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "18.4 KM/L",
+      "city_mileage": "17 KM/L",
+      "highway_mileage": "20 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "IMT",
+      "mileage": "18.4 KM/L",
+      "city_mileage": "17 KM/L",
+      "highway_mileage": "20 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "IMT",
+      "mileage": "24.1 KM/L",
+      "city_mileage": "20 KM/L",
+      "highway_mileage": "24 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "19 KM/L",
+      "city_mileage": "20 KM/L",
+      "highway_mileage": "24 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Manual",
+      "mileage": "24.1 KM/L",
+      "city_mileage": "20 KM/L",
+      "highway_mileage": "24 KM/L"
+    }
+  ],
+  "verdict": "2024 Kia Sonet facelift offers a more premium experience with substantial upgrades in design, technology, and safety. While the turbo petrol engine’s lag and handling might not appeal to performance enthusiasts, its tech-forward features, safety enhancements, and comfortable cabin make it a standout in the subcompact SUV segment. The Sonet is an ideal choice for those looking for a stylish and feature-rich SUV at a competitive price.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Kia Sonet",
+        "price": "7.3 - 14.09 Lakh",
+        "url": "/kia-cars/sonet"
+      },
+      {
+        "name": "Hyundai Venue",
+        "price": "7.9 - 15.69 Lakh",
+        "url": "/hyundai-cars/venue"
+      },
+      {
+        "name": "Renault Kiger",
+        "price": "6.14 - 11.73 Lakh",
+        "url": "/renault-cars/kiger"
+      },
+      {
+        "name": "Skoda Kylaq",
+        "price": "7.55 - 12.8 Lakh",
+        "url": "/skoda-cars/kylaq"
+      },
+      {
+        "name": "Maruti Suzuki Brezza",
+        "price": "8.26 - 13.01 Lakh",
+        "url": "/maruti-suzuki-cars/brezza"
+      },
+      {
+        "name": "Nissan Magnite",
+        "price": "5.62 - 10.76 Lakh",
+        "url": "/nissan-cars/magnite"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 7.3 - 14.09 Lakh",
+          "₹ 7.9 - 15.69 Lakh",
+          "₹ 6.14 - 11.73 Lakh",
+          "₹ 7.55 - 12.8 Lakh",
+          "₹ 8.26 - 13.01 Lakh",
+          "₹ 5.62 - 10.76 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.4",
+          "8.3",
+          "8.1",
+          "-",
+          "8.5",
+          "8.1"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1197,1493,998 cc",
+          "1197 CC",
+          "999 CC",
+          "999 CC",
+          "1462 CC",
+          "999 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic, IMT, DCT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "18 - 24 KM/L",
+          "18.34 - 21 KM/L",
+          "20 KM/L",
+          "18.09 KM/L",
+          "19.8 - 25.51 KM/L",
+          "19.7 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol",
+          "Petrol, CNG",
+          "Petrol, CNG"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "45.0 L",
+          "45.0 L",
+          "40.0 L",
+          "50.0 L",
+          "48.0 L",
+          "40.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "24",
+          "25",
+          "15",
+          "14",
+          "15",
+          "25"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Sonet vs Venue",
+          "Sonet vs Kiger",
+          "Sonet vs Kylaq",
+          "Sonet vs Brezza",
+          "Sonet vs Magnite"
+        ]
+      }
+    ]
+  }
+}

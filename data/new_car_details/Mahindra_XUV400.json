@@ -1,0 +1,261 @@
+{
+  "basic_info": {
+    "name": "Mahindra XUV400",
+    "manufacturer": "Mahindra",
+    "model": "XUV400",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/mahindra-cars/xuv400",
+    "image_url": "https://images.carandbike.com/car-images/large/mahindra/xuv400/mahindra-xuv400.jpg?v=26",
+    "description": "Mahindra XUV400 is a 5-seater electric SUV available at a starting price of Rs. 15.49 Lakh. The electric car is available in 5 variants.Additionally, XUV400 offers a Ground Clearance measurement of 200 mm and a Boot capacity of 378 liters. You can choose from 15 colors for the XUV400. The battery range/mileage of the XUV400 is 456 Km/Full Charge. ",
+    "model_date": "2023-01-16",
+    "sku": "mahindra-xuv400-1683",
+    "vin": "5NPEL4AB3BH001683",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "375 - 456 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1821 mm ",
+    "height": "1634 mm",
+    "weight": "1580/1580",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Arctic Blue EC",
+    "Everest White EC",
+    "Galaxy Grey EC",
+    "Infinity Blue EC",
+    "Nepoli Black EC",
+    "Arctic Blue Dualtone",
+    "Everest White Dualtone",
+    "Infinity Blue Dualtone",
+    "Galaxy Grey Dualtone",
+    "Nepoli Black Dualtone",
+    "Arctic Blue",
+    "Everest White",
+    "Infinity Blue",
+    "Galaxy Grey",
+    "Napoli Black"
+  ],
+  "price": {
+    "value": "1549000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mahindra-cars/xuv400"
+  },
+  "brand": {
+    "name": "Mahindra",
+    "image": "https://images.carandbike.com/car-images/big/mahindra/mahindra.png?v=1"
+  },
+  "rating": {
+    "value": "8.4",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Powerful acceleration",
+    "Smart tech",
+    "Impressive range"
+  ],
+  "cons": [
+    "Overdone styling",
+    "Limited features",
+    "Longer charging time"
+  ],
+  "whats_new": {
+    "Introduction": [
+      "The XUV400 is a ‘fun, fast, and eco-friendly’ electric compact SUV.",
+      "It features three driving modes and a quick acceleration from 0-100kmph in 8.3 seconds, making it versatile on road.",
+      "Furthermore, the compact SUV offers modern features such as dual-zone AC, and wireless charging.​",
+      "A few of its safety features include all four-disc brakes, TPMS, and a five-star Bharat NCAP rating.",
+      "The XUV400 blends style and modern features at a relatively accessible price point in the EV segment.​"
+    ],
+    "Mahindra XUV400 – Exterior": [
+      "Up front, a single plate grille is paired with projector headlamps and LED DRLs that extend into copper strips.",
+      "Then, a copper finished Mahindra twin peaks logo adds a classy touch.",
+      "On the side, its muscular fenders and character lines have been complemented by roof rails.",
+      "While the base model gets steel wheels, the top-spec models feature 16-inch diamond-cut alloy wheels.",
+      "Furthermore, these wheels are shod with 205/65 R16 sized tyres.",
+      "More functional exterior elements are electrically adjustable and foldable ORVMs with LED turn indicators.",
+      "At the back, there are large LED taillamps with intricate elements.",
+      "Moreover, the rear section includes a spoiler and copper-finished XUV400 and EV logos.",
+      "Additional exterior cues include an electric sunroof, rain-sensing wipers, auto headlamps, and satin copper inserts."
+    ],
+    "Mahindra XUV400 – Interior": [
+      "Inside, the dual-toned interiors come in light-grey and black accents with satin-copper highlights.​",
+      "The cabin is best-in class with a 2,600mm wheelbase providing adequate space for five.",
+      "Even the rear legroom is good, and the SUV gets a 378-litre boot capacity.",
+      "Then, the SUV’s seats are upholstered in natural-grain perforated leatherette with copper stitching.​​",
+      "A 10.25-inch touchscreen infotainment system and matching digital driver's display shows all important information.",
+      "Adding on, the Adrenox app integration offers 55+ connected car features.",
+      "Moreover, other features include wireless charging, USB ports, 60:40 split-folding rear seats, height-adjustable driver seat, rear armrest, and an electric sunroof."
+    ],
+    "Mahindra XUV400 – Powertrain": [
+      "The XUV400 features a ‘Permanent Magnet Synchronous Motor’ (PMSM).",
+      "This motor delivers 149.55bhp and 310Nm of torque mated to an automatic transmission.",
+      "Then, there are two battery options for the XUV400 - 39.4kWh and 34.5kWh.",
+      "The XUV400 offers an MIDC-claimed range of 456km on a single charge.",
+      "A standard 7.2kW AC charger takes six hours and thirty minutes for a full 0-100 per cent charge.",
+      "On the other hand, a 50kW DC fast charger achieves 0-80 per cent in 50 minutes."
+    ]
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mahindra XUV400",
+        "price": "15.49 - 17.69 Lakh",
+        "url": "/mahindra-cars/xuv400"
+      },
+      {
+        "name": "Tata Nexon EV",
+        "price": "14.49 - 20.06 Lakh",
+        "url": "/tata-cars/nexon-ev"
+      },
+      {
+        "name": "MG ZS EV",
+        "price": "17.99 - 20.5 Lakh",
+        "url": "/mg-cars/zs-ev"
+      },
+      {
+        "name": "Hyundai Creta EV",
+        "price": "18.02 - 22.38 Lakh",
+        "url": "/hyundai-cars/creta-ev"
+      },
+      {
+        "name": "Mahindra BE 6e",
+        "price": "18.9 - 22.65 Lakh",
+        "url": "/mahindra-cars/be-6e"
+      },
+      {
+        "name": "VinFast VF6",
+        "price": "19.13 - 21.22 Lakh",
+        "url": "/vinfast-cars/vf6"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 15.49 - 17.69 Lakh",
+          "₹ 14.49 - 20.06 Lakh",
+          "₹ 17.99 - 20.5 Lakh",
+          "₹ 18.02 - 22.38 Lakh",
+          "₹ 18.9 - 22.65 Lakh",
+          "₹ 19.13 - 21.22 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.4",
+          "8.5",
+          "7.8",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "375,456 Km/Full Charge",
+          "275 - 489 Km/Full Charge",
+          "461 Km/Full Charge",
+          "390 - 473 Km/Full Charge",
+          "557 Km/Full Charge",
+          "460 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "5",
+          "11",
+          "7",
+          "20",
+          "9",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "XUV400 vs Nexon EV",
+          "XUV400 vs ZS EV",
+          "XUV400 vs Creta EV",
+          "XUV400 vs BE 6e",
+          "XUV400 vs VF6"
+        ]
+      }
+    ]
+  }
+}

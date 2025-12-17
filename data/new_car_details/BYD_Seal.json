@@ -1,0 +1,203 @@
+{
+  "basic_info": {
+    "name": "BYD Seal",
+    "manufacturer": "BYD",
+    "model": "Seal",
+    "body_type": "Sedan",
+    "url": "https://www.carandbike.com/byd-cars/seal",
+    "image_url": "https://images.carandbike.com/car-images/large/byd/seal/byd-seal.jpg?v=8",
+    "description": "BYD Seal is a 5-seater electric Sedan available at a starting price of Rs. 47.6 Lakh. The electric car is available in 3 variants.Additionally, Seal offers a Ground Clearance measurement of 145 mm and a Boot capacity of 400 liters. You can choose from 4 colors for the Seal. The battery range/mileage of the Seal is 650 Km/Full Charge. ",
+    "model_date": "2024-03-05",
+    "sku": "byd-seal-1768",
+    "vin": "5NPEL4AB3BH001768",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "510 - 650 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1875 mm ",
+    "height": "1460 mm",
+    "weight": "1922/2185",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Cosmos Black",
+    "Arctic Blue",
+    "Atlantic Grey",
+    "Aurora White"
+  ],
+  "price": {
+    "value": 4759837,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/byd-cars/seal"
+  },
+  "brand": {
+    "name": "BYD",
+    "image": "https://images.carandbike.com/car-images/big/byd/byd.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "BYD Seal",
+        "price": "41 - 53.15 Lakh",
+        "url": "/byd-cars/seal"
+      },
+      {
+        "name": "Hyundai Ioniq 5",
+        "price": "53.71 Lakh",
+        "url": "/hyundai-cars/ioniq-5"
+      },
+      {
+        "name": "Volvo EX30 Recharge",
+        "price": "39.99 Lakh",
+        "url": "/volvo-cars/ex30-recharge"
+      },
+      {
+        "name": "BMW ix1 L",
+        "price": "57.88 Lakh",
+        "url": "/bmw-cars/ix1-l"
+      },
+      {
+        "name": "MINI Countryman E",
+        "price": "63.68 Lakh",
+        "url": "/mini-cars/countryman-e"
+      },
+      {
+        "name": "Volvo EX40",
+        "price": "65.07 - 67.16 Lakh",
+        "url": "/volvo-cars/ex40"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 41 - 53.15 Lakh",
+          "₹ 53.71 Lakh",
+          "₹ 39.99 Lakh",
+          "₹ 57.88 Lakh",
+          "₹ 63.68 Lakh",
+          "₹ 65.07 - 67.16 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "8.6",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "510,580,650 Km/Full Charge",
+          "631 Km/Full Charge",
+          "480 Km/Full Charge",
+          "440 Km/Full Charge",
+          "462 Km/Full Charge",
+          "475 - 565 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "3",
+          "1",
+          "1",
+          "1",
+          "1",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Seal vs Ioniq 5",
+          "Seal vs EX30 Recharge",
+          "Seal vs ix1 L",
+          "Seal vs Countryman E",
+          "Seal vs EX40"
+        ]
+      }
+    ]
+  }
+}

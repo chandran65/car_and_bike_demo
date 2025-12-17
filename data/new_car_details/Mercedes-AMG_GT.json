@@ -1,0 +1,230 @@
+{
+  "basic_info": {
+    "name": "Mercedes-AMG GT",
+    "manufacturer": "Mercedes-AMG",
+    "model": "GT",
+    "body_type": "Coupe",
+    "url": "https://www.carandbike.com/mercedes-amg-cars/gt",
+    "image_url": "https://images.carandbike.com/car-images/large/mercedes-amg/gt/mercedes-amg-gt.jpg?v=31",
+    "description": "Mercedes-AMG GT is a 2-seater Coupe available at a starting price of Rs. 3.05 Crore. The car is available in 2 variants, with 1 engine and 1 transmission option. Additionally, GT offers a Ground Clearance measurement of 125 mm and a Boot capacity of 165 liters. You can choose from 8 colors for the GT. The mileage of the GT varies from 11.4 KM/L depending on the model.",
+    "model_date": "2020-05-27",
+    "sku": "mercedes-amg-gt-1526",
+    "vin": "5NPEL4AB3BH001526",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "3982 cc",
+    "power": "577 bhp",
+    "torque": "800 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "11 KM/L"
+  },
+  "dimensions": {
+    "width": "1939 mm ",
+    "height": "1288 mm",
+    "weight": "1670/1670",
+    "seating_capacity": "2",
+    "number_of_doors": "2"
+  },
+  "colors": [
+    "Spectral Blue",
+    "Obsidian black",
+    "Polar White",
+    "High-Tech Silver",
+    "Graphite Grey",
+    "Amg Green Hell Magno",
+    "Designo Selenite Grey Magno",
+    "Designo Hyacinth Red Metallic"
+  ],
+  "price": {
+    "value": 30500000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mercedes-amg-cars/gt"
+  },
+  "brand": {
+    "name": "Mercedes-AMG",
+    "image": "https://images.carandbike.com/car-images/big/mercedes-amg/mercedes-amg.png?v=1"
+  },
+  "rating": {
+    "value": "8.2",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "It's all about performance and the GT has every ounce of it",
+    "The 9-speed transmission really is very responsive",
+    "It is a practical yet performance oriented sedan"
+  ],
+  "cons": [
+    "The suspension is a little stiff",
+    "The cabin could have had more features",
+    "The rear seats get a little bumpy at high speeds."
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "11.4 KM/L",
+      "city_mileage": "7 KM/L",
+      "highway_mileage": "12 KM/L"
+    }
+  ],
+  "verdict": "It is very forgiving and isn't hard to drive, meaning anyone can drive it hard, and more easily than a car like the SLS. The GT was born for the track and all its performance attributes instantly come racing to the fore, especially when you have it in sport mode on a fast track. The steering is also extremely precise, though I would have liked it stay a touch stiffer. But this car instantly comes across as a very well-engineered machine.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mercedes-AMG GT",
+        "price": "3.05 - 3.65 Crore",
+        "url": "/mercedes-amg-cars/gt"
+      },
+      {
+        "name": "Ferrari Roma",
+        "price": "3.56 Crore",
+        "url": "/ferrari-cars/roma"
+      },
+      {
+        "name": "Porsche 911",
+        "price": "2 - 3.8 Crore",
+        "url": "/porsche-cars/911"
+      },
+      {
+        "name": "Maserati MCPura",
+        "price": "4.12 - 5.12 Crore",
+        "url": "/maserati-cars/mcpura"
+      },
+      {
+        "name": "Lotus Emira",
+        "price": "1.93 - 2.27 Crore",
+        "url": "/lotus-cars/emira"
+      },
+      {
+        "name": "BMW Z4",
+        "price": "94.53 Lakh - 1.05 Crore",
+        "url": "/bmw-cars/z4"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 3.05 - 3.65 Crore",
+          "₹ 3.56 Crore",
+          "₹ 2 - 3.8 Crore",
+          "₹ 4.12 - 5.12 Crore",
+          "₹ 1.93 - 2.27 Crore",
+          "₹ 94.53 Lakh - 1.05 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.2",
+          "8.5",
+          "8.1",
+          "-",
+          "-",
+          "7.6"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "3982 cc",
+          "3855 CC",
+          "2981 CC",
+          "2992 CC",
+          "1998 CC",
+          "2998 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "11 KM/L",
+          "7 KM/L",
+          "8.7 KM/L",
+          "0 KM/L",
+          "12 - 12.5 KM/L",
+          "12.82 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "2 Seater",
+          "2 Seater",
+          "4 Seater",
+          "2 Seater",
+          "2 Seater",
+          "2 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "75.0 L",
+          "80.0 L",
+          "64.0 L",
+          "60.0 L",
+          "60.0 L",
+          "52.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "1",
+          "4",
+          "2",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "GT vs Roma",
+          "GT vs 911",
+          "GT vs MCPura",
+          "GT vs Emira",
+          "GT vs Z4"
+        ]
+      }
+    ]
+  }
+}

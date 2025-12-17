@@ -1,0 +1,214 @@
+{
+  "basic_info": {
+    "name": "Porsche Macan Electric",
+    "manufacturer": "Porsche",
+    "model": "Macan Electric",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/porsche-cars/macan-electric",
+    "image_url": "https://images.carandbike.com/car-images/large/porsche/macan-electric/porsche-macan-electric.jpg?v=33",
+    "description": "Porsche Macan Electric is a 5-seater electric SUV available at a starting price of Rs. 1.41 Crore. The electric car is available in 3 variants.Additionally, Macan Electric offers a Ground Clearance measurement of 224 mm and a Boot capacity of 540 liters. You can choose from 15 colors for the Macan Electric. The battery range/mileage of the Macan Electric is 613 Km/Full Charge. ",
+    "model_date": "2024-07-17",
+    "sku": "porsche-macan-electric-1800",
+    "vin": "5NPEL4AB3BH001800",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "590 - 613 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1938 mm ",
+    "height": "1622 mm",
+    "weight": "2300/2420",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Slate Grey Neo",
+    "Copper Ruby Metallic",
+    "Aventurine Green Metallic",
+    "Oak Green Metallic Neo",
+    "Papaya Metallic",
+    "Frozen Blue",
+    "Gentian Blue Metallic",
+    "Provence",
+    "Dolomite Silver Metallic",
+    "Volcano Grey Metallic",
+    "Ice Grey Metallic",
+    "Black",
+    "Carrara White",
+    "Rhodium Silver Metallic",
+    "Mahogany Metallic"
+  ],
+  "price": {
+    "value": 14130429,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/porsche-cars/macan-electric"
+  },
+  "brand": {
+    "name": "Porsche",
+    "image": "https://images.carandbike.com/car-images/big/porsche/porsche.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Porsche Macan Electric",
+        "price": "1.22 - 1.69 Crore",
+        "url": "/porsche-cars/macan-electric"
+      },
+      {
+        "name": "Mercedes-Benz EQS SUV",
+        "price": "1.34 - 1.48 Crore",
+        "url": "/mercedes-benz-cars/eqs-suv"
+      },
+      {
+        "name": "Kia EV9",
+        "price": "1.51 Crore",
+        "url": "/kia-cars/ev9"
+      },
+      {
+        "name": "Mercedes-AMG EQS",
+        "price": "1.88 Crore",
+        "url": "/mercedes-amg-cars/eqs"
+      },
+      {
+        "name": "Mercedes-Maybach EQS Electric",
+        "price": "2.4 - 2.63 Crore",
+        "url": "/mercedes-maybach-cars/eqs-electric"
+      },
+      {
+        "name": "Lotus Eletre",
+        "price": "2.55 - 2.99 Crore",
+        "url": "/lotus-cars/eletre"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.22 - 1.69 Crore",
+          "₹ 1.34 - 1.48 Crore",
+          "₹ 1.51 Crore",
+          "₹ 1.88 Crore",
+          "₹ 2.4 - 2.63 Crore",
+          "₹ 2.55 - 2.99 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "-",
+          "9.0",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "590,606,613 Km/Full Charge",
+          "550 Km/Full Charge",
+          "470 Km/Full Charge",
+          "529 Km/Full Charge",
+          "600 Km/Full Charge",
+          "500 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "6 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "3",
+          "2",
+          "1",
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Macan Electric vs EQS SUV",
+          "Macan Electric vs EV9",
+          "Macan Electric vs EQS",
+          "Macan Electric vs EQS Electric",
+          "Macan Electric vs Eletre"
+        ]
+      }
+    ]
+  }
+}

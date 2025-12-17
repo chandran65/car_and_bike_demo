@@ -1,0 +1,195 @@
+{
+  "basic_info": {
+    "name": "BMW 7 Protection",
+    "manufacturer": "BMW",
+    "model": "7 Protection",
+    "body_type": null,
+    "url": "https://www.carandbike.com/bmw-cars/7-protection",
+    "image_url": "https://images.carandbike.com/car-images/large/bmw/7-protection/bmw-7-protection.jpg?v=5",
+    "description": "BMW 7 Protection is a 5-seater  available at a starting price of Rs. 18.28 Crore. The car is available in 1 variants, with 1 engine and 1 transmission option. Additionally, 7 Protection offers a Ground Clearance measurement of 148 mm and a Boot capacity of 540 liters. The mileage of the 7 Protection varies from 10 KM/L depending on the model.",
+    "model_date": "2024-02-18",
+    "sku": "bmw-7-protection-1869",
+    "vin": "5NPEL4AB3BH001869",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "4395 cc",
+    "power": "528?bhp@ 5,500?rpm bhp",
+    "torque": "750?Nm Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "10 KM/L"
+  },
+  "dimensions": {
+    "width": "1950 mm ",
+    "height": "1544 mm",
+    "weight": "3965/3965",
+    "seating_capacity": "5",
+    "number_of_doors": "4"
+  },
+  "colors": [],
+  "price": {
+    "value": 182812474,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/bmw-cars/7-protection"
+  },
+  "brand": {
+    "name": "BMW",
+    "image": "https://images.carandbike.com/car-images/big/bmw/bmw.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "10 KM/L",
+      "city_mileage": "12 KM/L",
+      "highway_mileage": "13 KM/L"
+    }
+  ],
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "BMW 7 Protection",
+        "price": "16.08 Crore",
+        "url": "/bmw-cars/7-protection"
+      },
+      {
+        "name": "Rolls-Royce Phantom",
+        "price": "10.86 - 12.97 Crore",
+        "url": "/rolls-royce-cars/phantom"
+      },
+      {
+        "name": "Rolls-Royce Ghost",
+        "price": "10.16 - 11.94 Crore",
+        "url": "/rolls-royce-cars/ghost"
+      },
+      {
+        "name": "Ferrari Purosangue SUV",
+        "price": "9.93 Crore",
+        "url": "/ferrari-cars/purosangue-suv"
+      },
+      {
+        "name": "Ferrari 12Cilindri",
+        "price": "9.15 Crore",
+        "url": "/ferrari-cars/12cilindri"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 16.08 Crore",
+          "₹ 10.86 - 12.97 Crore",
+          "₹ 10.16 - 11.94 Crore",
+          "₹ 9.93 Crore",
+          "₹ 9.15 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "7.1",
+          "8.6",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "4395 cc",
+          "6749 CC",
+          "6592 CC",
+          "6496 CC",
+          "6496 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "10 KM/L",
+          "7.19 KM/L",
+          "6.33 KM/L",
+          "10 KM/L",
+          "0 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "4 Seater",
+          "5 Seater",
+          "4 Seater",
+          "2 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "80.0 L",
+          "100.0 L",
+          "82.5 L",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "7 Protection vs Phantom",
+          "7 Protection vs Ghost",
+          "7 Protection vs Purosangue SUV",
+          "7 Protection vs 12Cilindri"
+        ]
+      }
+    ]
+  }
+}

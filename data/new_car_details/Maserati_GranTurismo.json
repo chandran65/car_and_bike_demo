@@ -1,0 +1,210 @@
+{
+  "basic_info": {
+    "name": "Maserati GranTurismo",
+    "manufacturer": "Maserati",
+    "model": "GranTurismo",
+    "body_type": null,
+    "url": "https://www.carandbike.com/maserati-cars/granturismo",
+    "image_url": "https://images.carandbike.com/car-images/large/maserati/granturismo/maserati-granturismo.jpg?v=37",
+    "description": "Maserati GranTurismo is a 4-seater  available at a starting price of Rs. 3.09 Crore. The car is available in 2 variants, with 1 engine and 1 transmission option. Additionally, GranTurismo offers a Ground Clearance measurement of 100 mm and a Boot capacity of 260 liters. You can choose from 8 colors for the GranTurismo. The mileage of the GranTurismo varies from 14.3 KM/L depending on the model.",
+    "model_date": "2024-08-30",
+    "sku": "maserati-granturismo-1144",
+    "vin": "5NPEL4AB3BH001144",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "4691 cc",
+    "power": "460 bhp",
+    "torque": "520 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "14 KM/L"
+  },
+  "dimensions": {
+    "width": "2056 mm ",
+    "height": "1353 mm",
+    "weight": "1880/1880",
+    "seating_capacity": "4",
+    "number_of_doors": "2"
+  },
+  "colors": [
+    "Verde Royale",
+    "Blu Royale",
+    "Grigio Maratea",
+    "Nero",
+    "Verde Giada",
+    "blu Modena",
+    "Bianco astro",
+    "Grigio trofeo"
+  ],
+  "price": {
+    "value": "30921792",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/maserati-cars/granturismo"
+  },
+  "brand": {
+    "name": "Maserati",
+    "image": "https://images.carandbike.com/car-images/big/maserati/maserati.png?v=1"
+  },
+  "rating": {
+    "value": "8.0",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Maserati GranTurismo",
+        "price": "2.57 - 2.74 Crore",
+        "url": "/maserati-cars/granturismo"
+      },
+      {
+        "name": "Ferrari Portofino",
+        "price": "3.31 Crore",
+        "url": "/ferrari-cars/portofino"
+      },
+      {
+        "name": "Mercedes-AMG GT 4-Door Coupe",
+        "price": "3.34 Crore",
+        "url": "/mercedes-amg-cars/gt-4-door-coupe"
+      },
+      {
+        "name": "Bentley Continental",
+        "price": "3.77 - 5.03 Crore",
+        "url": "/bentley-cars/continental"
+      },
+      {
+        "name": "Aston Martin Vantage",
+        "price": "3.77 Crore",
+        "url": "/aston-martin-cars/vantage"
+      },
+      {
+        "name": "Porsche Cayenne Coupe",
+        "price": "1.76 - 2.38 Crore",
+        "url": "/porsche-cars/cayenne-coupe"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 2.57 - 2.74 Crore",
+          "₹ 3.31 Crore",
+          "₹ 3.34 Crore",
+          "₹ 3.77 - 5.03 Crore",
+          "₹ 3.77 Crore",
+          "₹ 1.76 - 2.38 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.0",
+          "8.0",
+          "-",
+          "8.1",
+          "7.8",
+          "8.1"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "4691 cc",
+          "3855 CC",
+          "3982 CC",
+          "3993 CC",
+          "3982 CC",
+          "2995 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "14 KM/L",
+          "10 KM/L",
+          "10 KM/L",
+          "8.5 - 10.62 KM/L",
+          "7 KM/L",
+          "8.84 - 10.75 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Hybrid",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "4 Seater",
+          "2 Seater",
+          "5 Seater",
+          "4 Seater",
+          "2 Seater",
+          "4 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "86.0 L",
+          "80.0 L",
+          "75.0 L",
+          "90.0 L",
+          "73.0 L",
+          "75.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "1",
+          "1",
+          "8",
+          "1",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "GranTurismo vs Portofino",
+          "GranTurismo vs GT 4-Door Coupe",
+          "GranTurismo vs Continental",
+          "GranTurismo vs Vantage",
+          "GranTurismo vs Cayenne Coupe"
+        ]
+      }
+    ]
+  }
+}

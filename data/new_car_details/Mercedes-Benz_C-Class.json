@@ -1,0 +1,235 @@
+{
+  "basic_info": {
+    "name": "Mercedes-Benz C-Class",
+    "manufacturer": "Mercedes-Benz",
+    "model": "C-Class",
+    "body_type": "Sedan",
+    "url": "https://www.carandbike.com/mercedes-benz-cars/c-class",
+    "image_url": "https://images.carandbike.com/car-images/large/mercedes-benz/c-class/mercedes-benz-c-class.jpg?v=24",
+    "description": "Mercedes-Benz C-Class is a 4,5-seater Sedan available at a starting price of Rs. 61 Lakh. The car is available in 3 variants, with 3 engine and 1 transmission option. Additionally, C-Class offers a Ground Clearance measurement of 157 mm and a Boot capacity of 480 liters. You can choose from 6 colors for the C-Class. The mileage of the C-Class varies from 16.9 - 23 KM/L depending on the model.",
+    "model_date": "2022-05-10",
+    "sku": "mercedes-benz-c-class-1148",
+    "vin": "5NPEL4AB3BH001148",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1496,1991,1993 cc",
+    "power": "197,201,245 bhp",
+    "torque": "300,370,440 Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "14 - 23 KM/L"
+  },
+  "dimensions": {
+    "width": "1810 mm ",
+    "height": "1442 mm",
+    "weight": "1655/1740",
+    "seating_capacity": "4,5",
+    "number_of_doors": "2,4"
+  },
+  "colors": [
+    "Selenite Grey",
+    "High-Tech Silver",
+    "Mojave Silver",
+    "MANUFAKTUR Opalite White Bright",
+    "Obsidian Black",
+    "Cavansite Blue"
+  ],
+  "price": {
+    "value": 6100000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mercedes-benz-cars/c-class"
+  },
+  "brand": {
+    "name": "Mercedes-Benz",
+    "image": "https://images.carandbike.com/car-images/big/mercedes-benz/mercedes-benz.png?v=1"
+  },
+  "rating": {
+    "value": "8.1",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Stunning Looks &amp; Design",
+    "High On Features And Tech",
+    "Offered In Both Petrol And Diesel Options"
+  ],
+  "cons": [
+    "Petrol Engine Feels Just About Adequate",
+    "Second-Row Not Good For 3 Occupants",
+    "Gets Faux Leather Seats Instead Of Real Leather"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "16.9 KM/L",
+      "city_mileage": "11 KM/L",
+      "highway_mileage": "16 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "23 KM/L",
+      "city_mileage": "16 KM/L",
+      "highway_mileage": "23 KM/L"
+    }
+  ],
+  "verdict": "The cabin of the Mercedes-Benz C-Class is more spacious. On the inside you certainly get a sense of the 'Baby S' tag, perhaps more than the outside, because of a superior material quality and design layout. The sense of luxury that you get is more heightened. The C-Class isn't still the best drivers' car - the BMW 3 Series has still got that covered. But in terms of style, space, luxury and comfort, the new C-Class is compelling and pushes the envelope far.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mercedes-Benz C-Class",
+        "price": "61 - 68 Lakh",
+        "url": "/mercedes-benz-cars/c-class"
+      },
+      {
+        "name": "Lexus ES",
+        "price": "62.65 - 68.23 Lakh",
+        "url": "/lexus-cars/es"
+      },
+      {
+        "name": "Audi A6",
+        "price": "63.74 - 70.79 Lakh",
+        "url": "/audi-cars/a6"
+      },
+      {
+        "name": "BMW 3 Series",
+        "price": "65.01 - 79.53 Lakh",
+        "url": "/bmw-cars/3-series"
+      },
+      {
+        "name": "Skoda Octavia RS",
+        "price": "49.99 Lakh",
+        "url": "/skoda-cars/octavia-rs"
+      },
+      {
+        "name": "Audi S5",
+        "price": "73.57 - 80.5 Lakh",
+        "url": "/audi-cars/s5"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 61 - 68 Lakh",
+          "₹ 62.65 - 68.23 Lakh",
+          "₹ 63.74 - 70.79 Lakh",
+          "₹ 65.01 - 79.53 Lakh",
+          "₹ 49.99 Lakh",
+          "₹ 73.57 - 80.5 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.1",
+          "6.5",
+          "7.6",
+          "8.2",
+          "-",
+          "7.9"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1496,1991,1993 cc",
+          "2487 CC",
+          "1984 CC",
+          "2998 CC",
+          "1984 CC",
+          "2995 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "14 - 23 KM/L",
+          "22.58 KM/L",
+          "14.11 KM/L",
+          "16.13 KM/L",
+          "0 KM/L",
+          "13 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Hybrid",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "4,5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "66.0 L",
+          "50.0 L",
+          "73.0 L",
+          "59.0 L",
+          "50.0 L",
+          "58.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "3",
+          "2",
+          "4",
+          "3",
+          "1",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "C-Class vs ES",
+          "C-Class vs A6",
+          "C-Class vs 3 Series",
+          "C-Class vs Octavia RS",
+          "C-Class vs S5"
+        ]
+      }
+    ]
+  }
+}

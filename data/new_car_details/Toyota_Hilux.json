@@ -1,0 +1,237 @@
+{
+  "basic_info": {
+    "name": "Toyota Hilux",
+    "manufacturer": "Toyota",
+    "model": "Hilux",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/toyota-cars/hilux",
+    "image_url": "https://images.carandbike.com/car-images/large/toyota/hilux/toyota-hilux.jpg?v=16",
+    "description": "Toyota Hilux is a 5-seater SUV available at a starting price of Rs. 28.02 Lakh. The car is available in 4 variants, with 1 engine and 2 transmission option. Additionally, Hilux offers a Ground Clearance measurement of 225 mm. You can choose from 5 colors for the Hilux. The mileage of the Hilux varies from 12.6 KM/L depending on the model.",
+    "model_date": "2022-03-31",
+    "sku": "toyota-hilux-1662",
+    "vin": "5NPEL4AB3BH001662",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2755 cc",
+    "power": "201.15 bhp @ 3000-3400 rpm bhp",
+    "torque": "420 Nm @ 1400-3400 rpm,500 Nm @ 1600-2800 rpm Nm",
+    "fuel_type": "Diesel"
+  },
+  "transmission": "Manual, Automatic",
+  "fuel": {
+    "type": "Diesel",
+    "efficiency": "12 KM/L"
+  },
+  "dimensions": {
+    "width": "1855 mm ",
+    "height": "1815 mm",
+    "weight": "2150/2150",
+    "seating_capacity": "5",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "White Pearl Crystal Shine",
+    "Super White",
+    "Grey Metallic",
+    "Emotional Red",
+    "Black"
+  ],
+  "price": {
+    "value": 2802400,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/toyota-cars/hilux"
+  },
+  "brand": {
+    "name": "Toyota",
+    "image": "https://images.carandbike.com/car-images/big/toyota/toyota.png?v=1"
+  },
+  "rating": {
+    "value": "7.8",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Massive Road Presence",
+    "Powerful Engine Performance",
+    "Also Gets 4X4"
+  ],
+  "cons": [
+    "Ingress And Egress Is A Bit Difficult",
+    "Interior Looks A Bit Dated",
+    "Expensive Compared To Rivals"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "12.6 KM/L",
+      "city_mileage": "8 KM/L",
+      "highway_mileage": "13 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Manual",
+      "mileage": "12.6 KM/L",
+      "city_mileage": "8 KM/L",
+      "highway_mileage": "13 KM/L"
+    }
+  ],
+  "expert_review": {
+    "design_styling": "The Toyota Hilux exudes a commanding aura that’s impossible to overlook. Its design is a harmonious blend of ruggedness and elegance. From its muscular wheel arches to its broad, assertive grille, every inch screams dominance. The eye-catching ‘emotional’ red variant amplifies its grandeur, ensuring that wherever it treads, it leaves an indelible mark. While it doesn’t have the mystical prowess to part traffic, its presence on the road demands respect and admiration. The Hilux is a testament to Toyota's impeccable craftsmanship, seamlessly combining functionality with aesthetics. Whether parked amidst the urban chaos or against a serene rural backdrop, it stands as a symbol of power and precision."
+  },
+  "verdict": "Despite being an expensive option, the Hilux certainly offers good value. Yes, the limited number of features might prompt you to question the premium price tag, however, the SUV is not for everyone. It’s a purpose-built vehicle for those select few enthusiasts who not only want to take the car off the beaten path, but go beyond that, and experience the different terrains India has to offer. And in those regards, the Hilux checks all the right boxes.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Toyota Hilux",
+        "price": "28.02 - 35.37 Lakh",
+        "url": "/toyota-cars/hilux"
+      },
+      {
+        "name": "Isuzu D-Max V-Cross",
+        "price": "19.73 - 35.97 Lakh",
+        "url": "/isuzu-cars/d-max-v-cross"
+      },
+      {
+        "name": "Force Motors Gurkha",
+        "price": "19.46 - 20.92 Lakh",
+        "url": "/force-motors-cars/gurkha"
+      },
+      {
+        "name": "Tata Safari",
+        "price": "14.66 - 25.96 Lakh",
+        "url": "/tata-cars/safari"
+      },
+      {
+        "name": "Mahindra XUV700",
+        "price": "13.66 - 25.19 Lakh",
+        "url": "/mahindra-cars/xuv700"
+      },
+      {
+        "name": "Mahindra Scorpio-N",
+        "price": "13.2 - 23.99 Lakh",
+        "url": "/mahindra-cars/scorpio-n"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 28.02 - 35.37 Lakh",
+          "₹ 19.73 - 35.97 Lakh",
+          "₹ 19.46 - 20.92 Lakh",
+          "₹ 14.66 - 25.96 Lakh",
+          "₹ 13.66 - 25.19 Lakh",
+          "₹ 13.2 - 23.99 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.8",
+          "7.0",
+          "6.1",
+          "5.5",
+          "8.3",
+          "8.4"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2755 cc",
+          "1898 CC",
+          "2596 CC",
+          "1956 CC",
+          "1997 CC",
+          "1997 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "12 KM/L",
+          "14.4 KM/L",
+          "15 KM/L",
+          "16.14 KM/L",
+          "13 - 16.57 KM/L",
+          "14 - 18.5 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Diesel",
+          "Diesel",
+          "Diesel",
+          "Diesel",
+          "Petrol, Diesel",
+          "Petrol, Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "4 Seater",
+          "7 Seater",
+          "7 Seater",
+          "7 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "80.0 L",
+          "55.0 L",
+          "63.5 L",
+          "50.0 L",
+          "60.0 L",
+          "57.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "4",
+          "5",
+          "2",
+          "24",
+          "27",
+          "31"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Hilux vs D-Max V-Cross",
+          "Hilux vs Gurkha",
+          "Hilux vs Safari",
+          "Hilux vs XUV700",
+          "Hilux vs Scorpio-N"
+        ]
+      }
+    ]
+  }
+}

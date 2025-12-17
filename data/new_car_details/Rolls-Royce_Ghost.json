@@ -1,0 +1,224 @@
+{
+  "basic_info": {
+    "name": "Rolls-Royce Ghost",
+    "manufacturer": "Rolls-Royce",
+    "model": "Ghost",
+    "body_type": "Sedan",
+    "url": "https://www.carandbike.com/rolls-royce-cars/ghost",
+    "image_url": "https://images.carandbike.com/car-images/large/rolls-royce/ghost/rolls-royce-ghost.jpg?v=14",
+    "description": "Rolls-Royce Ghost is a 5-seater Sedan available at a starting price of Rs. 10.16 Crore. The car is available in 3 variants, with 1 engine and 1 transmission option. Additionally, Ghost offers a Ground Clearance measurement of 150 mm and a Boot capacity of 490 liters. You can choose from 3 colors for the Ghost. The mileage of the Ghost varies from 6.3 KM/L depending on the model.",
+    "model_date": "2014-11-07",
+    "sku": "rolls-royce-ghost-1183",
+    "vin": "5NPEL4AB3BH001183",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "6592 cc",
+    "power": "563bhp@5250rpm bhp",
+    "torque": "820Nm@1500rpm Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "6 KM/L"
+  },
+  "dimensions": {
+    "width": "1948 mm ",
+    "height": "1550 mm",
+    "weight": "2435/2495",
+    "seating_capacity": "5",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "Frozen Blue",
+    "Salamanca Blue",
+    "Orange"
+  ],
+  "price": {
+    "value": "101574263",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/rolls-royce-cars/ghost"
+  },
+  "brand": {
+    "name": "Rolls-Royce",
+    "image": "https://images.carandbike.com/car-images/big/rolls-royce/rolls-royce.png?v=1"
+  },
+  "rating": {
+    "value": "8.6",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Extreme luxury",
+    "Powerful engine",
+    "Bespoke"
+  ],
+  "cons": [
+    "Steep running cost",
+    "Expensive"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "6.3 KM/L",
+      "city_mileage": "6 KM/L",
+      "highway_mileage": "6 KM/L"
+    }
+  ],
+  "verdict": "Pros",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Rolls-Royce Ghost",
+        "price": "8.47 - 9.95 Crore",
+        "url": "/rolls-royce-cars/ghost"
+      },
+      {
+        "name": "Bentley Flying Spur",
+        "price": "6.1 Crore",
+        "url": "/bentley-cars/flying-spur"
+      },
+      {
+        "name": "Mercedes-AMG S 63 E Performance",
+        "price": "3.34 Crore",
+        "url": "/mercedes-amg-cars/s-63-e-performance"
+      },
+      {
+        "name": "Mercedes-Maybach S-Class",
+        "price": "2.9 - 3.67 Crore",
+        "url": "/mercedes-maybach-cars/s-class"
+      },
+      {
+        "name": "BMW 7 Series",
+        "price": "1.93 - 2.01 Crore",
+        "url": "/bmw-cars/7-series"
+      },
+      {
+        "name": "Maserati Quattroporte",
+        "price": "1.89 - 2.91 Crore",
+        "url": "/maserati-cars/quattroporte"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 8.47 - 9.95 Crore",
+          "₹ 6.1 Crore",
+          "₹ 3.34 Crore",
+          "₹ 2.9 - 3.67 Crore",
+          "₹ 1.93 - 2.01 Crore",
+          "₹ 1.89 - 2.91 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.6",
+          "8.2",
+          "-",
+          "6.6",
+          "7.7",
+          "7.6"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "6592 cc",
+          "3993 CC",
+          "3982 CC",
+          "3982 CC",
+          "2998 CC",
+          "2979 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "6 KM/L",
+          "10.2 KM/L",
+          "9.5 KM/L",
+          "7.2 KM/L",
+          "12.61 - 14 KM/L",
+          "7.9 - 10.7 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Hybrid",
+          "Hybrid",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol, Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "4 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "82.5 L",
+          "90.0 L",
+          "N/A",
+          "70.0 L",
+          "72.0 L",
+          "70.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "3",
+          "1",
+          "1",
+          "2",
+          "2",
+          "7"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Ghost vs Flying Spur",
+          "Ghost vs S 63 E Performance",
+          "Ghost vs S-Class",
+          "Ghost vs 7 Series",
+          "Ghost vs Quattroporte"
+        ]
+      }
+    ]
+  }
+}

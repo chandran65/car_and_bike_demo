@@ -1,0 +1,269 @@
+{
+  "basic_info": {
+    "name": "Toyota Camry 2025",
+    "manufacturer": "Toyota",
+    "model": "Camry 2025",
+    "body_type": "Sedan",
+    "url": "https://www.carandbike.com/toyota-cars/camry",
+    "image_url": "https://images.carandbike.com/car-images/large/toyota/camry/toyota-camry.jpg?v=48",
+    "description": "Toyota Camry 2025 is a 5-seater Sedan available at a starting price of Rs. 47.48 Lakh. The car is available in 4 variants, with 1 engine and 1 transmission option. Additionally, Camry 2025 offers a Ground Clearance measurement of 160 mm and a Boot capacity of 587 liters. You can choose from 6 colors for the Camry 2025. The mileage of the Camry 2025 varies from 25 KM/L depending on the model.",
+    "model_date": "2024-12-11",
+    "sku": "toyota-camry-2025-1225",
+    "vin": "5NPEL4AB3BH001225",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2487 cc",
+    "power": "226 bhp",
+    "torque": "221 Nm",
+    "fuel_type": "Hybrid"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Hybrid",
+    "efficiency": "25 KM/L"
+  },
+  "dimensions": {
+    "width": "1840 mm ",
+    "height": "1455 mm",
+    "weight": "1645/1645",
+    "seating_capacity": "5",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "Cement Grey",
+    "Dark Blue",
+    "Attitude Black",
+    "Emotional Red",
+    "Precious Metal",
+    "Platinum White Pearl"
+  ],
+  "price": {
+    "value": 4748200,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/toyota-cars/camry"
+  },
+  "brand": {
+    "name": "Toyota",
+    "image": "https://images.carandbike.com/car-images/big/toyota/toyota.png?v=1"
+  },
+  "rating": {
+    "value": "7.4",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Premium Design And Styling",
+    "Gets An Efficient Hybrid Engine",
+    "Good Number Of Features And Equipment"
+  ],
+  "cons": [
+    "Performance Not Sporty Enough",
+    "Plastic Quality Not The Best",
+    "It Is Quite Expensive"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Hybrid",
+      "transmission": "Automatic",
+      "mileage": "25 KM/L",
+      "city_mileage": "23 KM/L",
+      "highway_mileage": "24 KM/L"
+    }
+  ],
+  "whats_new": {
+    "Design & Exterior Features:": [
+      "The exterior design of the 2025 Camry is a refined update that enhances its premium appeal. It features:",
+      "Sharper LED headlightswith a more angular design.",
+      "C-shaped LED daytime running lightsintegrated into the front bumper for a modern, sleek look.",
+      "Honeycomb-patterned grillethat adds to the bold stance of the car.",
+      "Sculpted side profilewith a sloping roofline and elegant chrome accents, creating a sporty yet sophisticated look.",
+      "The rear of the Camry getsrevised taillightsand a subtle rear spoiler, enhancing the overall aerodynamic design.",
+      "New 18-inch alloy wheels, further elevating the car's road presence."
+    ],
+    "Interior & Technology:": [
+      "Inside, the 2025 Camry comes with a refreshed cabin that blends luxury with cutting-edge technology:",
+      "12.3-inch touchscreen infotainment systemwith Apple CarPlay, Android Auto, and cloud-based services.",
+      "A9-speaker JBL audio system, offering superior sound quality for a premium listening experience.",
+      "Fully digital instrument cluster (available in higher trims) that gives the driver access to all necessary vehicle data in a customizable display.",
+      "The cabin is trimmed with high-quality leather upholstery and a wood-finished dashboard, contributing to a sophisticated and luxurious feel.",
+      "Dual-zone automatic climate control, ensuring optimal comfort for all passengers."
+    ],
+    "Powertrain & Performance:": [
+      "Under the hood, the 2025 Toyota Camry continues with its hybrid powertrain:",
+      "2.5-liter, four-cylinder petrol engine paired with an electric motor to produce a total output of around 222 bhp.",
+      "The hybrid system is mated to a Continuously Variable Transmission (CVT), ensuring a smooth driving experience while improving fuel efficiency.",
+      "The hybrid powertrain offers excellent fuel economy, making the Camry a standout choice in its segment."
+    ],
+    "Safety & Advanced Features:": [
+      "The 2025 Camry is equipped with Toyota’s comprehensive suite of safety features, including:",
+      "Toyota Safety Sense 2.5: A system that includes Pre-Collision System, Lane Departure Alert, Adaptive Cruise Control, and more.",
+      "Seven airbags, ABS with EBD, Traction Control, and Electronic Stability Control (ESC).",
+      "The car also features a 360-degree camera system, Park Assist, and Blind Spot Monitoring, making parking and navigating tight spaces easier."
+    ],
+    "Pricing & Variants:": [
+      "The new Toyota Camry is available in the Indian market at a price of ?48 lakh (ex-showroom). This makes it a strong competitor against other premium sedans like the Honda Accord and the Skoda Superb, offering a blend of luxury, performance, and eco-friendliness in the hybrid segment.",
+      "The 2025 Camry is available in a single hybrid variant, with features and performance enhancements that make it an appealing choice for buyers looking for a premium yet fuel-efficient sedan."
+    ],
+    "Conclusion:": [
+      "The 2025 Toyota Camry combines modern aesthetics, hybrid efficiency, and luxury features, making it a compelling choice for consumers in the premium sedan segment. With its elegant design, advanced technology, and hybrid powertrain, the Camry remains a standout offering in Toyota's lineup."
+    ]
+  },
+  "expert_review": {
+    "design_styling": "A product of meticulous craftsmanship and innovative design philosophy, the eighth-generation Camry hybrid is visually striking. Drawing certain inspirations fromLexus, Toyota’s luxury arm, the Camry showcases a dominant front grille which is quite different when compared to theLexus ES. LED headlamps coupled with the LED DRLs carve a signature aesthetic. With sleek curves gracefully flowing along the sides and sculpted lines on the hood, the Camry doesn’t shy away from flaunting its newfound muscular stance. Continuing the design narrative, the rear mirrors the cohesion seen at the front. Slim tail lamps and subtle design elements encapsulate the modern ethos Toyota intended for the new Camry. The distinct blue hue on the Toyota badges subtly yet confidently signals the hybrid nature of the vehicle."
+  },
+  "verdict": "The hybrid then takes the fight to the Passat and even the Superb here, which, though priced lower, do not get to boast of a hybrid powertrain. With the new generation of the Camry then, you certainly see Toyota taking a leap in terms of looks, drivability and sustainability too. It's the right mixture then, and you could hear even Zeus and Prometheus say this when demi-gods were born. So you see, even the Gods loved hybrids; we, on the other hand are mere mortals.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Toyota Camry 2025",
+        "price": "47.48 - 47.62 Lakh",
+        "url": "/toyota-cars/camry"
+      },
+      {
+        "name": "Audi A4",
+        "price": "46.25 - 55.11 Lakh",
+        "url": "/audi-cars/a4"
+      },
+      {
+        "name": "Mercedes-Benz A-Class Limousine",
+        "price": "46.05 - 48.55 Lakh",
+        "url": "/mercedes-benz-cars/a-class-limousine"
+      },
+      {
+        "name": "Skoda Octavia RS",
+        "price": "49.99 Lakh",
+        "url": "/skoda-cars/octavia-rs"
+      },
+      {
+        "name": "Mercedes-Benz C-Class",
+        "price": "61 - 68 Lakh",
+        "url": "/mercedes-benz-cars/c-class"
+      },
+      {
+        "name": "Lexus ES",
+        "price": "62.65 - 68.23 Lakh",
+        "url": "/lexus-cars/es"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 47.48 - 47.62 Lakh",
+          "₹ 46.25 - 55.11 Lakh",
+          "₹ 46.05 - 48.55 Lakh",
+          "₹ 49.99 Lakh",
+          "₹ 61 - 68 Lakh",
+          "₹ 62.65 - 68.23 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.4",
+          "7.5",
+          "8.2",
+          "-",
+          "8.1",
+          "6.5"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2487 cc",
+          "1984 CC",
+          "1332 CC",
+          "1984 CC",
+          "1496 CC",
+          "2487 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "25 KM/L",
+          "17.84 KM/L",
+          "17.5 - 20 KM/L",
+          "0 KM/L",
+          "14.49 - 23 KM/L",
+          "22.58 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Hybrid",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol, Diesel",
+          "Hybrid"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "50.0 L",
+          "54.0 L",
+          "66.0 L",
+          "50.0 L",
+          "66.0 L",
+          "50.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "4",
+          "5",
+          "2",
+          "1",
+          "3",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Camry vs A4",
+          "Camry vs A-Class Limousine",
+          "Camry vs Octavia RS",
+          "Camry vs C-Class",
+          "Camry vs ES"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "basic_info": {
+    "name": "Volkswagen Taigun",
+    "manufacturer": "Volkswagen",
+    "model": "Taigun",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/volkswagen-cars/taigun",
+    "image_url": "https://images.carandbike.com/car-images/large/volkswagen/taigun/volkswagen-taigun.jpg?v=18",
+    "description": "Volkswagen Taigun is a 5-seater SUV available at a starting price of Rs. 11.42 Lakh. The car is available in 13 variants, with 2 engine and 2 transmission option. Additionally, Taigun offers a Ground Clearance measurement of 188 mm and a Boot capacity of 385 liters. You can choose from 9 colors for the Taigun. The mileage of the Taigun varies from 19.9 - 19 KM/L depending on the model.",
+    "model_date": "2021-09-23",
+    "sku": "volkswagen-taigun-1410",
+    "vin": "5NPEL4AB3BH001410",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1498,999 cc",
+    "power": "113.42 bhp@5000 -5500 rpm,113.42 bhp@5000-5500 rpm,147 bhp@ 5000-6000 rpm bhp",
+    "torque": "178 Nm@1750-4500 rpm,250 Nm@1600-3500 rpm Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Manual, Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "18 - 19 KM/L"
+  },
+  "dimensions": {
+    "width": "1839 mm ",
+    "height": "1839 mm",
+    "weight": "1208/1314",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Wild Cherry Red",
+    "Rising Blue Metallic",
+    "Reflex Silver",
+    "Lava Blue",
+    "Flash Red",
+    "Deep Black Pearl",
+    "Carbon Steel GT",
+    "Carbon Steel Grey",
+    "Candy White"
+  ],
+  "price": {
+    "value": 1141920,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/volkswagen-cars/taigun"
+  },
+  "brand": {
+    "name": "Volkswagen",
+    "image": "https://images.carandbike.com/car-images/big/volkswagen/volkswagen.png?v=1"
+  },
+  "rating": {
+    "value": "8.5",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Build quality",
+    "Turbo engines",
+    "Handling"
+  ],
+  "cons": [
+    "Expensive",
+    "Fuel efficiency",
+    "No Diesel option"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "19.9 KM/L",
+      "city_mileage": "16.5 KM/L",
+      "highway_mileage": "19.2 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "19 KM/L",
+      "city_mileage": "16.5 KM/L",
+      "highway_mileage": "19.2 KM/L"
+    }
+  ],
+  "expert_review": {
+    "design_styling": "The Volkswagen Taigun has always been a looker and exudes a sophisticated charm. Its design philosophy seems to strike a healthy balance between boldness and elegance. While the absence of the GT badges subtly distinguishes this version from the 1.5-litre sibling, the vehicle doesn’t shy away from showcasing its lineage through the lavish use of chrome on the exterior. This includes the imposing front grille that stands as a testament to Volkswagen’s attention to detail, the door handles as well as the rear bumper. The LED headlights, apart from their utilitarian value, also add a modern flair to the vehicle’s face. Complementing the overall aesthetics are the 17-inch alloy wheels, which not only give the SUV a robust appearance but are also meticulously crafted to reflect the brand's legacy of precision and style."
+  },
+  "verdict": "Taigun has come like a breath of fresh air in the crowded and competitive compact SUV space in India. Despite the arrival of some newer models in 2022, the car has manged to hold own to its own, primarily because of its build quality, safety and drivability, especially with the bigger 1.5 litre turbo engine. At higher end though, it does feel a tad expensive which is a critical factor in the segment.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Volkswagen Taigun",
+        "price": "11.42 - 19.19 Lakh",
+        "url": "/volkswagen-cars/taigun"
+      },
+      {
+        "name": "Skoda Kushaq",
+        "price": "10.61 - 18.45 Lakh",
+        "url": "/skoda-cars/kushaq"
+      },
+      {
+        "name": "Hyundai Venue N Line",
+        "price": "10.55 - 15.48 Lakh",
+        "url": "/hyundai-cars/venue-n-line"
+      },
+      {
+        "name": "Maruti Suzuki Jimny",
+        "price": "12.32 - 14.45 Lakh",
+        "url": "/maruti-suzuki-cars/jimny"
+      },
+      {
+        "name": "Citroen C3 Aircross",
+        "price": "8.32 - 14.1 Lakh",
+        "url": "/citroen-cars/c3-aircross"
+      },
+      {
+        "name": "Citroen Aircross X",
+        "price": "8.29 - 13.69 Lakh",
+        "url": "/citroen-cars/aircross-x"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 11.42 - 19.19 Lakh",
+          "₹ 10.61 - 18.45 Lakh",
+          "₹ 10.55 - 15.48 Lakh",
+          "₹ 12.32 - 14.45 Lakh",
+          "₹ 8.32 - 14.1 Lakh",
+          "₹ 8.29 - 13.69 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.5",
+          "8.0",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1498,999 cc",
+          "999 CC",
+          "998 CC",
+          "1462 CC",
+          "1199 CC",
+          "1199 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "18 - 19 KM/L",
+          "19.76 KM/L",
+          "18 KM/L",
+          "16.3 - 16.9 KM/L",
+          "17.6 - 18.5 KM/L",
+          "17.5 - 18.5 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "4 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "50.0 L",
+          "50.0 L",
+          "45.0 L",
+          "40.0 L",
+          "45.0 L",
+          "45.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "13",
+          "31",
+          "6",
+          "6",
+          "17",
+          "7"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Taigun vs Kushaq",
+          "Taigun vs Venue N Line",
+          "Taigun vs Jimny",
+          "Taigun vs C3 Aircross",
+          "Taigun vs Aircross X"
+        ]
+      }
+    ]
+  }
+}

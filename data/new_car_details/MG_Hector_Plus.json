@@ -1,0 +1,250 @@
+{
+  "basic_info": {
+    "name": "MG Hector Plus",
+    "manufacturer": "MG",
+    "model": "Hector Plus",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/mg-cars/hector-plus",
+    "image_url": "https://images.carandbike.com/car-images/large/mg/hector-plus/mg-hector-plus.jpg?v=12",
+    "description": "MG Hector Plus is a 6,7-seater SUV available at a starting price of Rs. 16.05 Lakh. The car is available in 24 variants, with 5 engine and 3 transmission option. Additionally, Hector Plus offers a Ground Clearance measurement of 192 mm and a Boot capacity of 155 liters. You can choose from 7 colors for the Hector Plus. The mileage of the Hector Plus varies from 17 - 16 KM/L depending on the model.",
+    "model_date": "2023-01-11",
+    "sku": "mg-hector-plus-1630",
+    "vin": "5NPEL4AB3BH001630",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1451,1956 cc",
+    "power": "141,143,168 bhp",
+    "torque": "250,350 Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Manual, Automatic, CVT",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "16 - 17 KM/L"
+  },
+  "dimensions": {
+    "width": "4699 mm ",
+    "height": "1760 mm",
+    "weight": "1755/1870",
+    "seating_capacity": "6,7",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Candy White / Starry Black",
+    "Havana Grey",
+    "Glaze Red",
+    "Starry Black",
+    "Aurora Silver",
+    "Candy White",
+    "Dune Brown"
+  ],
+  "price": {
+    "value": 1605000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mg-cars/hector-plus"
+  },
+  "brand": {
+    "name": "MG",
+    "image": "https://images.carandbike.com/car-images/big/mg/mg.png?v=1"
+  },
+  "rating": {
+    "value": "8.1",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Practical",
+    "Bold looks",
+    "ADAS features"
+  ],
+  "cons": [
+    "Excessive use fo chrome",
+    "Expensive",
+    "Overdone styling"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "CVT",
+      "mileage": "17 KM/L",
+      "city_mileage": "11 KM/L",
+      "highway_mileage": "14 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "17 KM/L",
+      "city_mileage": "11 KM/L",
+      "highway_mileage": "14 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "17 KM/L",
+      "city_mileage": "11 KM/L",
+      "highway_mileage": "14 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Manual",
+      "mileage": "16 KM/L",
+      "city_mileage": "15 KM/L",
+      "highway_mileage": "17 KM/L"
+    }
+  ],
+  "verdict": "The Hector Plus extends the offerings of the standard Hector by introducing a three-row configuration, providing a bit more in terms of passenger capacity. Despite this addition, it maintains the same overall size as the regular Hector but differentiates itself with a more subtle design approach, particularly by forgoing the thick chrome edge.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "MG Hector Plus",
+        "price": "16.05 - 21.34 Lakh",
+        "url": "/mg-cars/hector-plus"
+      },
+      {
+        "name": "Hyundai Creta N Line",
+        "price": "16.35 - 20.09 Lakh",
+        "url": "/hyundai-cars/creta-n-line"
+      },
+      {
+        "name": "Jeep Compass",
+        "price": "17.73 - 30.58 Lakh",
+        "url": "/jeep-cars/compass"
+      },
+      {
+        "name": "Tata Harrier",
+        "price": "14 - 25.25 Lakh",
+        "url": "/tata-cars/harrier"
+      },
+      {
+        "name": "Tata Sierra",
+        "price": "11.49 - 18.49 Lakh",
+        "url": "/tata-cars/sierra"
+      },
+      {
+        "name": "Maruti Suzuki Grand Vitara",
+        "price": "11.03 - 19.66 Lakh",
+        "url": "/maruti-suzuki-cars/grand-vitara"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 16.05 - 21.34 Lakh",
+          "₹ 16.35 - 20.09 Lakh",
+          "₹ 17.73 - 30.58 Lakh",
+          "₹ 14 - 25.25 Lakh",
+          "₹ 11.49 - 18.49 Lakh",
+          "₹ 11.03 - 19.66 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.1",
+          "-",
+          "8.2",
+          "7.9",
+          "-",
+          "8.5"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1451,1956 cc",
+          "1482 CC",
+          "1956 CC",
+          "1956 CC",
+          "1498 CC",
+          "1462 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic, CVT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "16 - 17 KM/L",
+          "18 - 18.2 KM/L",
+          "15 - 17 KM/L",
+          "14.6 - 16.8 KM/L",
+          "16 - 18 KM/L",
+          "19.38 - 27.97 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Petrol",
+          "Diesel",
+          "Diesel",
+          "Petrol, Diesel",
+          "Hybrid, Petrol, CNG"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "6,7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "60.0 L",
+          "51.0 L",
+          "60.0 L",
+          "50.0 L",
+          "50.0 L",
+          "45.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "24",
+          "12",
+          "22",
+          "23",
+          "17",
+          "27"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Hector Plus vs Creta N Line",
+          "Hector Plus vs Compass",
+          "Hector Plus vs Harrier",
+          "Hector Plus vs Sierra",
+          "Hector Plus vs Grand Vitara"
+        ]
+      }
+    ]
+  }
+}

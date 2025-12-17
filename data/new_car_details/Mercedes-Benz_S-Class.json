@@ -1,0 +1,236 @@
+{
+  "basic_info": {
+    "name": "Mercedes-Benz S-Class",
+    "manufacturer": "Mercedes-Benz",
+    "model": "S-Class",
+    "body_type": "Sedan",
+    "url": "https://www.carandbike.com/mercedes-benz-cars/s-class",
+    "image_url": "https://images.carandbike.com/car-images/large/mercedes-benz/s-class/mercedes-benz-s-class.jpg?v=28",
+    "description": "Mercedes-Benz S-Class is a 5-seater Sedan available at a starting price of Rs. 1.88 Crore. The car is available in 2 variants, with 2 engine and 1 transmission option. Additionally, S-Class offers a Ground Clearance measurement of 109 mm and a Boot capacity of 530 liters. You can choose from 5 colors for the S-Class. The mileage of the S-Class varies from 10.1 - 13.5 KM/L depending on the model.",
+    "model_date": "2021-10-07",
+    "sku": "mercedes-benz-s-class-1157",
+    "vin": "5NPEL4AB3BH001157",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2925,2999 cc",
+    "power": "282,367 bhp",
+    "torque": "500,600 Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "10 - 13 KM/L"
+  },
+  "dimensions": {
+    "width": "1954 mm ",
+    "height": "1503 mm",
+    "weight": "2113/2132",
+    "seating_capacity": "5",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "Nautic Blue",
+    "High Tech Silver",
+    "Graphite Grey Metallic",
+    "Designo Diamond White Bright",
+    "Onyx Black"
+  ],
+  "price": {
+    "value": "18800000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mercedes-benz-cars/s-class"
+  },
+  "brand": {
+    "name": "Mercedes-Benz",
+    "image": "https://images.carandbike.com/car-images/big/mercedes-benz/mercedes-benz.png?v=1"
+  },
+  "rating": {
+    "value": "8.6",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Luxurious",
+    "Loaded with features",
+    "Supreme comfort",
+    "&nbsp;"
+  ],
+  "cons": [
+    "Bit expensive",
+    "Low-slung sedan",
+    "Maneuverbility on city traffic",
+    "&nbsp;"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "10.1 KM/L",
+      "city_mileage": "9 KM/L",
+      "highway_mileage": "12 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "13.5 KM/L",
+      "city_mileage": "12 KM/L",
+      "highway_mileage": "16 KM/L"
+    }
+  ],
+  "verdict": "Pros",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mercedes-Benz S-Class",
+        "price": "1.88 - 1.99 Crore",
+        "url": "/mercedes-benz-cars/s-class"
+      },
+      {
+        "name": "Maserati Quattroporte",
+        "price": "1.89 - 2.91 Crore",
+        "url": "/maserati-cars/quattroporte"
+      },
+      {
+        "name": "BMW 7 Series",
+        "price": "1.93 - 2.01 Crore",
+        "url": "/bmw-cars/7-series"
+      },
+      {
+        "name": "Mercedes-Maybach S-Class",
+        "price": "2.9 - 3.67 Crore",
+        "url": "/mercedes-maybach-cars/s-class"
+      },
+      {
+        "name": "Mercedes-AMG S 63 E Performance",
+        "price": "3.34 Crore",
+        "url": "/mercedes-amg-cars/s-63-e-performance"
+      },
+      {
+        "name": "Bentley Flying Spur",
+        "price": "6.1 Crore",
+        "url": "/bentley-cars/flying-spur"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.88 - 1.99 Crore",
+          "₹ 1.89 - 2.91 Crore",
+          "₹ 1.93 - 2.01 Crore",
+          "₹ 2.9 - 3.67 Crore",
+          "₹ 3.34 Crore",
+          "₹ 6.1 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.6",
+          "7.6",
+          "7.7",
+          "6.6",
+          "-",
+          "8.2"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2925,2999 cc",
+          "2979 CC",
+          "2998 CC",
+          "3982 CC",
+          "3982 CC",
+          "3993 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "10 - 13 KM/L",
+          "7.9 - 10.7 KM/L",
+          "12.61 - 14 KM/L",
+          "7.2 KM/L",
+          "9.5 KM/L",
+          "10.2 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol",
+          "Hybrid",
+          "Hybrid"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "4 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "70.0 L",
+          "70.0 L",
+          "72.0 L",
+          "70.0 L",
+          "N/A",
+          "90.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "7",
+          "2",
+          "2",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "S-Class vs Quattroporte",
+          "S-Class vs 7 Series",
+          "S-Class vs S-Class",
+          "S-Class vs S 63 E Performance",
+          "S-Class vs Flying Spur"
+        ]
+      }
+    ]
+  }
+}

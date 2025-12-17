@@ -1,0 +1,227 @@
+{
+  "basic_info": {
+    "name": "BMW M340i",
+    "manufacturer": "BMW",
+    "model": "M340i",
+    "body_type": "Sedan",
+    "url": "https://www.carandbike.com/bmw-cars/3-series",
+    "image_url": "https://images.carandbike.com/car-images/large/bmw/3-series/bmw-3-series.jpg?v=29",
+    "description": "BMW M340i is a 5-seater Sedan available at a starting price of Rs. 65.01 Lakh. The car is available in 3 variants, with 1 engine and 1 transmission option. Additionally, M340i offers a Ground Clearance measurement of 165 mm and a Boot capacity of 480 liters. You can choose from 5 colors for the M340i. The mileage of the M340i varies from 16.1 KM/L depending on the model.",
+    "model_date": "2025-02-28",
+    "sku": "bmw-m340i-1016",
+    "vin": "5NPEL4AB3BH001016",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2998 cc",
+    "power": "374 bhp",
+    "torque": "500 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "16 KM/L"
+  },
+  "dimensions": {
+    "width": "1811 mm ",
+    "height": "1429 mm",
+    "weight": "1544/1544",
+    "seating_capacity": "5",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "Dragon Fire Red Metallic",
+    "Dravit Grey Metallic",
+    "Tanzanite Blue Metallic",
+    "Black Sapphire",
+    "Arctic Race Blue Metallic"
+  ],
+  "price": {
+    "value": "6501023",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/bmw-cars/3-series"
+  },
+  "brand": {
+    "name": "BMW",
+    "image": "https://images.carandbike.com/car-images/big/bmw/bmw.png?v=1"
+  },
+  "rating": {
+    "value": "8.2",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Performance",
+    "Exquisite Driving Dynamics",
+    "Comfortable Over Long Journeys"
+  ],
+  "cons": [
+    "Low Ground Clearance",
+    "Lacks Boot Space",
+    "Lacks Second Row Leg Space"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "16.1 KM/L",
+      "city_mileage": "11 KM/L",
+      "highway_mileage": "16 KM/L"
+    }
+  ],
+  "verdict": "The prices are competitive enough and BMW will like to believe that the lack of a credible rival at this stage will help it capture the compact premium sedan market. The premium car buyer in India will like that it retains its traditional strengths and yet gives a bit more by way of luxury and comfort, giving it a more all-rounder appeal than before. Expect to see a few of these on the roads - could have been more - had the automobile market not been badly hammered down as it were.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "BMW M340i",
+        "price": "57.18 - 69.95 Lakh",
+        "url": "/bmw-cars/3-series"
+      },
+      {
+        "name": "Mercedes-Benz C-Class",
+        "price": "61 - 68 Lakh",
+        "url": "/mercedes-benz-cars/c-class"
+      },
+      {
+        "name": "Audi A4",
+        "price": "46.25 - 55.11 Lakh",
+        "url": "/audi-cars/a4"
+      },
+      {
+        "name": "Audi A6",
+        "price": "63.74 - 70.79 Lakh",
+        "url": "/audi-cars/a6"
+      },
+      {
+        "name": "Lexus ES",
+        "price": "62.65 - 68.23 Lakh",
+        "url": "/lexus-cars/es"
+      },
+      {
+        "name": "Audi S5",
+        "price": "73.57 - 80.5 Lakh",
+        "url": "/audi-cars/s5"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 57.18 - 69.95 Lakh",
+          "₹ 61 - 68 Lakh",
+          "₹ 46.25 - 55.11 Lakh",
+          "₹ 63.74 - 70.79 Lakh",
+          "₹ 62.65 - 68.23 Lakh",
+          "₹ 73.57 - 80.5 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.2",
+          "8.1",
+          "7.5",
+          "7.6",
+          "6.5",
+          "7.9"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2998 cc",
+          "1496 CC",
+          "1984 CC",
+          "1984 CC",
+          "2487 CC",
+          "2995 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "16 KM/L",
+          "14.49 - 23 KM/L",
+          "17.84 KM/L",
+          "14.11 KM/L",
+          "22.58 KM/L",
+          "13 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol",
+          "Hybrid",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "59.0 L",
+          "66.0 L",
+          "54.0 L",
+          "73.0 L",
+          "50.0 L",
+          "58.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "3",
+          "3",
+          "5",
+          "4",
+          "2",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "3 Series vs C-Class",
+          "3 Series vs A4",
+          "3 Series vs A6",
+          "3 Series vs ES",
+          "3 Series vs S5"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Exception: track FAQ embeddings cache
+!.temp/
+!.temp/faq_embeddings.json
+
+# Experiment notebooks
+experiment-notebooks/
+
+# Temporary folder for intermediate files
+.temp/*
+!.temp/faq_embeddings.json
+
+# env files
+.env
+.env.*
+
+.vscode

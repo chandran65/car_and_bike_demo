@@ -1,0 +1,110 @@
+{
+  "Car Insurance Faqs": [
+    {
+      "question": "What is car insurance?",
+      "answer": "Car insurance is also called motor insurance. The policy is a contract between the insured and the insurer to protect them from unforeseen mishaps while driving on the road. A car insurance policy provides the policyholder coverage against third-party liabilities and own damages arising due to accidents/collision while driving on the road."
+    },
+    {
+      "question": "Is car insurance mandatory in India?",
+      "answer": "Yes, car insurance is mandatory in India for many reasons, the first and foremost being the rising number of road accidents in India. The Motor Vehicles Act, 1988 states that every owner-driver is legally required to carry a car insurance policy while driving on the Indian roads. Owner-drivers of the car are required to at least carry a valid third-party car insurance policy."
+    },
+    {
+      "question": "What does ‘premium’ mean in car insurance plans?",
+      "answer": "Car insurance premium means the cost you are required to pay to the insurance company to buy a car insurance plan. It is the amount that the policyholder pays to the insurer annually to get coverage against unforeseen accidents on the road and be able to drive legally. The amount of premium is charged differently by different insurance companies based on the type of coverage provided and the policy tenure. The premium also depends on the IDV of the vehicle, registration year, RTO, etc."
+    }
+  ],
+  "Third-Party Car Insurance Faqs": [
+    {
+      "question": "What is third-party car insurance?",
+      "answer": "Third-party car insurance is the most basic type of car insurance policy required to be carried while driving on Indian roads. This type of car insurance only provides coverage against third-party legal and financial liabilities arising out of unplanned accidents on the road."
+    },
+    {
+      "question": "What are the rates of third-party car insurance premiums?",
+      "answer": "Third-party car insurance premium rates are pre-defined by the Insurance Regulatory and Development Authority of India based on the Cubic Capacity of the car's engine. The latest rates as per the IRDAI are as follows: Engine Cubic Capacity (CC) Engine Cubic Capacity (CC) Premium amount (w.e.f. 16thJune 2019, in Rs.) Premium amount (w.e.f. 16thJune 2019, in Rs.) Less than 1000 CC Less than 1000 CC 2,072 2,072 More than 1000 CC but less than 1500 CC More than 1000 CC but less than 1500 CC 3,221 3,221 More than 1500 CC More than 1500 CC 7,890 7,890"
+    },
+    {
+      "question": "What is the highest compensation offered in third-party car insurance plans?",
+      "answer": "Under third-party car insurance, the maximum compensation offered by the insurer in case of damage to a third party's property is Rs. 7.5 lakh. When it comes to bodily damages sustained by the third party, there is no compensation ceiling and the final amount is decided by the Motor Accident Claims Tribunal (MACT) or by the court of law."
+    },
+    {
+      "question": "What is the duration of third-party car insurance?",
+      "answer": "Tenure of third-party car insurance is 1 year and is required to be renewed before the expiry of that period. However, you can opt for three to five years of third-party car insurance plans in India."
+    },
+    {
+      "question": "Will I be able to transfer my third-party car insurance to a new owner if I sell my car?",
+      "answer": "Yes, you can transfer your third-party car insurance in the name of the new owner-driver. The buyer has to submit an application within 14 days from the date of transfer and pay an endorsement amount to continue the third-party car insurance in their name."
+    }
+  ],
+  "Comprehensive Car Insurance Faqs": [
+    {
+      "question": "What is comprehensive car insurance?",
+      "answer": "Comprehensive car insurance is a premium car insurance policy that offers complete protection to the parties involved in an accident included damages sustained by the insured car. The plan also covers damages sustained by the insured car due to natural/man-made risks such as earthquakes, cyclones, floods, fire breakouts, vandalism, riots, etc."
+    },
+    {
+      "question": "Is comprehensive car insurance mandatory?",
+      "answer": "No, comprehensive car insurance is not mandatory, however, it is always advised to purchase comprehensive car insurance over a third-party insurance plan for higher coverage benefits."
+    },
+    {
+      "question": "Is it smarter to buy comprehensive car insurance?",
+      "answer": "Buying comprehensive car insurance is always a smarter decision than buying third-party car insurance because of the benefits it provides under a single plan. It not only helps you drive legally on the road but also provides coverage for the damages sustained by a third party, your car, and you as well."
+    },
+    {
+      "question": "What are the factors affecting the cost of comprehensive car insurance plans?",
+      "answer": "The cost of comprehensive car insurance plans is always higher than third-party insurance because of a wider range of coverage benefits. The factors affecting comprehensive car insurance primarily include the type of coverage opted for, the number of add-on covers bought, tenure of the car policy, location of registration of the car, and age and variant type of the car."
+    },
+    {
+      "question": "Can I switch from third-party car insurance to comprehensive car insurance at the time of renewal?",
+      "answer": "Yes, you can easily switch from third-party car insurance to comprehensive car insurance at the time of car insurance renewal."
+    }
+  ],
+  "Add-on Covers in Car Insurance Faqs": [
+    {
+      "question": "What are add-on covers available in a car insurance plan?",
+      "answer": "If you wish to enhance the existing coverage of your car insurance policy, you can opt for add-on covers. They offer extended protection and enhance the overall coverage offered by your car insurance policy. You can buy the most appropriate ones that suit your requirements while purchasing or renewing your car insurance policy. Following are some of the most commonly bought add-on covers with a comprehensive car insurance policy: Zero-depreciation cover No claim bonus cover Roadside assistance cover Engine protection cover Tyre protection cover Return to invoice cover Consumables cover"
+    },
+    {
+      "question": "Can I buy add-on covers with third-party car insurance?",
+      "answer": "No, add-on covers cannot be availed with third-party car insurance. You can only be availed if you have a comprehensive car insurance plan."
+    },
+    {
+      "question": "How many times can I claim with my zero depreciation cover?",
+      "answer": "Generally, insurers only allow a maximum of 2 claims during a policy period, therefore you should judiciously make use of your zero depreciation add-on cover and only make a claim for repairs that require heavy expenses."
+    },
+    {
+      "question": "Does a zero depreciation add-on cover every part of my car?",
+      "answer": "Zero depreciation add-on cover provides coverage for every part of your car excluding the tubes and tyres."
+    }
+  ],
+  "Raising a Car Insurance Claim Faqs": [
+    {
+      "question": "What are the steps to raise a car insurance claim?",
+      "answer": "Step 1: Raise a request for the claim –The first step requires you to immediately inform the insurer about the damage with video/photographic evidence. Step 2: Inspection –After the claim is registered, a surveyor will be sent by the insurer to inspect the damage. Step 3: Sending the car for repair -Once the inspection is done, the damaged car should be sent to the nearest network garage for repairs. Step 4: Claim Settlement -The car will then be repaired by the garage and the insurer will directly settle the amount with the garage if you have opted for a cashless claim policy. Otherwise, you would be required to pay for the repairs and then file for a reimbursement claim."
+    },
+    {
+      "question": "What are the documents required to raise a claim?",
+      "answer": "While raising a car insurance claim, make sure that you keep the following documents handy: Copy of the policy document Copy of valid driving license Filled car insurance claim form of your car insurer Copy of valid registration certificate (RC) Copy of police FIR (If required in the case of theft/third-party claims) Car repair bills from the garage"
+    },
+    {
+      "question": "How many car insurance claims can I file in a year?",
+      "answer": "Generally, insurers don’t put a ceiling or restriction on the number of claims you can file with your car insurance policy in a policy period. You can file as many claims as you want if your vehicle suffers frequent damage due to accidents. Having said that, please note that if you make too many claims in a policy period, your insurer can also add a clause in your policy while renewing it. Such a clause can restrict the number of claims you can file during a policy period."
+    }
+  ],
+  "Car Insurance Renewal Faqs": [
+    {
+      "question": "How can I renew my car insurance online?",
+      "answer": "You can conveniently renew your car insurance policy online by following the below-mentioned steps: Visit the official website of Policybazaar.com Click on the ‘Renewal’ tab available on the menu bar at the top of the page You will now be redirected to a new page, click on ‘Motor Renewal’ here Enter your vehicle’s registration number You can also enter other details of the vehicle such as registration year, location or variant if the registration number is not available Enter your contact details Select the type of policy coverage you prefer to buy Select the type of car insurance plan you want to upgrade to or select your existing plan if you wish to continue with the same car policy Make the payment online Once done, your car insurance will be successfully renewed and the policy documents will be shared by the insurer over the registered mail ID."
+    },
+    {
+      "question": "Can my insurer refuse to renew my car insurance policy?",
+      "answer": "Yes, your insurer can refuse to renew your car insurance policy in case of documents mismatch, non-disclosure of information, fraudulent act, etc. If they intend to do so; the insurer will send a notice before the date of expiry and state the reasons for not choosing to renew your car insurance policy anymore."
+    },
+    {
+      "question": "Can I transfer my car insurance if I buy a new car?",
+      "answer": "No, you cannot transfer your car insurance if you buy a new car and the car policy will continue with the buyer of your used car or will lapse in case you scrap your car. However, you can transfer the accumulated no claim bonus to the new car so that you can earn discounts on the premium to be paid for car insurance renewal."
+    },
+    {
+      "question": "Will I lose my no claim bonus if I renew my car insurance after it expires?",
+      "answer": "It is always suggested to renew car insurance before it lapses. In case you are not able to renew it and the policy expires, you would need to renew it again within 90 days of the date of expiry to ensure that your accumulated no claim bonus does not become valid."
+    }
+  ]
+}

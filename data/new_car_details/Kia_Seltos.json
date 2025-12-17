@@ -1,0 +1,284 @@
+{
+  "basic_info": {
+    "name": "Kia Seltos",
+    "manufacturer": "Kia",
+    "model": "Seltos",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/kia-cars/seltos",
+    "image_url": "https://images.carandbike.com/car-images/large/kia/seltos/kia-seltos.jpg?v=97",
+    "description": "Kia Seltos is a 5-seater SUV available at a starting price of Rs. 10.79 Lakh. The car is available in 23 variants, with 2 engine and 5 transmission option. Additionally, Seltos offers a Ground Clearance measurement of 190 mm and a Boot capacity of 433 liters. You can choose from 18 colors for the Seltos. The mileage of the Seltos varies from 17 - 20.7 KM/L depending on the model.",
+    "model_date": "2023-07-21",
+    "sku": "kia-seltos-1551",
+    "vin": "5NPEL4AB3BH001551",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1482,1493,1497 cc",
+    "power": "115,116,160 bhp",
+    "torque": "144,250,253 Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Manual, Automatic, IMT, DCT, IVT",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "17 - 20 KM/L"
+  },
+  "dimensions": {
+    "width": "1800 mm ",
+    "height": "1645 mm",
+    "weight": "1400/1400",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Glacier white Pearl/Aurora black pearl Tech",
+    "Glacier white Pearl/Aurora black pearl GT",
+    "Sparkling Silver Tech",
+    "Sparkling Silver GT",
+    "Aurora Black Pearl Tech",
+    "Aurora Black Pearl GT",
+    "Gravity Gray Tech",
+    "Gravity Gray GT",
+    "Glacier White Pearl Tech",
+    "Glacier White Pearl GT",
+    "Intense Red/Aurora black pearl Tech",
+    "Intense Red Tech",
+    "Intense Red GT",
+    "Intense Red/Aurora black pearl GT",
+    "Imperial Blue Tech",
+    "Imperial Blue GT",
+    "Pewter Olive Tech",
+    "Pewter Olive GT"
+  ],
+  "price": {
+    "value": 1079276,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/kia-cars/seltos"
+  },
+  "brand": {
+    "name": "Kia",
+    "image": "https://images.carandbike.com/car-images/big/kia/kia.png?v=1"
+  },
+  "rating": {
+    "value": "8.7",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Sharp Styling",
+    "Powerful Engine Options",
+    "Feature-Rich Interior",
+    "&nbsp;"
+  ],
+  "cons": [
+    "Only 3-Star Safety Rating From Global Ncap",
+    "Lack Of Features Compared To Rivals",
+    "Inconsistent Ride Quality",
+    "&nbsp;"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "17 KM/L",
+      "city_mileage": "14 KM/L",
+      "highway_mileage": "19 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "IVT",
+      "mileage": "17.9 KM/L",
+      "city_mileage": "-",
+      "highway_mileage": "-"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "DCT",
+      "mileage": "17.9 KM/L",
+      "city_mileage": "-",
+      "highway_mileage": "-"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "IMT",
+      "mileage": "17.9 KM/L",
+      "city_mileage": "14 KM/L",
+      "highway_mileage": "18 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Manual",
+      "mileage": "20.7 KM/L",
+      "city_mileage": "16 KM/L",
+      "highway_mileage": "22 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "20.7 KM/L",
+      "city_mileage": "16 KM/L",
+      "highway_mileage": "22 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "IMT",
+      "mileage": "20.7 KM/L",
+      "city_mileage": "-",
+      "highway_mileage": "-"
+    }
+  ],
+  "verdict": "The 2023 Kia Seltos offers a blend of style, tech, and safety, making it a compelling choice in the compact SUV segment. While it may have a few downsides, such as the lack of a manual diesel option and a slightly stiff suspension, the Seltos shines with its powerful turbo engine, high-tech cabin, and comprehensive safety features. It's a great option for those seeking a modern, feature-rich SUV at an attractive price.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Kia Seltos",
+        "price": "10.79 - 19.81 Lakh",
+        "url": "/kia-cars/seltos"
+      },
+      {
+        "name": "Hyundai Creta",
+        "price": "19.79 L",
+        "url": "/hyundai-cars/creta"
+      },
+      {
+        "name": "Toyota Urban Cruiser Hyryder",
+        "price": "10.95 - 19.76 Lakh",
+        "url": "/toyota-cars/urban-cruiser-hyryder"
+      },
+      {
+        "name": "Honda Elevate",
+        "price": "11 - 16.67 Lakh",
+        "url": "/honda-cars/elevate"
+      },
+      {
+        "name": "Maruti Suzuki Grand Vitara",
+        "price": "11.03 - 19.66 Lakh",
+        "url": "/maruti-suzuki-cars/grand-vitara"
+      },
+      {
+        "name": "Maruti Suzuki Victoris",
+        "price": "10.5 - 19.99 Lakh",
+        "url": "/maruti-suzuki-cars/victoris"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 10.79 - 19.81 Lakh",
+          "₹ 19.79 L",
+          "₹ 10.95 - 19.76 Lakh",
+          "₹ 11 - 16.67 Lakh",
+          "₹ 11.03 - 19.66 Lakh",
+          "₹ 10.5 - 19.99 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.7",
+          "8.4",
+          "7.9",
+          "-",
+          "8.5",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1482,1493,1497 cc",
+          "1497 CC",
+          "1462 CC",
+          "1498 CC",
+          "1462 CC",
+          "1492 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic, IMT, DCT, IVT",
+          "IVT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "17 - 20 KM/L",
+          "17.4 - 21.8 KM/L",
+          "19.39 - 27.97 KM/L",
+          "15.31 - 16.92 KM/L",
+          "19.38 - 27.97 KM/L",
+          "21.18 - 28.65 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Hybrid, Petrol, CNG",
+          "Petrol",
+          "Hybrid, Petrol, CNG",
+          "Hybrid, Petrol, CNG"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "50.0 L",
+          "50.0 L",
+          "45.0 L",
+          "40.0 L",
+          "45.0 L",
+          "55.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "23",
+          "32",
+          "27",
+          "17",
+          "27",
+          "34"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Seltos vs Creta",
+          "Seltos vs Urban Cruiser Hyryder",
+          "Seltos vs Elevate",
+          "Seltos vs Grand Vitara",
+          "Seltos vs Victoris"
+        ]
+      }
+    ]
+  }
+}

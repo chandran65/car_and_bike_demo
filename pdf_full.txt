@@ -1,0 +1,230 @@
+Capabilities Document for AI Driven Chatbot  
+Introduction  
+About car&bike 
+Car&bike is an automobile research digital tool that helps end users research cars, compare 
+cars, and get buying suggestions. 
+About AI Powered Chatbot 
+Primary Objective – To build an intelligent AI-powered chatbot that helps users seamlessly 
+discover, compare, and choose cars/bikes based on their preferences, besides supporting 
+prices, specifications and finance related queries. 
+Product Goals -  
+1. Improving Discoverability – Help users find relevant cars/ bikes quickly through 
+conversational exploration (budget, body type, usage, etc.) 
+2. Increase User Engagement – Provide instant answers to specifications, features, 
+pricing, comparison queries 
+3. Reduce User Drop offs – Assist users stuck in decision making by giving guided 
+recommendations. 
+4. Enhance Overall Experience – Provide 24x7 support with accurate information 
+powered by RAG documentation and structured data 
+Research - (For internal stakeholders) 
+How do we conclude systematically (data backed) on the queries that users are searching? 
+- Data Collection Sources 
+1. Search Engine Data – Example, Search Tata Nexon on Google, check People Also Ask 
+section, where different user queries are listed like pricing queries, Specs queries, 
+Comparisons, variants, etc. 
+2. Google Autocomplete  – Example, Type Tata Nexon in the Google Search bar, 
+Autocomplete gives the suggestions like Tata Nexon Price 
+3. Search Volume Tools – Use Google Search Console, put Query containing < Vehicle 
+Name> to get the relevant search queries  
+4. Own platform search & analytics – Internal search bar queries, filter combinations 
+users apply, CTR on pages, Popular Car Comparison – Check how to get this data 
+5. User queries on customer Support – Connect with the calling team to get an idea of 
+what customers asks about 
+6. Competitor Platforms FAQs  
+ 
+Approach – Sample Question Finalization 
+Step 1 – Collect Raw Data (Questions) - Pull data from Search engines, Internal Analytics, 
+etc. 
+Step 2 – Clean & Group – Label queries into Prices, Features, Comparison, Finance, General 
+Car Knowledge 
+Step 3 – Convert to Final Intent Categories – Chatbot intent becomes – Car Search, Variant 
+Selection, Pricing, Features Explanation, EMI, Test Drive, Booking 
+Step 4 – Create Sample queries for each intent 
+ 
+Features of Chatbot -  
+1. AI Powered chatbot (Gen AI & Gen BI based)– Understands user queries and provides 
+relevant responses. 
+2. Car & Bike Guide – Offers information on various cars, recommends suitable cars/ 
+bikes to the user as per user preferences. 
+3. Retains context in the previous conversations based on user identifier (like cookie id) 
+along with the data attributes (like device type, user log in detail, etc.). 
+4. For vague queries, the chatbot follows up with the user to understand the context and 
+user preferences. 
+5. 24/7 Support – Provides automated answers whenever needed. 
+6. Voice Interaction (phase 2) - Enables users to connect via voice commands. 
+7. Multiple Language Support (phase 3) - Regional Language Support for queries. 
+8. In the 1 st phase, seamless integration with the Website & WhatsApp to be 
+implemented, mobile App integration will be taken up in the next phases. 
+ 
+User Stories 
+User Story 1: Getting Car/Bike Related Information 
+As a user, 
+I want to get the information about car/bike related detail like spec, price, variants , images 
+segment or any other related details So that I make an informed decision while buying a car/bike 
+Acceptance Criteria 
+- The chatbot should provide real-time information on the vehicle/s  
+- The chatbot should provide images & videos for the car/bike when asked by the users 
+- The chatbot should accurately fetch the data from the authoritative specs source 
+(internal DB/API). The value returned by the chatbot should match the value in the 
+product specs table of the DB/API 
+- The chatbot should handle variants . If a model has multiple variants with different 
+values for the attribute, the default variant’s attribute to be shown or the bot should 
+ask for follow-up questions like “Do you want to know the details of Nexon Smart or 
+Nexon Pure?” 
+- The chatbot should be able to handle ambiguous model names. If the model name is 
+ambiguous or matches multiple vehicles like multiple generation, facelifts, same 
+name across car and bike brands, the bot should ask follow up questions to prevent 
+ambiguity 
+- The chatbot should generate short, concise answers, preferable in direct sentences 
+like “The boot space of Tata Nexon is 382L” 
+- The chatbot should handle the no-data or error cases, clearly communicating to the 
+user that the data is not at the moment. In c ase of the technical/API error  the bot 
+should communicate to the user to try again later, the text should not contain 
+technical jargon 
+- On follow up queries, the bot should keep the context. 
+ 
+User Story 2: Getting list of car/bike as per user preferences 
+As a user, 
+I want to get the list of car/bike that matches my preferences (like SUV cars under 20 lakh) 
+So that it gets easy for me to browse the cars/bikes of my interest 
+Acceptance Criteria 
+- The chatbot should provide the real time information with the updated details 
+- The chatbot should understand correctly the budget-based queries. “Under 20 Lakh”, 
+“Between 5 Lakh to 10 Lakh” and related queries should be converted to a structured 
+price filter (min – max) - The chatbot should apply filters on the user intent. When users add more constraints, 
+the chatbot should map them to the appropriate filters, examp le “automatic”,  
+“manual” ->Transmission; “SUV”, “Hatchback” -> “Body type” and so on 
+- The chatbot should return the relevant and concise list of 5-10 cars instead of the full 
+catalog, and the results should be sorted in a pre-defined logic of popularity 
+- The chatbot should handle the no -result scenarios. It should clearly inform the user 
+that no exact match is found 
+- The chatbot should clarify the ambiguous or incomplete queries. If the query is too 
+vague, like “Show me good cars”, the chatbot should ask the follow-up questions like 
+“What is your budget range?” “Any preference for the body type and the fuel type?” 
+- The chatbot should support refinement, When the user refines a query on an existing 
+thread, like “only SUVs” or “make it automatic”, the chatbot should apply refinement 
+on top of the existing filters. It updates the list and confirms the applied filters in plain 
+language 
+- The chatbot should be able to handle the errors like API failures, it should show texts 
+like “Please try sometime later” 
+ 
+User story 3: Car/Bike Comparison 
+As a user, 
+I want to compare the cars/bikes of my choices 
+So that I get help in narrowing down from my consideration set to make a purchase decision 
+Acceptance criteria 
+- The chatbot should accurately identify and map the entity that the user wants to 
+compare. Like for two model comparisons, “Creta vs Nexon” or multi model 
+comparison, “Creta vs Seltos vs Nexon”. Car vs Bike Comparison queries should be 
+denied as the platform doesn't support cross domain comparison. 
+- The chatbot should return a structured, easy to read comparison; the output must 
+clearly show side by side differences including prices, Engine details, fuel type, 
+transmission, mileage/range, power & torque, Key features, safety rating, etc. 
+- The chatbot should highlight the key differences, not just provide the raw data dump 
+to the users 
+- The chatbot should be able to handle partial attributes. If the user asks, “Compare 
+mileage of Creta & Seltos” or “Compare ground clearance of Nexon and Creta” , the 
+chatbot should return only that attribute - The chatbot should have the ability to handle ambiguous or unknown models. If the 
+model's name is unclear, it should ask the user  follow-up questions. If the model 
+doesn’t exist in the database, the bot should inform the user 
+- The chatbot should be able to handle the errors like API failures, it should show texts 
+like “Please try sometime later” 
+ 
+User Story 4: Recommendation/ Suggestion (Expert opinion) 
+As a user, 
+I want to receive expert recommendations & guidance from the chatbot based on my needs 
+So that  I can make a confident & well-informed purchase decision without browsing 
+multiple pages 
+Acceptance criteria  
+- The chatbot should suggest relevant information based on the user queries & identify 
+intents such as “Which SUV shall I buy?”, “Best scooters for daily commute” , 
+“Recommend EVs for long range”. The suggested recommendation should match the 
+vehicles listed on the website in the respective pages, the recommendations should 
+come from the platform DB, internal expert opinion, news articles & aggregated 
+insights 
+- The chatbot should collect missing preferences through follow-up questions. If user 
+lacks required details like budget, use case, fuel preferences, seating etc., the 
+chatbot should ask contextual follow-up questions 
+- Each recommendation should include – Why this model fits user’s needs, pros cons, 
+what type of user suits it best & how it compares to the alternatives.  
+o Example – Tata Nexon – Strong build (5 Star safety), punchy engine options, 
+good for family & city commute 
+- The chatbot should be able to update the suggestions based on the user follow up or 
+refinement requirements like “Out of these options show only EV” 
+- The chatbot should avoid biased or unsafe claims like – This is the best car in India 
+- The chatbot should be able to handle – No model found scenario, communicate the 
+user that as of now, no model matches your preferences  
+Sample Questions 
+1. What is the ground clearance of Tata Nexon? 
+2. How much mileage does Honda City give? 
+3. What is the boot space of Kia Sonet? 4. Tell me the power and torque of Royal Enfield Himalayan 450. 
+5. What is the battery range of Tata Nexon EV? 
+6. What is the fuel tank capacity of Pulsar 150? 
+7. Does Hyundai Creta have a sunroof? 
+8. Does Punch EV support fast charging? 
+9. Does Baleno come with ventilated seats? 
+10. Does the new KTM Duke 390 have traction control? 
+11. Is ABS standard on Honda SP 125? 
+12. What is the on-road price of Hyundai i20 in Bangalore? 
+13. What is the ex-showroom price of Maruti Swift? 
+14. What is the EMI for Tata Altroz under 20k per month? 
+15. What is the mileage of Creta SX(O) diesel? 
+ 
+16. What is the top speed of Ninja ZX-4R? 
+17. What is the difference between Nexon Fearless and Creative variants? 
+18. When is the new Swift 2024 launching in India? 
+19. Is the Royal Enfield Guerrilla 450 launched? 
+20. What is the expected price of Maruti Jimny Hybrid? 
+21. Show me cars under 10 lakh. 
+22. List the best bikes under 1.5 lakh. 
+23. Electric scooters under 1 lakh? 
+24. Cars between 8 to 12 lakh budget.  
+25. Show me compact SUVs. 
+26. List 7-seater cars under 20 lakh. 
+27. Show me sports bikes under 5 lakh. 
+28. Hatchbacks with good mileage. 
+29. Show me petrol automatic cars. 
+30. Diesel SUVs under 15 lakh. 
+31. Electric cars with at least 300 km range. 
+32. 125cc bikes with good mileage. 
+33. Cars suitable for highway driving. 
+34. Scooters good for daily office commute. 
+35. Cars with big boot space for family trips. 
+36. Bikes for long-distance touring. 
+37. Cars with sunroof under 12 lakh. 
+38. Autos with ADAS features under 25 lakh. 39. Bikes with slipper clutch under 3 lakh. 
+40. Cars with automatic climate control. 
+41. Compare Creta vs Seltos. 
+42. Nexon or Brezza — which is better? 
+43. Activa 125 vs Access 125. 
+44. Splendor vs Shine mileage comparison. 
+45. Compare mileage of Creta and Seltos. 
+46. Which has better boot space — Sonet or Venue? 
+47. Ground clearance comparison: Nexon vs Punch. 
+48. Which bike has more power — Duke 250 or RTR 200? 
+49. Compare Creta vs Seltos vs Grand Vitara. 
+50. Which is better: Activa, Jupiter, or Access? 
+51. Compare Punch EV, Tiago EV, and Tigor EV range. 
+52. Which one is safer — Nexon or XUV300? 
+53. Which is better for mileage — Splendor or Passion? 
+54. Which SUV gives better ride comfort — Hector or Harrier? 
+55. Suggest the best cars under 10 lakh. 
+56. What are the best SUVs under 15 lakh? 
+57. Recommend bikes under 2 lakh for beginners. 
+58. Which is the best car for city driving? 
+59. Suggest a car for long highway trips. 
+60. Recommend a scooter for daily office commute. 
+61. Which bike is good for touring? 
+62. Cars with best safety rating under 10 lakh? 
+63. Best cars with sunroof under 12 lakh. 
+64. Recommend EVs with fast charging and long range. 
+65. I am a first-time buyer, suggest a good car. 
+66. Which car is good for a family of 5? 
+67. I want low maintenance cars under 8 lakh. 
+68. Suggest a fuel-efficient bike for daily 40 km commute. 
+69. Nexon or Fronx — which is better value for money? 
+70. Should I buy diesel or petrol for my usage? 
+71. Is EV a good choice for me if I drive 25 km daily? 
+72. Which car is the most reliable in this segment? 
+ 
+  

@@ -1,0 +1,263 @@
+{
+  "basic_info": {
+    "name": "Jeep Meridian",
+    "manufacturer": "Jeep",
+    "model": "Meridian",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/jeep-cars/meridian",
+    "image_url": "https://images.carandbike.com/car-images/large/jeep/meridian/jeep-meridian.jpg?v=43",
+    "description": "Jeep Meridian is a 7-seater SUV available at a starting price of Rs. 23.33 Lakh. The car is available in 12 variants, with 1 engine and 2 transmission option. Additionally, Meridian offers a Ground Clearance measurement of 203 mm and a Boot capacity of 233 liters. You can choose from 8 colors for the Meridian. The mileage of the Meridian varies from 16 KM/L depending on the model.",
+    "model_date": "2024-10-22",
+    "sku": "jeep-meridian-1673",
+    "vin": "5NPEL4AB3BH001673",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1956 cc",
+    "power": "170 bhp",
+    "torque": "350 Nm",
+    "fuel_type": "Diesel"
+  },
+  "transmission": "Manual, Automatic",
+  "fuel": {
+    "type": "Diesel",
+    "efficiency": "15 - 16 KM/L"
+  },
+  "dimensions": {
+    "width": "1859 mm ",
+    "height": "1698 mm",
+    "weight": "1798/1798",
+    "seating_capacity": "7",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Brilliant Blue",
+    "Velvet Red",
+    "Galaxy Blue",
+    "Magnesio Grey",
+    "Minimal Grey",
+    "Silvery Moon",
+    "Techno Metallic Green",
+    "Pearl White"
+  ],
+  "price": {
+    "value": "2333000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/jeep-cars/meridian"
+  },
+  "brand": {
+    "name": "Jeep",
+    "image": "https://images.carandbike.com/car-images/big/jeep/jeep.png?v=1"
+  },
+  "rating": {
+    "value": "8.5",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Sharply Styled And Premium From All Angles",
+    "Sturdy Drive And Responsive Diesel Engine",
+    "Attractively Priced Over Rivals",
+    "&nbsp;"
+  ],
+  "cons": [
+    "Third Row Best-Suited For Young Passengers",
+    "Diesel Engine Could&rsquo;Ve Been More Powerful",
+    "No Petrol Engine On Offer"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "16 KM/L",
+      "city_mileage": "12 KM/L",
+      "highway_mileage": "15 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Manual",
+      "mileage": "16 KM/L",
+      "city_mileage": "12 KM/L",
+      "highway_mileage": "15 KM/L"
+    }
+  ],
+  "whats_new": {
+    "Design and Styling": [
+      "The exterior of the 2025 Jeep Meridian retains the bold and rugged look of its predecessor. Jeep has kept the signature seven-slot grille and muscular design that gives the SUV its strong road presence. The interior, while largely unchanged, now features new upholstery options, such as Seal Grey for the lower-spec variants and Wicker Beige for the higher Limited (O) trim. The base Longitude variant is available in both five-seat and seven-seat formats, offering flexibility to buyers. The five-seat version boasts a spacious 670-liter boot, perfect for those who prioritize luggage space."
+    ],
+    "Features and Technology": [
+      "The Meridian 2025 brings modern features aimed at enhancing both convenience and safety. A 10.1-inch touchscreen infotainment system comes standard across all variants, offering connectivity features and an upgraded Uconnect suite with over 30 features. From the Longitude Plus trim onwards, a panoramic sunroof is included.",
+      "The top-spec Overland variant introduces Advanced Driver Assistance Systems (ADAS), which include adaptive cruise control, lane departure warning, lane keep assist, collision mitigation braking, and smart beam assist. The Limited (O) and Overland variants also come equipped with a fully digital 10.2-inch instrument cluster, while the lower trims get a semi-digital display.",
+      "Additional features include wireless charging, a nine-speaker Alpine sound system, and a leather-wrapped steering wheel on higher trims. However, the base Longitude trim misses out on some premium features like wireless charging and leather upholstery."
+    ],
+    "Powertrain and Performance": [
+      "The Jeep Meridian retains the tried-and-tested 2.0-liter, four-cylinder MultiJet diesel engine, which delivers 168 bhp and 350 Nm of torque. Buyers can choose between 4x2 and 4x4 configurations, with the higher trims offering the option for off-road capability. Transmission options include a six-speed manual and a nine-speed automatic gearbox, with the Overland variant available only in automatic. This combination offers a balanced performance for both city driving and off-road excursions."
+    ],
+    "Safety Features": [
+      "Safety remains a key focus, with six airbags and disc brakes on all wheels coming as standard across all variants. The top-spec Overland variant also benefits from the ADAS suite, enhancing overall safety by offering features like adaptive cruise control and collision avoidance. This ensures that both the driver and passengers are well-protected in various driving conditions."
+    ],
+    "Pricing and Variants": [
+      "The 2025 Jeep Meridian is available in four key trims, with pricing as follows:"
+    ],
+    "Conclusion": [
+      "The 2025 Jeep Meridian combines a rugged exterior, modern features, and flexible seating configurations to cater to a wide range of buyers. With the introduction of ADAS in the top variant and the option of both five- and seven-seat formats, Jeep has enhanced the Meridian’s appeal, making it a strong contender in the premium SUV segment. Whether for urban driving or off-road adventures, the 2025 Meridian delivers a robust yet refined experience"
+    ]
+  },
+  "expert_review": {
+    "design_styling": "Upon first glance, the Jeep Meridian immediately communicates its imposing stance and distinct styling, striking a harmonious balance between luxury and ruggedness. Unlike its cousin, the Compass, the Meridian has been extended by 364 mm and a wheelbase difference of 158 mm, allowing it to stand apart from its lineage. The seven-slat grille is more upright, while the headlamps have been slimmed down, subtly referencing the new design language evident in Jeep’s global lineup like theGrand Cherokeeand Wagoneer. The alloy wheels offer a unique pattern and are finished in dual-tone adding a custom touch right from the factory. A horizontal chrome slat on the tailgate amplifies the vehicle’s heft and pairs elegantly with slim, horizontal tail lights. While chrome accents are prevalent—possibly a nod to Indian aesthetic preferences—there’s enough scope for those who’d like a more subdued look, possibly through aftermarket customization or future variants."
+  },
+  "verdict": "The Jeep Meridian masterfully balances elegance with ruggedness, presenting an exterior that's swish, upscale, and urban while retaining the core essence of a true Jeep. This vehicle offers a harmonious blend of on-road sophistication and off-road prowess, ensuring that appearances don't deceive. It's designed to deliver a versatile driving experience, adeptly handling both cityscapes and challenging terrains, true to Jeep's legacy of crafting vehicles with formidable capability.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Jeep Meridian",
+        "price": "23.33 - 36.21 Lakh",
+        "url": "/jeep-cars/meridian"
+      },
+      {
+        "name": "Isuzu D-Max V-Cross",
+        "price": "19.73 - 31.28 Lakh",
+        "url": "/isuzu-cars/d-max-v-cross"
+      },
+      {
+        "name": "Force Motors Gurkha",
+        "price": "19.46 - 20.92 Lakh",
+        "url": "/force-motors-cars/gurkha"
+      },
+      {
+        "name": "Toyota Hilux",
+        "price": "28.02 - 34.67 Lakh",
+        "url": "/toyota-cars/hilux"
+      },
+      {
+        "name": "Jeep Compass",
+        "price": "17.73 - 30.58 Lakh",
+        "url": "/jeep-cars/compass"
+      },
+      {
+        "name": "Hyundai Creta N Line",
+        "price": "16.35 - 20.09 Lakh",
+        "url": "/hyundai-cars/creta-n-line"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 23.33 - 36.21 Lakh",
+          "₹ 19.73 - 31.28 Lakh",
+          "₹ 19.46 - 20.92 Lakh",
+          "₹ 28.02 - 34.67 Lakh",
+          "₹ 17.73 - 30.58 Lakh",
+          "₹ 16.35 - 20.09 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.5",
+          "7.0",
+          "6.1",
+          "7.8",
+          "8.2",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1956 cc",
+          "1898 CC",
+          "2596 CC",
+          "2755 CC",
+          "1956 CC",
+          "1482 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "15 - 16 KM/L",
+          "14.4 KM/L",
+          "15 KM/L",
+          "12.6 KM/L",
+          "15 - 17 KM/L",
+          "18 - 18.2 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Diesel",
+          "Diesel",
+          "Diesel",
+          "Diesel",
+          "Diesel",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "7 Seater",
+          "5 Seater",
+          "4 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "60.0 L",
+          "55.0 L",
+          "63.5 L",
+          "80.0 L",
+          "60.0 L",
+          "51.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "12",
+          "4",
+          "2",
+          "2",
+          "22",
+          "12"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Meridian vs D-Max V-Cross",
+          "Meridian vs Gurkha",
+          "Meridian vs Hilux",
+          "Meridian vs Compass",
+          "Meridian vs Creta N Line"
+        ]
+      }
+    ]
+  }
+}

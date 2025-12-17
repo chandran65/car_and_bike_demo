@@ -1,0 +1,244 @@
+{
+  "basic_info": {
+    "name": "Maruti Suzuki Wagon R",
+    "manufacturer": "Maruti Suzuki",
+    "model": "Wagon R",
+    "body_type": "Hatchback",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/wagon-r",
+    "image_url": "https://images.carandbike.com/car-images/large/maruti-suzuki/wagon-r/maruti-suzuki-wagon-r.jpg?v=56",
+    "description": "Maruti Suzuki Wagon R is a 5-seater Hatchback available at a starting price of Rs. 5.16 Lakh. The car is available in 11 variants, with 2 engine and 2 transmission option. Additionally, Wagon R offers a Ground Clearance measurement of 165 mm and a Boot capacity of 180 liters. You can choose from 8 colors for the Wagon R. The mileage of the Wagon R varies from 22.5 - 33.4 KM/L depending on the model.",
+    "model_date": "2019-01-23",
+    "sku": "maruti-suzuki-wagon-r-1136",
+    "vin": "5NPEL4AB3BH001136",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1197,998 cc",
+    "power": "56 bhp @ 5600 rpm,67 bhp @ 5600 rpm,90 bhp @ 6000 rpm bhp",
+    "torque": "113.7 Nm @ 4200 rpm,82.1 Nm @ 3400 rpm,91.1 Nm @ 3400 rpm Nm",
+    "fuel_type": "Petrol, Petrol+CNG"
+  },
+  "transmission": "Manual, AMT",
+  "fuel": {
+    "type": "Petrol, Petrol+CNG",
+    "efficiency": "21 - 33 KM/L"
+  },
+  "dimensions": {
+    "width": "1620 mm ",
+    "height": "1700 mm",
+    "weight": "820/935",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Solid White",
+    "Magma Grey Plus Black",
+    "Poolside Blue",
+    "Prime Gallent Red",
+    "Nutmeg Brown",
+    "Prime Gallent Red Plus Black",
+    "Magma Grey",
+    "Silky Silver"
+  ],
+  "price": {
+    "value": "515905",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/wagon-r"
+  },
+  "brand": {
+    "name": "Maruti Suzuki",
+    "image": "https://images.carandbike.com/car-images/big/maruti-suzuki/maruti-suzuki.png?v=1"
+  },
+  "rating": {
+    "value": "6.1",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Numerous Transmission Options",
+    "Spacious",
+    "Best-Seller"
+  ],
+  "cons": [
+    "Polarising Design",
+    "Driving Dynamics",
+    "High Nvh Level"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "22.5 KM/L",
+      "city_mileage": "20 KM/L",
+      "highway_mileage": "22 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "AMT",
+      "mileage": "22.5 KM/L",
+      "city_mileage": "20 KM/L",
+      "highway_mileage": "22 KM/L"
+    },
+    {
+      "fuel_type": "Petrol+CNG",
+      "transmission": "Manual",
+      "mileage": "33.4 KM/L",
+      "city_mileage": "32 KM/L",
+      "highway_mileage": "34 KM/L"
+    }
+  ],
+  "verdict": "Maruti Suzuki Wagon R offers more in comparison to the price it charges. That is an affordable premium hatchback model available in the market that a middle-class family can also go for. With the tall boy design and the performance delivered along with the technologies used, and the safety measures are taken, one can say that the Wagon R is worth its cost. It now offers better looks, well-appointed cabin, better features, and overall, a better portfolio of safety equipment.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Maruti Suzuki Wagon R",
+        "price": "4.84 - 6.53 Lakh",
+        "url": "/maruti-suzuki-cars/wagon-r"
+      },
+      {
+        "name": "Tata Tiago",
+        "price": "4.57 - 7.82 Lakh",
+        "url": "/tata-cars/tiago"
+      },
+      {
+        "name": "Maruti Suzuki Ignis",
+        "price": "5.02 - 7.55 Lakh",
+        "url": "/maruti-suzuki-cars/ignis"
+      },
+      {
+        "name": "Hyundai Grand i10 Nios",
+        "price": "5.47 - 7.67 Lakh",
+        "url": "/hyundai-cars/grand-i10-nios"
+      },
+      {
+        "name": "Citroen C3",
+        "price": "4.8 - 7.23 Lakh",
+        "url": "/citroen-cars/c3"
+      },
+      {
+        "name": "Maruti Suzuki Celerio",
+        "price": "4.7 - 6.73 Lakh",
+        "url": "/maruti-suzuki-cars/celerio"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 4.84 - 6.53 Lakh",
+          "₹ 4.57 - 7.82 Lakh",
+          "₹ 5.02 - 7.55 Lakh",
+          "₹ 5.47 - 7.67 Lakh",
+          "₹ 4.8 - 7.23 Lakh",
+          "₹ 4.7 - 6.73 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "6.1",
+          "8.2",
+          "8.3",
+          "8.5",
+          "8.4",
+          "6.5"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1197,998 cc",
+          "1199 CC",
+          "1197 CC",
+          "1197 CC",
+          "1198 CC",
+          "998 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, AMT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "21 - 33 KM/L",
+          "20 - 24 KM/L",
+          "20.89 KM/L",
+          "20.2 - 20.7 KM/L",
+          "19.4 - 19.8 KM/L",
+          "24.97 - 26.68 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Petrol+CNG",
+          "Petrol, CNG",
+          "Petrol",
+          "Petrol, CNG",
+          "Petrol",
+          "Petrol, CNG"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "32.0, 60.0 L",
+          "35.0 L",
+          "32.0 L",
+          "37.0 L",
+          "30.0 L",
+          "32.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "11",
+          "13",
+          "11",
+          "15",
+          "4",
+          "8"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Wagon R vs Tiago",
+          "Wagon R vs Ignis",
+          "Wagon R vs Grand i10 Nios",
+          "Wagon R vs C3",
+          "Wagon R vs Celerio"
+        ]
+      }
+    ]
+  }
+}

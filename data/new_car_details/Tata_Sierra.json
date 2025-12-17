@@ -1,0 +1,216 @@
+{
+  "basic_info": {
+    "name": "Tata Sierra",
+    "manufacturer": "Tata",
+    "model": "Sierra",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/tata-cars/sierra",
+    "image_url": "https://images.carandbike.com/car-images/large/tata/sierra/tata-sierra.jpg?v=14",
+    "description": "Tata Sierra is a 5-seater SUV available at a starting price of Rs. 11.49 Lakh. The car is available in 17 variants, with 3 engine and 3 transmission option. Additionally, Sierra offers a Ground Clearance measurement of 205 mm and a Boot capacity of 622 liters. You can choose from 6 colors for the Sierra. The mileage of the Sierra varies from 16 - 18 KM/L depending on the model.",
+    "model_date": "2025-11-25",
+    "sku": "tata-sierra-1911",
+    "vin": "5NPEL4AB3BH001911",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1497,1498 cc",
+    "power": "105 bhp @ 6000 rpm,116 bhp @ 4000rpm,157 bhp @ 5000 rpm bhp",
+    "torque": "145 Nm @ 2100 rpm,255 Nm @ 1750 - 4000 rpm,260 Nm @ 1500 - 2750 rpm,280 Nm @ 1500 - 2750 rpm Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Manual, Automatic, DCT",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "16 - 18 KM/L"
+  },
+  "dimensions": {
+    "width": "1841 mm ",
+    "height": "1715 mm",
+    "weight": "1400/1400",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Pure Grey",
+    "Pristine White",
+    "Coorg Clouds",
+    "Munnar Mist",
+    "Bengal Rouge",
+    "Andaman Adventure"
+  ],
+  "price": {
+    "value": "1149000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/tata-cars/sierra"
+  },
+  "brand": {
+    "name": "Tata",
+    "image": "https://images.carandbike.com/car-images/big/tata/tata.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "whats_new": {
+    "Introduction": [
+      "Tata Motors launched the new Sierra in India on November 25, 2025.",
+      "Earlier, the carmaker had shown its concept version, prototypes, and the pre-production versions.",
+      "However, this is the production version of the SUV that will be slotted above the Curvv, and below the Harrier and Safari.",
+      "With an introductory pricing of Rs. 11.5 lakh, Tata Motors has ensured to make a strong statement for aggressive pricing.",
+      "However, it will be clear when the entire variant-wise price break-up is made available.",
+      "Bookings scheduled to start on 16 December 2025, and deliveries after 16 January, 2026.",
+      "The Tata Sierra will go up against the Hyundai Creta, Kia Seltos, Maruti Suzuki Grand Vitara, Victoris, and the likes."
+    ],
+    "Exterior": [
+      "This production-spec Sierra is like the concept, while borrowing elements from the original SUV.",
+      "Unlike the concept and the pre-production versions showcased earlier, the production version gets a lot of new features.",
+      "It boasts an upright front fascia with a confident stance, short overhangs, and a strong shoulder line.",
+      "Though the new Sierra doesn’t have a curved rear glasshouse section, it's styled to look like that.",
+      "The SUV is equipped with LED headlights with a full-width LED light bar.",
+      "Other highlights include flush-fitting door handles and two-tone alloy wheels."
+    ],
+    "Interior": [
+      "Inside, the new Sierra is a big departure in terms of the exiting styling in Tata cars.",
+      "The Sierra comes equipped with a triple-screen layout.",
+      "The latter comprises a digital instrument cluster, central touchscreen, and an additional screen on the passenger side.",
+      "Though some elements are carried over from existing siblings, these strike a balance between utility and luxury.",
+      "Some notable features include a new centre console, HUD, and a 12-speaker JBL sound system with a sound bar.",
+      "It also gets dual-zone climate control, 360-degree camera, powered and ventilated front seats.",
+      "Interestingly, the top-spec variants also boast connected car technology and Level 2 ADAS."
+    ],
+    "Powertrain": [
+      "Tata Motors will offer the Sierra in petrol, diesel, and electric powertrains as well.",
+      "This includes the brand's new 1.5-litre GDi turbo petrol producing 158bhp and 255Nm.",
+      "This engine comes only with a six-speed automatic transmission.",
+      "However, customers can opt for the Sierra with a 1.5-litre petrol engine.",
+      "This NA petrol produces 105bhp and 145Nm and can be had with either a six-speed manual or a seven-speed DCT automatic.",
+      "Also, there's a diesel 1.5-litre four-pot churning out 116bhp and 260Nm.",
+      "The latter can be had with either a six-speed manual or a seven-speed DCT automatic.",
+      "Tata also announced AWD for the Sierra, which will be a first Tata model to get this technology."
+    ]
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Tata Sierra",
+        "price": "11.49 - 18.49 Lakh",
+        "url": "/tata-cars/sierra"
+      },
+      {
+        "name": "Maruti Suzuki Grand Vitara",
+        "price": "11.03 - 19.66 Lakh",
+        "url": "/maruti-suzuki-cars/grand-vitara"
+      },
+      {
+        "name": "Kia Seltos",
+        "price": "10.79 - 19.81 Lakh",
+        "url": "/kia-cars/seltos"
+      },
+      {
+        "name": "Hyundai Creta",
+        "price": "19.79 L",
+        "url": "/hyundai-cars/creta"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 11.49 - 18.49 Lakh",
+          "₹ 11.03 - 19.66 Lakh",
+          "₹ 10.79 - 19.81 Lakh",
+          "₹ 19.79 L"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "8.5",
+          "8.7",
+          "8.4"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1497,1498 cc",
+          "1462 CC",
+          "1497 CC",
+          "1497 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic, DCT",
+          "Manual",
+          "Manual",
+          "IVT"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "16 - 18 KM/L",
+          "19.38 - 27.97 KM/L",
+          "17 - 20.7 KM/L",
+          "17.4 - 21.8 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Hybrid, Petrol, CNG",
+          "Petrol, Diesel",
+          "Petrol, Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "50.0 L",
+          "45.0 L",
+          "50.0 L",
+          "50.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "17",
+          "27",
+          "23",
+          "32"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Sierra vs Grand Vitara",
+          "Sierra vs Seltos",
+          "Sierra vs Creta"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "basic_info": {
+    "name": "Hyundai Creta EV",
+    "manufacturer": "Hyundai",
+    "model": "Creta EV",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/hyundai-cars/creta-ev",
+    "image_url": "https://images.carandbike.com/car-images/large/hyundai/creta-ev/hyundai-creta-ev.jpg?v=16",
+    "description": "Hyundai Creta EV is a 5-seater electric SUV available at a starting price of Rs. 18.02 Lakh. The electric car is available in 25 variants.You can choose from 10 colors for the Creta EV. The battery range/mileage of the Creta EV is 473 Km/Full Charge. ",
+    "model_date": "2025-01-23",
+    "sku": "hyundai-creta-ev-1799",
+    "vin": "5NPEL4AB3BH001799",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "390 - 473 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1790 mm ",
+    "height": "1655 mm",
+    "weight": "",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Abyss Black",
+    "Starry Night",
+    "Titan Grey",
+    "Atlas White",
+    "Atlas White with Abyss Black Roof",
+    "Fiery Red",
+    "Ocean Blue Matte",
+    "Robust Emerald Matte",
+    "Ocean Blue with Abyss Black Roof",
+    "Ocean Blue"
+  ],
+  "price": {
+    "value": 1802200,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/hyundai-cars/creta-ev"
+  },
+  "brand": {
+    "name": "Hyundai",
+    "image": "https://images.carandbike.com/car-images/big/hyundai/hyundai.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Hyundai Creta EV",
+        "price": "18.02 - 24.55 Lakh",
+        "url": "/hyundai-cars/creta-ev"
+      },
+      {
+        "name": "MG ZS EV",
+        "price": "17.99 - 20.5 Lakh",
+        "url": "/mg-cars/zs-ev"
+      },
+      {
+        "name": "Mahindra BE 6e",
+        "price": "18.9 - 26.9 Lakh",
+        "url": "/mahindra-cars/be-6e"
+      },
+      {
+        "name": "VinFast VF6",
+        "price": "19.13 - 21.22 Lakh",
+        "url": "/vinfast-cars/vf6"
+      },
+      {
+        "name": "Mahindra XEV 9S",
+        "price": "19.95 - 25.45 Lakh",
+        "url": "/mahindra-cars/xev-9s"
+      },
+      {
+        "name": "Mahindra XUV400",
+        "price": "15.49 - 17.69 Lakh",
+        "url": "/mahindra-cars/xuv400"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 18.02 - 24.55 Lakh",
+          "₹ 17.99 - 20.5 Lakh",
+          "₹ 18.9 - 26.9 Lakh",
+          "₹ 19.13 - 21.22 Lakh",
+          "₹ 19.95 - 25.45 Lakh",
+          "₹ 15.49 - 17.69 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "7.8",
+          "-",
+          "-",
+          "-",
+          "8.4"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "390,473 Km/Full Charge",
+          "461 Km/Full Charge",
+          "557 - 683 Km/Full Charge",
+          "460 Km/Full Charge",
+          "521 - 679 Km/Full Charge",
+          "375 - 456 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "25",
+          "7",
+          "22",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Creta EV vs ZS EV",
+          "Creta EV vs BE 6e",
+          "Creta EV vs VF6",
+          "Creta EV vs XEV 9S",
+          "Creta EV vs XUV400"
+        ]
+      }
+    ]
+  }
+}

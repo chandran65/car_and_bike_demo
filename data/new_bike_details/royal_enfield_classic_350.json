@@ -1,0 +1,81 @@
+{
+    "basic_info": {
+        "name": "Royal Enfield Classic 350",
+        "manufacturer": "Royal Enfield",
+        "model": "Classic 350",
+        "body_type": "Cruiser",
+        "description": "The Royal Enfield Classic 350 is a timeless cruiser that combines vintage charm with modern reliability. It feature the new J-series engine and a refined chassis for a smooth ride.",
+        "sku": "RE-C350-2024"
+    },
+    "price": {
+        "value": 220000,
+        "currency": "INR",
+        "availability": "In Stock"
+    },
+    "brand": {
+        "name": "Royal Enfield"
+    },
+    "engine": {
+        "displacement": [
+            {
+                "value": 349,
+                "unit": "cc"
+            }
+        ],
+        "power": [
+            {
+                "value": 20.2,
+                "unit": "bhp",
+                "rpm": "6100"
+            }
+        ],
+        "torque": [
+            {
+                "value": 27,
+                "unit": "Nm",
+                "rpm": "4000"
+            }
+        ],
+        "fuel_type": [
+            "Petrol"
+        ]
+    },
+    "fuel": {
+        "type": [
+            "Petrol"
+        ],
+        "efficiency": {
+            "value": 35,
+            "unit": "kmpl",
+            "type": "fuel"
+        }
+    },
+    "transmission": [
+        "5-Speed Manual"
+    ],
+    "dimensions": {
+        "seat_height": {
+            "value": 805,
+            "unit": "mm"
+        },
+        "fuel_tank_capacity": {
+            "value": 13,
+            "unit": "L"
+        },
+        "weight": {
+            "kerb_weight": 195
+        }
+    },
+    "colors": [
+        "Redditch Red",
+        "Halcyon Green",
+        "Signals Marsh Grey",
+        "Gunmetal Grey",
+        "Dark Stealth Black"
+    ],
+    "rating": {
+        "value": 8.5,
+        "best": 10
+    },
+    "verdict": "The Classic 350 remains the quintessential retro roadster, now with significantly better refinement and reliability. Ideal for city commutes and weekend leisure rides."
+}

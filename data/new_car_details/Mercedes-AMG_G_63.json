@@ -1,0 +1,250 @@
+{
+  "basic_info": {
+    "name": "Mercedes-AMG G 63",
+    "manufacturer": "Mercedes-AMG",
+    "model": "G 63",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/mercedes-amg-cars/g-63",
+    "image_url": "https://images.carandbike.com/car-images/large/mercedes-amg/g-63/mercedes-amg-g-63.jpg?v=30",
+    "description": "Mercedes-AMG G 63 is a 5-seater SUV available at a starting price of Rs. 3.85 Crore. The car is available in 2 variants, with 1 engine and 1 transmission option. Additionally, G 63 offers a Ground Clearance measurement of 205 mm and a Boot capacity of 480 liters. You can choose from 8 colors for the G 63. The mileage of the G 63 varies from 8.5 KM/L depending on the model.",
+    "model_date": "2024-10-22",
+    "sku": "mercedes-amg-g-63-1152",
+    "vin": "5NPEL4AB3BH001152",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "3998 cc",
+    "power": "577 bhp",
+    "torque": "760 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "8 KM/L"
+  },
+  "dimensions": {
+    "width": "1855 mm ",
+    "height": "1938 mm",
+    "weight": "2550/2550",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Designo Hyacinth Red Metallic",
+    "Travertine Beige",
+    "Brilliant Blue",
+    "Iridium Silver",
+    "Magnetite black",
+    "Obsidian black",
+    "Sodalite Blue",
+    "Designo Patagonia Red"
+  ],
+  "price": {
+    "value": "38500000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mercedes-amg-cars/g-63"
+  },
+  "brand": {
+    "name": "Mercedes-AMG",
+    "image": "https://images.carandbike.com/car-images/big/mercedes-amg/mercedes-amg.png?v=1"
+  },
+  "rating": {
+    "value": "7.3",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Best Offroader available in the market",
+    "Extremely luxurious and opulent",
+    "The G63 oozes style and muscularity"
+  ],
+  "cons": [
+    "The suspension setting is stiffer and hence uncomfortable on tarmac",
+    "The gearbox could have been more responsive",
+    "The G63 is pricey"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "8.5 KM/L",
+      "city_mileage": "5.5 KM/L",
+      "highway_mileage": "8 KM/L"
+    }
+  ],
+  "whats_new": {
+    "Design and Aesthetic Updates": [
+      "The exterior design of the 2025 Mercedes-AMG G63 retains its distinctive boxy silhouette, which has become synonymous with the G-Class. Mercedes has introduced minor cosmetic changes, including tweaks to the grille, revised bumpers, and new wheel designs, enhancing the SUV’s robust and rugged appeal. Buyers can further customize the vehicle through the Mercedes Manufaktur program, which offers a wide array of exterior color options, upholstery choices, and wheel designs, allowing owners to personalize the SUV to their liking.",
+      "The interior of the G63 has also received notable updates. A new steering wheel design and revised switchgear on the center console give the cabin a more refined feel, while retaining the luxurious ambiance expected from the brand. The 2025 model also includes a 12.3-inch central touchscreen powered by the latest MBUX (Mercedes-Benz User Experience) infotainment system, a first for the G63. The infotainment system now features new MBUX graphics and a redesigned off-road control unit, providing drivers with essential information during off-road adventures."
+    ],
+    "Powertrain and Performance": [
+      "The most significant update under the hood is the introduction of a 48V mild-hybrid system paired with the familiar 4.0-liter twin-turbo V8 engine. The hybrid system offers an additional 20 bhp of power during hard acceleration, complementing the engine’s output of 577 bhp and 850 Nm of torque. This mild-hybrid technology not only enhances performance but also improves fuel efficiency and reduces emissions, aligning with the industry’s shift toward sustainability.",
+      "The SUV’s performance remains exhilarating, with a claimed 0-100 kmph time of just 4.3 seconds. The top speed is electronically limited to 240 kmph, ensuring that the G63 retains its reputation as a high-performance luxury SUV. Additionally, the new G63 comes with a \"Race Start\" function, or launch control, which further enhances its performance dynamics, making it a formidable force on both the road and track."
+    ],
+    "Suspension and Ride Quality": [
+      "The suspension system has undergone significant improvements to enhance both on-road comfort and off-road capability. Mercedes has introduced new adaptive dampers along with a hydraulics-based roll stabilization system. This new setup flattens the ride, reducing body roll and improving stability during cornering and off-road maneuvers. These changes ensure that the G63 provides a more refined and controlled driving experience, whether on the highway or rugged terrain."
+    ],
+    "Technological Advancements and Features": [
+      "In terms of technology, the 2025 Mercedes-AMG G63 is packed with the latest innovations from Mercedes. The updated MBUX infotainment system offers a host of features, including Augmented Reality Navigation and a transparent hood function, which uses underbody cameras to provide a real-time view of the terrain below. This is particularly useful for off-road driving, as it helps drivers navigate obstacles that are hidden from view by the vehicle’s bonnet.",
+      "The G63 also features a premium 760W Burmester 3D sound system, customizable ambient lighting, and a 360-degree camera system for added convenience and safety. On the safety front, the SUV is equipped with a comprehensive suite of Advanced Driver Assistance Systems (ADAS), which includes features such as adaptive cruise control, lane-keeping assist, and collision mitigation braking. These systems ensure that the G63 remains one of the safest luxury SUVs on the market."
+    ],
+    "Conclusion": [
+      "The 2025 Mercedes-AMG G63 continues the legacy of the G-Class with updated technology, enhanced performance, and a refined design. The introduction of a 48V mild-hybrid system and improved suspension setup underscores Mercedes’ commitment to blending performance with sustainability. With its powerful 577 bhp engine, cutting-edge features, and unmistakable design, the 2025 G63 remains a top choice for buyers seeking a high-performance luxury SUV. Given its overwhelming demand, the new G63 promises to continue dominating the Indian luxury SUV market well into 2025."
+    ]
+  },
+  "verdict": "Pros",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mercedes-AMG G 63",
+        "price": "3.85 - 4.01 Crore",
+        "url": "/mercedes-amg-cars/g-63"
+      },
+      {
+        "name": "Lexus LX",
+        "price": "2.8 - 2.91 Crore",
+        "url": "/lexus-cars/lx"
+      },
+      {
+        "name": "Mercedes-Maybach GLS",
+        "price": "3.39 - 3.46 Crore",
+        "url": "/mercedes-maybach-cars/gls"
+      },
+      {
+        "name": "Aston Martin DBX",
+        "price": "4.38 Crore",
+        "url": "/aston-martin-cars/dbx"
+      },
+      {
+        "name": "Lamborghini Urus SE",
+        "price": "4.47 Crore",
+        "url": "/lamborghini-cars/urus-se"
+      },
+      {
+        "name": "Lamborghini Urus",
+        "price": "4.75 - 4.8 Crore",
+        "url": "/lamborghini-cars/urus"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 3.85 - 4.01 Crore",
+          "₹ 2.8 - 2.91 Crore",
+          "₹ 3.39 - 3.46 Crore",
+          "₹ 4.38 Crore",
+          "₹ 4.47 Crore",
+          "₹ 4.75 - 4.8 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.3",
+          "8.5",
+          "7.7",
+          "7.7",
+          "-",
+          "8.6"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "3998 cc",
+          "3346 CC",
+          "3982 CC",
+          "3982 CC",
+          "3996 CC",
+          "3996 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "8 KM/L",
+          "9.6 KM/L",
+          "8.5 KM/L",
+          "12 KM/L",
+          "7.5 KM/L",
+          "7.8 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Diesel",
+          "Petrol",
+          "Diesel",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "96.0 L",
+          "80.0 L",
+          "90.0 L",
+          "85.0 L",
+          "75.0 L",
+          "75.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "2",
+          "2",
+          "1",
+          "1",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "G 63 vs LX",
+          "G 63 vs GLS",
+          "G 63 vs DBX",
+          "G 63 vs Urus SE",
+          "G 63 vs Urus"
+        ]
+      }
+    ]
+  }
+}

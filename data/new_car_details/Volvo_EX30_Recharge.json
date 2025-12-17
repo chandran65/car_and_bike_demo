@@ -1,0 +1,210 @@
+{
+  "basic_info": {
+    "name": "Volvo EX30 Recharge",
+    "manufacturer": "Volvo",
+    "model": "EX30 Recharge",
+    "body_type": null,
+    "url": "https://www.carandbike.com/volvo-cars/ex30-recharge",
+    "image_url": "https://images.carandbike.com/car-images/large/volvo/ex30-recharge/volvo-ex30-recharge.jpg?v=5",
+    "description": "Volvo EX30 Recharge is a 5-seater electric  available at a starting price of Rs. 39.99 Lakh. The electric car is available in 1 variants.Additionally, EX30 Recharge offers a Boot capacity of 318 liters. The battery range/mileage of the EX30 Recharge is 480 Km/Full Charge. ",
+    "model_date": "2024-06-27",
+    "sku": "volvo-ex30-recharge-1747",
+    "vin": "5NPEL4AB3BH001747",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "480 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1837 mm ",
+    "height": "1555 mm",
+    "weight": "",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [],
+  "price": {
+    "value": "3999000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/volvo-cars/ex30-recharge"
+  },
+  "brand": {
+    "name": "Volvo",
+    "image": "https://images.carandbike.com/car-images/big/volvo/volvo.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "whats_new": {
+    "Exterior": [
+      "The new EX30 is built on Geely's Sustainable Experience Architecture (SEA) platform, which it shares with other cars like the Smart #1 and the Zeekr X. Though this platform allows for flexible and sustainable design, it reflects Volvo's modern and sleek new design language with the closed-off grille, slim LED headlamps, distinctive 'Thor's Hammer' headlamps, and EV-specific aero-optimised wheels. While it still looks similar to some of its siblings, the pixel-style LED tail lamps and a charging port on the left quarter panel are distinguishing elements."
+    ],
+    "Interior": [
+      "The interior features a minimalist Swedish design with things centred around a 12.3-inch portrait-style infotainment screen. The latter runs on a Google-based OS that supports wired Android Auto and wireless Apple CarPlay. Then, there's a neatly laid-out dashboard as seen on other modern Volvo EVs like the EX90, new steering wheel, and a sleek driver’s instrumentation. Though an entry-level EV, the EX30 packs in an advanced safety suite with a 360-degree camera, multiple airbags, and ADAS (Advanced Driver Assist) systems like lane-keeping assist and adaptive cruise control."
+    ],
+    "Powertrain": [
+      "Globally, the EX30 is offered in multiple powertrain options. However, in India, Volvo is offering it in a single-motor version, with a powerful 268bhp rear-mounted motor mated with an LFP battery. The EV supports rapid charging with DC fast charging speeds of up to 150kW and a WLTP-claimed driving range of 480km."
+    ]
+  },
+  "verdict": "The EX30 is India's entry-point to Volvo's EVs. It is a fun, fast, practical electric SUV with unique design, comfy ride, and advanced safety. It suits everyday and spirited driving, but might not suit chauffeur-driven needs due to tight rear space.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Volvo EX30 Recharge",
+        "price": "39.99 Lakh",
+        "url": "/volvo-cars/ex30-recharge"
+      },
+      {
+        "name": "BYD Atto 3 EV",
+        "price": "28.99 - 39.43 Lakh",
+        "url": "/byd-cars/atto-3-ev"
+      },
+      {
+        "name": "Tata Harrier EV",
+        "price": "24.93 - 35.07 Lakh",
+        "url": "/tata-cars/harrier-ev"
+      },
+      {
+        "name": "VinFast VF7",
+        "price": "24.23 - 29.57 Lakh",
+        "url": "/vinfast-cars/vf7"
+      },
+      {
+        "name": "BYD Sealion 7",
+        "price": "56.72 Lakh",
+        "url": "/byd-cars/sealion-7"
+      },
+      {
+        "name": "BMW ix1 L",
+        "price": "57.88 Lakh",
+        "url": "/bmw-cars/ix1-l"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 39.99 Lakh",
+          "₹ 28.99 - 39.43 Lakh",
+          "₹ 24.93 - 35.07 Lakh",
+          "₹ 24.23 - 29.57 Lakh",
+          "₹ 56.72 Lakh",
+          "₹ 57.88 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "8.1",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "480 Km/Full Charge",
+          "468 - 521 Km/Full Charge",
+          "627 Km/Full Charge",
+          "438 - 532 Km/Full Charge",
+          "567 Km/Full Charge",
+          "440 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "3",
+          "16",
+          "5",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "EX30 Recharge vs Atto 3 EV",
+          "EX30 Recharge vs Harrier EV",
+          "EX30 Recharge vs VF7",
+          "EX30 Recharge vs Sealion 7",
+          "EX30 Recharge vs ix1 L"
+        ]
+      }
+    ]
+  }
+}

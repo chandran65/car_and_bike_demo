@@ -1,0 +1,225 @@
+{
+  "basic_info": {
+    "name": "Audi Q3 Sportback",
+    "manufacturer": "Audi",
+    "model": "Q3 Sportback",
+    "body_type": null,
+    "url": "https://www.carandbike.com/audi-cars/q3-sportback",
+    "image_url": "https://images.carandbike.com/car-images/large/audi/q3-sportback/audi-q3-sportback.jpg?v=10",
+    "description": "Audi Q3 Sportback is a 5-seater  available at a starting price of Rs. 53.55 Lakh. The car is available in 2 variants, with 1 engine and 1 transmission option. Additionally, Q3 Sportback offers a Ground Clearance measurement of 170 mm and a Boot capacity of 530 liters. You can choose from 4 colors for the Q3 Sportback. The mileage of the Q3 Sportback varies from 14.9 KM/L depending on the model.",
+    "model_date": "2023-02-13",
+    "sku": "audi-q3-sportback-1707",
+    "vin": "5NPEL4AB3BH001707",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1984 cc",
+    "power": "190 bhp",
+    "torque": "320 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "14 KM/L"
+  },
+  "dimensions": {
+    "width": "1843 mm ",
+    "height": "1567 mm",
+    "weight": "1705/1705",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Navarra Blue Metallic",
+    "Mythos Black Metallic",
+    "Glacier White Metallic",
+    "Chronos Gray Metallic"
+  ],
+  "price": {
+    "value": "5355001",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/audi-cars/q3-sportback"
+  },
+  "brand": {
+    "name": "Audi",
+    "image": "https://images.carandbike.com/car-images/big/audi/audi.png?v=1"
+  },
+  "rating": {
+    "value": "7.4",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Sporty looks",
+    "Fun-to-drive engine",
+    "Smart Tech"
+  ],
+  "cons": [
+    "A bit pricy",
+    "Small cabin",
+    "Not sporty enough"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "14.9 KM/L",
+      "city_mileage": "10 KM/L",
+      "highway_mileage": "14 KM/L"
+    }
+  ],
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Audi Q3 Sportback",
+        "price": "53.55 - 53.86 Lakh",
+        "url": "/audi-cars/q3-sportback"
+      },
+      {
+        "name": "Nissan X-Trail",
+        "price": "54.75 Lakh",
+        "url": "/nissan-cars/x-trail"
+      },
+      {
+        "name": "BMW X1",
+        "price": "55.5 - 75.13 Lakh",
+        "url": "/bmw-cars/x1"
+      },
+      {
+        "name": "Mercedes-Benz GLA-Class",
+        "price": "51.5 - 56.5 Lakh",
+        "url": "/mercedes-benz-cars/gla-class"
+      },
+      {
+        "name": "Citroen C5 Aircross",
+        "price": "46.47 Lakh",
+        "url": "/citroen-cars/c5-aircross"
+      },
+      {
+        "name": "Volkswagen Tiguan R-Line",
+        "price": "45.73 Lakh",
+        "url": "/volkswagen-cars/tiguan-r-line"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 53.55 - 53.86 Lakh",
+          "₹ 54.75 Lakh",
+          "₹ 55.5 - 75.13 Lakh",
+          "₹ 51.5 - 56.5 Lakh",
+          "₹ 46.47 Lakh",
+          "₹ 45.73 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.4",
+          "-",
+          "8.0",
+          "8.6",
+          "8.0",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1984 cc",
+          "1498 CC",
+          "1499 CC",
+          "1332 CC",
+          "1997 CC",
+          "1984 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "CVT",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "DCT"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "14 KM/L",
+          "13.7 KM/L",
+          "16.35 - 20.37 KM/L",
+          "13 - 17 KM/L",
+          "17.5 KM/L",
+          "12.58 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Diesel",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "62.4 L",
+          "55.0 L",
+          "51.0 L",
+          "50.0 L",
+          "52.5 L",
+          "60.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "1",
+          "3",
+          "3",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Q3 Sportback vs X-Trail",
+          "Q3 Sportback vs X1",
+          "Q3 Sportback vs GLA-Class",
+          "Q3 Sportback vs C5 Aircross",
+          "Q3 Sportback vs Tiguan R-Line"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "basic_info": {
+    "name": "Toyota Fortuner",
+    "manufacturer": "Toyota",
+    "model": "Fortuner",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/toyota-cars/fortuner",
+    "image_url": "https://images.carandbike.com/car-images/large/toyota/fortuner/toyota-fortuner.jpg?v=53",
+    "description": "Toyota Fortuner is a 7-seater SUV available at a starting price of Rs. 33.65 Lakh. The car is available in 14 variants, with 1 engine and 2 transmission option. Additionally, Fortuner offers a Ground Clearance measurement of 225 mm and a Boot capacity of 296 liters. You can choose from 7 colors for the Fortuner. The mileage of the Fortuner varies from 10.3 - 14.2 KM/L depending on the model.",
+    "model_date": "2021-01-06",
+    "sku": "toyota-fortuner-1218",
+    "vin": "5NPEL4AB3BH001218",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2694,2755 cc",
+    "power": "164,201 bhp",
+    "torque": "245,420,500 Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Manual, Automatic",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "10 - 14 KM/L"
+  },
+  "dimensions": {
+    "width": "1855 mm ",
+    "height": "1835 mm",
+    "weight": "1835/1835",
+    "seating_capacity": "7",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Platinum White Pearl",
+    "Avant-Garde Bronze",
+    "Attitude Black",
+    "Super White",
+    "Phantom Brown",
+    "Sparkling Black Crystal Shine",
+    "Silver Metallic"
+  ],
+  "price": {
+    "value": "3364600",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/toyota-cars/fortuner"
+  },
+  "brand": {
+    "name": "Toyota",
+    "image": "https://images.carandbike.com/car-images/big/toyota/toyota.png?v=1"
+  },
+  "rating": {
+    "value": "8.3",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Massive Road Presence",
+    "Powerful Engine Performance",
+    "Also Gets 4X4"
+  ],
+  "cons": [
+    "Third Row Seat Is Not Spacious",
+    "Interior Looks A Bit Dated",
+    "Expensive Compared To Rivals"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "10.3 KM/L",
+      "city_mileage": "10 KM/L",
+      "highway_mileage": "13 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "14.2 KM/L",
+      "city_mileage": "14 KM/L",
+      "highway_mileage": "16 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Manual",
+      "mileage": "14.2 KM/L",
+      "city_mileage": "14 KM/L",
+      "highway_mileage": "16 KM/L"
+    }
+  ],
+  "verdict": "The Toyota Fortuner has always boasted a rugged body-on-frame design for extreme durability. Its 2.8-litre turbo diesel engine now delivers 201bhp and 500Nm torque, up from 175bhp and 420Nm from its predecessor. The SUV is a trusted heavy-duty performer famous worldwide for sturdy build and payload capacity. And with strong residual value, even the older models retain good resale prices.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Toyota Fortuner",
+        "price": "33.65 - 48.85 Lakh",
+        "url": "/toyota-cars/fortuner"
+      },
+      {
+        "name": "Mercedes-Benz GLA-Class",
+        "price": "51.5 - 56.5 Lakh",
+        "url": "/mercedes-benz-cars/gla-class"
+      },
+      {
+        "name": "Jeep Grand Cherokee",
+        "price": "63 Lakh",
+        "url": "/jeep-cars/grand-cherokee"
+      },
+      {
+        "name": "Jeep Wrangler Unlimited",
+        "price": "64.08 - 67.81 Lakh",
+        "url": "/jeep-cars/wrangler-unlimited"
+      },
+      {
+        "name": "Isuzu MU-X",
+        "price": "40.67 - 44.04 Lakh",
+        "url": "/isuzu-cars/mu-x"
+      },
+      {
+        "name": "Skoda Kodiaq",
+        "price": "39.99 - 45.96 Lakh",
+        "url": "/skoda-cars/kodiaq"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 33.65 - 48.85 Lakh",
+          "₹ 51.5 - 56.5 Lakh",
+          "₹ 63 Lakh",
+          "₹ 64.08 - 67.81 Lakh",
+          "₹ 40.67 - 44.04 Lakh",
+          "₹ 39.99 - 45.96 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.3",
+          "8.6",
+          "8.1",
+          "7.0",
+          "7.3",
+          "8.2"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2694,2755 cc",
+          "1332 CC",
+          "1998 CC",
+          "1998 CC",
+          "2999 CC",
+          "1984 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "10 - 14 KM/L",
+          "13 - 17 KM/L",
+          "8.61 KM/L",
+          "12.01 KM/L",
+          "13 KM/L",
+          "14.86 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol",
+          "Diesel",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "7 Seater",
+          "7 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "80.0 L",
+          "50.0 L",
+          "93.5 L",
+          "87.0 L",
+          "65.0 L",
+          "62.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "14",
+          "3",
+          "1",
+          "2",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Fortuner vs GLA-Class",
+          "Fortuner vs Grand Cherokee",
+          "Fortuner vs Wrangler Unlimited",
+          "Fortuner vs MU-X",
+          "Fortuner vs Kodiaq"
+        ]
+      }
+    ]
+  }
+}

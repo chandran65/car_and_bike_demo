@@ -1,0 +1,252 @@
+{
+  "basic_info": {
+    "name": "MG Windsor EV",
+    "manufacturer": "MG",
+    "model": "Windsor EV",
+    "body_type": "MUV",
+    "url": "https://www.carandbike.com/mg-cars/windsor-ev",
+    "image_url": "https://images.carandbike.com/car-images/large/mg/windsor-ev/mg-windsor-ev.jpg?v=21",
+    "description": "MG Windsor EV is a 5-seater electric MUV available at a starting price of Rs. 14 Lakh. The electric car is available in 5 variants.Additionally, Windsor EV offers a Ground Clearance measurement of 186 mm and a Boot capacity of 604 liters. You can choose from 4 colors for the Windsor EV. The battery range/mileage of the Windsor EV is 449 Km/Full Charge. ",
+    "model_date": "2024-09-11",
+    "sku": "mg-windsor-ev-1798",
+    "vin": "5NPEL4AB3BH001798",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "331 - 449 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1850 mm ",
+    "height": "1677 mm",
+    "weight": "1930/1930",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Clay Beige",
+    "Turquoise Green",
+    "Pearl White",
+    "Starburst Black"
+  ],
+  "price": {
+    "value": 1399800,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mg-cars/windsor-ev"
+  },
+  "brand": {
+    "name": "MG",
+    "image": "https://images.carandbike.com/car-images/big/mg/mg.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "whats_new": {
+    "Introduction": [
+      "The MG Windsor EV is a modern electric car designed for daily use without the hassle of visiting a fuel pump.",
+      "It not only carries people comfortably but also has plenty of storage and stowage space.",
+      "A unique feature of the Windsor EV is that it has a V2L (Vehicle-To-Load) charging capability.",
+      "The Windsor’s lithium-ion battery gives it an impressive range on a single charge.",
+      "Not only is the journey with the Windsor safe, but it’s relaxing and entertaining as well."
+    ],
+    "Exterior": [
+      "Unlike an open grille in traditional cars, the Windsor gets a clean, mostly closed panel.",
+      "This is so because electric cars do not require much air for cooling.",
+      "A light-up MG logo sits in the middle of the nose, and just above or around it runs a wide strip of LED lighting.",
+      "The strip stretches across the car, forming a continuous ‘light bar’ for DRLs.",
+      "Its main headlights are bigger LED units placed lower down in the front bumper.",
+      "This positioning gives the EV a two-layered face, a slim light strip on top, and chunkier lamps below.",
+      "From the side, the roofline gently curves from front to rear without any sudden drops.",
+      "This gives it a capsule like appearance as the panels are free of heavy creases as well.",
+      "The Windsor EV’s door handles sit flush with the body for better aerodynamics and pop out when needed.",
+      "It comes with large 18‑inch alloy wheels that have a more “closed” design.",
+      "Framed by subtly flared wheel arches and dark plastic cladding around the lower edges, protects the body from scrapes.",
+      "The rear is also very rounded, with a softly curved tailgate and bumper rather than an upright, boxy back.",
+      "A single, connected LED light bar runs across the width of the car for the tail lamps, giving it a modern look when lit,",
+      "The individual lamp clusters themselves are relatively compact.",
+      "Its badging is kept simple, as we mainly see the MG logo, the Windsor name, and a neat rear bumper with reflectors."
+    ],
+    "Interior": [
+      "The Windsor’s ‘Aero-Lounge’ seats are nicely padded and can recline up to 135 degrees, making long rides more relaxing.",
+      "It has a spacious cabin with dual-tone ivory interiors and premium soft-touch materials with classy gold highlights.",
+      "A digital 8.8-inch driver display and a massive 15.6-inch infotainment screen provides all information including battery charge status and range.",
+      "Its panoramic glass roof adds to the airy and open feel inside the cabin, letting in natural light.",
+      "The front seats are ventilated and the occupants stay cool and comfy even on hot days.",
+      "An ambient lighting inside comes with 256 colour options to set it as per a user’s taste.",
+      "Its steering wheel is leather-wrapped with controls for easy access to music and calls.",
+      "The rear seats also recline nicely, offering extra comfort for passengers and plenty of legroom.",
+      "This EV has practical features like wireless phone charging, a large glovebox, and storage compartments.",
+      "For convenience, there’s automatic climate control and rear AC vents to keep everyone comfortable.",
+      "A premium nine-speaker Infinity audio system delivers rich sound for music enthusiasts.",
+      "The interior controls are easy to use, with some physical buttons mainly for AC and steering controls.",
+      "Additional features include a 360-degree camera, smart entry, and a V2L charging feature, which powers other electronic appliances.",
+      "It includes safety touches like six airbags, auto-dimming rearview mirror, and even ADAS in the Pro variants."
+    ],
+    "Powertrain": [
+      "A Permanent Magnet Synchronous Motorthat powers the Windsor EV is quite efficient and smooth.",
+      "It a power output of 135.8bhp and 200Nm of torque.",
+      "The Windsor EV is offered in two battery capacities - a 38kWh and a bigger 52.9kWh.",
+      "Charging the battery can be done at home with traditional 15A chargers or even through higher capacity public DC units.",
+      "The bigger battery takes about 9.5 hours to fully charge on a regular charger and just 50 minutes on a fast charger."
+    ]
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "MG Windsor EV",
+        "price": "14 - 17.25 Lakh",
+        "url": "/mg-cars/windsor-ev"
+      },
+      {
+        "name": "Tata Nexon EV",
+        "price": "14.49 - 20.06 Lakh",
+        "url": "/tata-cars/nexon-ev"
+      },
+      {
+        "name": "Tata Tigor EV",
+        "price": "15.07 Lakh",
+        "url": "/tata-cars/tigor-ev"
+      },
+      {
+        "name": "Citroen eC3",
+        "price": "12.9 - 13.53 Lakh",
+        "url": "/citroen-cars/ec3"
+      },
+      {
+        "name": "Mahindra XUV400",
+        "price": "15.49 - 17.69 Lakh",
+        "url": "/mahindra-cars/xuv400"
+      },
+      {
+        "name": "Tata Punch EV",
+        "price": "11.12 - 16.75 Lakh",
+        "url": "/tata-cars/punch-ev"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 14 - 17.25 Lakh",
+          "₹ 14.49 - 20.06 Lakh",
+          "₹ 15.07 Lakh",
+          "₹ 12.9 - 13.53 Lakh",
+          "₹ 15.49 - 17.69 Lakh",
+          "₹ 11.12 - 16.75 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "8.5",
+          "8.0",
+          "8.2",
+          "8.4",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "331,449 Km/Full Charge",
+          "275 - 489 Km/Full Charge",
+          "306 Km/Full Charge",
+          "320 Km/Full Charge",
+          "375 - 456 Km/Full Charge",
+          "265 - 365 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "5",
+          "11",
+          "1",
+          "7",
+          "5",
+          "20"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Windsor EV vs Nexon EV",
+          "Windsor EV vs Tigor EV",
+          "Windsor EV vs eC3",
+          "Windsor EV vs XUV400",
+          "Windsor EV vs Punch EV"
+        ]
+      }
+    ]
+  }
+}

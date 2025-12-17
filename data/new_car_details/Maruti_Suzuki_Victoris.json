@@ -1,0 +1,224 @@
+{
+  "basic_info": {
+    "name": "Maruti Suzuki Victoris",
+    "manufacturer": "Maruti Suzuki",
+    "model": "Victoris",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/victoris",
+    "image_url": "https://images.carandbike.com/car-images/large/maruti-suzuki/victoris/maruti-suzuki-victoris.jpg?v=20",
+    "description": "Maruti Suzuki Victoris is a 5-seater SUV available at a starting price of Rs. 10.5 Lakh. The car is available in 35 variants, with 2 engine and 3 transmission option. Additionally, Victoris offers a Ground Clearance measurement of 210 mm and a Boot capacity of 373 liters. You can choose from 10 colors for the Victoris. The mileage of the Victoris varies from 21.2 KM/L depending on the model.",
+    "model_date": "2025-09-15",
+    "sku": "maruti-suzuki-victoris-1892",
+    "vin": "5NPEL4AB3BH001892",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1490,1492 cc",
+    "power": "101 bhp @ 6000rpm,91 bhp @ 6000rpm bhp",
+    "torque": "122Nm @ 3800-4800 rpm,139Nm @ 4300rpm Nm",
+    "fuel_type": "Hybrid, Petrol, Petrol+CNG"
+  },
+  "transmission": "Manual, Automatic, CVT",
+  "fuel": {
+    "type": "Hybrid, Petrol, Petrol+CNG",
+    "efficiency": "21 - 28 KM/L"
+  },
+  "dimensions": {
+    "width": "1655 mm ",
+    "height": "1795 mm",
+    "weight": "1195/1195",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Eternal Blue",
+    "Magma Grey",
+    "Pearl Arctic White",
+    "Bluish Black",
+    "Mystic Green",
+    "Sizzling Red",
+    "Sizzling Red / Bluish Black Roof",
+    "Splendid Silver",
+    "Splendid Silver with Bluish Black",
+    "Eternal Blue with bluish Black"
+  ],
+  "price": {
+    "value": "1049900",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/victoris"
+  },
+  "brand": {
+    "name": "Maruti Suzuki",
+    "image": "https://images.carandbike.com/car-images/big/maruti-suzuki/maruti-suzuki.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "whats_new": {
+    "Exterior": [
+      "In terms of exterior appearance, the Victoris gets a new face in line with Maruti's new design language. It comprises of a new grille, LED DRLs, and headlamps. Then, at the back, there's a connected LED tail light bar, shark-fin antenna, and a powered tailgate with gesture control. The SUV gets white front and rear skid plates, squared-off wheel arches, and rides on 17-inch (215/60 section) dual-tone aero-cut alloys."
+    ],
+    "Interior": [
+      "Inside, the Victoris is replete with new-age features including a 10.25-inch fully digital infotainment screen, 10.1-inch instrument cluster, 64-colour ambient lighting, and an Alexa assistant. Moreover, it gets Suzuki Maps with traffic and speed recognition, Infinity x Dolby Atmos audio with eight speakers, eight-way power-adjustable ventilated front seats, and a panoramic sunroof. There are two new interior colourways and soem variants can be had with an underbody CNG tank with a ‘concealed space’ concept."
+    ],
+    "Engine and Gearbox": [
+      "In terms of engine options, Maruti Suzuki has powered the Victoris by a 1.5-litre petrol engine, alogn with mild- and strong-hybrid powertrains. The mid-size SUV is offered in eight variants across FWD and 4WD configurations – LXi, VXi, ZXi, ZXi (O), ZXi+, ZXi+ (O), ZXi+ 4WD, and ZXi+(O) 4WD. On the transmission front, options include a five-speed manual, six-speed automatic with paddle shifters, and an eCVT (strong hybrid). What's more, there are four terrain and three driving modes on offer as well."
+    ]
+  },
+  "verdict": "The Victoris, Maruti Arena's flagship SUV, combines a modern design with the proportions of a mid-size SUV. Loaded with several premium features like the latest Dolby Atmos technology and an Infinity Harman sound system, it offers buyers a range of choices across different price points with options like AWD on select variants and a CNG variant.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Maruti Suzuki Victoris",
+        "price": "10.5 - 19.99 Lakh",
+        "url": "/maruti-suzuki-cars/victoris"
+      },
+      {
+        "name": "Kia Seltos",
+        "price": "10.79 - 19.81 Lakh",
+        "url": "/kia-cars/seltos"
+      },
+      {
+        "name": "Toyota Urban Cruiser Hyryder",
+        "price": "10.95 - 19.76 Lakh",
+        "url": "/toyota-cars/urban-cruiser-hyryder"
+      },
+      {
+        "name": "Honda Elevate",
+        "price": "11 - 16.67 Lakh",
+        "url": "/honda-cars/elevate"
+      },
+      {
+        "name": "MG Astor",
+        "price": "9.65 - 15.36 Lakh",
+        "url": "/mg-cars/astor"
+      },
+      {
+        "name": "Tata Sierra",
+        "price": "11.49 - 18.49 Lakh",
+        "url": "/tata-cars/sierra"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 10.5 - 19.99 Lakh",
+          "₹ 10.79 - 19.81 Lakh",
+          "₹ 10.95 - 19.76 Lakh",
+          "₹ 11 - 16.67 Lakh",
+          "₹ 9.65 - 15.36 Lakh",
+          "₹ 11.49 - 18.49 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "8.7",
+          "7.9",
+          "-",
+          "8.5",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1490,1492 cc",
+          "1497 CC",
+          "1462 CC",
+          "1498 CC",
+          "1498 CC",
+          "1498 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic, CVT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "21 - 28 KM/L",
+          "17 - 20.7 KM/L",
+          "19.39 - 27.97 KM/L",
+          "15.31 - 16.92 KM/L",
+          "14 KM/L",
+          "16 - 18 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Hybrid, Petrol, Petrol+CNG",
+          "Petrol, Diesel",
+          "Hybrid, Petrol, CNG",
+          "Petrol",
+          "Petrol",
+          "Petrol, Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "45.0, 55.0 L",
+          "50.0 L",
+          "45.0 L",
+          "40.0 L",
+          "48.0 L",
+          "50.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "35",
+          "23",
+          "27",
+          "17",
+          "9",
+          "17"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Victoris vs Seltos",
+          "Victoris vs Urban Cruiser Hyryder",
+          "Victoris vs Elevate",
+          "Victoris vs Astor",
+          "Victoris vs Sierra"
+        ]
+      }
+    ]
+  }
+}

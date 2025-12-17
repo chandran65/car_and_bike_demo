@@ -1,0 +1,249 @@
+{
+  "basic_info": {
+    "name": "Jeep Compass",
+    "manufacturer": "Jeep",
+    "model": "Compass",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/jeep-cars/compass",
+    "image_url": "https://images.carandbike.com/car-images/large/jeep/compass/jeep-compass.jpg?v=53",
+    "description": "Jeep Compass is a 5-seater SUV available at a starting price of Rs. 17.73 Lakh. The car is available in 22 variants, with 1 engine and 2 transmission option. Additionally, Compass offers a Ground Clearance measurement of 178 mm and a Boot capacity of 438 liters. You can choose from 20 colors for the Compass. The mileage of the Compass varies from 17 KM/L depending on the model.",
+    "model_date": "2023-09-18",
+    "sku": "jeep-compass-1490",
+    "vin": "5NPEL4AB3BH001490",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1956 cc",
+    "power": "170 bhp",
+    "torque": "350 Nm",
+    "fuel_type": "Diesel"
+  },
+  "transmission": "Manual, Automatic",
+  "fuel": {
+    "type": "Diesel",
+    "efficiency": "15 - 17 KM/L"
+  },
+  "dimensions": {
+    "width": "1818 mm ",
+    "height": "1640 mm",
+    "weight": "1597/1597",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Galaxy Blue Sandstorm",
+    "Techno Metallic Green Sandstorm",
+    "Magnesio Grey Sandstorm",
+    "Exotica Red Sandstorm",
+    "Brilliant Black Sandstorm",
+    "Silvery Moon Sandstorm",
+    "Pearl White Sandstorm",
+    "Brilliant Black longitude",
+    "Galaxy Blue longitude",
+    "Techno Metallic Green longitude",
+    "Magnesio Grey longitude",
+    "Billet Silver Metallic longitude",
+    "Pearl White longitude",
+    "Deep Cherry Red longitude",
+    "Brilliant Black Sport",
+    "Galaxy Blue sport",
+    "Techno Metallic Green sport",
+    "Magnesio Grey Sport",
+    "Billet Silver Sport",
+    "Pearl White Sport"
+  ],
+  "price": {
+    "value": 1773000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/jeep-cars/compass"
+  },
+  "brand": {
+    "name": "Jeep",
+    "image": "https://images.carandbike.com/car-images/big/jeep/jeep.png?v=1"
+  },
+  "rating": {
+    "value": "8.2",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Well-Appointed Cabin With A Robust Build",
+    "Sharply Styled And Looks Luxurious",
+    "Comes With 4X4 Capability"
+  ],
+  "cons": [
+    "Several Essential Features Missing",
+    "Diesel-Automatic Offers Decent Performance",
+    "Top Variants Are Exorbitantly Priced"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "17 KM/L",
+      "city_mileage": "15 KM/L",
+      "highway_mileage": "18 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Manual",
+      "mileage": "17 KM/L",
+      "city_mileage": "15 KM/L",
+      "highway_mileage": "18 KM/L"
+    }
+  ],
+  "verdict": "The 2024 Jeep Compass is a solid SUV with strong brand value and a peppy diesel engine, now made more affordable with the 4x2 diesel automatic variant. While it may lag behind some competitors in terms of features and performance value, its premium styling, strong performance at higher revs, and the addition of the BlackShark edition make it an attractive option for Jeep enthusiasts.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Jeep Compass",
+        "price": "17.73 - 30.58 Lakh",
+        "url": "/jeep-cars/compass"
+      },
+      {
+        "name": "MG Hector",
+        "price": "14 - 21.52 Lakh",
+        "url": "/mg-cars/hector"
+      },
+      {
+        "name": "Tata Harrier",
+        "price": "14 - 25.25 Lakh",
+        "url": "/tata-cars/harrier"
+      },
+      {
+        "name": "Hyundai Creta N Line",
+        "price": "16.35 - 20.09 Lakh",
+        "url": "/hyundai-cars/creta-n-line"
+      },
+      {
+        "name": "MG Hector Plus",
+        "price": "16.05 - 21.34 Lakh",
+        "url": "/mg-cars/hector-plus"
+      },
+      {
+        "name": "Tata Sierra",
+        "price": "11.49 - 18.49 Lakh",
+        "url": "/tata-cars/sierra"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 17.73 - 30.58 Lakh",
+          "₹ 14 - 21.52 Lakh",
+          "₹ 14 - 25.25 Lakh",
+          "₹ 16.35 - 20.09 Lakh",
+          "₹ 16.05 - 21.34 Lakh",
+          "₹ 11.49 - 18.49 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.2",
+          "7.5",
+          "7.9",
+          "-",
+          "8.1",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1956 cc",
+          "1451 CC",
+          "1956 CC",
+          "1482 CC",
+          "1956 CC",
+          "1498 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "15 - 17 KM/L",
+          "13.96 - 17.4 KM/L",
+          "14.6 - 16.8 KM/L",
+          "18 - 18.2 KM/L",
+          "16 - 17 KM/L",
+          "16 - 18 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Diesel",
+          "Petrol, Diesel",
+          "Diesel",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol, Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "60.0 L",
+          "60.0 L",
+          "50.0 L",
+          "51.0 L",
+          "60.0 L",
+          "50.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "22",
+          "20",
+          "23",
+          "12",
+          "24",
+          "17"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Compass vs Hector",
+          "Compass vs Harrier",
+          "Compass vs Creta N Line",
+          "Compass vs Hector Plus",
+          "Compass vs Sierra"
+        ]
+      }
+    ]
+  }
+}

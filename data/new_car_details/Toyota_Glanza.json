@@ -1,0 +1,241 @@
+{
+  "basic_info": {
+    "name": "Toyota Glanza",
+    "manufacturer": "Toyota",
+    "model": "Glanza",
+    "body_type": null,
+    "url": "https://www.carandbike.com/toyota-cars/glanza",
+    "image_url": "https://images.carandbike.com/car-images/large/toyota/glanza/toyota-glanza.jpg?v=31",
+    "description": "Toyota Glanza is a 5-seater  available at a starting price of Rs. 6.39 Lakh. The car is available in 9 variants, with 1 engine and 2 transmission option. Additionally, Glanza offers a Ground Clearance measurement of 170 mm and a Boot capacity of 318 liters. You can choose from 5 colors for the Glanza. The mileage of the Glanza varies from 22.4 KM/L depending on the model.",
+    "model_date": "2022-03-15",
+    "sku": "toyota-glanza-1584",
+    "vin": "5NPEL4AB3BH001584",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1197 cc",
+    "power": "76 bhp @ 6000 rpm,89 bhp @ 6000 rpm bhp",
+    "torque": "113 Nm @ 4400 rpm,98.5 Nm @ 4300 rpm Nm",
+    "fuel_type": "Petrol, Petrol+CNG"
+  },
+  "transmission": "Manual, AMT",
+  "fuel": {
+    "type": "Petrol, Petrol+CNG",
+    "efficiency": "22 - 22 KM/L"
+  },
+  "dimensions": {
+    "width": "1745 mm ",
+    "height": "1500 mm",
+    "weight": "920/935",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "SPORTIN RED",
+    "CAFÉ WHITE",
+    "Insta Blue",
+    "GAMING GREY",
+    "ENTICING SILVER"
+  ],
+  "price": {
+    "value": "639300",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/toyota-cars/glanza"
+  },
+  "brand": {
+    "name": "Toyota",
+    "image": "https://images.carandbike.com/car-images/big/toyota/toyota.png?v=1"
+  },
+  "rating": {
+    "value": "7.7",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Bold Design And Styling",
+    "Smart Features And Tech",
+    "Top-End Trims Get 6 Airbags"
+  ],
+  "cons": [
+    "Doesn&rsquo;T Get A Diesel Option",
+    "Interior Could Have Been Better",
+    "No Longer Gets A Cvt Automation Option"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "22.4 KM/L",
+      "city_mileage": "21 KM/L",
+      "highway_mileage": "23 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "AMT",
+      "mileage": "22.9 KM/L",
+      "city_mileage": "21 KM/L",
+      "highway_mileage": "23 KM/L"
+    },
+    {
+      "fuel_type": "Petrol+CNG",
+      "transmission": "Manual",
+      "mileage": "22.4 KM/L",
+      "city_mileage": "22 KM/L",
+      "highway_mileage": "24 KM/L"
+    }
+  ],
+  "verdict": "It has many aspects working for it, and the robust sales only add to it. The nimble handling is more than adequate for daily city usage and is also equipped for a weekend getaway thanks to the ample boot space coupled with the high fuel efficiency figures. Furthermore, priced between ₹ 6.71 lakh to ₹ 9.99 lakh (ex-showroom).",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Toyota Glanza",
+        "price": "6.39 - 9.15 Lakh",
+        "url": "/toyota-cars/glanza"
+      },
+      {
+        "name": "Hyundai Elite i20",
+        "price": "6.87 - 10.52 Lakh",
+        "url": "/hyundai-cars/elite-i20"
+      },
+      {
+        "name": "Maruti Suzuki Baleno",
+        "price": "5.99 - 9.1 Lakh",
+        "url": "/maruti-suzuki-cars/baleno"
+      },
+      {
+        "name": "Tata Altroz",
+        "price": "6.91 - 11.81 Lakh",
+        "url": "/tata-cars/altroz"
+      },
+      {
+        "name": "Hyundai i20 N Line",
+        "price": "9.14 - 11.6 Lakh",
+        "url": "/hyundai-cars/i20-n-line"
+      },
+      {
+        "name": "MINI Cooper S 2024",
+        "price": "49.68 - 61.85 Lakh",
+        "url": "/mini-cars/cooper-s-2024"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 6.39 - 9.15 Lakh",
+          "₹ 6.87 - 10.52 Lakh",
+          "₹ 5.99 - 9.1 Lakh",
+          "₹ 6.91 - 11.81 Lakh",
+          "₹ 9.14 - 11.6 Lakh",
+          "₹ 49.68 - 61.85 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.7",
+          "8.2",
+          "8.2",
+          "8.8",
+          "7.9",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1197 cc",
+          "1197 CC",
+          "1197 CC",
+          "1199 CC",
+          "998 CC",
+          "1998 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, AMT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "22 - 22 KM/L",
+          "19.65 - 20.35 KM/L",
+          "22.35 - 22.94 KM/L",
+          "19 - 25.11 KM/L",
+          "20.25 KM/L",
+          "17.33 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Petrol+CNG",
+          "Petrol",
+          "Petrol, CNG",
+          "Diesel, Petrol, CNG",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "37.0, 55.0 L",
+          "37.0 L",
+          "37.0 L",
+          "37.0 L",
+          "37.0 L",
+          "61.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "9",
+          "18",
+          "9",
+          "10",
+          "8",
+          "4"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Glanza vs Elite i20",
+          "Glanza vs Baleno",
+          "Glanza vs Altroz",
+          "Glanza vs i20 N Line",
+          "Glanza vs Cooper S 2024"
+        ]
+      }
+    ]
+  }
+}

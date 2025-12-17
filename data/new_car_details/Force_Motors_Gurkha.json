@@ -1,0 +1,226 @@
+{
+  "basic_info": {
+    "name": "Force Motors Gurkha",
+    "manufacturer": "Force Motors",
+    "model": "Gurkha",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/force-motors-cars/gurkha",
+    "image_url": "https://images.carandbike.com/car-images/large/force-motors/gurkha/force-motors-gurkha.jpg?v=28",
+    "description": "Force Motors Gurkha is a 4,7-seater SUV available at a starting price of Rs. 19.46 Lakh. The car is available in 2 variants, with 1 engine and 1 transmission option. Additionally, Gurkha offers a Ground Clearance measurement of 205 mm and a Boot capacity of 500 liters. You can choose from 4 colors for the Gurkha. The mileage of the Gurkha varies from 15 KM/L depending on the model.",
+    "model_date": "2017-03-20",
+    "sku": "force-motors-gurkha-1340",
+    "vin": "5NPEL4AB3BH001340",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2596 cc",
+    "power": "90 bhp",
+    "torque": "250 Nm",
+    "fuel_type": "Diesel"
+  },
+  "transmission": "Manual",
+  "fuel": {
+    "type": "Diesel",
+    "efficiency": "15 KM/L"
+  },
+  "dimensions": {
+    "width": "1812 mm ",
+    "height": "2075 mm",
+    "weight": "2650/2650",
+    "seating_capacity": "4,7",
+    "number_of_doors": "3,5"
+  },
+  "colors": [
+    "White",
+    "Red",
+    "Green",
+    "Matt Black"
+  ],
+  "price": {
+    "value": "1946481",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/force-motors-cars/gurkha"
+  },
+  "brand": {
+    "name": "Force Motors",
+    "image": "https://images.carandbike.com/car-images/big/force-motors/force-motors.png?v=1"
+  },
+  "rating": {
+    "value": "6.1",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Off-Road Capability",
+    "Premium Than Before",
+    "Choice In Personalisation"
+  ],
+  "cons": [
+    "Poor Aftersales Network",
+    "Limited Sales",
+    "Limited Variants"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Manual",
+      "mileage": "15 KM/L",
+      "city_mileage": "11 KM/L",
+      "highway_mileage": "14 KM/L"
+    }
+  ],
+  "verdict": "The all-new Force Gurkha has significantly evolved, enhancing both its utility and appeal. It now boasts a range of safety features and creature comforts, striking a balance between modern amenities and its renowned off-road prowess. This evolution in practicality widens its appeal, making it an attractive option for a broader audience.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Force Motors Gurkha",
+        "price": "15.63 - 16.8 Lakh",
+        "url": "/force-motors-cars/gurkha"
+      },
+      {
+        "name": "Isuzu D-Max V-Cross",
+        "price": "19.73 - 35.97 Lakh",
+        "url": "/isuzu-cars/d-max-v-cross"
+      },
+      {
+        "name": "Tata Safari",
+        "price": "14.66 - 25.96 Lakh",
+        "url": "/tata-cars/safari"
+      },
+      {
+        "name": "Mahindra XUV700",
+        "price": "13.66 - 25.19 Lakh",
+        "url": "/mahindra-cars/xuv700"
+      },
+      {
+        "name": "Mahindra Scorpio-N",
+        "price": "13.2 - 23.99 Lakh",
+        "url": "/mahindra-cars/scorpio-n"
+      },
+      {
+        "name": "Mahindra Scorpio Classic",
+        "price": "12.98 - 16.71 Lakh",
+        "url": "/mahindra-cars/scorpio-classic"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 15.63 - 16.8 Lakh",
+          "₹ 19.73 - 35.97 Lakh",
+          "₹ 14.66 - 25.96 Lakh",
+          "₹ 13.66 - 25.19 Lakh",
+          "₹ 13.2 - 23.99 Lakh",
+          "₹ 12.98 - 16.71 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "6.1",
+          "7.0",
+          "5.5",
+          "8.3",
+          "8.4",
+          "7.5"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2596 cc",
+          "1898 CC",
+          "1956 CC",
+          "1997 CC",
+          "1997 CC",
+          "2184 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "15 KM/L",
+          "14.4 KM/L",
+          "16.14 KM/L",
+          "13 - 16.57 KM/L",
+          "14 - 18.5 KM/L",
+          "15 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Diesel",
+          "Diesel",
+          "Diesel",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "4,7 Seater",
+          "5 Seater",
+          "7 Seater",
+          "7 Seater",
+          "7 Seater",
+          "7 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "63.5 L",
+          "55.0 L",
+          "50.0 L",
+          "60.0 L",
+          "57.0 L",
+          "60.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "5",
+          "24",
+          "27",
+          "31",
+          "4"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Gurkha vs D-Max V-Cross",
+          "Gurkha vs Safari",
+          "Gurkha vs XUV700",
+          "Gurkha vs Scorpio-N",
+          "Gurkha vs Scorpio Classic"
+        ]
+      }
+    ]
+  }
+}

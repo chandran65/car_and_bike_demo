@@ -1,0 +1,224 @@
+{
+  "basic_info": {
+    "name": "Hyundai Creta N Line",
+    "manufacturer": "Hyundai",
+    "model": "Creta N Line",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/hyundai-cars/creta-n-line",
+    "image_url": "https://images.carandbike.com/car-images/large/hyundai/creta-n-line/hyundai-creta-n-line.jpg?v=19",
+    "description": "Hyundai Creta N Line is a 5-seater SUV available at a starting price of Rs. 16.35 Lakh. The car is available in 12 variants, with 2 engine and 2 transmission option. Additionally, Creta N Line offers a Ground Clearance measurement of 190 mm and a Boot capacity of 400 liters. You can choose from 6 colors for the Creta N Line. The mileage of the Creta N Line varies from 18.2 - 18 KM/L depending on the model.",
+    "model_date": "2024-03-11",
+    "sku": "hyundai-creta-n-line-1770",
+    "vin": "5NPEL4AB3BH001770",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1482 cc",
+    "power": "158 bhp",
+    "torque": "253 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Manual, DCT",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "18 - 18 KM/L"
+  },
+  "dimensions": {
+    "width": "1790 mm ",
+    "height": "1635 mm",
+    "weight": "1200/1200",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Atlas White with Abyss black",
+    "Shadow Grey",
+    "Atlas White",
+    "Abyss Black",
+    "Titan Grey",
+    "Thunder Blue with abyss black roof"
+  ],
+  "price": {
+    "value": 1634905,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/hyundai-cars/creta-n-line"
+  },
+  "brand": {
+    "name": "Hyundai",
+    "image": "https://images.carandbike.com/car-images/big/hyundai/hyundai.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "DCT",
+      "mileage": "18.2 KM/L",
+      "city_mileage": "18.2 KM/L",
+      "highway_mileage": "0 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "18 KM/L",
+      "city_mileage": "18 KM/L",
+      "highway_mileage": "0 KM/L"
+    }
+  ],
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Hyundai Creta N Line",
+        "price": "16.35 - 20.09 Lakh",
+        "url": "/hyundai-cars/creta-n-line"
+      },
+      {
+        "name": "MG Hector Plus",
+        "price": "16.05 - 21.34 Lakh",
+        "url": "/mg-cars/hector-plus"
+      },
+      {
+        "name": "Jeep Compass",
+        "price": "17.73 - 30.58 Lakh",
+        "url": "/jeep-cars/compass"
+      },
+      {
+        "name": "MG Hector",
+        "price": "14 - 21.52 Lakh",
+        "url": "/mg-cars/hector"
+      },
+      {
+        "name": "Tata Harrier",
+        "price": "14 - 25.25 Lakh",
+        "url": "/tata-cars/harrier"
+      },
+      {
+        "name": "Tata Sierra",
+        "price": "11.49 - 18.49 Lakh",
+        "url": "/tata-cars/sierra"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 16.35 - 20.09 Lakh",
+          "₹ 16.05 - 21.34 Lakh",
+          "₹ 17.73 - 30.58 Lakh",
+          "₹ 14 - 21.52 Lakh",
+          "₹ 14 - 25.25 Lakh",
+          "₹ 11.49 - 18.49 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "8.1",
+          "8.2",
+          "7.5",
+          "7.9",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1482 cc",
+          "1956 CC",
+          "1956 CC",
+          "1451 CC",
+          "1956 CC",
+          "1498 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, DCT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "18 - 18 KM/L",
+          "16 - 17 KM/L",
+          "15 - 17 KM/L",
+          "13.96 - 17.4 KM/L",
+          "14.6 - 16.8 KM/L",
+          "16 - 18 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol, Diesel",
+          "Diesel",
+          "Petrol, Diesel",
+          "Diesel",
+          "Petrol, Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "51.0 L",
+          "60.0 L",
+          "60.0 L",
+          "60.0 L",
+          "50.0 L",
+          "50.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "12",
+          "24",
+          "22",
+          "20",
+          "23",
+          "17"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Creta N Line vs Hector Plus",
+          "Creta N Line vs Compass",
+          "Creta N Line vs Hector",
+          "Creta N Line vs Harrier",
+          "Creta N Line vs Sierra"
+        ]
+      }
+    ]
+  }
+}

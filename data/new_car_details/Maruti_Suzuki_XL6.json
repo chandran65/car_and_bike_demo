@@ -1,0 +1,246 @@
+{
+  "basic_info": {
+    "name": "Maruti Suzuki XL6",
+    "manufacturer": "Maruti Suzuki",
+    "model": "XL6",
+    "body_type": "MUV",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/xl6",
+    "image_url": "https://images.carandbike.com/car-images/large/maruti-suzuki/xl6/maruti-suzuki-xl6.jpg?v=36",
+    "description": "Maruti Suzuki XL6 is a 6-seater MUV available at a starting price of Rs. 11.52 Lakh. The car is available in 9 variants, with 2 engine and 2 transmission option. Additionally, XL6 offers a Ground Clearance measurement of 180 mm and a Boot capacity of 209 liters. You can choose from 9 colors for the XL6. The mileage of the XL6 varies from 20.3 - 26 KM/L depending on the model.",
+    "model_date": "2022-04-21",
+    "sku": "maruti-suzuki-xl6-1594",
+    "vin": "5NPEL4AB3BH001594",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1462 cc",
+    "power": "102 bhp @ 6000 rpm,87 bhp @ 6000 rpm bhp",
+    "torque": "121.5 Nm @ 4300 rpm,139 Nm @ 4300 rpm Nm",
+    "fuel_type": "Petrol, Petrol+CNG"
+  },
+  "transmission": "Manual, Automatic",
+  "fuel": {
+    "type": "Petrol, Petrol+CNG",
+    "efficiency": "20 - 26 KM/L"
+  },
+  "dimensions": {
+    "width": "1775 mm ",
+    "height": "1700 mm",
+    "weight": "1180/1180",
+    "seating_capacity": "6",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Splendid Silver With Midnight Black Roof",
+    "Brave Khaki With Midnight Black Roof",
+    "Opulent Red With Midnight Black Roof",
+    "NEXA Blue",
+    "Brave Khaki",
+    "Arctic White",
+    "Opulent Red",
+    "Grandeur Grey",
+    "Splendid Silver"
+  ],
+  "price": {
+    "value": 1152300,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/xl6"
+  },
+  "brand": {
+    "name": "Maruti Suzuki",
+    "image": "https://images.carandbike.com/car-images/big/maruti-suzuki/maruti-suzuki.png?v=1"
+  },
+  "rating": {
+    "value": "7.7",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Affordability",
+    "Comfortable Seats",
+    "Improved Safety Kit"
+  ],
+  "cons": [
+    "No Diesel On Offer",
+    "Lacks Outright Grunt",
+    "3Rd-Row Isn'T For Everyone"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "20.3 KM/L",
+      "city_mileage": "18 KM/L",
+      "highway_mileage": "20 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "21 KM/L",
+      "city_mileage": "18 KM/L",
+      "highway_mileage": "20 KM/L"
+    },
+    {
+      "fuel_type": "Petrol+CNG",
+      "transmission": "Manual",
+      "mileage": "26 KM/L",
+      "city_mileage": "24 KM/L",
+      "highway_mileage": "28 KM/L"
+    }
+  ],
+  "whats_new": {
+    "Introduction": [
+      "The latest iteration of the Maruti XL6 was launched in July 2025 with new upgrades.",
+      "The XL6 is a six-seater MPV yet known for its stylish SUV-inspired design.",
+      "The upgraded XL6 features a comfortable interior and fuel-efficient powertrain options.",
+      "The XL6 is a popular choice for families seeking a versatile and attractive vehicle."
+    ],
+    "Exterior": [
+      "In the front, the LED reflector headlamps have integrated DRLs (Daytime Running Lights).",
+      "A large front grille with sweeping X-bar chrome accents is its characterising factor.",
+      "The XL6’s body features black cladding along the sides and around the wheel arches.",
+      "This has also been complemented by roof rails that reinforce its SUV-inspired styling.",
+      "Lastly, the MPV rides on 16-inch dual-tone machined finish alloy wheels, which enhance the XL6’s stance."
+    ],
+    "Interior": [
+      "Inside, the XL6 has an all-black cabin with a focus on simplicity yet with premium touches.",
+      "The dashboard is split by a black AC vent panel with a large black and grey panel below.",
+      "Its dashboard is also highlighted by silver accents and stone finish surfaces.",
+      "The XL6 features leatherette upholstery for its seats and soft touch padding on the door pads.",
+      "The cabin feels spacious due to the large glass area and a lowered dashboard position.",
+      "Front seats are large and comfortable for long journeys, while the second row consists of plush leatherette captain seats.",
+      "The XL6’s third row provides recline functionality."
+    ],
+    "Powertrain": [
+      "The 2025 XL6 is powered by a 1.5-litre Smart Hybrid petrol engine.",
+      "It delivers 102bhp of power and 137Nm of torque.",
+      "There is also a CNG variant that is rated at 87bhp and 121Nm of torque.",
+      "Transmission options include a five-speed manual and a six-speed automatic transmission.",
+      "The claimed fuel economy for the petrol model is 20.27kmpl and 26.32km/kg for the CNG variant."
+    ]
+  },
+  "verdict": "The XL6 is a welcome addition to the Maruti Suzuki family. Could it have been better? Yes. But it is still a car I see plenty of families and individuals adopting. The pricing is fairly attractive sitting just a bit higher than the Ertiga's but with a good chunk of equipment as standard. It may not be as big as the Innova, and perhaps remains a tad lower on premiumness. But its ride quality and feature list, plus its styling and pricing will get people in to check out Nexa's first 3-row car.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Maruti Suzuki XL6",
+        "price": "11.52 - 14.48 Lakh",
+        "url": "/maruti-suzuki-cars/xl6"
+      },
+      {
+        "name": "Mahindra Marazzo",
+        "price": "14.06 - 16.38 Lakh",
+        "url": "/mahindra-cars/marazzo"
+      },
+      {
+        "name": "Maruti Suzuki Ertiga",
+        "price": "8.8 - 12.94 Lakh",
+        "url": "/maruti-suzuki-cars/ertiga"
+      },
+      {
+        "name": "Toyota Innova Crysta",
+        "price": "18.1 - 25.37 Lakh",
+        "url": "/toyota-cars/innova-crysta"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 11.52 - 14.48 Lakh",
+          "₹ 14.06 - 16.38 Lakh",
+          "₹ 8.8 - 12.94 Lakh",
+          "₹ 18.1 - 25.37 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.7",
+          "8.3",
+          "7.3",
+          "7.7"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1462 cc",
+          "1497 CC",
+          "1462 CC",
+          "2393 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "20 - 26 KM/L",
+          "17.6 KM/L",
+          "19.01 - 26.2 KM/L",
+          "15.1 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Petrol+CNG",
+          "Diesel",
+          "Petrol, CNG",
+          "Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "6 Seater",
+          "8 Seater",
+          "7 Seater",
+          "7 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "45.0 L",
+          "45.0 L",
+          "45.0 L",
+          "55.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "9",
+          "6",
+          "11",
+          "22"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "XL6 vs Marazzo",
+          "XL6 vs Ertiga",
+          "XL6 vs Innova Crysta"
+        ]
+      }
+    ]
+  }
+}

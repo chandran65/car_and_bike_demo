@@ -1,0 +1,227 @@
+{
+  "basic_info": {
+    "name": "Volvo XC60",
+    "manufacturer": "Volvo",
+    "model": "XC60",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/volvo-cars/xc60",
+    "image_url": "https://images.carandbike.com/car-images/large/volvo/xc60/volvo-xc60.jpg?v=14",
+    "description": "Volvo XC60 is a 5-seater SUV available at a starting price of Rs. 76.29 Lakh. The car is available in 1 variants, with 1 engine and 1 transmission option. Additionally, XC60 offers a Ground Clearance measurement of 216 mm and a Boot capacity of 483 liters. You can choose from 4 colors for the XC60. The mileage of the XC60 varies from 13 KM/L depending on the model.",
+    "model_date": "2022-09-21",
+    "sku": "volvo-xc60-1242",
+    "vin": "5NPEL4AB3BH001242",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1969 cc",
+    "power": "250 bhp",
+    "torque": "360 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "13 KM/L"
+  },
+  "dimensions": {
+    "width": "1902 mm ",
+    "height": "1653 mm",
+    "weight": "",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Pine Grey",
+    "Crystal White Pearl",
+    "Havana Brown",
+    "Black Max"
+  ],
+  "price": {
+    "value": "7629224",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/volvo-cars/xc60"
+  },
+  "brand": {
+    "name": "Volvo",
+    "image": "https://images.carandbike.com/car-images/big/volvo/volvo.png?v=1"
+  },
+  "rating": {
+    "value": "7.0",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Classic Styling And Proportions",
+    "Spacious Cabin For 5",
+    "Loaded On Features",
+    "&nbsp;"
+  ],
+  "cons": [
+    "Noisy At High Speeds",
+    "A Bit Firm Ride Quality",
+    "No Option Of A Diesel Engine"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "13 KM/L",
+      "city_mileage": "12.4 KM/L",
+      "highway_mileage": "0 KM/L"
+    }
+  ],
+  "verdict": "Volvo reaffirms its strong presence with a vehicle that's agile, refined, and delightful to drive. Despite the limited engine options, the Volvo XC60 solidifies its position as potentially the safest car on the roads, staying true to Volvo's legendary commitment to safety.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Volvo XC60",
+        "price": "67.11 Lakh",
+        "url": "/volvo-cars/xc60"
+      },
+      {
+        "name": "BMW X3",
+        "price": "75.55 - 79.27 Lakh",
+        "url": "/bmw-cars/x3"
+      },
+      {
+        "name": "Mercedes-Benz GLC",
+        "price": "79.25 Lakh",
+        "url": "/mercedes-benz-cars/glc"
+      },
+      {
+        "name": "Land Rover Discovery Sport",
+        "price": "72.05 - 73.63 Lakh",
+        "url": "/land-rover-cars/discovery-sport"
+      },
+      {
+        "name": "Lexus NX",
+        "price": "66.59 - 73.4 Lakh",
+        "url": "/lexus-cars/nx"
+      },
+      {
+        "name": "Audi Q5",
+        "price": "64.74 - 69.86 Lakh",
+        "url": "/audi-cars/q5"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 67.11 Lakh",
+          "₹ 75.55 - 79.27 Lakh",
+          "₹ 79.25 Lakh",
+          "₹ 72.05 - 73.63 Lakh",
+          "₹ 66.59 - 73.4 Lakh",
+          "₹ 64.74 - 69.86 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.0",
+          "7.5",
+          "8.3",
+          "7.3",
+          "7.1",
+          "7.5"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1969 cc",
+          "1998 CC",
+          "1993 CC",
+          "1997 CC",
+          "2487 CC",
+          "1984 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "13 KM/L",
+          "13.17 - 18.56 KM/L",
+          "15 - 20 KM/L",
+          "10.68 - 14.12 KM/L",
+          "18.3 KM/L",
+          "13.47 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Hybrid",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "71.0 L",
+          "60.0 L",
+          "62.0 L",
+          "70.0 L",
+          "56.0 L",
+          "70.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "2",
+          "2",
+          "2",
+          "4",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "XC60 vs X3",
+          "XC60 vs GLC",
+          "XC60 vs Discovery Sport",
+          "XC60 vs NX",
+          "XC60 vs Q5"
+        ]
+      }
+    ]
+  }
+}

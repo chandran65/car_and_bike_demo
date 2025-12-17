@@ -1,0 +1,280 @@
+{
+  "basic_info": {
+    "name": "Maruti Suzuki Brezza",
+    "manufacturer": "Maruti Suzuki",
+    "model": "Brezza",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/brezza",
+    "image_url": "https://images.carandbike.com/car-images/large/maruti-suzuki/brezza/maruti-suzuki-brezza.jpg?v=21",
+    "description": "Maruti Suzuki Brezza is a 5-seater SUV available at a starting price of Rs. 8.26 Lakh. The car is available in 15 variants, with 2 engine and 2 transmission option. Additionally, Brezza offers a Ground Clearance measurement of 198 mm and a Boot capacity of 328 liters. You can choose from 10 colors for the Brezza. The mileage of the Brezza varies from 20.2 - 25.5 KM/L depending on the model.",
+    "model_date": "2023-01-27",
+    "sku": "maruti-suzuki-brezza-1682",
+    "vin": "5NPEL4AB3BH001682",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1462 cc",
+    "power": "102 bhp @ 6000 rpm,87 bhp @ 5500 rpm bhp",
+    "torque": "121.5 Nm @ 4200 rpm,137.1 Nm @ 4300 rpm Nm",
+    "fuel_type": "Petrol, Petrol+CNG"
+  },
+  "transmission": "Manual, Automatic",
+  "fuel": {
+    "type": "Petrol, Petrol+CNG",
+    "efficiency": "19 - 25 KM/L"
+  },
+  "dimensions": {
+    "width": "1790 mm ",
+    "height": "1685 mm",
+    "weight": "1110/1110",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Pearl Mid Night Black",
+    "Sizzling Red",
+    "Pearl Artic White",
+    "Sizzling Red With Midnight Black Roof",
+    "Splendid Silver With Midnight Black Roof",
+    "Splendid Silver",
+    "Brave Khaki With Pearl Arctic White Roof",
+    "Magma Grey",
+    "Exuberant Blue",
+    "Brave Khaki"
+  ],
+  "price": {
+    "value": "825900",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/brezza"
+  },
+  "brand": {
+    "name": "Maruti Suzuki",
+    "image": "https://images.carandbike.com/car-images/big/maruti-suzuki/maruti-suzuki.png?v=1"
+  },
+  "rating": {
+    "value": "8.5",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Good Ride &amp; Handling",
+    "Efficient Engine",
+    "Smart Features"
+  ],
+  "cons": [
+    "Overdone styling",
+    "No diesel engine",
+    "Petrol engine not peppy enough"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "20.2 KM/L",
+      "city_mileage": "19 KM/L",
+      "highway_mileage": "22 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "19.8 KM/L",
+      "city_mileage": "19 KM/L",
+      "highway_mileage": "22 KM/L"
+    },
+    {
+      "fuel_type": "Petrol+CNG",
+      "transmission": "Manual",
+      "mileage": "25.5 KM/L",
+      "city_mileage": "26 KM/L",
+      "highway_mileage": "29 KM/L"
+    }
+  ],
+  "whats_new": {
+    "Introduction": [
+      "The Brezza is a compact SUV that has helped Maruti clocked good sales numbers in this segment.",
+      "Despite being a compact SUV, it has a spacious cabin and modern features as well.",
+      "Maruti has made sure the Brezza is available in multiple variants for diversely suitable price points, yet no more having a diesel counterpart.",
+      "The top-spec variants offer notable features such as a sunroof, head-up display, 360-degree camera, and more."
+    ],
+    "Maruti Brezza – Exterior": [
+      "The Brezza gets boxy proportions and yet has a tall and wide stance.",
+      "Up front is a wide grille finished in dark or chrome elements, with headlamps neatly integrated on either side.",
+      "While entry-level variants get halogens, the higher variants boast LED projector headlamps with LED DRLs.",
+      "Adding on, the carmaker has provided a black body cladding around the lower edges to protect it from minor scratches.",
+      "Plus, a chunky front and rear bumper along with squared wheel arches add to the ruggedness.",
+      "Now, the side profile shows a clean design with a strong shoulder line and 16-inch alloy wheels.",
+      "Available with optional dual-toned roof, the Brezza’s roof rails visually increase its height adding to the styling in turn.",
+      "At the back, the SUV has horizontally placed LED tail lamps that stretch towards the sides.",
+      "For further personalistions, the dual-tone combinations include a red exterior with black roof, or khaki shade with white roof."
+    ],
+    "Maruti Brezza – Interior": [
+      "Step inside, and you’ll notice that the Brezza has a clean dashboard design with black as the main stay with black-and-brown theme in higher variants.",
+      "Front seats are comfortable for short and taller individuals alike, with height-adjustable driver seat and support.",
+      "Rear seats can accommodate three adults and a 60:40 split fold functionality adds extra flexibility.",
+      "Then, a nine-inch touchscreen caters to all infotainment needs including music, maps, and calls with Apple CarPlay and Android Auto support.",
+      "The latter is paired with a semi-digital cluster showing important info at a glance.",
+      "A multi-function steering wheel adjusts tilt and reaches in top models for perfect driving position.",
+      "Other notable features include a wireless charger, ambient lighting on the doors, central armrest with storage, and a heads-up display."
+    ],
+    "Maruti Brezza – Powertrain": [
+      "The Brezza is powered by a 1.5‑litre, four‑cylinder petrol engine which produces 99.2bhp and 136.8Nm of torque.",
+      "The transmission choices include a five-speed manual and a six-speed AMT.",
+      "Maruti also offers a factory CNG version of the same 1.5‑litre engine which churns 86.63bhp and 121.5Nm of torque.",
+      "This CNG option is available with just the five-speed manual gearbox."
+    ]
+  },
+  "verdict": "Maruti Suzuki Brezza brings significant updates, both in terms of design and technology, making it a more attractive choice for modern buyers. While it faces stiff competition and comes with a premium price tag, its robust performance, tech-packed interior, and enhanced features make it a strong contender in the compact SUV space. It is ideal for buyers seeking a reliable, stylish, and well-equipped urban SUV.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Maruti Suzuki Brezza",
+        "price": "8.26 - 13.01 Lakh",
+        "url": "/maruti-suzuki-cars/brezza"
+      },
+      {
+        "name": "Skoda Kylaq",
+        "price": "7.55 - 12.8 Lakh",
+        "url": "/skoda-cars/kylaq"
+      },
+      {
+        "name": "Kia Sonet",
+        "price": "7.3 - 14.09 Lakh",
+        "url": "/kia-cars/sonet"
+      },
+      {
+        "name": "Renault Kiger",
+        "price": "6.14 - 11.73 Lakh",
+        "url": "/renault-cars/kiger"
+      },
+      {
+        "name": "Nissan Magnite",
+        "price": "5.62 - 10.76 Lakh",
+        "url": "/nissan-cars/magnite"
+      },
+      {
+        "name": "Tata Punch",
+        "price": "5.5 - 9.3 Lakh",
+        "url": "/tata-cars/punch"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 8.26 - 13.01 Lakh",
+          "₹ 7.55 - 12.8 Lakh",
+          "₹ 7.3 - 14.09 Lakh",
+          "₹ 6.14 - 11.73 Lakh",
+          "₹ 5.62 - 10.76 Lakh",
+          "₹ 5.5 - 9.3 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.5",
+          "-",
+          "8.4",
+          "8.1",
+          "8.1",
+          "7.9"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1462 cc",
+          "999 CC",
+          "1197 CC",
+          "999 CC",
+          "999 CC",
+          "1199 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "19 - 25 KM/L",
+          "18.09 KM/L",
+          "18.4 - 24.1 KM/L",
+          "20 KM/L",
+          "19.7 KM/L",
+          "18.9 - 20 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Petrol+CNG",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol, CNG",
+          "Petrol, CNG"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "48.0 L",
+          "50.0 L",
+          "45.0 L",
+          "40.0 L",
+          "40.0 L",
+          "37.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "15",
+          "14",
+          "24",
+          "15",
+          "25",
+          "31"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Brezza vs Kylaq",
+          "Brezza vs Sonet",
+          "Brezza vs Kiger",
+          "Brezza vs Magnite",
+          "Brezza vs Punch"
+        ]
+      }
+    ]
+  }
+}

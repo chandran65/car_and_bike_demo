@@ -1,0 +1,266 @@
+{
+  "basic_info": {
+    "name": "Tata Harrier",
+    "manufacturer": "Tata",
+    "model": "Harrier",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/tata-cars/harrier",
+    "image_url": "https://images.carandbike.com/car-images/large/tata/harrier/tata-harrier.jpg?v=75",
+    "description": "Tata Harrier is a 5-seater SUV available at a starting price of Rs. 14 Lakh. The car is available in 23 variants, with 1 engine and 2 transmission option. Additionally, Harrier offers a Ground Clearance measurement of 205 mm and a Boot capacity of 445 liters. You can choose from 4 colors for the Harrier. The mileage of the Harrier varies from 16.8 - 14.6 KM/L depending on the model.",
+    "model_date": "2023-10-17",
+    "sku": "tata-harrier-1549",
+    "vin": "5NPEL4AB3BH001549",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1956 cc",
+    "power": "168 bhp",
+    "torque": "350 Nm",
+    "fuel_type": "Diesel"
+  },
+  "transmission": "Manual, Automatic",
+  "fuel": {
+    "type": "Diesel",
+    "efficiency": "14 - 16 KM/L"
+  },
+  "dimensions": {
+    "width": "1922 mm ",
+    "height": "1718 mm",
+    "weight": "1820/1820",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Sunlit Yellow",
+    "Pebble Grey",
+    "Coral Red",
+    "Lunar White"
+  ],
+  "price": {
+    "value": 1399990,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/tata-cars/harrier"
+  },
+  "brand": {
+    "name": "Tata",
+    "image": "https://images.carandbike.com/car-images/big/tata/tata.png?v=1"
+  },
+  "rating": {
+    "value": "7.9",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Butch Design",
+    "Ride Quality",
+    "Spacious Cabin"
+  ],
+  "cons": [
+    "No Petrol Engine",
+    "No Ira Connectivity",
+    "Not The Smoothest Gearbox"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Manual",
+      "mileage": "16.8 KM/L",
+      "city_mileage": "14 KM/L",
+      "highway_mileage": "18 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "14.6 KM/L",
+      "city_mileage": "14 KM/L",
+      "highway_mileage": "18 KM/L"
+    }
+  ],
+  "whats_new": {
+    "Introduction": [
+      "Tata Motors gave a mid-life refresh to its popular mid-size SUV, the Harrier, in late 2023.",
+      "This update gave the SUV a much-needed update ever since it was first introduced in India.",
+      "As of late 2025, the brand retails this SUV with only a diesel powertrain, which will change soon.",
+      "The company will introduce a petrol version to compete with the Creta and Grand Vitara alongside the EV derivative launch timeline.",
+      "But for now, prospective buyers can expect a well-packaged diesel mid-size SUV."
+    ],
+    "Exterior": [
+      "The exterior highlights of the current Harrier include new LED bars at the front and rear and tweaked bumpers.",
+      "Up front is a new grille and LED headlamps that are now placed in the corner of the front bumpers.",
+      "The silhouette of the car remains almost identical to the original Harrier, but it now rides on 19-inch alloy wheels.",
+      "Otherwise, the most prominent change at the back is the 'Harrier' lettering along with new LED taillamps.",
+      "As for the special editions, each come in a unique colour and embellishments to provide some exclusivity to a buyer."
+    ],
+    "Interior": [
+      "The current Harrier is a facelifted version, and its cabin received a major overhaul.",
+      "The top-spec variants boast a dual-tone interior theme along with a 12.3-inch touchscreen infotainment screen with wireless mobile connectivity.",
+      "A fully digital instrument cluster comes with a new interface and can be customised according to the driver's choice.",
+      "The old aircon control panel is now replaced by a touchscreen unit with two toggle switches.",
+      "Moreover, the SUV now boasts an illuminated panoramic sunroof and ambient lighting.",
+      "It also gets a JLR-inspired gear knob, JBL-sourced speaker with in-built subwoofer, air purifier, rotary dial for drive modes, and a wireless charger.",
+      "The Harrier SUV has already scored a five-star safety rating in the global NCAP crash test.",
+      "On the safety front, it comes equipped with seven airbags, advanced electronic stability program, ADAS with 11 safety functions, and a tyre pressure monitoring system."
+    ],
+    "Powertrain": [
+      "Tata Motors has not made any mechanical changes to the facelifted Harrier.",
+      "It continues to be powered by a 2.0-litre diesel engine.",
+      "This oil burner churns out 170bhp and 350Nm of torque.",
+      "The power is sent only to the front wheels via a six-speed manual gearbox or a six-speed torque converter.",
+      "Recently, the carmaker has introduced the Harrier EV and soon there will also be a petrol Harrier."
+    ]
+  },
+  "verdict": "The 2023 Tata Harrier Facelift brings substantial upgrades in style, technology, and safety, offering a more premium experience than its predecessor. While there are some minor inconveniences in functionality, the overall package remains strong, making it a compelling choice for buyers seeking a stylish, tech-savvy SUV in the mid-size segment.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Tata Harrier",
+        "price": "14 - 25.25 Lakh",
+        "url": "/tata-cars/harrier"
+      },
+      {
+        "name": "MG Hector",
+        "price": "14 - 21.52 Lakh",
+        "url": "/mg-cars/hector"
+      },
+      {
+        "name": "MG Hector Plus",
+        "price": "16.05 - 21.34 Lakh",
+        "url": "/mg-cars/hector-plus"
+      },
+      {
+        "name": "Hyundai Creta N Line",
+        "price": "16.35 - 20.09 Lakh",
+        "url": "/hyundai-cars/creta-n-line"
+      },
+      {
+        "name": "Maruti Suzuki Grand Vitara",
+        "price": "11.03 - 19.66 Lakh",
+        "url": "/maruti-suzuki-cars/grand-vitara"
+      },
+      {
+        "name": "Honda Elevate",
+        "price": "11 - 16.67 Lakh",
+        "url": "/honda-cars/elevate"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 14 - 25.25 Lakh",
+          "₹ 14 - 21.52 Lakh",
+          "₹ 16.05 - 21.34 Lakh",
+          "₹ 16.35 - 20.09 Lakh",
+          "₹ 11.03 - 19.66 Lakh",
+          "₹ 11 - 16.67 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.9",
+          "7.5",
+          "8.1",
+          "-",
+          "8.5",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1956 cc",
+          "1451 CC",
+          "1956 CC",
+          "1482 CC",
+          "1462 CC",
+          "1498 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "14 - 16 KM/L",
+          "13.96 - 17.4 KM/L",
+          "16 - 17 KM/L",
+          "18 - 18.2 KM/L",
+          "19.38 - 27.97 KM/L",
+          "15.31 - 16.92 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Diesel",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol",
+          "Hybrid, Petrol, CNG",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "50.0 L",
+          "60.0 L",
+          "60.0 L",
+          "51.0 L",
+          "45.0 L",
+          "40.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "23",
+          "20",
+          "24",
+          "12",
+          "27",
+          "17"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Harrier vs Hector",
+          "Harrier vs Hector Plus",
+          "Harrier vs Creta N Line",
+          "Harrier vs Grand Vitara",
+          "Harrier vs Elevate"
+        ]
+      }
+    ]
+  }
+}

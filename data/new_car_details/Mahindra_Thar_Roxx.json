@@ -1,0 +1,225 @@
+{
+  "basic_info": {
+    "name": "Mahindra Thar Roxx",
+    "manufacturer": "Mahindra",
+    "model": "Thar Roxx",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/mahindra-cars/thar-roxx",
+    "image_url": "https://images.carandbike.com/car-images/large/mahindra/thar-roxx/mahindra-thar-roxx.jpg?v=22",
+    "description": "Mahindra Thar Roxx is a 5-seater SUV available at a starting price of Rs. 12.25 Lakh. The car is available in 25 variants, with 2 engine and 2 transmission option. Additionally, Thar Roxx offers a Ground Clearance measurement of 226 mm and a Boot capacity of 644 liters. You can choose from 7 colors for the Thar Roxx. The mileage of the Thar Roxx varies from 12.4 - 15 KM/L depending on the model.",
+    "model_date": "2024-08-14",
+    "sku": "mahindra-thar-roxx-1759",
+    "vin": "5NPEL4AB3BH001759",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1997 cc",
+    "power": "150 bhp @ 3750 rpm,159 bhp @ 5000 rpm,172 bhp @ 3500 rpm,174bhp @ 5000 rpm bhp",
+    "torque": "330 Nm @ 1500-3000 rpm,380 Nm @ 1750 - 3000 rpm,400 Nm @ 1750 - 2750 rpm Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Manual, Automatic",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "12 - 15 KM/L"
+  },
+  "dimensions": {
+    "width": "1870 mm ",
+    "height": "1923 mm",
+    "weight": "1900/1900",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Burnt Sienna Black",
+    "Battleship Grey Black",
+    "Nebula Blue Black",
+    "Deep Forest Black",
+    "Everest White Black",
+    "Tango Red Black",
+    "Stealth Black"
+  ],
+  "price": {
+    "value": 1225100,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mahindra-cars/thar-roxx"
+  },
+  "brand": {
+    "name": "Mahindra",
+    "image": "https://images.carandbike.com/car-images/big/mahindra/mahindra.png?v=1"
+  },
+  "rating": {
+    "value": "7.3",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "12.4 KM/L",
+      "city_mileage": "12.4 KM/L",
+      "highway_mileage": "14 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "12.4 KM/L",
+      "city_mileage": "12.4 KM/L",
+      "highway_mileage": "14 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Manual",
+      "mileage": "15 KM/L",
+      "city_mileage": "15 KM/L",
+      "highway_mileage": "18 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "15 KM/L",
+      "city_mileage": "15 KM/L",
+      "highway_mileage": "18 KM/L"
+    }
+  ],
+  "verdict": "The Mahindra Thar Roxx is a great option if you like the Thar's form factor. In fact, the Roxx offers more comfort and family-oriented features than the three-door Thar. As compared to its bigger sibling, the Scorpio N, the Roxx provides more features for less money if you don't need seven seats. However, when up against road-focused SUVs like the Tata Nexon or the Hyundai Creta, the Roxx compromises on refinement, driving ease, and fuel efficiency.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mahindra Thar Roxx",
+        "price": "12.25 - 22.06 Lakh",
+        "url": "/mahindra-cars/thar-roxx"
+      },
+      {
+        "name": "Mahindra Scorpio-N",
+        "price": "13.2 - 23.99 Lakh",
+        "url": "/mahindra-cars/scorpio-n"
+      },
+      {
+        "name": "Tata Harrier",
+        "price": "14 - 25.25 Lakh",
+        "url": "/tata-cars/harrier"
+      },
+      {
+        "name": "MG Hector",
+        "price": "14 - 21.52 Lakh",
+        "url": "/mg-cars/hector"
+      },
+      {
+        "name": "Force Motors Gurkha",
+        "price": "19.46 - 20.92 Lakh",
+        "url": "/force-motors-cars/gurkha"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 12.25 - 22.06 Lakh",
+          "₹ 13.2 - 23.99 Lakh",
+          "₹ 14 - 25.25 Lakh",
+          "₹ 14 - 21.52 Lakh",
+          "₹ 19.46 - 20.92 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.3",
+          "8.4",
+          "7.9",
+          "7.5",
+          "6.1"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1997 cc",
+          "1997 CC",
+          "1956 CC",
+          "1451 CC",
+          "2596 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "12 - 15 KM/L",
+          "14 - 18.5 KM/L",
+          "14.6 - 16.8 KM/L",
+          "13.96 - 17.4 KM/L",
+          "15 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Diesel",
+          "Petrol, Diesel",
+          "Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "4 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "57.0 L",
+          "57.0 L",
+          "50.0 L",
+          "60.0 L",
+          "63.5 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "25",
+          "31",
+          "23",
+          "20",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Thar Roxx vs Scorpio-N",
+          "Thar Roxx vs Harrier",
+          "Thar Roxx vs Hector",
+          "Thar Roxx vs Gurkha"
+        ]
+      }
+    ]
+  }
+}

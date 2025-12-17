@@ -1,0 +1,233 @@
+{
+  "basic_info": {
+    "name": "Audi RS E-Tron GT",
+    "manufacturer": "Audi",
+    "model": "RS E-Tron GT",
+    "body_type": "Sedan",
+    "url": "https://www.carandbike.com/audi-cars/rs-e-tron-gt",
+    "image_url": "https://images.carandbike.com/car-images/large/audi/rs-e-tron-gt/audi-rs-e-tron-gt.jpg?v=34",
+    "description": "Audi RS E-Tron GT is a 5-seater electric Sedan available at a starting price of Rs. 2.37 Crore. The electric car is available in 1 variants.Additionally, RS E-Tron GT offers a Ground Clearance measurement of 128 mm and a Boot capacity of 405 liters. You can choose from 23 colors for the RS E-Tron GT. The battery range/mileage of the RS E-Tron GT is 401 Km/Full Charge. ",
+    "model_date": "2021-09-22",
+    "sku": "audi-rs-e-tron-gt-1674",
+    "vin": "5NPEL4AB3BH001674",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "401 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1964 mm ",
+    "height": "1413 mm",
+    "weight": "2347/2347",
+    "seating_capacity": "5",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "Tiefgrün Perleffekt",
+    "Merlin Perleffekt",
+    "Sepangblau Perleffekt",
+    "Nachtblau Perleffekt",
+    "Oakgrün Perleffekt",
+    "Samtviolett Perleffekt",
+    "Sand Beige",
+    "Misanorot Perleffekt",
+    "Argusbraun Metallic",
+    "Camouflagegrün Metallic",
+    "Korallenorange Metallic",
+    "Glutorange Uni",
+    "Grün Uni",
+    "Nardograu Uni",
+    "Daytona Grey",
+    "Tango Red",
+    "Tactics Green",
+    "Suzuka Grey",
+    "Mythos Black",
+    "Kemora Grey",
+    "Floret Silver",
+    "Ascari Blue",
+    "Ibis White"
+  ],
+  "price": {
+    "value": 23726264,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/audi-cars/rs-e-tron-gt"
+  },
+  "brand": {
+    "name": "Audi",
+    "image": "https://images.carandbike.com/car-images/big/audi/audi.png?v=1"
+  },
+  "rating": {
+    "value": "8.3",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Design is very attractive and you will give a second look",
+    "Sits low and hence looks sporty",
+    "Driving dynamics are on point and supass expectations"
+  ],
+  "cons": [
+    "Does not look great in black",
+    "As it sits lower, tackling Indian roads could be problematic",
+    "Stiff suspension gives it a sporty appeal, but bouncy ride on tarmac"
+  ],
+  "verdict": "On the whole though, the Audi RS e-tron GT is a very satisfying car to drive. It is comfortable even in its sportiest drive mode, it is luxurious, and will not tire you out in any way. It also has a drive range that can go as high as 480 kms, though my European counterparts tell me 380 kms is comfortably achieved. And while it is clearly not for everyone, it justifies the higher price tag over the standard GT, for sure.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Audi RS E-Tron GT",
+        "price": "2.05 Crore",
+        "url": "/audi-cars/rs-e-tron-gt"
+      },
+      {
+        "name": "BMW i7",
+        "price": "2.36 - 2.9 Crore",
+        "url": "/bmw-cars/i7"
+      },
+      {
+        "name": "Mercedes-Maybach EQS Electric",
+        "price": "2.4 - 2.63 Crore",
+        "url": "/mercedes-maybach-cars/eqs-electric"
+      },
+      {
+        "name": "Lotus Emeya",
+        "price": "2.34 Crore",
+        "url": "/lotus-cars/emeya"
+      },
+      {
+        "name": "Lotus Eletre",
+        "price": "2.55 - 2.99 Crore",
+        "url": "/lotus-cars/eletre"
+      },
+      {
+        "name": "Porsche Taycan",
+        "price": "1.97 - 3.12 Crore",
+        "url": "/porsche-cars/taycan"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 2.05 Crore",
+          "₹ 2.36 - 2.9 Crore",
+          "₹ 2.4 - 2.63 Crore",
+          "₹ 2.34 Crore",
+          "₹ 2.55 - 2.99 Crore",
+          "₹ 1.97 - 3.12 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.3",
+          "8.7",
+          "-",
+          "-",
+          "-",
+          "8.1"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "401-481 Km Km/Full Charge",
+          "510 - 595 Km/Full Charge",
+          "600 Km/Full Charge",
+          "600 Km/Full Charge",
+          "500 Km/Full Charge",
+          "452 - 463 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "4 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "2",
+          "2",
+          "3",
+          "3",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "RS E-Tron GT vs i7",
+          "RS E-Tron GT vs EQS Electric",
+          "RS E-Tron GT vs Emeya",
+          "RS E-Tron GT vs Eletre",
+          "RS E-Tron GT vs Taycan"
+        ]
+      }
+    ]
+  }
+}

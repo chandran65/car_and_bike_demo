@@ -1,0 +1,236 @@
+{
+  "basic_info": {
+    "name": "Maruti Suzuki Ciaz",
+    "manufacturer": "Maruti Suzuki",
+    "model": "Ciaz",
+    "body_type": "Sedan",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/ciaz",
+    "image_url": "https://images.carandbike.com/car-images/large/maruti-suzuki/ciaz/maruti-suzuki-ciaz.jpg?v=52",
+    "description": "Maruti Suzuki Ciaz is a 5-seater Sedan available at a starting price of Rs. 9.09 Lakh. The car is available in 9 variants, with 1 engine and 2 transmission option. Additionally, Ciaz offers a Ground Clearance measurement of 170 mm and a Boot capacity of 510 liters. You can choose from 7 colors for the Ciaz. The mileage of the Ciaz varies from 20 - 20.7 KM/L depending on the model.",
+    "model_date": "2018-08-20",
+    "sku": "maruti-suzuki-ciaz-1368",
+    "vin": "5NPEL4AB3BH001368",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1462 cc",
+    "power": "103 bhp",
+    "torque": "138 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Manual, Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "20 - 20 KM/L"
+  },
+  "dimensions": {
+    "width": "1730 mm ",
+    "height": "1485 mm",
+    "weight": "1016/1027",
+    "seating_capacity": "5",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "NEXA Blue",
+    "Metallic Premium Silver",
+    "Pearl Metallic Dignity Brown",
+    "Pearl Sangria Red",
+    "Parl Midnight Black",
+    "Metallic Magma Gray",
+    "Pearl Snow White"
+  ],
+  "price": {
+    "value": 909000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/ciaz"
+  },
+  "brand": {
+    "name": "Maruti Suzuki",
+    "image": "https://images.carandbike.com/car-images/big/maruti-suzuki/maruti-suzuki.png?v=1"
+  },
+  "rating": {
+    "value": "7.0",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Spacious",
+    "Ease Of Driving",
+    "Large Boot Space"
+  ],
+  "cons": [
+    "Looks Dated&nbsp;",
+    "Uncomfortable&nbsp;Ride Quality&nbsp;",
+    "Engine Lacks Character"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "20 KM/L",
+      "city_mileage": "18 KM/L",
+      "highway_mileage": "21 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "20.7 KM/L",
+      "city_mileage": "18 KM/L",
+      "highway_mileage": "21 KM/L"
+    }
+  ],
+  "verdict": "Maruti Suzuki has done a fine job on the Ciaz facelift. The car looks and feels much more premium now, the new mild hybrid petrol engine and the overall package does make for a compelling look at the new Maruti Suzuki Ciaz. However, On the highway, the car takes time to build up speed. The Maruti Suzuki Ciaz was never the one for spirited driving, but a little more urgency from the engine would have been welcome.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Maruti Suzuki Ciaz",
+        "price": "9.09 - 11.89 Lakh",
+        "url": "/maruti-suzuki-cars/ciaz"
+      },
+      {
+        "name": "Hyundai Verna",
+        "price": "10.69 - 16.98 Lakh",
+        "url": "/hyundai-cars/verna"
+      },
+      {
+        "name": "Honda City",
+        "price": "11.95 - 16.07 Lakh",
+        "url": "/honda-cars/city"
+      },
+      {
+        "name": "Skoda Slavia",
+        "price": "10 - 13.32 Lakh",
+        "url": "/skoda-cars/slavia"
+      },
+      {
+        "name": "Honda 2025 Amaze",
+        "price": "7.41 - 10 Lakh",
+        "url": "/honda-cars/2025-amaze"
+      },
+      {
+        "name": "Volkswagen Virtus",
+        "price": "11.2 - 13.45 Lakh",
+        "url": "/volkswagen-cars/virtus"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 9.09 - 11.89 Lakh",
+          "₹ 10.69 - 16.98 Lakh",
+          "₹ 11.95 - 16.07 Lakh",
+          "₹ 10 - 13.32 Lakh",
+          "₹ 7.41 - 10 Lakh",
+          "₹ 11.2 - 13.45 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.0",
+          "8.5",
+          "8.2",
+          "8.3",
+          "-",
+          "8.3"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1462 cc",
+          "1497 CC",
+          "1498 CC",
+          "999 CC",
+          "1199 CC",
+          "999 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "20 - 20 KM/L",
+          "18.6 - 20.6 KM/L",
+          "17.8 - 18.4 KM/L",
+          "18 KM/L",
+          "18.6 KM/L",
+          "20.19 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "43.0 L",
+          "45.0 L",
+          "40.0 L",
+          "45.0 L",
+          "35.0 L",
+          "45.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "9",
+          "17",
+          "8",
+          "11",
+          "6",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Ciaz vs Verna",
+          "Ciaz vs City",
+          "Ciaz vs Slavia",
+          "Ciaz vs 2025 Amaze",
+          "Ciaz vs Virtus"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "basic_info": {
+    "name": "BMW iX1",
+    "manufacturer": "BMW",
+    "model": "iX1",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/bmw-cars/ix1",
+    "image_url": "https://images.carandbike.com/car-images/large/bmw/ix1/bmw-ix1.jpg?v=9",
+    "description": "BMW iX1 is a 5-seater electric SUV available at a starting price of Rs. 77.6 Lakh. The electric car is available in 1 variants.Additionally, iX1 offers a Ground Clearance measurement of 180 mm and a Boot capacity of 490 liters. You can choose from 3 colors for the iX1. The battery range/mileage of the iX1 is 440 Km/Full Charge. ",
+    "model_date": "2023-09-28",
+    "sku": "bmw-ix1-1708",
+    "vin": "5NPEL4AB3BH001708",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "440 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1845 mm ",
+    "height": "1642 mm",
+    "weight": "2085/2085",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Black Sapphire",
+    "Space Silver metallic",
+    "Storm Bay metallic"
+  ],
+  "price": {
+    "value": 7760194,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/bmw-cars/ix1"
+  },
+  "brand": {
+    "name": "BMW",
+    "image": "https://images.carandbike.com/car-images/big/bmw/bmw.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "BMW iX1",
+        "price": "66.9 Lakh",
+        "url": "/bmw-cars/ix1"
+      },
+      {
+        "name": "Kia EV6",
+        "price": "76.52 Lakh",
+        "url": "/kia-cars/ev6"
+      },
+      {
+        "name": "Volvo C40 Recharge",
+        "price": "73.02 Lakh",
+        "url": "/volvo-cars/c40-recharge"
+      },
+      {
+        "name": "Tesla Model Y",
+        "price": "69.47 - 78.75 Lakh",
+        "url": "/tesla-cars/model-y"
+      },
+      {
+        "name": "Mercedes-Benz EQB",
+        "price": "67.2 - 78.9 Lakh",
+        "url": "/mercedes-benz-cars/eqb"
+      },
+      {
+        "name": "Mercedes-Benz EQA",
+        "price": "67.2 Lakh",
+        "url": "/mercedes-benz-cars/eqa"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 66.9 Lakh",
+          "₹ 76.52 Lakh",
+          "₹ 73.02 Lakh",
+          "₹ 69.47 - 78.75 Lakh",
+          "₹ 67.2 - 78.9 Lakh",
+          "₹ 67.2 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "8.5",
+          "-",
+          "-",
+          "8.0",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "440 Km/Full Charge",
+          "663 Km/Full Charge",
+          "530 Km/Full Charge",
+          "500 - 622 Km/Full Charge",
+          "423 Km/Full Charge",
+          "350 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "1",
+          "1",
+          "2",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "iX1 vs EV6",
+          "iX1 vs C40 Recharge",
+          "iX1 vs Model Y",
+          "iX1 vs EQB",
+          "iX1 vs EQA"
+        ]
+      }
+    ]
+  }
+}

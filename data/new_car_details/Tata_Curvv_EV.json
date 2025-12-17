@@ -1,0 +1,205 @@
+{
+  "basic_info": {
+    "name": "Tata Curvv EV",
+    "manufacturer": "Tata",
+    "model": "Curvv EV",
+    "body_type": "Coupe",
+    "url": "https://www.carandbike.com/tata-cars/curvv-ev",
+    "image_url": "https://images.carandbike.com/car-images/large/tata/curvv-ev/tata-curvv-ev.jpg?v=27",
+    "description": "Tata Curvv EV is a 5-seater electric Coupe available at a starting price of Rs. 20.31 Lakh. The electric car is available in 8 variants.Additionally, Curvv EV offers a Ground Clearance measurement of 190 mm and a Boot capacity of 500 liters. You can choose from 5 colors for the Curvv EV. The battery range/mileage of the Curvv EV is 502 Km/Full Charge. ",
+    "model_date": "2024-08-07",
+    "sku": "tata-curvv-ev-1675",
+    "vin": "5NPEL4AB3BH001675",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "430 - 502 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1810 mm ",
+    "height": "1637 mm",
+    "weight": "",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Empowered Oxcide",
+    "Pure Grey",
+    "Pristine White",
+    "Flame Red",
+    "Virtual Sunrise"
+  ],
+  "price": {
+    "value": "2030730",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/tata-cars/curvv-ev"
+  },
+  "brand": {
+    "name": "Tata",
+    "image": "https://images.carandbike.com/car-images/big/tata/tata.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "verdict": "The Tata Curvv EV offers a visually striking design with its sleek coupe-SUV body and delivers on its promise of solid range and comfortable driving dynamics. It stands out in the EV segment for its aggressive pricing and attractive features. However, the limited rear space and some minor tech glitches slightly hinder its overall appeal. Still, the Curvv EV is a strong contender for those looking for a stylish, practical, and affordable electric vehicle in the growing Indian EV market.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Tata Curvv EV",
+        "price": "17.49 - 22.24 Lakh",
+        "url": "/tata-cars/curvv-ev"
+      },
+      {
+        "name": "Mahindra XEV 9S",
+        "price": "19.95 - 29.45 Lakh",
+        "url": "/mahindra-cars/xev-9s"
+      },
+      {
+        "name": "VinFast VF6",
+        "price": "19.13 - 21.22 Lakh",
+        "url": "/vinfast-cars/vf6"
+      },
+      {
+        "name": "Mahindra BE 6e",
+        "price": "18.9 - 28.4 Lakh",
+        "url": "/mahindra-cars/be-6e"
+      },
+      {
+        "name": "Mahindra XEV 9e",
+        "price": "21.9 - 29.15 Lakh",
+        "url": "/mahindra-cars/xev-9e"
+      },
+      {
+        "name": "Hyundai Creta EV",
+        "price": "18.02 - 24.55 Lakh",
+        "url": "/hyundai-cars/creta-ev"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 17.49 - 22.24 Lakh",
+          "₹ 19.95 - 29.45 Lakh",
+          "₹ 19.13 - 21.22 Lakh",
+          "₹ 18.9 - 28.4 Lakh",
+          "₹ 21.9 - 29.15 Lakh",
+          "₹ 18.02 - 24.55 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "430,502 Km/Full Charge",
+          "521 - 679 Km/Full Charge",
+          "460 Km/Full Charge",
+          "557 - 683 Km/Full Charge",
+          "542 Km/Full Charge",
+          "390 - 473 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "8",
+          "6",
+          "3",
+          "25",
+          "13",
+          "25"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Curvv EV vs XEV 9S",
+          "Curvv EV vs VF6",
+          "Curvv EV vs BE 6e",
+          "Curvv EV vs XEV 9e",
+          "Curvv EV vs Creta EV"
+        ]
+      }
+    ]
+  }
+}

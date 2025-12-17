@@ -1,0 +1,226 @@
+{
+  "basic_info": {
+    "name": "Audi A4",
+    "manufacturer": "Audi",
+    "model": "A4",
+    "body_type": "Sedan",
+    "url": "https://www.carandbike.com/audi-cars/a4",
+    "image_url": "https://images.carandbike.com/car-images/large/audi/a4/audi-a4.jpg?v=60",
+    "description": "Audi A4 is a 5-seater Sedan available at a starting price of Rs. 46.25 Lakh. The car is available in 5 variants, with 2 engine and 1 transmission option. Additionally, A4 offers a Ground Clearance measurement of 165 mm and a Boot capacity of 480 liters. You can choose from 4 colors for the A4. The mileage of the A4 varies from 17.8 KM/L depending on the model.",
+    "model_date": "2021-01-05",
+    "sku": "audi-a4-1007",
+    "vin": "5NPEL4AB3BH001007",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1984 cc",
+    "power": "188 bhp",
+    "torque": "320 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "17 KM/L"
+  },
+  "dimensions": {
+    "width": "1847 mm ",
+    "height": "1433 mm",
+    "weight": "1450/1555",
+    "seating_capacity": "5",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "Floret Silver Metallic",
+    "Myth Black Metallic",
+    "Terra Gray Metallic",
+    "Navarra Blue Metallic"
+  ],
+  "price": {
+    "value": "4625000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/audi-cars/a4"
+  },
+  "brand": {
+    "name": "Audi",
+    "image": "https://images.carandbike.com/car-images/big/audi/audi.png?v=1"
+  },
+  "rating": {
+    "value": "7.5",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Refined Engine",
+    "Alert Gearbox",
+    "Comfrotable Ride Quality"
+  ],
+  "cons": [
+    "Better Rear Space For Middle Row Passenger",
+    "Slightly Outdated Cabin",
+    "No Diesel Engine"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "17.8 KM/L",
+      "city_mileage": "15.5 KM/L",
+      "highway_mileage": "17.8 KM/L"
+    }
+  ],
+  "verdict": "The A4 facelift continues to be a comfortable and a spacious sedan with enough room for 4 people. The upholstery looks and feels premium and the rear seat offers good amount of headroom and knee room should you be one of those who spend more time at the rear. The new Audi A4 does look good and with the equipment on offer, it can do a number on the Volvo S60. The A4 is the car which shaped Audi's brand identity in India and it will continue to be an important car for the company in our market.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Audi A4",
+        "price": "46.25 - 55.11 Lakh",
+        "url": "/audi-cars/a4"
+      },
+      {
+        "name": "BMW 3 Series",
+        "price": "65.01 - 79.53 Lakh",
+        "url": "/bmw-cars/3-series"
+      },
+      {
+        "name": "Mercedes-Benz A-Class Limousine",
+        "price": "46.05 - 48.55 Lakh",
+        "url": "/mercedes-benz-cars/a-class-limousine"
+      },
+      {
+        "name": "Toyota Camry",
+        "price": "47.48 - 47.62 Lakh",
+        "url": "/toyota-cars/camry"
+      },
+      {
+        "name": "Skoda Octavia RS",
+        "price": "49.99 Lakh",
+        "url": "/skoda-cars/octavia-rs"
+      },
+      {
+        "name": "Mercedes-Benz C-Class",
+        "price": "61 - 68 Lakh",
+        "url": "/mercedes-benz-cars/c-class"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 46.25 - 55.11 Lakh",
+          "₹ 65.01 - 79.53 Lakh",
+          "₹ 46.05 - 48.55 Lakh",
+          "₹ 47.48 - 47.62 Lakh",
+          "₹ 49.99 Lakh",
+          "₹ 61 - 68 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.5",
+          "8.2",
+          "8.2",
+          "7.4",
+          "-",
+          "8.1"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1984 cc",
+          "2998 CC",
+          "1332 CC",
+          "2487 CC",
+          "1984 CC",
+          "1496 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "17 KM/L",
+          "16.13 KM/L",
+          "17.5 - 20 KM/L",
+          "25 KM/L",
+          "0 KM/L",
+          "14.49 - 23 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol, Diesel",
+          "Hybrid",
+          "Petrol",
+          "Petrol, Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "54.0 L",
+          "59.0 L",
+          "66.0 L",
+          "50.0 L",
+          "50.0 L",
+          "66.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "5",
+          "3",
+          "2",
+          "4",
+          "1",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "A4 vs 3 Series",
+          "A4 vs A-Class Limousine",
+          "A4 vs Camry",
+          "A4 vs Octavia RS",
+          "A4 vs C-Class"
+        ]
+      }
+    ]
+  }
+}

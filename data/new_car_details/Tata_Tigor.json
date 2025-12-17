@@ -1,0 +1,251 @@
+{
+  "basic_info": {
+    "name": "Tata Tigor",
+    "manufacturer": "Tata",
+    "model": "Tigor",
+    "body_type": "Sedan",
+    "url": "https://www.carandbike.com/tata-cars/tigor",
+    "image_url": "https://images.carandbike.com/car-images/large/tata/tigor/tata-tigor.jpg?v=67",
+    "description": "Tata Tigor is a 5-seater Sedan available at a starting price of Rs. 5.49 Lakh. The car is available in 14 variants, with 1 engine and 2 transmission option. Additionally, Tigor offers a Ground Clearance measurement of 170 mm and a Boot capacity of 419 liters. You can choose from 5 colors for the Tigor. The mileage of the Tigor varies from 17 - 26 KM/L depending on the model.",
+    "model_date": "2025-01-13",
+    "sku": "tata-tigor-1413",
+    "vin": "5NPEL4AB3BH001413",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1199 cc",
+    "power": "72.3bhp @ 6000 RPM bhp",
+    "torque": "113 Nm @ 3300 rpm Nm",
+    "fuel_type": "Petrol, Petrol+CNG"
+  },
+  "transmission": "Manual, AMT",
+  "fuel": {
+    "type": "Petrol, Petrol+CNG",
+    "efficiency": "17 - 26 KM/L"
+  },
+  "dimensions": {
+    "width": "1677 mm ",
+    "height": "1532 mm",
+    "weight": "992/1004",
+    "seating_capacity": "5",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "Arizone Blue",
+    "Magnetic Red",
+    "Meteor Bronze",
+    "Opal White",
+    "Daytona Grey"
+  ],
+  "price": {
+    "value": 548990,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/tata-cars/tigor"
+  },
+  "brand": {
+    "name": "Tata",
+    "image": "https://images.carandbike.com/car-images/big/tata/tata.png?v=1"
+  },
+  "rating": {
+    "value": "7.6",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Impressive Ride Quality",
+    "Frugal Engines With A Cng Option Available",
+    "Scores Well On Safety"
+  ],
+  "cons": [
+    "Rear Seat Lacks Legroom",
+    "No Ac Vents At The Rear",
+    "Turbo Petrol Engine Is Missing"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "17 KM/L",
+      "city_mileage": "16.5 KM/L",
+      "highway_mileage": "20 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "AMT",
+      "mileage": "21 KM/L",
+      "city_mileage": "16.5 KM/L",
+      "highway_mileage": "20 KM/L"
+    },
+    {
+      "fuel_type": "Petrol+CNG",
+      "transmission": "Manual",
+      "mileage": "26 KM/L",
+      "city_mileage": "30.5 KM/L",
+      "highway_mileage": "30.5 KM/L"
+    },
+    {
+      "fuel_type": "Petrol+CNG",
+      "transmission": "AMT",
+      "mileage": "26 KM/L",
+      "city_mileage": "30.5 KM/L",
+      "highway_mileage": "30.5 KM/L"
+    }
+  ],
+  "expert_review": {
+    "design_styling": "One glance at the Tigor, and its lineage is evident. It draws major design elements from the Tata Tiago hatchback. The front boasts a hexagonal grille flanked by twin-barrel headlamps housing projector low beams and halogen highs. Unfortunately, the design lacks LED daytime running lights. The petrol Tigor flaunts 15-inch dual-tone diamond-cut wheels, while the diesel settles for 14-inch ones. However, the real stunner is its rear – a fusion of coupe-like roofline and a seamlessly integrated boot. Noteworthy are the innovative high-mounted spoiler with an end-to-end tail lamp and the 3D tail lamps. The sporty rear bumper adds the final touch, making the Tigor a good looking sub-4-metre sedan in India."
+  },
+  "verdict": "The Tigor rides and handles well, is very well equipped, spacious and frankly, thoughtfully engineered. And although we wish the engines were a little peppier and more refined, one of the biggest reasons we think the Tigor will be popular will be because of how it looks.  As a package, the Tigor is extremely well suited for any Indian family who wants to upgrade from an entry level hatchback but still wants a three box design.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Tata Tigor",
+        "price": "5.49 - 8.74 Lakh",
+        "url": "/tata-cars/tigor"
+      },
+      {
+        "name": "Honda Amaze",
+        "price": "6.98 - 7.8 Lakh",
+        "url": "/honda-cars/amaze"
+      },
+      {
+        "name": "Hyundai Exter",
+        "price": "5.49 - 8.12 Lakh",
+        "url": "/hyundai-cars/exter"
+      },
+      {
+        "name": "Hyundai Grand i10 Nios",
+        "price": "5.47 - 7.92 Lakh",
+        "url": "/hyundai-cars/grand-i10-nios"
+      },
+      {
+        "name": "Nissan Magnite",
+        "price": "5.62 - 8.16 Lakh",
+        "url": "/nissan-cars/magnite"
+      },
+      {
+        "name": "Maruti Suzuki Eeco",
+        "price": "5.21 - 6.36 Lakh",
+        "url": "/maruti-suzuki-cars/eeco"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 5.49 - 8.74 Lakh",
+          "₹ 6.98 - 7.8 Lakh",
+          "₹ 5.49 - 8.12 Lakh",
+          "₹ 5.47 - 7.92 Lakh",
+          "₹ 5.62 - 8.16 Lakh",
+          "₹ 5.21 - 6.36 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.6",
+          "7.8",
+          "7.0",
+          "8.5",
+          "8.1",
+          "7.7"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1199 cc",
+          "1199 CC",
+          "1197 CC",
+          "1197 CC",
+          "999 CC",
+          "1196 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, AMT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "17 - 26 KM/L",
+          "18.3 - 18.6 KM/L",
+          "19.4 - 27 KM/L",
+          "20.2 - 20.7 KM/L",
+          "19.7 KM/L",
+          "19.71 - 26.78 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Petrol+CNG",
+          "Petrol",
+          "Petrol, CNG",
+          "Petrol, CNG",
+          "Petrol, CNG",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "35.0, 60.0 L",
+          "35.0 L",
+          "37.0 L",
+          "37.0 L",
+          "40.0 L",
+          "32.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "14",
+          "2",
+          "23",
+          "16",
+          "16",
+          "4"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Tigor vs Amaze",
+          "Tigor vs Exter",
+          "Tigor vs Grand i10 Nios",
+          "Tigor vs Magnite",
+          "Tigor vs Eeco"
+        ]
+      }
+    ]
+  }
+}

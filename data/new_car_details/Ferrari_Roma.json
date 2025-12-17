@@ -1,0 +1,236 @@
+{
+  "basic_info": {
+    "name": "Ferrari Roma",
+    "manufacturer": "Ferrari",
+    "model": "Roma",
+    "body_type": "Coupe",
+    "url": "https://www.carandbike.com/ferrari-cars/roma",
+    "image_url": "https://images.carandbike.com/car-images/large/ferrari/roma/ferrari-roma.jpg?v=17",
+    "description": "Ferrari Roma is a 2-seater Coupe available at a starting price of Rs. 3.56 Crore. The car is available in 1 variants, with 1 engine and 1 transmission option. Additionally, Roma offers a Ground Clearance measurement of 120 mm and a Boot capacity of 272 liters. You can choose from 14 colors for the Roma. The mileage of the Roma varies from 7 KM/L depending on the model.",
+    "model_date": "2020-12-18",
+    "sku": "ferrari-roma-1639",
+    "vin": "5NPEL4AB3BH001639",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "3855 cc",
+    "power": "611 bhp",
+    "torque": "760 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "7 KM/L"
+  },
+  "dimensions": {
+    "width": "1974 mm ",
+    "height": "1301 mm",
+    "weight": "1570/1570",
+    "seating_capacity": "2",
+    "number_of_doors": "2"
+  },
+  "colors": [
+    "Rosso Scudaria",
+    "Rosso Mugello",
+    "Rosso Corsa",
+    "Nero Daytona",
+    "Grigio Titanio Metallizzato",
+    "Grigio Silverstone",
+    "Grigio Ingrid",
+    "Grigio Alloy",
+    "Gallo Modena",
+    "Blu Tour De France",
+    "Blu Pozzi",
+    "Blue Abu Dhabi",
+    "Bianco Avus",
+    "Argento Nurburgring"
+  ],
+  "price": {
+    "value": "35567568",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/ferrari-cars/roma"
+  },
+  "brand": {
+    "name": "Ferrari",
+    "image": "https://images.carandbike.com/car-images/big/ferrari/ferrari.png?v=1"
+  },
+  "rating": {
+    "value": "8.5",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Stunning Looks",
+    "Powerful Performance",
+    "Good Fit And Finish",
+    "&nbsp;"
+  ],
+  "cons": [
+    "Quite Expensive",
+    "Overly Reliant On Touch Controls",
+    "Clunky Transmission At Low Speeds"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "7 KM/L",
+      "city_mileage": "6 KM/L",
+      "highway_mileage": "8 KM/L"
+    }
+  ],
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Ferrari Roma",
+        "price": "3.56 Crore",
+        "url": "/ferrari-cars/roma"
+      },
+      {
+        "name": "Mercedes-AMG GT",
+        "price": "3.05 - 3.65 Crore",
+        "url": "/mercedes-amg-cars/gt"
+      },
+      {
+        "name": "Maserati MCPura",
+        "price": "4.12 - 5.12 Crore",
+        "url": "/maserati-cars/mcpura"
+      },
+      {
+        "name": "Mercedes-AMG SL-Class",
+        "price": "2.47 Crore",
+        "url": "/mercedes-amg-cars/sl-class"
+      },
+      {
+        "name": "Porsche 911",
+        "price": "2 - 3.8 Crore",
+        "url": "/porsche-cars/911"
+      },
+      {
+        "name": "Lotus Emira",
+        "price": "1.93 - 2.27 Crore",
+        "url": "/lotus-cars/emira"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 3.56 Crore",
+          "₹ 3.05 - 3.65 Crore",
+          "₹ 4.12 - 5.12 Crore",
+          "₹ 2.47 Crore",
+          "₹ 2 - 3.8 Crore",
+          "₹ 1.93 - 2.27 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.5",
+          "8.2",
+          "-",
+          "-",
+          "8.1",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "3855 cc",
+          "3982 CC",
+          "2992 CC",
+          "3982 CC",
+          "2981 CC",
+          "1998 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "7 KM/L",
+          "11.4 KM/L",
+          "0 KM/L",
+          "10 KM/L",
+          "8.7 KM/L",
+          "12 - 12.5 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "2 Seater",
+          "2 Seater",
+          "2 Seater",
+          "2 Seater",
+          "4 Seater",
+          "2 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "80.0 L",
+          "75.0 L",
+          "60.0 L",
+          "70.0 L",
+          "64.0 L",
+          "60.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "2",
+          "2",
+          "1",
+          "4",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Roma vs GT",
+          "Roma vs MCPura",
+          "Roma vs SL-Class",
+          "Roma vs 911",
+          "Roma vs Emira"
+        ]
+      }
+    ]
+  }
+}

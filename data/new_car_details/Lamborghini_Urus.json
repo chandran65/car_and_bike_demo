@@ -1,0 +1,238 @@
+{
+  "basic_info": {
+    "name": "Lamborghini Urus",
+    "manufacturer": "Lamborghini",
+    "model": "Urus",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/lamborghini-cars/urus",
+    "image_url": "https://images.carandbike.com/car-images/large/lamborghini/urus/lamborghini-urus.jpg?v=27",
+    "description": "Lamborghini Urus is a 5-seater SUV available at a starting price of Rs. 4.75 Crore. The car is available in 2 variants, with 1 engine and 1 transmission option. Additionally, Urus offers a Ground Clearance measurement of 158 mm and a Boot capacity of 616 liters. You can choose from 16 colors for the Urus. The mileage of the Urus varies from 7.8 KM/L depending on the model.",
+    "model_date": "2018-01-11",
+    "sku": "lamborghini-urus-1532",
+    "vin": "5NPEL4AB3BH001532",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "3996 cc",
+    "power": "657 bhp @ 6000 rpm bhp",
+    "torque": "850 Nm @ 2300 rpm Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "7 KM/L"
+  },
+  "dimensions": {
+    "width": "2181 mm ",
+    "height": "1618 mm",
+    "weight": "2157/2157",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Verde Mantis",
+    "Verde Lares",
+    "Rosso Mars",
+    "Rosso Anteros",
+    "Nero Noctis Solid",
+    "Nero Helene",
+    "Marrone Alcestis",
+    "Grigio Nimbus",
+    "Grigio Keres",
+    "Giallo Inti",
+    "Giallo Auge",
+    "Bue Eleos",
+    "Blu Astraeus",
+    "Bianco Monocerus",
+    "Bianco Icarus Metallic",
+    "Arancio Borealis"
+  ],
+  "price": {
+    "value": 47519281,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/lamborghini-cars/urus"
+  },
+  "brand": {
+    "name": "Lamborghini",
+    "image": "https://images.carandbike.com/car-images/big/lamborghini/lamborghini.png?v=1"
+  },
+  "rating": {
+    "value": "8.6",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "One Of The Fastest Suvs In The World",
+    "Excellent Driving Dynamics",
+    "Practical, Sporty Suv"
+  ],
+  "cons": [
+    "Very High Running Costs",
+    "Pricey Proposition",
+    "Less Space At The Rear"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "7.8 KM/L",
+      "city_mileage": "7 KM/L",
+      "highway_mileage": "10 KM/L"
+    }
+  ],
+  "verdict": "The Lamborghini Urus redefines the luxury sports SUV segment, establishing a new benchmark with its blend of opulence, performance, and versatility. One of the Urus's most appealing aspects is its dual character: for the select few who can afford it, it serves not just as a high-performance vehicle for spirited weekend drives, but also as a practical daily driver. This dual functionality, previously a hallmark of Porsche models, is now embodied in the Urus, offering owners the best of both worlds. Its ability to transition seamlessly from a comfortable daily SUV to a high-octane sports vehicle makes the Urus a unique proposition in the luxury automotive market, catering to those seeking both exclusivity and everyday usability.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Lamborghini Urus",
+        "price": "3.95 - 3.99 Crore",
+        "url": "/lamborghini-cars/urus"
+      },
+      {
+        "name": "Lexus LX",
+        "price": "2.8 - 2.91 Crore",
+        "url": "/lexus-cars/lx"
+      },
+      {
+        "name": "Aston Martin DBX",
+        "price": "4.38 Crore",
+        "url": "/aston-martin-cars/dbx"
+      },
+      {
+        "name": "Bentley Bentayga",
+        "price": "5.48 - 5.6 Crore",
+        "url": "/bentley-cars/bentayga"
+      },
+      {
+        "name": "Mercedes-AMG G 63",
+        "price": "3.85 - 4.01 Crore",
+        "url": "/mercedes-amg-cars/g-63"
+      },
+      {
+        "name": "Mercedes-Maybach GLS",
+        "price": "3.39 - 3.46 Crore",
+        "url": "/mercedes-maybach-cars/gls"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 3.95 - 3.99 Crore",
+          "₹ 2.8 - 2.91 Crore",
+          "₹ 4.38 Crore",
+          "₹ 5.48 - 5.6 Crore",
+          "₹ 3.85 - 4.01 Crore",
+          "₹ 3.39 - 3.46 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.6",
+          "8.5",
+          "7.7",
+          "7.7",
+          "7.3",
+          "7.7"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "3996 cc",
+          "3346 CC",
+          "3982 CC",
+          "3993 CC",
+          "3998 CC",
+          "3982 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "7 KM/L",
+          "9.6 KM/L",
+          "12 KM/L",
+          "6.8 KM/L",
+          "8.47 KM/L",
+          "8.5 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Diesel",
+          "Diesel",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "4 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "75.0 L",
+          "80.0 L",
+          "85.0 L",
+          "85.0 L",
+          "96.0 L",
+          "90.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "2",
+          "1",
+          "3",
+          "2",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Urus vs LX",
+          "Urus vs DBX",
+          "Urus vs Bentayga",
+          "Urus vs G 63",
+          "Urus vs GLS"
+        ]
+      }
+    ]
+  }
+}

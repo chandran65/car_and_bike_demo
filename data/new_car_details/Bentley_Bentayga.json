@@ -1,0 +1,227 @@
+{
+  "basic_info": {
+    "name": "Bentley Bentayga",
+    "manufacturer": "Bentley",
+    "model": "Bentayga",
+    "body_type": null,
+    "url": "https://www.carandbike.com/bentley-cars/bentayga",
+    "image_url": "https://images.carandbike.com/car-images/large/bentley/bentayga/bentley-bentayga.jpg?v=14",
+    "description": "Bentley Bentayga is a 4,5-seater  available at a starting price of Rs. 5.48 Crore. The car is available in 3 variants, with 2 engine and 1 transmission option. Additionally, Bentayga offers a Ground Clearance measurement of 209 mm and a Boot capacity of 484 liters. You can choose from 4 colors for the Bentayga. The mileage of the Bentayga varies from 6.8 KM/L depending on the model.",
+    "model_date": "2023-01-20",
+    "sku": "bentley-bentayga-1454",
+    "vin": "5NPEL4AB3BH001454",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "3993,3996 cc",
+    "power": "542 bhp",
+    "torque": "770 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "6 KM/L"
+  },
+  "dimensions": {
+    "width": "2222 mm ",
+    "height": "1739 mm",
+    "weight": "2416/2514",
+    "seating_capacity": "4,5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Magma",
+    "Ice cold",
+    "Blue Fusion",
+    "Alpine Rush"
+  ],
+  "price": {
+    "value": "54804190",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/bentley-cars/bentayga"
+  },
+  "brand": {
+    "name": "Bentley",
+    "image": "https://images.carandbike.com/car-images/big/bentley/bentley.png?v=1"
+  },
+  "rating": {
+    "value": "7.7",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Powerful Engines",
+    "Lots Of Features And Tech",
+    "Excellent Driving Dynamics",
+    "&nbsp;"
+  ],
+  "cons": [
+    "Pricey Proposition",
+    "Quirky Design",
+    "Bouncy Ride At Higher Speeds"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "6.8 KM/L",
+      "city_mileage": "5.5 KM/L",
+      "highway_mileage": "8.5 KM/L"
+    }
+  ],
+  "verdict": "The Bentley Bentayga, while designed to be a luxury vehicle, does not compromise on its driving experience, making it a driver's car as well. On the road, it offers an exhilarating ride – it's quick, agile, and its performance impressively contradicts its substantial size. This aspect is particularly notable considering its primary usage on road, as opposed to off-road scenarios. In the Indian context, while the typical Bentayga buyer might prefer to be chauffeured, enjoying the plushness of the back seat, the driving dynamics remain a crucial aspect of its appeal.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Bentley Bentayga",
+        "price": "5.48 - 5.6 Crore",
+        "url": "/bentley-cars/bentayga"
+      },
+      {
+        "name": "Lamborghini Urus",
+        "price": "4.75 - 4.8 Crore",
+        "url": "/lamborghini-cars/urus"
+      },
+      {
+        "name": "Lamborghini Urus SE",
+        "price": "4.47 Crore",
+        "url": "/lamborghini-cars/urus-se"
+      },
+      {
+        "name": "Aston Martin DBX",
+        "price": "4.38 Crore",
+        "url": "/aston-martin-cars/dbx"
+      },
+      {
+        "name": "Mercedes-AMG G 63",
+        "price": "3.85 - 4.01 Crore",
+        "url": "/mercedes-amg-cars/g-63"
+      },
+      {
+        "name": "Mercedes-Maybach GLS",
+        "price": "3.39 - 3.46 Crore",
+        "url": "/mercedes-maybach-cars/gls"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 5.48 - 5.6 Crore",
+          "₹ 4.75 - 4.8 Crore",
+          "₹ 4.47 Crore",
+          "₹ 4.38 Crore",
+          "₹ 3.85 - 4.01 Crore",
+          "₹ 3.39 - 3.46 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.7",
+          "8.6",
+          "-",
+          "7.7",
+          "7.3",
+          "7.7"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "3993,3996 cc",
+          "3996 CC",
+          "3996 CC",
+          "3982 CC",
+          "3998 CC",
+          "3982 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "6 KM/L",
+          "7.8 KM/L",
+          "7.5 KM/L",
+          "12 KM/L",
+          "8.47 KM/L",
+          "8.5 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Diesel",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "4,5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "85.0 L",
+          "75.0 L",
+          "75.0 L",
+          "85.0 L",
+          "96.0 L",
+          "90.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "3",
+          "2",
+          "1",
+          "1",
+          "2",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Bentayga vs Urus",
+          "Bentayga vs Urus SE",
+          "Bentayga vs DBX",
+          "Bentayga vs G 63",
+          "Bentayga vs GLS"
+        ]
+      }
+    ]
+  }
+}

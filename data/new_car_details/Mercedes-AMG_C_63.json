@@ -1,0 +1,204 @@
+{
+  "basic_info": {
+    "name": "Mercedes-AMG C 63",
+    "manufacturer": "Mercedes-AMG",
+    "model": "C 63",
+    "body_type": "Sedan",
+    "url": "https://www.carandbike.com/mercedes-amg-cars/c-63-s",
+    "image_url": "https://images.carandbike.com/car-images/large/mercedes-amg/c-63-s/mercedes-amg-c-63-s.jpg?v=14",
+    "description": "Mercedes-AMG C 63 is a 5-seater Sedan available at a starting price of Rs. 1.95 Crore. The car is available in 1 variants, with 1 engine and 1 transmission option. Additionally, C 63 offers a Boot capacity of 435 liters. You can choose from 2 colors for the C 63. The mileage of the C 63 varies from 14.5 KM/L depending on the model.",
+    "model_date": "2024-11-12",
+    "sku": "mercedes-amg-c-63-1500",
+    "vin": "5NPEL4AB3BH001500",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "3982 cc",
+    "power": "503 bhp",
+    "torque": "700 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "14 KM/L"
+  },
+  "dimensions": {
+    "width": "1877 mm ",
+    "height": "1401 mm",
+    "weight": "1730/1730",
+    "seating_capacity": "5",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "Selenite Grey",
+    "Polar White"
+  ],
+  "price": {
+    "value": 19500000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mercedes-amg-cars/c-63-s"
+  },
+  "brand": {
+    "name": "Mercedes-AMG",
+    "image": "https://images.carandbike.com/car-images/big/mercedes-amg/mercedes-amg.png?v=1"
+  },
+  "rating": {
+    "value": "6.9",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mercedes-AMG C 63",
+        "price": "1.95 Crore",
+        "url": "/mercedes-amg-cars/c-63-s"
+      },
+      {
+        "name": "BMW 7 Series",
+        "price": "1.93 - 2.01 Crore",
+        "url": "/bmw-cars/7-series"
+      },
+      {
+        "name": "Maserati Quattroporte",
+        "price": "1.89 - 2.91 Crore",
+        "url": "/maserati-cars/quattroporte"
+      },
+      {
+        "name": "Mercedes-Benz S-Class",
+        "price": "1.88 - 1.99 Crore",
+        "url": "/mercedes-benz-cars/s-class"
+      },
+      {
+        "name": "Porsche Panamera",
+        "price": "2.05 - 2.81 Crore",
+        "url": "/porsche-cars/panamera"
+      },
+      {
+        "name": "BMW M5",
+        "price": "2.21 Crore",
+        "url": "/bmw-cars/m5"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.95 Crore",
+          "₹ 1.93 - 2.01 Crore",
+          "₹ 1.89 - 2.91 Crore",
+          "₹ 1.88 - 1.99 Crore",
+          "₹ 2.05 - 2.81 Crore",
+          "₹ 2.21 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "6.9",
+          "7.7",
+          "7.6",
+          "8.6",
+          "6.6",
+          "7.6"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "3982 cc",
+          "2998 CC",
+          "2979 CC",
+          "2925 CC",
+          "3996 CC",
+          "4395 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "14 KM/L",
+          "12.61 - 14 KM/L",
+          "7.9 - 10.7 KM/L",
+          "10.1 - 13.5 KM/L",
+          "8 KM/L",
+          "9.12 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol",
+          "Hybrid"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "4 Seater",
+          "4 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "66.0 L",
+          "72.0 L",
+          "70.0 L",
+          "70.0 L",
+          "90.0 L",
+          "68.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "2",
+          "7",
+          "2",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "C 63 S vs 7 Series",
+          "C 63 S vs Quattroporte",
+          "C 63 S vs S-Class",
+          "C 63 S vs Panamera",
+          "C 63 S vs M5"
+        ]
+      }
+    ]
+  }
+}

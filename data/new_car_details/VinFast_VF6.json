@@ -1,0 +1,205 @@
+{
+  "basic_info": {
+    "name": "VinFast VF6",
+    "manufacturer": "VinFast",
+    "model": "VF6",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/vinfast-cars/vf6",
+    "image_url": "https://images.carandbike.com/car-images/large/vinfast/vf6/vinfast-vf6.jpg?v=15",
+    "description": "VinFast VF6 is a 5-seater electric SUV available at a starting price of Rs. 19.13 Lakh. The electric car is available in 3 variants.Additionally, VF6 offers a Ground Clearance measurement of 170 mm and a Boot capacity of 423 liters. You can choose from 6 colors for the VF6. The battery range/mileage of the VF6 is 460 Km/Full Charge. ",
+    "model_date": "2025-09-07",
+    "sku": "vinfast-vf6-1866",
+    "vin": "5NPEL4AB3BH001866",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "460 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1834 mm ",
+    "height": "1580 mm",
+    "weight": "",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Urban Mint",
+    "Zenith Grey",
+    "Desat Silver",
+    "Jet Black",
+    "Crimson Red",
+    "Infinity Blanc"
+  ],
+  "price": {
+    "value": 1913123,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/vinfast-cars/vf6"
+  },
+  "brand": {
+    "name": "VinFast",
+    "image": "https://images.carandbike.com/car-images/big/vinfast/vinfast.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "VinFast VF6",
+        "price": "16.49 - 18.29 Lakh",
+        "url": "/vinfast-cars/vf6"
+      },
+      {
+        "name": "Mahindra BE 6e",
+        "price": "18.9 - 28.4 Lakh",
+        "url": "/mahindra-cars/be-6e"
+      },
+      {
+        "name": "Mahindra XEV 9S",
+        "price": "19.95 - 27.35 Lakh",
+        "url": "/mahindra-cars/xev-9s"
+      },
+      {
+        "name": "Hyundai Creta EV",
+        "price": "18.02 - 24.55 Lakh",
+        "url": "/hyundai-cars/creta-ev"
+      },
+      {
+        "name": "MG ZS EV",
+        "price": "17.99 - 20.5 Lakh",
+        "url": "/mg-cars/zs-ev"
+      },
+      {
+        "name": "Mahindra XEV 9e",
+        "price": "21.9 - 28.65 Lakh",
+        "url": "/mahindra-cars/xev-9e"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 16.49 - 18.29 Lakh",
+          "₹ 18.9 - 28.4 Lakh",
+          "₹ 19.95 - 27.35 Lakh",
+          "₹ 18.02 - 24.55 Lakh",
+          "₹ 17.99 - 20.5 Lakh",
+          "₹ 21.9 - 28.65 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "-",
+          "-",
+          "7.8",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "460 Km/Full Charge",
+          "557 - 683 Km/Full Charge",
+          "521 - 679 Km/Full Charge",
+          "390 - 473 Km/Full Charge",
+          "461 Km/Full Charge",
+          "542 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "3",
+          "25",
+          "5",
+          "25",
+          "7",
+          "12"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "VF6 vs BE 6e",
+          "VF6 vs XEV 9S",
+          "VF6 vs Creta EV",
+          "VF6 vs ZS EV",
+          "VF6 vs XEV 9e"
+        ]
+      }
+    ]
+  }
+}

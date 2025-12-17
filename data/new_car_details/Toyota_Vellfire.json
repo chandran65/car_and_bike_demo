@@ -1,0 +1,255 @@
+{
+  "basic_info": {
+    "name": "Toyota Vellfire",
+    "manufacturer": "Toyota",
+    "model": "Vellfire",
+    "body_type": "MUV",
+    "url": "https://www.carandbike.com/toyota-cars/vellfire",
+    "image_url": "https://images.carandbike.com/car-images/large/toyota/vellfire/toyota-vellfire.jpg?v=29",
+    "description": "Toyota Vellfire is a 7-seater MUV available at a starting price of Rs. 1.2 Crore. The car is available in 2 variants, with 1 engine and 1 transmission option. Additionally, Vellfire offers a Ground Clearance measurement of 160 mm and a Boot capacity of 150 liters. You can choose from 3 colors for the Vellfire. The mileage of the Vellfire varies from 19.3 KM/L depending on the model.",
+    "model_date": "2023-08-03",
+    "sku": "toyota-vellfire-1625",
+    "vin": "5NPEL4AB3BH001625",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2494 cc",
+    "power": "115 bhp",
+    "torque": "198 Nm",
+    "fuel_type": "Hybrid"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Hybrid",
+    "efficiency": "19 KM/L"
+  },
+  "dimensions": {
+    "width": "1850 mm ",
+    "height": "1895 mm",
+    "weight": "2150/2150",
+    "seating_capacity": "7",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Silver Mica Metallic",
+    "New Pearl White",
+    "Black"
+  ],
+  "price": {
+    "value": 11973400,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/toyota-cars/vellfire"
+  },
+  "brand": {
+    "name": "Toyota",
+    "image": "https://images.carandbike.com/car-images/big/toyota/toyota.png?v=1"
+  },
+  "rating": {
+    "value": "6.8",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Premium Features And Tech",
+    "Gets A Spacious Cabin",
+    "Gets Petrol Hybrid Engine"
+  ],
+  "cons": [
+    "Styling And Features Are Dated",
+    "It Is Quite Expensive",
+    "Doesn&rsquo;T Get A Diesel Option"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Hybrid",
+      "transmission": "Automatic",
+      "mileage": "19.3 KM/L",
+      "city_mileage": "12 KM/L",
+      "highway_mileage": "16 KM/L"
+    }
+  ],
+  "whats_new": {
+    "Introduction": [
+      "The Toyota Vellfire is a luxury MPV which was first introduced in India in August, 2023.",
+      "Its 2025 version has a petrol-electric hybrid powertrain that offers smooth and linear power delivery.",
+      "Toyota’s Vellfire is built on the TNGA (Toyota New Global Architecture) and features a comprehensive suite of safety technologies.",
+      "This MPV is for those seeking a premium chauffeur-driven experience as well as families desiring a spacious luxury ride."
+    ],
+    "Exterior": [
+      "The Vellfire stands out due to its sheer length of over five metres and the road presence.",
+      "Its fascia features a six-slat grille and a sculpted, upright nose.",
+      "The headlamp setup integrates sleek LED DRLs and a three-lens LED for better visibility.",
+      "Its body has creases and a distinctive zig-zag window line, alongside subtle chrome accents on door handles.",
+      "The Vellfire’s alloy wheels feature a dual-tone machine finish.",
+      "At the rear, the connected LED tail lamps and a chunky bumper maintain its sleek look."
+    ],
+    "Interior": [
+      "Step inside and you’ll see the Vellfire is hospitality-inspired, offering genuine leather upholstery across all rows.",
+      "Its sense of exclusivity can be seen through premium wood inserts and leather finishes on the dashboard, doors, and gear.",
+      "The cabin features wide seating with good under thigh support, especially in the highly luxurious second row.",
+      "Moreover, there are powered ottoman and massage seats with memory functions.",
+      "The centre and rear seats are plush and can be adjusted for maximum comfort."
+    ],
+    "Powertrain": [
+      "The Vellfire is powered by a 2.5-litre four-cylinder petrol engine with an underfloor battery-powered electric motor.",
+      "This strong hybrid setup produces a total of approximately 190-193bhp and 240Nm of torque.",
+      "It delivers power to all wheels via an e-CVT transmission.",
+      "The MPV allows for EV-only operation at lower speeds, providing a near-silent driving experience.",
+      "Its claimed fuel efficiency is 19.28 kmpl and offers all-wheel drive."
+    ]
+  },
+  "verdict": "In case you were wondering about the rivals of the Toyota Vellfire, it isn't the Kia Carnival. Toyota is billing the Vellfire not as a people mover but as a premium luxury car. The car has a lot to offer and is genuinely comfortable, especially for the rear passengers but it has its work cut out as it sits between the Kia Carnival at one end of the MPV spectrum and the Mercedes-Benz V-Class on the other.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Toyota Vellfire",
+        "price": "1.2 - 1.3 Crore",
+        "url": "/toyota-cars/vellfire"
+      },
+      {
+        "name": "Rolls-Royce Cullinan",
+        "price": "1.19 - 1.39 Crore",
+        "url": "/rolls-royce-cars/cullinan"
+      },
+      {
+        "name": "Mercedes-Benz CLE Cabriolet",
+        "price": "1.17 Crore",
+        "url": "/mercedes-benz-cars/cle-cabriolet"
+      },
+      {
+        "name": "Mercedes-AMG GLC 43 Coupe",
+        "price": "1.17 Crore",
+        "url": "/mercedes-amg-cars/glc-43-coupe"
+      },
+      {
+        "name": "Volvo XC90",
+        "price": "1.13 Crore",
+        "url": "/volvo-cars/xc90"
+      },
+      {
+        "name": "Audi Q8",
+        "price": "1.1 Crore",
+        "url": "/audi-cars/q8"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.2 - 1.3 Crore",
+          "₹ 1.19 - 1.39 Crore",
+          "₹ 1.17 Crore",
+          "₹ 1.17 Crore",
+          "₹ 1.13 Crore",
+          "₹ 1.1 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "6.8",
+          "8.8",
+          "-",
+          "7.1",
+          "7.6",
+          "8.5"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2494 cc",
+          "6751 CC",
+          "1999 CC",
+          "1996 CC",
+          "1969 CC",
+          "2995 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "19 KM/L",
+          "7 KM/L",
+          "12 KM/L",
+          "13 KM/L",
+          "11.04 KM/L",
+          "10 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Hybrid",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Hybrid",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "60.0 L",
+          "100.0 L",
+          "66.0 L",
+          "93.0 L",
+          "71.0 L",
+          "85.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "2",
+          "1",
+          "1",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Vellfire vs Cullinan",
+          "Vellfire vs CLE Cabriolet",
+          "Vellfire vs GLC 43 Coupe",
+          "Vellfire vs XC90",
+          "Vellfire vs Q8"
+        ]
+      }
+    ]
+  }
+}

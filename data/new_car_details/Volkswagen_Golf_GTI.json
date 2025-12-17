@@ -1,0 +1,212 @@
+{
+  "basic_info": {
+    "name": "Volkswagen Golf GTI",
+    "manufacturer": "Volkswagen",
+    "model": "Golf GTI",
+    "body_type": "Hatchback",
+    "url": "https://www.carandbike.com/volkswagen-cars/golf-gti",
+    "image_url": "https://images.carandbike.com/car-images/large/volkswagen/golf-gti/volkswagen-golf-gti.jpg?v=10",
+    "description": "Volkswagen Golf GTI is a 5-seater Hatchback available at a starting price of Rs. 50.91 Lakh. The car is available in 1 variants, with 1 engine and 1 transmission option. Additionally, Golf GTI offers a Ground Clearance measurement of 136 mm and a Boot capacity of 380 liters. You can choose from 4 colors for the Golf GTI. The mileage of the Golf GTI varies from 16.3 KM/L depending on the model.",
+    "model_date": "2025-05-26",
+    "sku": "volkswagen-golf-gti-1865",
+    "vin": "5NPEL4AB3BH001865",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1984 cc",
+    "power": "264 bhp@ 5250rpm - 6500rpm bhp",
+    "torque": "370Nm @ 1600rpm-4500rpm Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Manual",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "16 KM/L"
+  },
+  "dimensions": {
+    "width": "1789 mm ",
+    "height": "1471 mm",
+    "weight": "1454/1454",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Oryx White Mother of Pearl Effect",
+    "Kings Red Metallic",
+    "Grenadilla Black Metallic",
+    "Moonstone Grey"
+  ],
+  "price": {
+    "value": 5090900,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/volkswagen-cars/golf-gti"
+  },
+  "brand": {
+    "name": "Volkswagen",
+    "image": "https://images.carandbike.com/car-images/big/volkswagen/volkswagen.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "whats_new": {
+    "Key Highlights:": [
+      "Similar ModelsMercedes-AMG A35,Mini Cooper JCW,BMW 2 Series Gran Coupe",
+      "The Volkswagen Golf GTI stands tall among its competitors, offering a unique balance of sporty design, thrilling performance, and premium features. With similar models like the Mercedes-AMG A35, Mini Cooper JCW, and BMW 2 Series Gran Coupe, the Golf GTI competes in the premium hot hatch and compact performance car segment while carving its own unique niche."
+    ]
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Volkswagen Golf GTI",
+        "price": "50.91 Lakh",
+        "url": "/volkswagen-cars/golf-gti"
+      },
+      {
+        "name": "MINI Cooper S 2024",
+        "price": "49.68 - 61.85 Lakh",
+        "url": "/mini-cars/cooper-s-2024"
+      },
+      {
+        "name": "Hyundai i20 N Line",
+        "price": "9.14 - 11.6 Lakh",
+        "url": "/hyundai-cars/i20-n-line"
+      },
+      {
+        "name": "Tata Altroz",
+        "price": "6.91 - 11.81 Lakh",
+        "url": "/tata-cars/altroz"
+      },
+      {
+        "name": "Hyundai Elite i20",
+        "price": "6.87 - 10.52 Lakh",
+        "url": "/hyundai-cars/elite-i20"
+      },
+      {
+        "name": "Toyota Glanza",
+        "price": "6.39 - 9.15 Lakh",
+        "url": "/toyota-cars/glanza"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 50.91 Lakh",
+          "₹ 49.68 - 61.85 Lakh",
+          "₹ 9.14 - 11.6 Lakh",
+          "₹ 6.91 - 11.81 Lakh",
+          "₹ 6.87 - 10.52 Lakh",
+          "₹ 6.39 - 9.15 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "7.9",
+          "8.8",
+          "8.2",
+          "7.7"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1984 cc",
+          "1998 CC",
+          "998 CC",
+          "1199 CC",
+          "1197 CC",
+          "1197 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual",
+          "Automatic",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "16 KM/L",
+          "17.33 KM/L",
+          "20.25 KM/L",
+          "19 - 25.11 KM/L",
+          "19.65 - 20.35 KM/L",
+          "22.35 - 22.94 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Diesel, Petrol, CNG",
+          "Petrol",
+          "Petrol, CNG"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "45.0 L",
+          "61.0 L",
+          "37.0 L",
+          "37.0 L",
+          "37.0 L",
+          "37.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "4",
+          "8",
+          "10",
+          "18",
+          "9"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Golf GTI vs Cooper S 2024",
+          "Golf GTI vs i20 N Line",
+          "Golf GTI vs Altroz",
+          "Golf GTI vs Elite i20",
+          "Golf GTI vs Glanza"
+        ]
+      }
+    ]
+  }
+}

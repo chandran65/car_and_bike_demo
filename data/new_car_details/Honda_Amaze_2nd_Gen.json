@@ -1,0 +1,239 @@
+{
+  "basic_info": {
+    "name": "Honda Amaze 2nd Gen",
+    "manufacturer": "Honda",
+    "model": "Amaze 2nd Gen",
+    "body_type": "Sedan",
+    "url": "https://www.carandbike.com/honda-cars/amaze",
+    "image_url": "https://images.carandbike.com/car-images/large/honda/amaze/honda-amaze.jpg?v=56",
+    "description": "Honda Amaze 2nd Gen is a 5-seater Sedan available at a starting price of Rs. 6.98 Lakh. The car is available in 2 variants, with 3 engine and 3 transmission option. Additionally, Amaze 2nd Gen offers a Ground Clearance measurement of 170 mm and a Boot capacity of 420 liters. You can choose from 5 colors for the Amaze 2nd Gen. The mileage of the Amaze 2nd Gen varies from 18.3 - 18.6 KM/L depending on the model.",
+    "model_date": "2024-12-04",
+    "sku": "honda-amaze-2nd-gen-1324",
+    "vin": "5NPEL4AB3BH001324",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1199 cc",
+    "power": "89,89 bhp @ 6000 rpm bhp",
+    "torque": "110,110 Nm @ 4800 rpm Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Manual, Automatic, CVT",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "18 - 19 KM/L"
+  },
+  "dimensions": {
+    "width": "1733 mm ",
+    "height": "1501 mm",
+    "weight": "917/945",
+    "seating_capacity": "5",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "Meteoroid Grey Metallic",
+    "Golden Brown Metallic",
+    "Platinum White Pearl",
+    "Radiant Red Metallic",
+    "Lunar Silver Metallic"
+  ],
+  "price": {
+    "value": "697700",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/honda-cars/amaze"
+  },
+  "brand": {
+    "name": "Honda",
+    "image": "https://images.carandbike.com/car-images/big/honda/honda.png?v=1"
+  },
+  "rating": {
+    "value": "7.8",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Nice Cabin",
+    "Well Equipped",
+    "Decent Engine Options"
+  ],
+  "cons": [
+    "No Rear Ac Vents",
+    "Old Design",
+    "No Centre Armrest At Rear"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "18.3 KM/L",
+      "city_mileage": "17 KM/L",
+      "highway_mileage": "19 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "18.6 KM/L",
+      "city_mileage": "17 KM/L",
+      "highway_mileage": "19 KM/L"
+    }
+  ],
+  "expert_review": {
+    "design_styling": "The Amaze facelift showcases a more refined and improved exterior compared to its predecessor. Upfront, a redesigned grille, featuring two horizontal slats, complements the LED projector headlamps that incorporate daytime running lights (DRLs). The LED fog lamps, with their chrome accents, further enhance the visual appeal of the front fascia. On the sides, the introduction of dual-tone 15-inch diamond-cut alloy wheels, along with chrome door handles (exclusively available on the VX trim), adds a touch of sophistication. Moving to the rear, the car boasts new C-shaped LED tail lamps and a chrome strip on the bumper. Buyers can choose from five exterior colors, including the new Meteoroid Grey.",
+    "interior_features": "The ability of theHonda Amazeto climb hills is a topic of interest for those considering this compact sedan for their driving needs, especially in regions characterized by hilly terrain. The Amaze, like many vehicles in its class, is equipped with an engine that offers a balance between power and efficiency, but certain factors must be taken into account when it comes to hill climbing. One critical aspect is the torque output of the Amaze's engine. Torque is the force that enables a vehicle to overcome resistance and ascend inclines. While the Amaze's torque may be suitable for moderate hill climbs, it may encounter challenges on steep and prolonged slopes. The vehicle's performance on hills largely depends on the specific gradient of the terrain and the weight it is carrying, including passengers and cargo. One of the key considerations for hill climbing in the Amaze is the choice of gear. The third and fourth gears may not provide the strong acceleration typically needed for overtaking on a hill or ascending steep slopes. This can make hill driving feel less powerful and might require a more strategic and patient approach, especially when restarting the car on an incline.",
+    "safety_adas": "The ability of theHonda Amazeto climb hills is a topic of interest for those considering this compact sedan for their driving needs, especially in regions characterized by hilly terrain. The Amaze, like many vehicles in its class, is equipped with an engine that offers a balance between power and efficiency, but certain factors must be taken into account when it comes to hill climbing. One critical aspect is the torque output of the Amaze's engine. Torque is the force that enables a vehicle to overcome resistance and ascend inclines. While the Amaze's torque may be suitable for moderate hill climbs, it may encounter challenges on steep and prolonged slopes. The vehicle's performance on hills largely depends on the specific gradient of the terrain and the weight it is carrying, including passengers and cargo. One of the key considerations for hill climbing in the Amaze is the choice of gear. The third and fourth gears may not provide the strong acceleration typically needed for overtaking on a hill or ascending steep slopes. This can make hill driving feel less powerful and might require a more strategic and patient approach, especially when restarting the car on an incline."
+  },
+  "verdict": "Compared to its rivals the Amaze still comes at a premium which in a price sensitive segment is not ideal. Overall though a well-proportioned car has become better with a more likeable exterior and a cabin that feels more premium. It has managed to create a space of its own in this competitive segment",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Honda Amaze 2nd Gen",
+        "price": "6.98 - 7.8 Lakh",
+        "url": "/honda-cars/amaze"
+      },
+      {
+        "name": "Honda 2025 Amaze",
+        "price": "7.41 - 10 Lakh",
+        "url": "/honda-cars/2025-amaze"
+      },
+      {
+        "name": "Maruti Suzuki 2025 New Dzire",
+        "price": "6.26 - 9.31 Lakh",
+        "url": "/maruti-suzuki-cars/2025-new-dzire"
+      },
+      {
+        "name": "Hyundai Aura",
+        "price": "5.98 - 8.42 Lakh",
+        "url": "/hyundai-cars/aura"
+      },
+      {
+        "name": "Tata Tigor",
+        "price": "5.49 - 8.74 Lakh",
+        "url": "/tata-cars/tigor"
+      },
+      {
+        "name": "Maruti Suzuki Ciaz",
+        "price": "9.09 - 10.06 Lakh",
+        "url": "/maruti-suzuki-cars/ciaz"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 6.98 - 7.8 Lakh",
+          "₹ 7.41 - 10 Lakh",
+          "₹ 6.26 - 9.31 Lakh",
+          "₹ 5.98 - 8.42 Lakh",
+          "₹ 5.49 - 8.74 Lakh",
+          "₹ 9.09 - 10.06 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.8",
+          "-",
+          "-",
+          "7.8",
+          "7.6",
+          "7.0"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1199 cc",
+          "1199 CC",
+          "1197 CC",
+          "1197 CC",
+          "1199 CC",
+          "1462 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic, CVT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "18 - 19 KM/L",
+          "18.6 KM/L",
+          "24.7 - 34 KM/L",
+          "20.5 - 28 KM/L",
+          "17 - 26 KM/L",
+          "20.65 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol, CNG",
+          "Petrol, CNG",
+          "Petrol, CNG",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "35.0 L",
+          "35.0 L",
+          "37.0 L",
+          "37.0 L",
+          "35.0 L",
+          "43.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "6",
+          "9",
+          "11",
+          "14",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Amaze vs 2025 Amaze",
+          "Amaze vs 2025 New Dzire",
+          "Amaze vs Aura",
+          "Amaze vs Tigor",
+          "Amaze vs Ciaz"
+        ]
+      }
+    ]
+  }
+}

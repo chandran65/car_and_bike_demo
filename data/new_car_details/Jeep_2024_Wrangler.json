@@ -1,0 +1,232 @@
+{
+  "basic_info": {
+    "name": "Jeep 2024 Wrangler",
+    "manufacturer": "Jeep",
+    "model": "2024 Wrangler",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/jeep-cars/wrangler-unlimited",
+    "image_url": "https://images.carandbike.com/car-images/large/jeep/wrangler-unlimited/jeep-wrangler-unlimited.jpg?v=50",
+    "description": "Jeep 2024 Wrangler is a 4,5-seater SUV available at a starting price of Rs. 64.08 Lakh. The car is available in 2 variants, with 1 engine and 1 transmission option. Additionally, 2024 Wrangler offers a Ground Clearance measurement of 217 mm and a Boot capacity of 884 liters. You can choose from 10 colors for the 2024 Wrangler. The mileage of the 2024 Wrangler varies from 12 KM/L depending on the model.",
+    "model_date": "2024-04-25",
+    "sku": "jeep-2024-wrangler-1441",
+    "vin": "5NPEL4AB3BH001441",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1998 cc",
+    "power": "268 bhp @ 5250 rpm bhp",
+    "torque": "400 Nm @ 3000 rpm Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "12 KM/L"
+  },
+  "dimensions": {
+    "width": "1894 mm ",
+    "height": "1848 mm",
+    "weight": "1995/2005",
+    "seating_capacity": "4,5",
+    "number_of_doors": "2,4"
+  },
+  "colors": [
+    "Rubicon Granite Crystal",
+    "Rubicon Bright White",
+    "Rubicon Billet Silver",
+    "Rubicon Black",
+    "Deep Cherry Red Rubicon",
+    "Deep Cherry Red",
+    "Black",
+    "Techno Metallic Green",
+    "Granite Crystal",
+    "Bright White"
+  ],
+  "price": {
+    "value": 6408000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/jeep-cars/wrangler-unlimited"
+  },
+  "brand": {
+    "name": "Jeep",
+    "image": "https://images.carandbike.com/car-images/big/jeep/jeep.png?v=1"
+  },
+  "rating": {
+    "value": "7.0",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Best off-roader availble in the country",
+    "Looks butch and extremely rugged",
+    "Gets a powerful engine"
+  ],
+  "cons": [
+    "It is priced steeply",
+    "The Wrangler's ride quality on tarmac is bouncy",
+    "Does not come with a lot of features"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "12 KM/L",
+      "city_mileage": "8 KM/L",
+      "highway_mileage": "14 KM/L"
+    }
+  ],
+  "verdict": "If you are the kind of person who buys cars with a degree of emotion, the Wrangler is right up there in terms of soul with the likes of Italian sportscars. It doesn't drive all too well on tarmac and it doesn't handle really well either, but the Wrangler Unlimited does have a sense of 'I can go anywhere and do anything' that almost no other SUV does and it can still be one of the coolest boulevard cruisers that you can have.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Jeep 2024 Wrangler",
+        "price": "64.08 - 67.81 Lakh",
+        "url": "/jeep-cars/wrangler-unlimited"
+      },
+      {
+        "name": "Mercedes-Benz GLE-Class",
+        "price": "1.03 - 1.2 Crore",
+        "url": "/mercedes-benz-cars/gle-class"
+      },
+      {
+        "name": "Land Rover Discovery",
+        "price": "1.46 - 1.59 Crore",
+        "url": "/land-rover-cars/discovery"
+      },
+      {
+        "name": "Mercedes-Benz GLA-Class",
+        "price": "51.5 - 56.5 Lakh",
+        "url": "/mercedes-benz-cars/gla-class"
+      },
+      {
+        "name": "Land Rover Range Rover Velar",
+        "price": "79.24 - 83.91 Lakh",
+        "url": "/land-rover-cars/range-rover-velar"
+      },
+      {
+        "name": "Jaguar F-Pace",
+        "price": "82.88 - 84.7 Lakh",
+        "url": "/jaguar-cars/f-pace"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 64.08 - 67.81 Lakh",
+          "₹ 1.03 - 1.2 Crore",
+          "₹ 1.46 - 1.59 Crore",
+          "₹ 51.5 - 56.5 Lakh",
+          "₹ 79.24 - 83.91 Lakh",
+          "₹ 82.88 - 84.7 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.0",
+          "7.9",
+          "7.9",
+          "8.6",
+          "8.1",
+          "8.8"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1998 cc",
+          "1993 CC",
+          "2995 CC",
+          "1332 CC",
+          "1997 CC",
+          "1997 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "12 KM/L",
+          "9 - 9.7 KM/L",
+          "9.2 KM/L",
+          "13 - 17 KM/L",
+          "9.2 - 16.6 KM/L",
+          "13 - 18 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol, Diesel",
+          "Diesel",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol, Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "4,5 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "87.0 L",
+          "93.0 L",
+          "89.0 L",
+          "50.0 L",
+          "89.0 L",
+          "82.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "3",
+          "3",
+          "3",
+          "3",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Wrangler Unlimited vs GLE-Class",
+          "Wrangler Unlimited vs Discovery",
+          "Wrangler Unlimited vs GLA-Class",
+          "Wrangler Unlimited vs Range Rover Velar",
+          "Wrangler Unlimited vs F-Pace"
+        ]
+      }
+    ]
+  }
+}

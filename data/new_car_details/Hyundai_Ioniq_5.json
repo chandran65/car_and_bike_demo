@@ -1,0 +1,215 @@
+{
+  "basic_info": {
+    "name": "Hyundai Ioniq 5",
+    "manufacturer": "Hyundai",
+    "model": "Ioniq 5",
+    "body_type": "Crossover",
+    "url": "https://www.carandbike.com/hyundai-cars/ioniq-5",
+    "image_url": "https://images.carandbike.com/car-images/large/hyundai/ioniq-5/hyundai-ioniq-5.jpg?v=19",
+    "description": "Hyundai Ioniq 5 is a 5-seater electric Crossover available at a starting price of Rs. 53.71 Lakh. The electric car is available in 1 variants.Additionally, Ioniq 5 offers a Ground Clearance measurement of 163 mm and a Boot capacity of 527 liters. You can choose from 3 colors for the Ioniq 5. The battery range/mileage of the Ioniq 5 is 631 Km/Full Charge. ",
+    "model_date": "2023-01-11",
+    "sku": "hyundai-ioniq-5-1459",
+    "vin": "5NPEL4AB3BH001459",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "631 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1890 mm ",
+    "height": "1625 mm",
+    "weight": "2015/2015",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Optic White",
+    "Midnight Black Pearl",
+    "Gravity gold matte"
+  ],
+  "price": {
+    "value": 5370794,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/hyundai-cars/ioniq-5"
+  },
+  "brand": {
+    "name": "Hyundai",
+    "image": "https://images.carandbike.com/car-images/big/hyundai/hyundai.png?v=1"
+  },
+  "rating": {
+    "value": "8.6",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Bold looks",
+    "Smart features",
+    "Futuristic cabin"
+  ],
+  "cons": [
+    "Not very fun-to-drive",
+    "Intrusive ADAS",
+    "A bit pricy"
+  ],
+  "expert_review": {
+    "design_styling": "Hyundai has made it clear that the design draws inspiration from their first-ever car, the Pony from the 1970s. However, the IONIQ 5 translates that heritage into a new vernacular, combining nostalgia with a forward-looking vision. The pixel-inspired taillights are a prime example—retro, yet incredibly current. Likewise, the geometric edges and angles are nothing short of revolutionary, giving the vehicle a digital persona that is quite unmissable. The result is a design narrative that communicates both emotional warmth and technological prowess."
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Hyundai Ioniq 5",
+        "price": "46.3 Lakh",
+        "url": "/hyundai-cars/ioniq-5"
+      },
+      {
+        "name": "BYD Sealion 7",
+        "price": "56.72 - 63.68 Lakh",
+        "url": "/byd-cars/sealion-7"
+      },
+      {
+        "name": "BMW ix1 L",
+        "price": "57.88 Lakh",
+        "url": "/bmw-cars/ix1-l"
+      },
+      {
+        "name": "BYD Seal",
+        "price": "47.6 - 61.75 Lakh",
+        "url": "/byd-cars/seal"
+      },
+      {
+        "name": "MINI Countryman E",
+        "price": "63.68 - 71.92 Lakh",
+        "url": "/mini-cars/countryman-e"
+      },
+      {
+        "name": "Volvo EX40",
+        "price": "65.07 - 67.16 Lakh",
+        "url": "/volvo-cars/ex40"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 46.3 Lakh",
+          "₹ 56.72 - 63.68 Lakh",
+          "₹ 57.88 Lakh",
+          "₹ 47.6 - 61.75 Lakh",
+          "₹ 63.68 - 71.92 Lakh",
+          "₹ 65.07 - 67.16 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.6",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "631 Km/Full Charge",
+          "542 - 567 Km/Full Charge",
+          "440 Km/Full Charge",
+          "510 - 650 Km/Full Charge",
+          "462 Km/Full Charge",
+          "475 - 565 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "2",
+          "1",
+          "3",
+          "2",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Ioniq 5 vs Sealion 7",
+          "Ioniq 5 vs ix1 L",
+          "Ioniq 5 vs Seal",
+          "Ioniq 5 vs Countryman E",
+          "Ioniq 5 vs EX40"
+        ]
+      }
+    ]
+  }
+}

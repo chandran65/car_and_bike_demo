@@ -1,0 +1,288 @@
+{
+  "page_title": "Fees & User Charges | Parivahansewa",
+  "url": "https://parivahan.gov.in/content/fees-and-user-charges",
+  "extraction_date": "2025-12-14",
+  "fee_categories": [
+    {
+      "sl_no": "1.",
+      "category": "Grant or renewal of trade certificate in respect of each class of vehicle:",
+      "items": [
+        {
+          "purpose": "(a) Motorcycle",
+          "amount": "Rupees Five Hundred Only",
+          "rule": "34(1)"
+        },
+        {
+          "purpose": "(b) Invalid Carriage",
+          "amount": "Rupees Five Hundred Only",
+          "rule": "34(1)"
+        },
+        {
+          "purpose": "(c) Others",
+          "amount": "Rupees One Thousand Only",
+          "rule": "34(1)"
+        }
+      ]
+    },
+    {
+      "sl_no": "2.",
+      "category": "Duplicate trade certificate:",
+      "items": [
+        {
+          "purpose": "(a) Motorcycle",
+          "amount": "Rupees Three Hundred Only",
+          "rule": "38(1)"
+        },
+        {
+          "purpose": "(b) Invalid Carriage",
+          "amount": "Rupees Three Hundred Only",
+          "rule": "38(1)"
+        },
+        {
+          "purpose": "(c) Others",
+          "amount": "Rupees Five Hundred Only",
+          "rule": "38(1)"
+        },
+        {
+          "purpose": "Appeal under rule 46",
+          "amount": "Rupees One Thousand Only",
+          "rule": "46(1)"
+        }
+      ]
+    },
+    {
+      "sl_no": "4.",
+      "category": "Issue or renewal of certificate of registration and assignment of new registration mark:",
+      "items": [
+        {
+          "purpose": "(a)Invalid Carriage",
+          "amount": "Rupees Fifty Only",
+          "rule": "47(1) 52(1) 54(1) 76(1) and 78(1)"
+        },
+        {
+          "purpose": "(b)Motor cycle",
+          "amount": "Rupees Three Hundred Only",
+          "rule": "47(1) 52(1) 54(1) 76(1) and 78(1)"
+        }
+      ]
+    },
+    {
+      "sl_no": "4.",
+      "category": "(c) Three wheeler/Quadricycle/Light Motor Vehicles:",
+      "items": [
+        {
+          "purpose": "i) Non transport;",
+          "amount": "Rupees Six Hundred Only",
+          "rule": "47(1) 52(1) 54(1) 76(1) and 78(1)"
+        },
+        {
+          "purpose": "ii) Transport",
+          "amount": "Rupees One Thousand Only",
+          "rule": "47(1) 52(1) 54(1) 76(1) and 78(1)"
+        },
+        {
+          "purpose": "(d)Medium goods vehicle",
+          "amount": "Rupees One Thousand Only",
+          "rule": "47(1) 52(1) 54(1) 76(1) and 78(1)"
+        },
+        {
+          "purpose": "(e)Medium passenger motor vehicle",
+          "amount": "Rupees One Thousand Only",
+          "rule": "47(1) 52(1) 54(1) 76(1) and 78(1)"
+        },
+        {
+          "purpose": "(f)Heavy goods vehicle",
+          "amount": "Rupees One Thousand and Five Hundred Only",
+          "rule": "47(1) 52(1) 54(1) 76(1) and 78(1)"
+        },
+        {
+          "purpose": "(g)Heavy passenger motor vehicle",
+          "amount": "Rupees One Thousand and Five Hundred Only",
+          "rule": "47(1) 52(1) 54(1) 76(1) and 78(1)"
+        },
+        {
+          "purpose": "(h)Imported motor vehicle",
+          "amount": "Rupees Five Thousand Only",
+          "rule": "47(1) 52(1) 54(1) 76(1) and 78(1)"
+        },
+        {
+          "purpose": "(i)Imported motor cycle",
+          "amount": "Rupees Two Thousand and Five Hundred Only",
+          "rule": "47(1) 52(1) 54(1) 76(1) and 78(1)"
+        },
+        {
+          "purpose": "(j)Any other vehicle not mentioned above",
+          "amount": "Rupees Three Thousand Only",
+          "rule": "47(1) 52(1) 54(1) 76(1) and 78(1)"
+        }
+      ]
+    },
+    {
+      "sl_no": "4.",
+      "category": "Note 1:Additional fee of Two Hundred Rupees shall be levied if the certificate of registration is a smart card type issued or renewed in Form 23A.",
+      "items": []
+    },
+    {
+      "sl_no": "4.",
+      "category": "Note 2:In case of delay in applying for renewal of certificate of registration, an additional fee of Rupees Three Hundred Only for delay of every month or part thereof in respect of motor cycles and Rupees Five Hundred Only for delay of every month or part thereof in respect of other classes of nontransport vehicles shall be levied.",
+      "items": [
+        {
+          "purpose": "Issue of duplicate certificate of registration",
+          "amount": "Half of the fee mentioned against Serial No.4",
+          "rule": "53(2)"
+        },
+        {
+          "purpose": "Transfer of ownership",
+          "amount": "Half of the fee mentioned against Serial No.4.",
+          "rule": "55(2)(iii), 55(3), 56(2)(a) and 57(1)(a)"
+        }
+      ]
+    },
+    {
+      "sl_no": "6.",
+      "category": "Note:In case of delay in submission of ‘No Objection Certificate’, an additional fee of Rupees Three Hundred Only for delay of each month or part thereof in case of motor cycles and Rupees Five Hundred Only for each month of delay or part thereof for other vehicles shall be levied.",
+      "items": [
+        {
+          "purpose": "Change of residence",
+          "amount": "Half of the fee mentioned against Serial No.4.",
+          "rule": "59"
+        }
+      ]
+    },
+    {
+      "sl_no": "7.",
+      "category": "Note:In case of delay in submitting ‘No Objection Certificate’ for change of residence, an additional fee of Rupees Three Hundred Only for delay of each month or part thereof in case of motor cycles and Rupee Five Hundred Only for each month of delay or part thereof for other vehicles shall be levied.",
+      "items": [
+        {
+          "purpose": "Recording alteration in the certificate of registration",
+          "amount": "Half of the fee mentioned against Serial No.4",
+          "rule": "---"
+        }
+      ]
+    },
+    {
+      "sl_no": "9.",
+      "category": "Endorsing hire purchase/lease/hypothecation agreement:",
+      "items": [
+        {
+          "purpose": "(a)Motorcycle",
+          "amount": "Rupees Five Hundred Only",
+          "rule": "60"
+        },
+        {
+          "purpose": "(b)Three wheeler/quadricycle/light motor vehicle",
+          "amount": "Rupees One Thousand and Five Hundred Only",
+          "rule": "60"
+        },
+        {
+          "purpose": "(c)Medium or heavy vehicle",
+          "amount": "Rupees Three Thousand Only",
+          "rule": "60"
+        }
+      ]
+    },
+    {
+      "sl_no": "9.",
+      "category": "Note:No separate fee will be levied for cancellation of lease, etc, or for issue of fresh Certificate of Registration thereafter.",
+      "items": []
+    },
+    {
+      "sl_no": "10.",
+      "category": "Conducting test of a vehicle for grant or renewal of certificate of fitness:",
+      "items": [
+        {
+          "purpose": "(a)Motorcycle",
+          "amount": "(i)Manual: Rupees Two Hundred Only(ii)Automated: Rupees Four Hundred Only",
+          "rule": "62(2)"
+        },
+        {
+          "purpose": "(b)Three wheeled or light motor vehicle or quadricycle",
+          "amount": "(i)Manual : Rupees Four Hundred Only(ii)Automated: Rupees Six Hundred Only",
+          "rule": "62(2)"
+        },
+        {
+          "purpose": "(c)Medium or heavy motor vehicle",
+          "amount": "(i)Manual: Rupees Six Hundred Only(ii)Automated: Rupees One Thousand Only",
+          "rule": "62(2)"
+        },
+        {
+          "purpose": "Grant or renewal of certificate of fitness for motor vehicle",
+          "amount": "Rupees Two Hundred Only.",
+          "rule": "62(2)"
+        }
+      ]
+    },
+    {
+      "sl_no": "11.",
+      "category": "Note:Additional fee of Rupees Fifty Only for each day of delay after expiry of certificate of fitness shall be levied.",
+      "items": [
+        {
+          "purpose": "Grant or renewal of letter of authority",
+          "amount": "Rupees Fifteen Thousand Only",
+          "rule": "63(2)(a)"
+        },
+        {
+          "purpose": "Issue of duplicate letter of authority",
+          "amount": "Rupees Seven Thousand and Five Hundred Only",
+          "rule": "66(2)"
+        },
+        {
+          "purpose": "Appeal under rule 70",
+          "amount": "Rupees Three Thousand Only",
+          "rule": "71(1)"
+        },
+        {
+          "purpose": "Any application not covered under entries at Serial Nos. 1 to 14 above",
+          "amount": "Rupees Two Hundred Only",
+          "rule": "64(p)"
+        }
+      ]
+    },
+    {
+      "sl_no": "16.",
+      "category": "Renewal of certificate of registration for motor vehicle older than 20 years from date of first registration",
+      "items": [
+        {
+          "purpose": "(a) Invalid carriage",
+          "amount": "Hundred rupees",
+          "rule": "52(1)"
+        },
+        {
+          "purpose": "(b) Motor Cycle",
+          "amount": "Two thousand rupees",
+          "rule": "52(1)"
+        },
+        {
+          "purpose": "(c) Three Wheeler / Quadricycle",
+          "amount": "Five thousand rupees",
+          "rule": "52(1)"
+        },
+        {
+          "purpose": "(d) Light motor vehicle",
+          "amount": "Ten thousand rupees",
+          "rule": "52(1)"
+        },
+        {
+          "purpose": "(e) Imported motor vehicle (Two or Three wheeled )",
+          "amount": "Twenty thousand rupees",
+          "rule": "52(1)"
+        },
+        {
+          "purpose": "(f) Imported motor vehicle (Four or more wheeled )",
+          "amount": "Eighty thousand rupees",
+          "rule": "52(1)"
+        },
+        {
+          "purpose": "(g) Any other vehicle not mentioned above",
+          "amount": "Twelve thousand rupees",
+          "rule": "52(1)"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Note 1: For the removal of doubts, it is hereby clarified that medium passenger motor vehicles, heavy goods vehicles, imported motor vehicles or any other vehicles not mentioned against Serial No.4 of the above Table include both transport and non-transport vehicles.",
+    "Note 2: Where the certificate of registration issued is in the form of any Smart Card Type, an additional fee of Rupees Two Hundred Only shall be charged except in the case of issue of fresh certificate of registration after cancellation of hire purchase or lease or hypothecation agreement.",
+    "Note 3: All fees specified in the Table above are exclusive of Goods and Services Tax"
+  ]
+}

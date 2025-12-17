@@ -1,0 +1,215 @@
+{
+  "basic_info": {
+    "name": "Mercedes-Benz EQB",
+    "manufacturer": "Mercedes-Benz",
+    "model": "EQB",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/mercedes-benz-cars/eqb",
+    "image_url": "https://images.carandbike.com/car-images/large/mercedes-benz/eqb/mercedes-benz-eqb.jpg?v=21",
+    "description": "Mercedes-Benz EQB is a 7-seater electric SUV available at a starting price of Rs. 67.2 Lakh. The electric car is available in 2 variants.Additionally, EQB offers a Ground Clearance measurement of 155 mm and a Boot capacity of 465 liters. You can choose from 5 colors for the EQB. The battery range/mileage of the EQB is 423 Km/Full Charge. ",
+    "model_date": "2024-07-08",
+    "sku": "mercedes-benz-eqb-1688",
+    "vin": "5NPEL4AB3BH001688",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "423 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1834 mm ",
+    "height": "1689 mm",
+    "weight": "2105/2165",
+    "seating_capacity": "7",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Spectral blue",
+    "Polar White",
+    "Mountain Grey",
+    "MANUFAKTUR patagonia red",
+    "Iridium Silver"
+  ],
+  "price": {
+    "value": "6720000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mercedes-benz-cars/eqb"
+  },
+  "brand": {
+    "name": "Mercedes-Benz",
+    "image": "https://images.carandbike.com/car-images/big/mercedes-benz/mercedes-benz.png?v=1"
+  },
+  "rating": {
+    "value": "8.0",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Ergonomic",
+    "Affordable",
+    "Family car"
+  ],
+  "cons": [
+    "Range",
+    "Charge time",
+    "No wireless connectivity"
+  ],
+  "verdict": "The Mercedes-Benz EQB solidifies its position as a compelling choice in the electric luxury segment, blending practicality, ergonomics, and affordability effectively. While it may not boast the most eye-catching design, it doesn't skimp on technology or features, ensuring a well-rounded and feature-rich driving experience. Its electric prowess distinguishes it in the market, offering a respectable range that complements its array of merits. The EQB stands as a testament to functionality and sustainable luxury, catering to those who prioritize substance and environmental consciousness.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mercedes-Benz EQB",
+        "price": "67.2 - 78.9 Lakh",
+        "url": "/mercedes-benz-cars/eqb"
+      },
+      {
+        "name": "Mercedes-Benz EQA",
+        "price": "67.2 Lakh",
+        "url": "/mercedes-benz-cars/eqa"
+      },
+      {
+        "name": "Volvo EX40",
+        "price": "65.07 - 67.16 Lakh",
+        "url": "/volvo-cars/ex40"
+      },
+      {
+        "name": "Tesla Model Y",
+        "price": "69.47 - 78.75 Lakh",
+        "url": "/tesla-cars/model-y"
+      },
+      {
+        "name": "Volvo C40 Recharge",
+        "price": "73.02 Lakh",
+        "url": "/volvo-cars/c40-recharge"
+      },
+      {
+        "name": "BMW ix1 L",
+        "price": "57.88 Lakh",
+        "url": "/bmw-cars/ix1-l"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 67.2 - 78.9 Lakh",
+          "₹ 67.2 Lakh",
+          "₹ 65.07 - 67.16 Lakh",
+          "₹ 69.47 - 78.75 Lakh",
+          "₹ 73.02 Lakh",
+          "₹ 57.88 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.0",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "423 Km/Full Charge",
+          "350 Km/Full Charge",
+          "475 - 565 Km/Full Charge",
+          "500 - 622 Km/Full Charge",
+          "530 Km/Full Charge",
+          "440 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "1",
+          "2",
+          "2",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "EQB vs EQA",
+          "EQB vs EX40",
+          "EQB vs Model Y",
+          "EQB vs C40 Recharge",
+          "EQB vs ix1 L"
+        ]
+      }
+    ]
+  }
+}

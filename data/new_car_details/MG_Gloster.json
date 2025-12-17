@@ -1,0 +1,226 @@
+{
+  "basic_info": {
+    "name": "MG Gloster",
+    "manufacturer": "MG",
+    "model": "Gloster",
+    "body_type": null,
+    "url": "https://www.carandbike.com/mg-cars/gloster",
+    "image_url": "https://images.carandbike.com/car-images/large/mg/gloster/mg-gloster.jpg?v=21",
+    "description": "MG Gloster is a 6,7-seater  available at a starting price of Rs. 38.33 Lakh. The car is available in 5 variants, with 1 engine and 1 transmission option. Additionally, Gloster offers a Ground Clearance measurement of 210 mm and a Boot capacity of 343 liters. You can choose from 4 colors for the Gloster. The mileage of the Gloster varies from 12.4 KM/L depending on the model.",
+    "model_date": "2020-10-08",
+    "sku": "mg-gloster-1614",
+    "vin": "5NPEL4AB3BH001614",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1996 cc",
+    "power": "215 bhp",
+    "torque": "480 Nm",
+    "fuel_type": "Diesel"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Diesel",
+    "efficiency": "12 KM/L"
+  },
+  "dimensions": {
+    "width": "1926 mm ",
+    "height": "1867 mm",
+    "weight": "2415/2415",
+    "seating_capacity": "6,7",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Warm White",
+    "Metal Black",
+    "Metal Ash",
+    "Deep Golden"
+  ],
+  "price": {
+    "value": "3833000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mg-cars/gloster"
+  },
+  "brand": {
+    "name": "MG",
+    "image": "https://images.carandbike.com/car-images/big/mg/mg.png?v=1"
+  },
+  "rating": {
+    "value": "7.8",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Largest Suv In Its Segment",
+    "Segment-First Adas Safety Features",
+    "Suspension Tuned For Comfort"
+  ],
+  "cons": [
+    "Engine And Gearbox Could&rsquo;Ve Been Paired Better",
+    "Massive Footprint",
+    "Overall Build Could Be Better"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "12.4 KM/L",
+      "city_mileage": "11 KM/L",
+      "highway_mileage": "13 KM/L"
+    }
+  ],
+  "verdict": "The MG Gloster presents itself as a well-rounded vehicle with a plethora of attributes. Its substantial size is complemented by solid construction, ensuring both presence and durability. The vehicle comes equipped with an impressive array of features and creature comforts, catering to various needs and preferences. Additionally, the driving experience it offers is enjoyable, balancing performance and comfort effectively. This combination of size, build quality, features, and driving pleasure makes the Gloster a compelling choice in its segment.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "MG Gloster",
+        "price": "38.33 - 42.49 Lakh",
+        "url": "/mg-cars/gloster"
+      },
+      {
+        "name": "Skoda Kodiaq",
+        "price": "39.99 - 45.96 Lakh",
+        "url": "/skoda-cars/kodiaq"
+      },
+      {
+        "name": "Isuzu MU-X",
+        "price": "40.67 - 44.04 Lakh",
+        "url": "/isuzu-cars/mu-x"
+      },
+      {
+        "name": "Toyota Fortuner Legender",
+        "price": "41.54 - 46.75 Lakh",
+        "url": "/toyota-cars/fortuner-legender"
+      },
+      {
+        "name": "Toyota Fortuner",
+        "price": "33.65 - 48.85 Lakh",
+        "url": "/toyota-cars/fortuner"
+      },
+      {
+        "name": "Mercedes-Benz GLA-Class",
+        "price": "51.5 - 56.5 Lakh",
+        "url": "/mercedes-benz-cars/gla-class"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 38.33 - 42.49 Lakh",
+          "₹ 39.99 - 45.96 Lakh",
+          "₹ 40.67 - 44.04 Lakh",
+          "₹ 41.54 - 46.75 Lakh",
+          "₹ 33.65 - 48.85 Lakh",
+          "₹ 51.5 - 56.5 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.8",
+          "8.2",
+          "7.3",
+          "-",
+          "8.3",
+          "8.6"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1996 cc",
+          "1984 CC",
+          "2999 CC",
+          "2755 CC",
+          "2694 CC",
+          "1332 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Manual",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "12 KM/L",
+          "14.86 KM/L",
+          "13 KM/L",
+          "14.2 - 14.4 KM/L",
+          "10.26 - 14.22 KM/L",
+          "13 - 17 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Diesel",
+          "Petrol",
+          "Diesel",
+          "Diesel",
+          "Petrol, Diesel",
+          "Petrol, Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "6,7 Seater",
+          "7 Seater",
+          "7 Seater",
+          "7 Seater",
+          "7 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "75.0 L",
+          "62.0 L",
+          "65.0 L",
+          "80.0 L",
+          "80.0 L",
+          "50.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "5",
+          "3",
+          "2",
+          "4",
+          "14",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Gloster vs Kodiaq",
+          "Gloster vs MU-X",
+          "Gloster vs Fortuner Legender",
+          "Gloster vs Fortuner",
+          "Gloster vs GLA-Class"
+        ]
+      }
+    ]
+  }
+}

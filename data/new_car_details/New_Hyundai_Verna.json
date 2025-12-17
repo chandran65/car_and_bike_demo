@@ -1,0 +1,252 @@
+{
+  "basic_info": {
+    "name": "New Hyundai Verna",
+    "manufacturer": "Hyundai",
+    "model": "New Verna",
+    "body_type": "Sedan",
+    "url": "https://www.carandbike.com/hyundai-cars/verna",
+    "image_url": "https://images.carandbike.com/car-images/large/hyundai/verna/hyundai-verna.jpg?v=54",
+    "description": "New Hyundai Verna is a 5-seater Sedan available at a starting price of Rs. 10.69 Lakh. The car is available in 17 variants, with 2 engine and 4 transmission option. Additionally, New Verna offers a Ground Clearance measurement of 170 mm and a Boot capacity of 528 liters. You can choose from 9 colors for the New Verna. The mileage of the New Verna varies from 20 - 19.6 KM/L depending on the model.",
+    "model_date": "2023-03-21",
+    "sku": "new-hyundai-verna-1092",
+    "vin": "5NPEL4AB3BH001092",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1482,1497 cc",
+    "power": "113,158 bhp",
+    "torque": "144,253 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Manual, Automatic, DCT, IVT",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "18 - 20 KM/L"
+  },
+  "dimensions": {
+    "width": "1765 mm ",
+    "height": "1475 mm",
+    "weight": "1048/1048",
+    "seating_capacity": "5",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "Abyss Black",
+    "Atlas White",
+    "Fiery Red Dual Tone",
+    "Tellurian Brown",
+    "Typhoon Silver",
+    "Fiery Red",
+    "Titan Grey",
+    "Starry Night",
+    "Atlas White Dual Tone"
+  ],
+  "price": {
+    "value": 1069210,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/hyundai-cars/verna"
+  },
+  "brand": {
+    "name": "Hyundai",
+    "image": "https://images.carandbike.com/car-images/big/hyundai/hyundai.png?v=1"
+  },
+  "rating": {
+    "value": "8.5",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Good Features",
+    "Varied Engine Options",
+    "Smart Trunk Feature"
+  ],
+  "cons": [
+    "Stiff Suspension",
+    "Dated Interiors",
+    "Handling Could Be Better"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "20 KM/L",
+      "city_mileage": "17 KM/L",
+      "highway_mileage": "19 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "20.6 KM/L",
+      "city_mileage": "17 KM/L",
+      "highway_mileage": "19 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "DCT",
+      "mileage": "20.6 KM/L",
+      "city_mileage": "17 KM/L",
+      "highway_mileage": "19 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "IVT",
+      "mileage": "19.6 KM/L",
+      "city_mileage": "17 KM/L",
+      "highway_mileage": "19 KM/L"
+    }
+  ],
+  "verdict": "The Verna is reloaded and back. Is there enough here to impress? Yes. Don't get us wrong there could have been more - if you want to be greedy! But for the most part. The car remains one of the most modern, relevant, connected offerings with a huge array of variants to fit many budgets. And a lot of the equipment is standard across variants. The Toyota Yaris has failed to make a dent in this segment, though has its merits.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Hyundai New Verna",
+        "price": "10.69 - 16.98 Lakh",
+        "url": "/hyundai-cars/verna"
+      },
+      {
+        "name": "Honda City",
+        "price": "11.95 - 16.07 Lakh",
+        "url": "/honda-cars/city"
+      },
+      {
+        "name": "Maruti Suzuki Ciaz",
+        "price": "9.09 - 11.89 Lakh",
+        "url": "/maruti-suzuki-cars/ciaz"
+      },
+      {
+        "name": "Volkswagen Virtus",
+        "price": "11.2 - 15.05 Lakh",
+        "url": "/volkswagen-cars/virtus"
+      },
+      {
+        "name": "Skoda Slavia",
+        "price": "10 - 15.93 Lakh",
+        "url": "/skoda-cars/slavia"
+      },
+      {
+        "name": "Honda 2025 Amaze",
+        "price": "7.41 - 10 Lakh",
+        "url": "/honda-cars/2025-amaze"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 10.69 - 16.98 Lakh",
+          "₹ 11.95 - 16.07 Lakh",
+          "₹ 9.09 - 11.89 Lakh",
+          "₹ 11.2 - 15.05 Lakh",
+          "₹ 10 - 15.93 Lakh",
+          "₹ 7.41 - 10 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.5",
+          "8.2",
+          "7.0",
+          "8.3",
+          "8.3",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1482,1497 cc",
+          "1498 CC",
+          "1462 CC",
+          "999 CC",
+          "999 CC",
+          "1199 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic, DCT, IVT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "18 - 20 KM/L",
+          "17.8 - 18.4 KM/L",
+          "20.04 - 20.65 KM/L",
+          "18.7 - 20.19 KM/L",
+          "18 - 20 KM/L",
+          "18.6 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "45.0 L",
+          "40.0 L",
+          "43.0 L",
+          "45.0 L",
+          "45.0 L",
+          "35.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "17",
+          "8",
+          "9",
+          "8",
+          "24",
+          "6"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Verna vs City",
+          "Verna vs Ciaz",
+          "Verna vs Virtus",
+          "Verna vs Slavia",
+          "Verna vs 2025 Amaze"
+        ]
+      }
+    ]
+  }
+}

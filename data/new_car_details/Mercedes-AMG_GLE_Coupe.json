@@ -1,0 +1,236 @@
+{
+  "basic_info": {
+    "name": "Mercedes-AMG GLE Coupe",
+    "manufacturer": "Mercedes-AMG",
+    "model": "GLE Coupe",
+    "body_type": "Coupe",
+    "url": "https://www.carandbike.com/mercedes-amg-cars/gle-coupe",
+    "image_url": "https://images.carandbike.com/car-images/large/mercedes-amg/gle-coupe/mercedes-amg-gle-coupe.jpg?v=14",
+    "description": "Mercedes-AMG GLE Coupe is a 5-seater Coupe available at a starting price of Rs. 1.55 Crore. The car is available in 3 variants, with 3 engine and 1 transmission option. Additionally, GLE Coupe offers a Ground Clearance measurement of 200 mm and a Boot capacity of 650 liters. You can choose from 6 colors for the GLE Coupe. The mileage of the GLE Coupe varies from 9.1 - 12 KM/L depending on the model.",
+    "model_date": "2010-01-01",
+    "sku": "mercedes-amg-gle-coupe-1507",
+    "vin": "5NPEL4AB3BH001507",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2999,3982 cc",
+    "power": "265,429,603 bhp",
+    "torque": "520,550,850 Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "9 - 12 KM/L"
+  },
+  "dimensions": {
+    "width": "2018 mm ",
+    "height": "1720 mm",
+    "weight": "2460/2460",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Selenite Grey",
+    "Obsidian black",
+    "Mojave Silver",
+    "Emerald Green",
+    "Cavansite Blue Metallic",
+    "Brilliant Blue Metallic"
+  ],
+  "price": {
+    "value": "15500000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mercedes-amg-cars/gle-coupe"
+  },
+  "brand": {
+    "name": "Mercedes-AMG",
+    "image": "https://images.carandbike.com/car-images/big/mercedes-amg/mercedes-amg.png?v=1"
+  },
+  "rating": {
+    "value": "7.5",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "The GLE Coupe gets a well appointed cabin",
+    "The GLE 43 AMG looks sporty",
+    "There's good amount of muscle on offer and the Coupe",
+    "&nbsp;"
+  ],
+  "cons": [
+    "Looks very similar to the GLC Coupe",
+    "The gearbox could have been more responsive",
+    "The car has a large footprint and is heavy too"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "9.1 KM/L",
+      "city_mileage": "7 KM/L",
+      "highway_mileage": "9 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "12 KM/L",
+      "city_mileage": "11 KM/L",
+      "highway_mileage": "13 KM/L"
+    }
+  ],
+  "verdict": "For those looking at a German luxury SUV with lots of character and performance, the AMG GLE 53 Coupe makes a strong case for itself, more so since the competition is tough with the likes of the BMW X6, Audi Q8 and the Porsche Cayenne Coupe also on sale. The AMG GLE 53 Coupe is just brilliantly packaged and should sit high in your consideration list. With Mercedes-Benz now planning to locally-assemble AMGs in India, the GLE 53 could be more affordable in the future.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mercedes-AMG GLE Coupe",
+        "price": "1.55 - 9.13 Crore",
+        "url": "/mercedes-amg-cars/gle-coupe"
+      },
+      {
+        "name": "BMW M4",
+        "price": "1.64 - 1.92 Crore",
+        "url": "/bmw-cars/m4"
+      },
+      {
+        "name": "Porsche Cayenne Coupe",
+        "price": "1.76 - 2.38 Crore",
+        "url": "/porsche-cars/cayenne-coupe"
+      },
+      {
+        "name": "BMW M2",
+        "price": "1.08 Crore",
+        "url": "/bmw-cars/m2"
+      },
+      {
+        "name": "BMW 2 Series Gran Coupe",
+        "price": "48.72 - 50.76 Lakh",
+        "url": "/bmw-cars/2-series-gran-coupe"
+      },
+      {
+        "name": "Maserati GranTurismo",
+        "price": "3.09 - 3.3 Crore",
+        "url": "/maserati-cars/granturismo"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.55 - 9.13 Crore",
+          "₹ 1.64 - 1.92 Crore",
+          "₹ 1.76 - 2.38 Crore",
+          "₹ 1.08 Crore",
+          "₹ 48.72 - 50.76 Lakh",
+          "₹ 3.09 - 3.3 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.5",
+          "8.4",
+          "8.1",
+          "8.3",
+          "8.5",
+          "8.0"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2999,3982 cc",
+          "2993 CC",
+          "2995 CC",
+          "2993 CC",
+          "1998 CC",
+          "4691 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "9 - 12 KM/L",
+          "9.76 KM/L",
+          "8.84 - 10.75 KM/L",
+          "10.13 KM/L",
+          "14.82 KM/L",
+          "14.3 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "4 Seater",
+          "4 Seater",
+          "4 Seater",
+          "5 Seater",
+          "4 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "85.0 L",
+          "59.0 L",
+          "75.0 L",
+          "52.0 L",
+          "50.0 L",
+          "86.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "3",
+          "2",
+          "3",
+          "1",
+          "2",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "GLE Coupe vs M4",
+          "GLE Coupe vs Cayenne Coupe",
+          "GLE Coupe vs M2",
+          "GLE Coupe vs 2 Series Gran Coupe",
+          "GLE Coupe vs GranTurismo"
+        ]
+      }
+    ]
+  }
+}

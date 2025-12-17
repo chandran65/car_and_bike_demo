@@ -1,0 +1,238 @@
+{
+  "basic_info": {
+    "name": "Maserati Levante",
+    "manufacturer": "Maserati",
+    "model": "Levante",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/maserati-cars/levante",
+    "image_url": "https://images.carandbike.com/car-images/large/maserati/levante/maserati-levante.jpg?v=17",
+    "description": "Maserati Levante is a 5-seater SUV available at a starting price of Rs. 1.61 Crore. The car is available in 6 variants, with 2 engine and 1 transmission option. Additionally, Levante offers a Ground Clearance measurement of 120 mm and a Boot capacity of 580 liters. You can choose from 9 colors for the Levante. The mileage of the Levante varies from 12.6 - 7.2 KM/L depending on the model.",
+    "model_date": "2017-07-04",
+    "sku": "maserati-levante-1521",
+    "vin": "5NPEL4AB3BH001521",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2979,2987 cc",
+    "power": "275,350 bhp",
+    "torque": "500,580,600 Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "7 - 12 KM/L"
+  },
+  "dimensions": {
+    "width": "2158 mm ",
+    "height": "1679 mm",
+    "weight": "2205/2205",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Rosso Rbino",
+    "Blu Emozione",
+    "Blu Passione",
+    "Verde Ossido",
+    "Champagne",
+    "Rame",
+    "Grigio Metallo",
+    "Grigio",
+    "Grigio Maratea"
+  ],
+  "price": {
+    "value": "16143206",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/maserati-cars/levante"
+  },
+  "brand": {
+    "name": "Maserati",
+    "image": "https://images.carandbike.com/car-images/big/maserati/maserati.png?v=1"
+  },
+  "rating": {
+    "value": "8.5",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Looks smashing",
+    "Italian crafsmanship",
+    "Hybrid powertrain"
+  ],
+  "cons": [
+    "Small infotainment system",
+    "Ideal for just 4 passengers",
+    "Plenty of buttons in cabin"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "12.6 KM/L",
+      "city_mileage": "7 KM/L",
+      "highway_mileage": "13 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "7.2 KM/L",
+      "city_mileage": "6 KM/L",
+      "highway_mileage": "8 KM/L"
+    }
+  ],
+  "verdict": "There’s no doubt that the Maserati Levante GT Hybrid is a beautiful piece of machinery. It's got brilliant handling and ride quality that counts for more as a daily driver. While it may look like a mild facelift from the outside, underneath the Levante Hybrid GT is anything but one. This car will also pave way for the upcoming cars from the Italian marquee as it prepares to electrify its range by the end of this decade. But all said and done, the Maserati Levante GT Hybrid is a superb-looking SUV regardless of what’s under the bonnet.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Maserati Levante",
+        "price": "1.34 - 1.52 Crore",
+        "url": "/maserati-cars/levante"
+      },
+      {
+        "name": "Porsche Cayenne",
+        "price": "1.69 - 2.36 Crore",
+        "url": "/porsche-cars/cayenne"
+      },
+      {
+        "name": "Land Rover Discovery",
+        "price": "1.46 - 1.59 Crore",
+        "url": "/land-rover-cars/discovery"
+      },
+      {
+        "name": "Land Rover Range Rover Sport",
+        "price": "1.38 - 2.75 Crore",
+        "url": "/land-rover-cars/range-rover-sport"
+      },
+      {
+        "name": "BMW X7",
+        "price": "1.33 - 1.4 Crore",
+        "url": "/bmw-cars/x7"
+      },
+      {
+        "name": "Rolls-Royce Cullinan",
+        "price": "1.19 - 7.9 Crore",
+        "url": "/rolls-royce-cars/cullinan"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.34 - 1.52 Crore",
+          "₹ 1.69 - 2.36 Crore",
+          "₹ 1.46 - 1.59 Crore",
+          "₹ 1.38 - 2.75 Crore",
+          "₹ 1.33 - 1.4 Crore",
+          "₹ 1.19 - 7.9 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.5",
+          "8.0",
+          "7.9",
+          "7.9",
+          "9.0",
+          "8.8"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2979,2987 cc",
+          "2996 CC",
+          "2995 CC",
+          "2997 CC",
+          "2998 CC",
+          "6751 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "7 - 12 KM/L",
+          "9.2 - 11.23 KM/L",
+          "9.2 KM/L",
+          "10 KM/L",
+          "11.29 - 14.31 KM/L",
+          "7 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Petrol",
+          "Diesel",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "80.0 L",
+          "75.0 L",
+          "89.0 L",
+          "86.0 L",
+          "80.0 L",
+          "100.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "6",
+          "3",
+          "3",
+          "4",
+          "3",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Levante vs Cayenne",
+          "Levante vs Discovery",
+          "Levante vs Range Rover Sport",
+          "Levante vs X7",
+          "Levante vs Cullinan"
+        ]
+      }
+    ]
+  }
+}

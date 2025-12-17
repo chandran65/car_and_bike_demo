@@ -1,0 +1,214 @@
+{
+  "basic_info": {
+    "name": "Porsche Cayenne",
+    "manufacturer": "Porsche",
+    "model": "Cayenne",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/porsche-cars/cayenne",
+    "image_url": "https://images.carandbike.com/car-images/large/porsche/cayenne/porsche-cayenne.jpg?v=16",
+    "description": "Porsche Cayenne is a 5-seater SUV available at a starting price of Rs. 1.69 Crore. The car is available in 3 variants, with 2 engine and 1 transmission option. Additionally, Cayenne offers a Ground Clearance measurement of 210 mm and a Boot capacity of 1780 liters. You can choose from 6 colors for the Cayenne. The mileage of the Cayenne varies from 11.2 KM/L depending on the model.",
+    "model_date": "2023-04-24",
+    "sku": "porsche-cayenne-1176",
+    "vin": "5NPEL4AB3BH001176",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2996,3996 cc",
+    "power": "335,453 bhp",
+    "torque": "450,620 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "9 - 11 KM/L"
+  },
+  "dimensions": {
+    "width": "1983 mm ",
+    "height": "1696 mm",
+    "weight": "2040/2295",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Quarzite Grey",
+    "Dolomite Silver",
+    "Algarve Blue",
+    "Montego Blue",
+    "Chromite Black",
+    "Carrara White Metallic"
+  ],
+  "price": {
+    "value": "16938976",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/porsche-cars/cayenne"
+  },
+  "brand": {
+    "name": "Porsche",
+    "image": "https://images.carandbike.com/car-images/big/porsche/porsche.png?v=1"
+  },
+  "rating": {
+    "value": "8.0",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Good Road Presence",
+    "Good Driving Dynamics",
+    "Luxurious Interior",
+    "&nbsp;"
+  ],
+  "cons": [
+    "Availability &amp; After Sales",
+    "Few Trims To Choose From",
+    "Less Cargo Space"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "11.2 KM/L",
+      "city_mileage": "7 KM/L",
+      "highway_mileage": "10 KM/L"
+    }
+  ],
+  "verdict": "Porsche has impressively advanced the concept of automotive evolution with the latest generation of the Cayenne, showcasing their ability to enhance what many already consider perfect. However, Porsche hasn't shied away from introducing refinements. The new Cayenne boasts updated LED headlamps, a refreshed front bumper, and a redesigned, more aesthetically pleasing rear, subtly elevating its iconic design while maintaining the essence that has made it a beloved model among Porsche enthusiasts. This delicate balance of preserving the classic while embracing the new underscores Porsche's commitment to continuous improvement and excellence in design.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Porsche Cayenne",
+        "price": "1.39 - 1.94 Crore",
+        "url": "/porsche-cars/cayenne"
+      },
+      {
+        "name": "Maserati Levante",
+        "price": "1.61 - 1.82 Crore",
+        "url": "/maserati-cars/levante"
+      },
+      {
+        "name": "Mercedes-AMG GLE Coupe",
+        "price": "1.55 - 9.13 Crore",
+        "url": "/mercedes-amg-cars/gle-coupe"
+      },
+      {
+        "name": "Land Rover Range Rover Sport",
+        "price": "1.38 - 2.75 Crore",
+        "url": "/land-rover-cars/range-rover-sport"
+      },
+      {
+        "name": "Audi Q7",
+        "price": "86.14 - 95.03 Lakh",
+        "url": "/audi-cars/q7"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.39 - 1.94 Crore",
+          "₹ 1.61 - 1.82 Crore",
+          "₹ 1.55 - 9.13 Crore",
+          "₹ 1.38 - 2.75 Crore",
+          "₹ 86.14 - 95.03 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.0",
+          "8.5",
+          "7.5",
+          "7.9",
+          "8.4"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2996,3996 cc",
+          "2979 CC",
+          "2999 CC",
+          "2997 CC",
+          "2995 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "9 - 11 KM/L",
+          "7.2 - 12.6 KM/L",
+          "9.1 - 12 KM/L",
+          "10 KM/L",
+          "11 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "75.0, 90.0 L",
+          "80.0 L",
+          "85.0 L",
+          "86.0 L",
+          "85.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "3",
+          "6",
+          "3",
+          "4",
+          "4"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Cayenne vs Levante",
+          "Cayenne vs GLE Coupe",
+          "Cayenne vs Range Rover Sport",
+          "Cayenne vs Q7"
+        ]
+      }
+    ]
+  }
+}

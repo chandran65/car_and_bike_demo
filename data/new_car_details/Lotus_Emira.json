@@ -1,0 +1,220 @@
+{
+  "basic_info": {
+    "name": "Lotus Emira",
+    "manufacturer": "Lotus",
+    "model": "Emira",
+    "body_type": "Coupe",
+    "url": "https://www.carandbike.com/lotus-cars/emira",
+    "image_url": "https://images.carandbike.com/car-images/large/lotus/emira/lotus-emira.jpg?v=8",
+    "description": "Lotus Emira is a 2-seater Coupe available at a starting price of Rs. 1.93 Crore. The car is available in 2 variants, with 2 engine and 2 transmission option. Additionally, Emira offers a Ground Clearance measurement of 130 mm and a Boot capacity of 208 liters. You can choose from 2 colors for the Emira. The mileage of the Emira varies from 12.5 - 12 KM/L depending on the model.",
+    "model_date": "2025-01-16",
+    "sku": "lotus-emira-1765",
+    "vin": "5NPEL4AB3BH001765",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1998,3456 cc",
+    "power": "360,400 bhp",
+    "torque": "420,430 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Manual, Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "12 - 12 KM/L"
+  },
+  "dimensions": {
+    "width": "1896 mm ",
+    "height": "1226 mm",
+    "weight": "1405/1405",
+    "seating_capacity": "2",
+    "number_of_doors": "2"
+  },
+  "colors": [
+    "Dark Verdant(Green)",
+    "Atlantis Blue"
+  ],
+  "price": {
+    "value": 19326286,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/lotus-cars/emira"
+  },
+  "brand": {
+    "name": "Lotus",
+    "image": "https://images.carandbike.com/car-images/big/lotus/lotus.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "12.5 KM/L",
+      "city_mileage": "10 KM/L",
+      "highway_mileage": "15 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "12 KM/L",
+      "city_mileage": "9.5 KM/L",
+      "highway_mileage": "14.5 KM/L"
+    }
+  ],
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Lotus Emira",
+        "price": "1.61 - 1.89 Crore",
+        "url": "/lotus-cars/emira"
+      },
+      {
+        "name": "Porsche 911",
+        "price": "2 - 3.8 Crore",
+        "url": "/porsche-cars/911"
+      },
+      {
+        "name": "Mercedes-AMG SL-Class",
+        "price": "2.47 Crore",
+        "url": "/mercedes-amg-cars/sl-class"
+      },
+      {
+        "name": "BMW Z4",
+        "price": "94.53 Lakh - 1.05 Crore",
+        "url": "/bmw-cars/z4"
+      },
+      {
+        "name": "Mercedes-AMG GT",
+        "price": "3.05 - 3.65 Crore",
+        "url": "/mercedes-amg-cars/gt"
+      },
+      {
+        "name": "Ferrari Roma",
+        "price": "3.56 Crore",
+        "url": "/ferrari-cars/roma"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.61 - 1.89 Crore",
+          "₹ 2 - 3.8 Crore",
+          "₹ 2.47 Crore",
+          "₹ 94.53 Lakh - 1.05 Crore",
+          "₹ 3.05 - 3.65 Crore",
+          "₹ 3.56 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "8.1",
+          "-",
+          "7.6",
+          "8.2",
+          "8.5"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1998,3456 cc",
+          "2981 CC",
+          "3982 CC",
+          "2998 CC",
+          "3982 CC",
+          "3855 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "12 - 12 KM/L",
+          "8.7 KM/L",
+          "10 KM/L",
+          "12.82 KM/L",
+          "11.4 KM/L",
+          "7 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "2 Seater",
+          "4 Seater",
+          "2 Seater",
+          "2 Seater",
+          "2 Seater",
+          "2 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "60.0 L",
+          "64.0 L",
+          "70.0 L",
+          "52.0 L",
+          "75.0 L",
+          "80.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "4",
+          "1",
+          "3",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Emira vs 911",
+          "Emira vs SL-Class",
+          "Emira vs Z4",
+          "Emira vs GT",
+          "Emira vs Roma"
+        ]
+      }
+    ]
+  }
+}

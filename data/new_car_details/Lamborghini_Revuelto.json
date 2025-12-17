@@ -1,0 +1,218 @@
+{
+  "basic_info": {
+    "name": "Lamborghini Revuelto",
+    "manufacturer": "Lamborghini",
+    "model": "Revuelto",
+    "body_type": "Coupe",
+    "url": "https://www.carandbike.com/lamborghini-cars/revuelto",
+    "image_url": "https://images.carandbike.com/car-images/large/lamborghini/revuelto/lamborghini-revuelto.jpg?v=33",
+    "description": "Lamborghini Revuelto is a 2-seater Coupe available at a starting price of Rs. 8.7 Crore. The car is available in 1 variants, with 1 engine and 1 transmission option. You can choose from 16 colors for the Revuelto. The mileage of the Revuelto varies from 10 KM/L depending on the model.",
+    "model_date": "2023-12-06",
+    "sku": "lamborghini-revuelto-1796",
+    "vin": "5NPEL4AB3BH001796",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "6498 cc",
+    "power": "814 bhp",
+    "torque": "725 Nm",
+    "fuel_type": "Hybrid"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Hybrid",
+    "efficiency": "10 KM/L"
+  },
+  "dimensions": {
+    "width": "2266 mm ",
+    "height": "1160 mm",
+    "weight": "1772/1772",
+    "seating_capacity": "2",
+    "number_of_doors": "2"
+  },
+  "colors": [
+    "Blu eleos",
+    "Blu Achelous",
+    "Bianco Monocerus",
+    "Bianco Icarus",
+    "Arancio Borealis",
+    "Verde Mantis",
+    "Verde Lares",
+    "Rosso Mars",
+    "Rosso Anteros",
+    "Nero Noctis",
+    "Nero Helene",
+    "Marrone Apus",
+    "Grigio Nimbus",
+    "Grigio Keres",
+    "Giallo Inti",
+    "Giallo Auge"
+  ],
+  "price": {
+    "value": 87034965,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/lamborghini-cars/revuelto"
+  },
+  "brand": {
+    "name": "Lamborghini",
+    "image": "https://images.carandbike.com/car-images/big/lamborghini/lamborghini.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Lamborghini Revuelto",
+        "price": "8.7 Crore",
+        "url": "/lamborghini-cars/revuelto"
+      },
+      {
+        "name": "Ferrari 12Cilindri",
+        "price": "8.5 - 9.15 Crore",
+        "url": "/ferrari-cars/12cilindri"
+      },
+      {
+        "name": "Aston Martin V12 Vanquish",
+        "price": "8.37 Crore",
+        "url": "/aston-martin-cars/v12-vanquish"
+      },
+      {
+        "name": "Ferrari 296 GTS",
+        "price": "5.9 Crore",
+        "url": "/ferrari-cars/296-gts"
+      },
+      {
+        "name": "Ferrari 296 GTB",
+        "price": "5.11 Crore",
+        "url": "/ferrari-cars/296-gtb"
+      },
+      {
+        "name": "Aston Martin Vantage",
+        "price": "3.77 Crore",
+        "url": "/aston-martin-cars/vantage"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 8.7 Crore",
+          "₹ 8.5 - 9.15 Crore",
+          "₹ 8.37 Crore",
+          "₹ 5.9 Crore",
+          "₹ 5.11 Crore",
+          "₹ 3.77 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "7.4",
+          "-",
+          "-",
+          "7.8"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "6498 cc",
+          "6496 CC",
+          "5935 CC",
+          "2996 CC",
+          "2996 CC",
+          "3982 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "10 KM/L",
+          "0 KM/L",
+          "12.8 KM/L",
+          "12.5 KM/L",
+          "15.62 KM/L",
+          "7 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Hybrid",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "2 Seater",
+          "2 Seater",
+          "2 Seater",
+          "2 Seater",
+          "2 Seater",
+          "2 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "90.0 L",
+          "N/A",
+          "78.0 L",
+          "65.0 L",
+          "65.0 L",
+          "73.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "2",
+          "1",
+          "1",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Revuelto vs 12Cilindri",
+          "Revuelto vs V12 Vanquish",
+          "Revuelto vs 296 GTS",
+          "Revuelto vs 296 GTB",
+          "Revuelto vs Vantage"
+        ]
+      }
+    ]
+  }
+}

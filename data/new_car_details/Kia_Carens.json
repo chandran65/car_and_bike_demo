@@ -1,0 +1,236 @@
+{
+  "basic_info": {
+    "name": "Kia Carens",
+    "manufacturer": "Kia",
+    "model": "Carens",
+    "body_type": "MUV",
+    "url": "https://www.carandbike.com/kia-cars/carens",
+    "image_url": "https://images.carandbike.com/car-images/large/kia/carens/kia-carens.jpg?v=25",
+    "description": "Kia Carens is a 7-seater MUV available at a starting price of Rs. 10.99 Lakh. The car is available in 2 variants, with 2 engine and 1 transmission option. Additionally, Carens offers a Ground Clearance measurement of 195 mm and a Boot capacity of 216 liters. You can choose from 8 colors for the Carens. The mileage of the Carens varies from 16.2 - 21.3 KM/L depending on the model.",
+    "model_date": "2022-02-15",
+    "sku": "kia-carens-1661",
+    "vin": "5NPEL4AB3BH001661",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1493,1497 cc",
+    "power": "113 bhp @ 6300 rpm,115 bhp @ 4000 rpm bhp",
+    "torque": "144 Nm @ 4500 rpm,250 Nm @ 1500-2750 rpm Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Manual",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "16 - 21 KM/L"
+  },
+  "dimensions": {
+    "width": "1800 mm ",
+    "height": "1708 mm",
+    "weight": "1290/1290",
+    "seating_capacity": "7",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Imperial Blue",
+    "Clear White",
+    "Glacier White Pearl",
+    "Gravity Grey",
+    "Sparkling Silver",
+    "Aurora Black Pearl",
+    "Intense Red",
+    "Moss Brown"
+  ],
+  "price": {
+    "value": 1099159,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/kia-cars/carens"
+  },
+  "brand": {
+    "name": "Kia",
+    "image": "https://images.carandbike.com/car-images/big/kia/kia.png?v=1"
+  },
+  "rating": {
+    "value": "7.0",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Sharp And Premium Styling",
+    "Comfortable 3Rd Row",
+    "Attractive Pricing"
+  ],
+  "cons": [
+    "Underpowered Petrol Engines",
+    "No Captain Seats For Lower Variants",
+    "Diesel-Automatic Is Sluggish"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "16.2 KM/L",
+      "city_mileage": "19 KM/L",
+      "highway_mileage": "21 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Manual",
+      "mileage": "21.3 KM/L",
+      "city_mileage": "20 KM/L",
+      "highway_mileage": "23 KM/L"
+    }
+  ],
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Kia Carens",
+        "price": "10.99 - 12.77 Lakh",
+        "url": "/kia-cars/carens"
+      },
+      {
+        "name": "Maruti Suzuki XL6",
+        "price": "11.52 - 14.48 Lakh",
+        "url": "/maruti-suzuki-cars/xl6"
+      },
+      {
+        "name": "Toyota Rumion",
+        "price": "10.44 - 13.62 Lakh",
+        "url": "/toyota-cars/rumion"
+      },
+      {
+        "name": "Maruti Suzuki Ertiga",
+        "price": "9.65 - 14.71 Lakh",
+        "url": "/maruti-suzuki-cars/ertiga"
+      },
+      {
+        "name": "Mahindra Marazzo",
+        "price": "14.06 - 16.38 Lakh",
+        "url": "/mahindra-cars/marazzo"
+      },
+      {
+        "name": "Hyundai Alcazar",
+        "price": "14.47 - 21.1 Lakh",
+        "url": "/hyundai-cars/alcazar"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 10.99 - 12.77 Lakh",
+          "₹ 11.52 - 14.48 Lakh",
+          "₹ 10.44 - 13.62 Lakh",
+          "₹ 9.65 - 14.71 Lakh",
+          "₹ 14.06 - 16.38 Lakh",
+          "₹ 14.47 - 21.1 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.0",
+          "7.7",
+          "-",
+          "7.3",
+          "8.3",
+          "8.3"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1493,1497 cc",
+          "1462 CC",
+          "1462 CC",
+          "1462 CC",
+          "1497 CC",
+          "1482 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "16 - 21 KM/L",
+          "20.27 - 26 KM/L",
+          "20.5 - 26 KM/L",
+          "19.01 - 26.2 KM/L",
+          "17.6 KM/L",
+          "17.5 - 20.4 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Petrol, CNG",
+          "Petrol, CNG",
+          "Petrol, CNG",
+          "Diesel",
+          "Petrol, Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "7 Seater",
+          "6 Seater",
+          "7 Seater",
+          "7 Seater",
+          "8 Seater",
+          "7 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "45.0 L",
+          "45.0 L",
+          "45.0 L",
+          "45.0 L",
+          "45.0 L",
+          "50.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "9",
+          "7",
+          "11",
+          "6",
+          "23"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Carens vs XL6",
+          "Carens vs Rumion",
+          "Carens vs Ertiga",
+          "Carens vs Marazzo",
+          "Carens vs Alcazar"
+        ]
+      }
+    ]
+  }
+}

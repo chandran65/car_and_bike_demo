@@ -1,0 +1,259 @@
+{
+  "basic_info": {
+    "name": "Mahindra Bolero Neo 2025",
+    "manufacturer": "Mahindra",
+    "model": "2025 Bolero Neo",
+    "body_type": null,
+    "url": "https://www.carandbike.com/mahindra-cars/bolero-neo",
+    "image_url": "https://images.carandbike.com/car-images/large/mahindra/bolero-neo/mahindra-bolero-neo.jpg?v=30",
+    "description": "Mahindra Bolero Neo 2025 is a 7-seater  available at a starting price of Rs. 8.49 Lakh. The car is available in 5 variants, with 1 engine and 1 transmission option. Additionally, 2025 Bolero Neo offers a Ground Clearance measurement of 180 mm and a Boot capacity of 384 liters. You can choose from 9 colors for the 2025 Bolero Neo. The mileage of the 2025 Bolero Neo varies from 17.3 KM/L depending on the model.",
+    "model_date": "2025-10-06",
+    "sku": "mahindra-bolero-neo-2025-1650",
+    "vin": "5NPEL4AB3BH001650",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1493 cc",
+    "power": "100 bhp @3750 rpm bhp",
+    "torque": "260 Nm @ 1750–2250 rpm Nm",
+    "fuel_type": "Diesel"
+  },
+  "transmission": "Manual",
+  "fuel": {
+    "type": "Diesel",
+    "efficiency": "17 KM/L"
+  },
+  "dimensions": {
+    "width": "1795 mm ",
+    "height": "1817 mm",
+    "weight": "1505/1505",
+    "seating_capacity": "7",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Jeans Blue",
+    "Concrete Grey",
+    "Pearl White Dual Tone",
+    "Diamond White",
+    "Rocky Beige",
+    "Pearl White",
+    "Jeans Blue Dual Tone",
+    "Stealth Black",
+    "Concrete Grey Dual tone"
+  ],
+  "price": {
+    "value": "849000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mahindra-cars/bolero-neo"
+  },
+  "brand": {
+    "name": "Mahindra",
+    "image": "https://images.carandbike.com/car-images/big/mahindra/mahindra.png?v=1"
+  },
+  "rating": {
+    "value": "7.2",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Affordability",
+    "Roomy Cabin",
+    "Frugal Diesel Engine"
+  ],
+  "cons": [
+    "Bouncy Ride Quality",
+    "No Automatic Transmission",
+    "Misses Out On Basic Features"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Manual",
+      "mileage": "17.3 KM/L",
+      "city_mileage": "14 KM/L",
+      "highway_mileage": "18 KM/L"
+    }
+  ],
+  "whats_new": {
+    "Introduction": [
+      "The iconic Mahindra Bolero Neo was refreshed in October 2025.",
+      "Starting at a price of Rs. 8.49 lakh, it features a series of cosmetic and functional upgrades."
+    ],
+    "Exterior": [
+      "Appearance-wise, the Bolero Neo gets a new body-coloured grille, revised wheel arch cladding, and dual-tone colourways.",
+      "The colour palette includes new colours like Jeans Blue, and Concrete Grey.",
+      "Existing monotone colour options include Diamond White, Stealth Black, and Rocky Beige.",
+      "Along with the Pearl White, the new colour options can be had in a dual-tone shade as well.",
+      "The other key highlights on the SUV include DRLs integrated in the headlight module, dual-tone ORVMs with electric adjustment, and 15/16-inch alloys.",
+      "Mahindra offers the Bolero Neo across five variants, namely, N4, N8, N10, N10 (O), and N11."
+    ],
+    "Interior": [
+      "Inside its cabin, the interior colourways include Lunar Grey for the top-spec variant and Mocha Brown for the others.",
+      "The facelifted Bolero Neo continues to get the seven-seat layout without any changes.",
+      "However, there's an update in terms of the infotainment system, which supports wired Android Auto and Apple CarPlay.",
+      "The SUV gets a new steering wheel, new upholstery, foldable second row, and front and second row armrests.",
+      "Feature-wise, it is also equipped with rear wiper and defogger, ISOFIX mounts, ABS and EBD, rear view camera, USB-C ports, and the brand's RideFlo tech.",
+      "As a part of the latest updates, cruise control has also been added as a part of the package."
+    ],
+    "Powertrain": [
+      "Mechanically, the Bolero Neo's engine options remain unchanged with an RWD configuration.",
+      "The Bolero Neo derives power from the same 1.5-litre mHawk100 diesel engine producing 100bhp and 260Nm torque.",
+      "On the transmission front, there's only a five-speed manual available.",
+      "The SUV has a body-on-frame construction and features MTT (Multi Terrain Technology)."
+    ]
+  },
+  "verdict": "The Bolero Neo offers more value compared to the Bolero Classic, boasting enhanced features and advanced mechanicals. Though it compromises on interior refinement and second-row comfort as compared to other vehicles, its rugged capability and drivability make it apt for tackling challenging roads. It continues to be positioned as an accessible lifestyle SUV under Rs. 10 lakh, retains the Bolero heritage, and hence appeals to budget-conscious buyers.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mahindra 2025 Bolero Neo",
+        "price": "8.49 - 10.49 Lakh",
+        "url": "/mahindra-cars/bolero-neo"
+      },
+      {
+        "name": "Isuzu D-Max",
+        "price": "10.14 - 20.35 Lakh",
+        "url": "/isuzu-cars/d-max"
+      },
+      {
+        "name": "Tata Safari",
+        "price": "14.66 - 25.96 Lakh",
+        "url": "/tata-cars/safari"
+      },
+      {
+        "name": "Force Motors Gurkha",
+        "price": "19.46 - 20.92 Lakh",
+        "url": "/force-motors-cars/gurkha"
+      },
+      {
+        "name": "Isuzu D-Max V-Cross",
+        "price": "19.73 - 35.97 Lakh",
+        "url": "/isuzu-cars/d-max-v-cross"
+      },
+      {
+        "name": "Toyota Hilux",
+        "price": "28.02 - 35.37 Lakh",
+        "url": "/toyota-cars/hilux"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 8.49 - 10.49 Lakh",
+          "₹ 10.14 - 20.35 Lakh",
+          "₹ 14.66 - 25.96 Lakh",
+          "₹ 19.46 - 20.92 Lakh",
+          "₹ 19.73 - 35.97 Lakh",
+          "₹ 28.02 - 35.37 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.2",
+          "7.5",
+          "5.5",
+          "6.1",
+          "7.0",
+          "7.8"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1493 cc",
+          "2499 CC",
+          "1956 CC",
+          "2596 CC",
+          "1898 CC",
+          "2755 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "17 KM/L",
+          "14 KM/L",
+          "16.14 KM/L",
+          "15 KM/L",
+          "14.4 KM/L",
+          "12.6 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Diesel",
+          "Diesel",
+          "Diesel",
+          "Diesel",
+          "Diesel",
+          "Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "7 Seater",
+          "2 Seater",
+          "7 Seater",
+          "4 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "50.0 L",
+          "55.0 L",
+          "50.0 L",
+          "63.5 L",
+          "55.0 L",
+          "80.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "5",
+          "6",
+          "24",
+          "2",
+          "5",
+          "4"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Bolero Neo vs D-Max",
+          "Bolero Neo vs Safari",
+          "Bolero Neo vs Gurkha",
+          "Bolero Neo vs D-Max V-Cross",
+          "Bolero Neo vs Hilux"
+        ]
+      }
+    ]
+  }
+}

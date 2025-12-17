@@ -1,0 +1,202 @@
+{
+  "basic_info": {
+    "name": "MG M9 EV",
+    "manufacturer": "MG",
+    "model": "M9 EV",
+    "body_type": "MUV",
+    "url": "https://www.carandbike.com/mg-cars/m9-ev",
+    "image_url": "https://images.carandbike.com/car-images/large/mg/m9-ev/mg-m9-ev.jpg?v=7",
+    "description": "MG M9 EV is a 7-seater electric MUV available at a starting price of Rs. 81.08 Lakh. The electric car is available in 1 variants.Additionally, M9 EV offers a Boot capacity of 1720 liters. You can choose from 3 colors for the M9 EV. The battery range/mileage of the M9 EV is 500 Km/Full Charge. ",
+    "model_date": "2025-07-21",
+    "sku": "mg-m9-ev-1881",
+    "vin": "5NPEL4AB3BH001881",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "500 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1700 mm ",
+    "height": "1500 mm",
+    "weight": "",
+    "seating_capacity": "7",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Metal Black",
+    "Pearl Lustre White with black roof",
+    "Concrete Grey with black roof"
+  ],
+  "price": {
+    "value": 8108165,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mg-cars/m9-ev"
+  },
+  "brand": {
+    "name": "MG",
+    "image": "https://images.carandbike.com/car-images/big/mg/mg.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "MG M9 EV",
+        "price": "69.9 Lakh",
+        "url": "/mg-cars/m9-ev"
+      },
+      {
+        "name": "BMW i4",
+        "price": "84.24 - 90.05 Lakh",
+        "url": "/bmw-cars/i4"
+      },
+      {
+        "name": "BMW iX1",
+        "price": "77.6 Lakh",
+        "url": "/bmw-cars/ix1"
+      },
+      {
+        "name": "Kia EV6",
+        "price": "76.52 Lakh",
+        "url": "/kia-cars/ev6"
+      },
+      {
+        "name": "Volvo C40 Recharge",
+        "price": "73.02 Lakh",
+        "url": "/volvo-cars/c40-recharge"
+      },
+      {
+        "name": "Tesla Model Y",
+        "price": "69.47 - 78.75 Lakh",
+        "url": "/tesla-cars/model-y"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 69.9 Lakh",
+          "₹ 84.24 - 90.05 Lakh",
+          "₹ 77.6 Lakh",
+          "₹ 76.52 Lakh",
+          "₹ 73.02 Lakh",
+          "₹ 69.47 - 78.75 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "8.5",
+          "-",
+          "8.5",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "500 Km/Full Charge",
+          "483 - 590 Km/Full Charge",
+          "440 Km/Full Charge",
+          "663 Km/Full Charge",
+          "530 Km/Full Charge",
+          "500 - 622 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "2",
+          "1",
+          "1",
+          "1",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "M9 EV vs i4",
+          "M9 EV vs iX1",
+          "M9 EV vs EV6",
+          "M9 EV vs C40 Recharge",
+          "M9 EV vs Model Y"
+        ]
+      }
+    ]
+  }
+}

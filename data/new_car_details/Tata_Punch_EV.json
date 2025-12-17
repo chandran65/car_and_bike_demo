@@ -1,0 +1,190 @@
+{
+  "basic_info": {
+    "name": "Tata Punch EV",
+    "manufacturer": "Tata",
+    "model": "Punch EV",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/tata-cars/punch-ev",
+    "image_url": "https://images.carandbike.com/car-images/large/tata/punch-ev/tata-punch-ev.jpg?v=10",
+    "description": "Tata Punch EV is a 5-seater electric SUV available at a starting price of Rs. 11.12 Lakh. The electric car is available in 20 variants.Additionally, Punch EV offers a Ground Clearance measurement of 190 mm and a Boot capacity of 366 liters. You can choose from 5 colors for the Punch EV. The battery range/mileage of the Punch EV is 365 Km/Full Charge. ",
+    "model_date": "2024-01-17",
+    "sku": "tata-punch-ev-1710",
+    "vin": "5NPEL4AB3BH001710",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "265 - 365 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1742 mm ",
+    "height": "1633 mm",
+    "weight": "1354/1354",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Pristine White With Dual Tone",
+    "Daytona Grey With Dual Tone",
+    "Fearless Red With Dual Tone",
+    "Seaweed Green With Dual Tone",
+    "Oxide Grey With Dual Tone"
+  ],
+  "price": {
+    "value": 1111732,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/tata-cars/punch-ev"
+  },
+  "brand": {
+    "name": "Tata",
+    "image": "https://images.carandbike.com/car-images/big/tata/tata.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "verdict": "The Tata Punch EV stands out as a strong contender in the EV space, delivering a great balance of driving fun, advanced features, and practicality. With its appealing design and tech-laden cabin, it caters well to modern EV buyers. However, the lack of rear AC vents and slight issues with plastic quality detract from its premium appeal. Despite these minor shortcomings, the Punch EV's strong range options and performance make it an excellent choice for city commuters and electric enthusiasts alike.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Tata Punch EV",
+        "price": "9.99 - 14.44 Lakh",
+        "url": "/tata-cars/punch-ev"
+      },
+      {
+        "name": "Citroen eC3",
+        "price": "12.9 - 13.53 Lakh",
+        "url": "/citroen-cars/ec3"
+      },
+      {
+        "name": "MG Windsor EV",
+        "price": "14 - 16.65 Lakh",
+        "url": "/mg-cars/windsor-ev"
+      },
+      {
+        "name": "MG Comet EV",
+        "price": "7.5 - 10 Lakh",
+        "url": "/mg-cars/comet-ev"
+      },
+      {
+        "name": "Mahindra XUV400",
+        "price": "15.49 Lakh",
+        "url": "/mahindra-cars/xuv400"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 9.99 - 14.44 Lakh",
+          "₹ 12.9 - 13.53 Lakh",
+          "₹ 14 - 16.65 Lakh",
+          "₹ 7.5 - 10 Lakh",
+          "₹ 15.49 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "8.2",
+          "-",
+          "6.5",
+          "8.4"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "265,365 Km/Full Charge",
+          "320 Km/Full Charge",
+          "331 Km/Full Charge",
+          "230 Km/Full Charge",
+          "375 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "4 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "20",
+          "7",
+          "4",
+          "6",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Punch EV vs eC3",
+          "Punch EV vs Windsor EV",
+          "Punch EV vs Comet EV",
+          "Punch EV vs XUV400"
+        ]
+      }
+    ]
+  }
+}

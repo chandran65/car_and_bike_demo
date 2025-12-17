@@ -1,0 +1,217 @@
+{
+  "basic_info": {
+    "name": "Tata Nexon EV",
+    "manufacturer": "Tata",
+    "model": "Nexon EV",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/tata-cars/nexon-ev",
+    "image_url": "https://images.carandbike.com/car-images/large/tata/nexon-ev/tata-nexon-ev.jpg?v=30",
+    "description": "Tata Nexon EV is a 5-seater electric SUV available at a starting price of Rs. 14.49 Lakh. The electric car is available in 11 variants.Additionally, Nexon EV offers a Ground Clearance measurement of 190 mm and a Boot capacity of 350 liters. You can choose from 7 colors for the Nexon EV. The battery range/mileage of the Nexon EV is 489 Km/Full Charge. ",
+    "model_date": "2023-09-27",
+    "sku": "tata-nexon-ev-1604",
+    "vin": "5NPEL4AB3BH001604",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "275 - 489 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1811 mm ",
+    "height": "1616 mm",
+    "weight": "1400/1400",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Intensi Teal",
+    "Daytona Grey",
+    "Creative Ocean",
+    "Empowered Oxide",
+    "Pristine White",
+    "Fearless Purple",
+    "Flame Red"
+  ],
+  "price": {
+    "value": 1449161,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/tata-cars/nexon-ev"
+  },
+  "brand": {
+    "name": "Tata",
+    "image": "https://images.carandbike.com/car-images/big/tata/tata.png?v=1"
+  },
+  "rating": {
+    "value": "8.5",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "The Nexon EV looks similar to the Nexon which is a cool design and of course has recall value",
+    "The Nexon EV's SUV stance brings a butch and stylish look to it",
+    "The Nexon EV comes with 8 years battery warranty"
+  ],
+  "cons": [
+    "The 210 claimed range can be disputed. It depends on road and weather conditions",
+    "The gearbox is not as responsive as you want it to be",
+    "The Nexon EV is not cheap as it retails from Rs. 14 lakh"
+  ],
+  "verdict": "The Tata Nexon EV remains India's best-selling electric vehicle for good reason. It offers solid performance, practical range, and a host of modern features. While it has a few software quirks and charging concerns in real-world usage, its low running costs and overall practicality make it an attractive option for city dwellers. The Nexon EV strikes a fine balance between price, performance, and everyday usability, justifying its position as the market leader.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Tata Nexon EV",
+        "price": "12.49 - 17.29 Lakh",
+        "url": "/tata-cars/nexon-ev"
+      },
+      {
+        "name": "MG ZS EV",
+        "price": "17.99 - 20.5 Lakh",
+        "url": "/mg-cars/zs-ev"
+      },
+      {
+        "name": "Mahindra XUV400",
+        "price": "15.49 - 17.69 Lakh",
+        "url": "/mahindra-cars/xuv400"
+      },
+      {
+        "name": "Tata Punch EV",
+        "price": "11.12 - 16.75 Lakh",
+        "url": "/tata-cars/punch-ev"
+      },
+      {
+        "name": "Hyundai Creta EV",
+        "price": "18.02 - 21.65 Lakh",
+        "url": "/hyundai-cars/creta-ev"
+      },
+      {
+        "name": "Mahindra BE 6e",
+        "price": "18.9 - 21.25 Lakh",
+        "url": "/mahindra-cars/be-6e"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 12.49 - 17.29 Lakh",
+          "₹ 17.99 - 20.5 Lakh",
+          "₹ 15.49 - 17.69 Lakh",
+          "₹ 11.12 - 16.75 Lakh",
+          "₹ 18.02 - 21.65 Lakh",
+          "₹ 18.9 - 21.25 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.5",
+          "7.8",
+          "8.4",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "275,489 Km/Full Charge",
+          "461 Km/Full Charge",
+          "375 - 456 Km/Full Charge",
+          "265 - 365 Km/Full Charge",
+          "390 - 473 Km/Full Charge",
+          "557 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "11",
+          "7",
+          "5",
+          "20",
+          "16",
+          "6"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Nexon EV vs ZS EV",
+          "Nexon EV vs XUV400",
+          "Nexon EV vs Punch EV",
+          "Nexon EV vs Creta EV",
+          "Nexon EV vs BE 6e"
+        ]
+      }
+    ]
+  }
+}

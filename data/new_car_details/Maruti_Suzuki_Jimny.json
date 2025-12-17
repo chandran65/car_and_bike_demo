@@ -1,0 +1,265 @@
+{
+  "basic_info": {
+    "name": "Maruti Suzuki Jimny",
+    "manufacturer": "Maruti Suzuki",
+    "model": "Jimny",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/jimny",
+    "image_url": "https://images.carandbike.com/car-images/large/maruti-suzuki/jimny/maruti-suzuki-jimny.jpg?v=24",
+    "description": "Maruti Suzuki Jimny is a 4-seater SUV available at a starting price of Rs. 12.32 Lakh. The car is available in 6 variants, with 1 engine and 2 transmission option. Additionally, Jimny offers a Ground Clearance measurement of 210 mm and a Boot capacity of 208 liters. You can choose from 6 colors for the Jimny. The mileage of the Jimny varies from 16.9 - 16.3 KM/L depending on the model.",
+    "model_date": "2023-06-07",
+    "sku": "maruti-suzuki-jimny-1428",
+    "vin": "5NPEL4AB3BH001428",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1462 cc",
+    "power": "104 bhp",
+    "torque": "134 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Manual, Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "16 - 16 KM/L"
+  },
+  "dimensions": {
+    "width": "1645 mm ",
+    "height": "1720 mm",
+    "weight": "1195/1210",
+    "seating_capacity": "4",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Sizzling Red / Bluish Black Roof",
+    "Sizzling Red",
+    "Bluish Black",
+    "NEXA Blue",
+    "Granite Grey",
+    "Kinetic Yellow / Bluish Black Roof"
+  ],
+  "price": {
+    "value": "1231500",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/jimny"
+  },
+  "brand": {
+    "name": "Maruti Suzuki",
+    "image": "https://images.carandbike.com/car-images/big/maruti-suzuki/maruti-suzuki.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Off-road capability",
+    "Eye-catching design",
+    "Ground clearance"
+  ],
+  "cons": [
+    "On-road ride experience",
+    "Limited boot space",
+    "No soft-top convertible or 2-door option"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "16.9 KM/L",
+      "city_mileage": "15 KM/L",
+      "highway_mileage": "17 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "16.3 KM/L",
+      "city_mileage": "15 KM/L",
+      "highway_mileage": "17 KM/L"
+    }
+  ],
+  "whats_new": {
+    "Introduction": [
+      "The Maruti Suzuki Jimny has proved to be a worthy successor to the iconic Gypsy.",
+      "It is quite a compact, budget-friendly SUV, which is also a capable off-roader.",
+      "As a result, it gives tough competition to the five-door Thar and Gurkha derivatives.",
+      "The five-door Jimny is made in India, popular not just in India, but abroad as well surpassing one lakh exports already.",
+      "This SUV is based on a ladder-frame chassis, powered by a 1.5-litre petrol engine, and with off-road capabilities handled by an ALLGRIP PRO (4WD) system.",
+      "Customers can choose from two variants, namely Zeta and Alpha, across seven colour options.",
+      "Maruti also offers dual-tone colour options and plenty of accessories for owners to personalise it further."
+    ],
+    "Exterior": [
+      "The five-door Jimny is bigger than the three-door model available abroad.",
+      "However, it’s more practical for our Indian market and continues to get boxy proportions and a compact footprint.",
+      "Exterior highlights in the front include a five-slot grille, circular headlamps with a projector unit, and fog lamps.",
+      "With a chunky wheel cladding, the Jimny rides on grey alloy wheels and get black ORVMs.",
+      "At the back, it has rectangular halogen tail lights, high-mounted stop lamp, and a tailgate-mounted spare wheel."
+    ],
+    "Interior": [
+      "The interior of the five-door Jimny isn't very different from the three-door and shares many components with other siblings.",
+      "Taking centre stage is a nine-inch SmartPlay Pro+ touchscreen infotainment system.",
+      "Other features include a hard-top, dark-green glass, automatic climate control, cruise control, and a three-spoke steering wheel."
+    ],
+    "Powertrain": [
+      "The Jimny is powered by a 1.5-litre K15B petrol engine.",
+      "This motor generates an output of 103bhp and 134Nm of torque.",
+      "It comes mated to a five-speed manual gearbox as standard.",
+      "However, buyers can also opt for a four-speed torque converter automatic unit.",
+      "Maruti Suzuki claims a mileage of up to 16.94kmpl for the Jimny."
+    ]
+  },
+  "verdict": "The Maruti Suzuki Jimny, with its iconic status and global presence in over 200 countries, is a testament to its enduring appeal and versatility. Often perceived as an underdog, it consistently surprises with its comprehensive capabilities. While it may not boast an extensive array of bells and whistles, the true essence of the Jimny lies in its philosophy – offering fun and adventure at an accessible price point. For Maruti Suzuki, the challenge is to convey that the Jimny is more than just another car; it's an embodiment of a lifestyle, accessible and inviting, allowing enthusiasts to explore the joys of adventure without breaking the bank.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Maruti Suzuki Jimny",
+        "price": "12.32 - 14.45 Lakh",
+        "url": "/maruti-suzuki-cars/jimny"
+      },
+      {
+        "name": "Volkswagen Taigun",
+        "price": "11.42 - 19.19 Lakh",
+        "url": "/volkswagen-cars/taigun"
+      },
+      {
+        "name": "Skoda Kushaq",
+        "price": "10.61 - 18.45 Lakh",
+        "url": "/skoda-cars/kushaq"
+      },
+      {
+        "name": "Hyundai Venue N Line",
+        "price": "10.55 - 15.48 Lakh",
+        "url": "/hyundai-cars/venue-n-line"
+      },
+      {
+        "name": "Citroen C3 Aircross",
+        "price": "8.32 - 14.1 Lakh",
+        "url": "/citroen-cars/c3-aircross"
+      },
+      {
+        "name": "Citroen Aircross X",
+        "price": "8.29 - 13.69 Lakh",
+        "url": "/citroen-cars/aircross-x"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 12.32 - 14.45 Lakh",
+          "₹ 11.42 - 19.19 Lakh",
+          "₹ 10.61 - 18.45 Lakh",
+          "₹ 10.55 - 15.48 Lakh",
+          "₹ 8.32 - 14.1 Lakh",
+          "₹ 8.29 - 13.69 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "8.5",
+          "8.0",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1462 cc",
+          "999 CC",
+          "999 CC",
+          "998 CC",
+          "1199 CC",
+          "1199 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "16 - 16 KM/L",
+          "18.15 - 19.87 KM/L",
+          "19.76 KM/L",
+          "18 KM/L",
+          "17.6 - 18.5 KM/L",
+          "17.5 - 18.5 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "4 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "40.0 L",
+          "50.0 L",
+          "50.0 L",
+          "45.0 L",
+          "45.0 L",
+          "45.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "6",
+          "13",
+          "31",
+          "6",
+          "17",
+          "7"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Jimny vs Taigun",
+          "Jimny vs Kushaq",
+          "Jimny vs Venue N Line",
+          "Jimny vs C3 Aircross",
+          "Jimny vs Aircross X"
+        ]
+      }
+    ]
+  }
+}

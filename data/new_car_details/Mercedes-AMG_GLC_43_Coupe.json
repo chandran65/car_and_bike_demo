@@ -1,0 +1,222 @@
+{
+  "basic_info": {
+    "name": "Mercedes-AMG GLC 43 Coupe",
+    "manufacturer": "Mercedes-AMG",
+    "model": "GLC 43 Coupe",
+    "body_type": "Coupe",
+    "url": "https://www.carandbike.com/mercedes-amg-cars/glc-43-coupe",
+    "image_url": "https://images.carandbike.com/car-images/large/mercedes-amg/glc-43-coupe/mercedes-amg-glc-43-coupe.jpg?v=37",
+    "description": "Mercedes-AMG GLC 43 Coupe is a 5-seater Coupe available at a starting price of Rs. 1.17 Crore. The car is available in 1 variants, with 1 engine and 1 transmission option. Additionally, GLC 43 Coupe offers a Ground Clearance measurement of 201 mm and a Boot capacity of 550 liters. You can choose from 9 colors for the GLC 43 Coupe. The mileage of the GLC 43 Coupe varies from 13 KM/L depending on the model.",
+    "model_date": "2024-08-08",
+    "sku": "mercedes-amg-glc-43-coupe-1523",
+    "vin": "5NPEL4AB3BH001523",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1996 cc",
+    "power": "382 bhp",
+    "torque": "520 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "13 KM/L"
+  },
+  "dimensions": {
+    "width": "1890 mm ",
+    "height": "1620 mm",
+    "weight": "1855/1855",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "43 MATIC Graphite Grey",
+    "43 MATIC Polar White",
+    "Mojave Silver",
+    "Obsidian black",
+    "Brilliant Blue",
+    "Graphite Grey",
+    "Designo Hyacinth Red Metallic",
+    "Selenite Grey",
+    "Polar White"
+  ],
+  "price": {
+    "value": "11671736",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mercedes-amg-cars/glc-43-coupe"
+  },
+  "brand": {
+    "name": "Mercedes-AMG",
+    "image": "https://images.carandbike.com/car-images/big/mercedes-amg/mercedes-amg.png?v=1"
+  },
+  "rating": {
+    "value": "7.1",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Coupe looks stylish",
+    "The AMG is powerful and very sporty",
+    "The car comes with a long list of feature options"
+  ],
+  "cons": [
+    "The gearbox could have been more responsive",
+    "The car is a tad heavier",
+    "The AMG Coupe does not get a proper dead pedal"
+  ],
+  "verdict": "AMG, Mercedes' esteemed performance division, has significantly influenced the brand's strategy in India. The AMG GLC43 Coupe stands out with its robust performance and practicality, provided one acclimates to the firmer suspension. It commands attention as a large, bold, and swift Coupe SUV. For those seeking a high-performance SUV without crossing the crore-rupee threshold, the AMG GLC43 Coupe offers an attractive blend of power, presence, and value.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mercedes-AMG GLC 43 Coupe",
+        "price": "1.03 Crore",
+        "url": "/mercedes-amg-cars/glc-43-coupe"
+      },
+      {
+        "name": "Mercedes-Benz CLE Cabriolet",
+        "price": "1.17 Crore",
+        "url": "/mercedes-benz-cars/cle-cabriolet"
+      },
+      {
+        "name": "BMW 6 Series Gran Turismo",
+        "price": "79.04 - 86.72 Lakh",
+        "url": "/bmw-cars/6-series-gran-turismo"
+      },
+      {
+        "name": "Tata Curvv",
+        "price": "9.66 - 18.54 Lakh",
+        "url": "/tata-cars/curvv"
+      },
+      {
+        "name": "Citroen Basalt X",
+        "price": "7.95 - 13.11 Lakh",
+        "url": "/citroen-cars/basalt-x"
+      },
+      {
+        "name": "BMW M8",
+        "price": "2.56 Crore",
+        "url": "/bmw-cars/m8"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.03 Crore",
+          "₹ 1.17 Crore",
+          "₹ 79.04 - 86.72 Lakh",
+          "₹ 9.66 - 18.54 Lakh",
+          "₹ 7.95 - 13.11 Lakh",
+          "₹ 2.56 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.1",
+          "-",
+          "8.0",
+          "-",
+          "-",
+          "8.8"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1996 cc",
+          "1999 CC",
+          "1998 CC",
+          "1199 CC",
+          "1199 CC",
+          "4395 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Manual",
+          "Manual",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "13 KM/L",
+          "12 KM/L",
+          "13.32 - 18.65 KM/L",
+          "16 - 19 KM/L",
+          "18 - 19.5 KM/L",
+          "11.3 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "4 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "93.0 L",
+          "66.0 L",
+          "68.0 L",
+          "44.0 L",
+          "45.0 L",
+          "68.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "1",
+          "4",
+          "22",
+          "8",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "GLC 43 Coupe vs CLE Cabriolet",
+          "GLC 43 Coupe vs 6 Series Gran Turismo",
+          "GLC 43 Coupe vs Curvv",
+          "GLC 43 Coupe vs Basalt X",
+          "GLC 43 Coupe vs M8"
+        ]
+      }
+    ]
+  }
+}

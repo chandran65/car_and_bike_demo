@@ -1,0 +1,220 @@
+{
+  "basic_info": {
+    "name": "Skoda Slavia",
+    "manufacturer": "Skoda",
+    "model": "Slavia",
+    "body_type": "Sedan",
+    "url": "https://www.carandbike.com/skoda-cars/slavia",
+    "image_url": "https://images.carandbike.com/car-images/large/skoda/slavia/skoda-slavia.jpg?v=19",
+    "description": "Skoda Slavia is a 5-seater Sedan available at a starting price of Rs. 10 Lakh. The car is available in 26 variants, with 2 engine and 2 transmission option. Additionally, Slavia offers a Ground Clearance measurement of 179 mm and a Boot capacity of 521 liters. You can choose from 7 colors for the Slavia. The mileage of the Slavia varies from 20 KM/L depending on the model.",
+    "model_date": "2022-02-28",
+    "sku": "skoda-slavia-1658",
+    "vin": "5NPEL4AB3BH001658",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1498,999 cc",
+    "power": "345 bhp,380,380 bhp bhp",
+    "torque": "178,250 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Manual, Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "18 - 20 KM/L"
+  },
+  "dimensions": {
+    "width": "1752 mm ",
+    "height": "1507 mm",
+    "weight": "1278/1278",
+    "seating_capacity": "5",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "Tornado Red",
+    "Lava Blue",
+    "Deep Black",
+    "Carbon Steel MATTE",
+    "Carbon Steel",
+    "Candy White",
+    "Brilliant Silver"
+  ],
+  "price": {
+    "value": 999900,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/skoda-cars/slavia"
+  },
+  "brand": {
+    "name": "Skoda",
+    "image": "https://images.carandbike.com/car-images/big/skoda/skoda.png?v=1"
+  },
+  "rating": {
+    "value": "8.3",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Sharply Styled And Premium Looks",
+    "Comfortable Cabin At The Front And Rear",
+    "1.5 Tsi Engine Is A Driver&rsquo;S Delight"
+  ],
+  "cons": [
+    "1.0 Tsi Gets Noisy At High Speeds",
+    "Under Thigh Support Could Be Better At The Rear",
+    "1.5 Tsi Could Do With More Exterior Upgrades"
+  ],
+  "verdict": "The Slavia 1.5 is going up against the likes of Honda City, Hyundai Verna and the soon to be launched VW Virtus in the market. And looking at the prices of the Style trim of the 1.0 liter model that ranges from Rs 13.59 lakh to 15.39 lakh, the 1.5 litre Slavia could start around ₹ 14.5 lakh, ex-showroom. That could make it the most expensive offering in the segment, but as we've seen with some recent cars, that strategy has worked well for Skoda.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Skoda Slavia",
+        "price": "10 - 17.7 Lakh",
+        "url": "/skoda-cars/slavia"
+      },
+      {
+        "name": "Hyundai Verna",
+        "price": "10.69 - 14.74 Lakh",
+        "url": "/hyundai-cars/verna"
+      },
+      {
+        "name": "Maruti Suzuki Ciaz",
+        "price": "9.09 - 11.89 Lakh",
+        "url": "/maruti-suzuki-cars/ciaz"
+      },
+      {
+        "name": "Volkswagen Virtus",
+        "price": "11.2 - 14.71 Lakh",
+        "url": "/volkswagen-cars/virtus"
+      },
+      {
+        "name": "Honda City",
+        "price": "11.95 - 14.94 Lakh",
+        "url": "/honda-cars/city"
+      },
+      {
+        "name": "Honda 2025 Amaze",
+        "price": "7.41 - 10 Lakh",
+        "url": "/honda-cars/2025-amaze"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 10 - 17.7 Lakh",
+          "₹ 10.69 - 14.74 Lakh",
+          "₹ 9.09 - 11.89 Lakh",
+          "₹ 11.2 - 14.71 Lakh",
+          "₹ 11.95 - 14.94 Lakh",
+          "₹ 7.41 - 10 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.3",
+          "8.5",
+          "7.0",
+          "8.3",
+          "8.2",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1498,999 cc",
+          "1497 CC",
+          "1462 CC",
+          "999 CC",
+          "1498 CC",
+          "1199 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "18 - 20 KM/L",
+          "18.6 - 20.6 KM/L",
+          "20.04 - 20.65 KM/L",
+          "18.7 - 20.19 KM/L",
+          "17.8 - 18.4 KM/L",
+          "18.6 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "45.0 L",
+          "45.0 L",
+          "43.0 L",
+          "45.0 L",
+          "40.0 L",
+          "35.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "26",
+          "10",
+          "9",
+          "7",
+          "7",
+          "6"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Slavia vs Verna",
+          "Slavia vs Ciaz",
+          "Slavia vs Virtus",
+          "Slavia vs City",
+          "Slavia vs 2025 Amaze"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "basic_info": {
+    "name": "Land Rover Discovery",
+    "manufacturer": "Land Rover",
+    "model": "Discovery",
+    "body_type": null,
+    "url": "https://www.carandbike.com/land-rover-cars/discovery",
+    "image_url": "https://images.carandbike.com/car-images/large/land-rover/discovery/land-rover-discovery.jpg?v=45",
+    "description": "Land Rover Discovery is a 7-seater  available at a starting price of Rs. 1.46 Crore. The car is available in 3 variants, with 2 engine and 1 transmission option. Additionally, Discovery offers a Ground Clearance measurement of 209 mm and a Boot capacity of 280 liters. You can choose from 9 colors for the Discovery. The mileage of the Discovery varies from 9.2 KM/L depending on the model.",
+    "model_date": "2021-07-14",
+    "sku": "land-rover-discovery-1462",
+    "vin": "5NPEL4AB3BH001462",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2995,2996 cc",
+    "power": "296,355 bhp",
+    "torque": "500,650 Nm",
+    "fuel_type": "Diesel"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Diesel",
+    "efficiency": "9 KM/L"
+  },
+  "dimensions": {
+    "width": "2220 mm ",
+    "height": "1888 mm",
+    "weight": "2298/2490",
+    "seating_capacity": "7",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Fuji White",
+    "Charente Grey",
+    "Carpathian Grey",
+    "Hakuba Silver",
+    "Lantau Bronze",
+    "Portofino Blue",
+    "Eiger Grey",
+    "Yulong White",
+    "Santorini Black"
+  ],
+  "price": {
+    "value": "14552552",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/land-rover-cars/discovery"
+  },
+  "brand": {
+    "name": "Land Rover",
+    "image": "https://images.carandbike.com/car-images/big/land-rover/land-rover.png?v=1"
+  },
+  "rating": {
+    "value": "7.9",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Interior Looks And Feels More Premium Now",
+    "Extremely Capable On And Off-Road",
+    "Practical Luxury Suv For The Family"
+  ],
+  "cons": [
+    "Limited Third Row Space",
+    "Lacks Cargo Capacity",
+    "Infotainment Feels Slightly Lethargic"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "9.2 KM/L",
+      "city_mileage": "9 KM/L",
+      "highway_mileage": "12 KM/L"
+    }
+  ],
+  "verdict": "The Discovery is an extremely handsome and capable car. It's loaded to the gills with features and then there's the safety aspect too. The Discovery comes with driver assistance features, which is absolutely the need of the hour and this makes it contemporary too. The Discovery makes a mark by providing a safe haven for the occupants as well. Will well bolstered seats and a spacious cabin, the Discovery really packs in a punch with its driving mannerisms.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Land Rover Discovery",
+        "price": "1.25 - 1.37 Crore",
+        "url": "/land-rover-cars/discovery"
+      },
+      {
+        "name": "Maserati Grecale",
+        "price": "1.49 - 2.33 Crore",
+        "url": "/maserati-cars/grecale"
+      },
+      {
+        "name": "BMW X7",
+        "price": "1.33 - 1.4 Crore",
+        "url": "/bmw-cars/x7"
+      },
+      {
+        "name": "Maserati Levante",
+        "price": "1.61 - 1.82 Crore",
+        "url": "/maserati-cars/levante"
+      },
+      {
+        "name": "Porsche Cayenne",
+        "price": "1.69 - 2.36 Crore",
+        "url": "/porsche-cars/cayenne"
+      },
+      {
+        "name": "Rolls-Royce Cullinan",
+        "price": "1.19 - 7.9 Crore",
+        "url": "/rolls-royce-cars/cullinan"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.25 - 1.37 Crore",
+          "₹ 1.49 - 2.33 Crore",
+          "₹ 1.33 - 1.4 Crore",
+          "₹ 1.61 - 1.82 Crore",
+          "₹ 1.69 - 2.36 Crore",
+          "₹ 1.19 - 7.9 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.9",
+          "-",
+          "9.0",
+          "8.5",
+          "8.0",
+          "8.8"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2995,2996 cc",
+          "1998 CC",
+          "2998 CC",
+          "2979 CC",
+          "2996 CC",
+          "6751 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "9 KM/L",
+          "9.2 KM/L",
+          "11.29 - 14.31 KM/L",
+          "7.2 - 12.6 KM/L",
+          "9.2 - 11.23 KM/L",
+          "7 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Diesel",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "7 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "89.0 L",
+          "64.0 L",
+          "80.0 L",
+          "80.0 L",
+          "75.0 L",
+          "100.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "3",
+          "3",
+          "3",
+          "6",
+          "3",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Discovery vs Grecale",
+          "Discovery vs X7",
+          "Discovery vs Levante",
+          "Discovery vs Cayenne",
+          "Discovery vs Cullinan"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "basic_info": {
+    "name": "MG Astor",
+    "manufacturer": "MG",
+    "model": "Astor",
+    "body_type": null,
+    "url": "https://www.carandbike.com/mg-cars/astor",
+    "image_url": "https://images.carandbike.com/car-images/large/mg/astor/mg-astor.jpg?v=17",
+    "description": "MG Astor is a 5-seater  available at a starting price of Rs. 9.65 Lakh. The car is available in 9 variants, with 1 engine and 3 transmission option. Additionally, Astor offers a Boot capacity of 488 liters. You can choose from 6 colors for the Astor. The mileage of the Astor varies from 14 KM/L depending on the model.",
+    "model_date": "2021-10-11",
+    "sku": "mg-astor-1652",
+    "vin": "5NPEL4AB3BH001652",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1498 cc",
+    "power": "110 bhp",
+    "torque": "144 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Manual, Automatic, AMT",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "14 KM/L"
+  },
+  "dimensions": {
+    "width": "4323 mm ",
+    "height": "1650 mm",
+    "weight": "1303/1303",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Havana Grey",
+    "Starry Black",
+    "Candy White",
+    "Glaze Red",
+    "Aurora Silver",
+    "Candy White / Starry Black"
+  ],
+  "price": {
+    "value": "965000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mg-cars/astor"
+  },
+  "brand": {
+    "name": "MG",
+    "image": "https://images.carandbike.com/car-images/big/mg/mg.png?v=1"
+  },
+  "rating": {
+    "value": "8.5",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Tech Laden Cabin",
+    "Segment-First Adas Safety Features",
+    "Spacious And Comfortable Cabin"
+  ],
+  "cons": [
+    "Lack Of A Diesel Option",
+    "Poor Driving Dynamics",
+    "Torque Converter Feels Sluggish"
+  ],
+  "verdict": "The MG Astor is the petrol counterpart of the now popular ZS EV from the Chinese-British enterprise. It comes with a host of segment first features specially when it comes to safety and infotainment. MG is known to offer more for less and many segment-first features. With aggressive pricing and long feature list, the Astor could make a considerable dent in the ultra-competitive compact SUV segment.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "MG Astor",
+        "price": "9.65 - 15.36 Lakh",
+        "url": "/mg-cars/astor"
+      },
+      {
+        "name": "Maruti Suzuki Victoris",
+        "price": "10.5 - 19.99 Lakh",
+        "url": "/maruti-suzuki-cars/victoris"
+      },
+      {
+        "name": "Kia Syros",
+        "price": "8.67 - 15.94 Lakh",
+        "url": "/kia-cars/syros"
+      },
+      {
+        "name": "Kia Seltos",
+        "price": "10.79 - 19.81 Lakh",
+        "url": "/kia-cars/seltos"
+      },
+      {
+        "name": "Toyota Urban Cruiser Hyryder",
+        "price": "10.95 - 19.76 Lakh",
+        "url": "/toyota-cars/urban-cruiser-hyryder"
+      },
+      {
+        "name": "Honda Elevate",
+        "price": "11 - 16.67 Lakh",
+        "url": "/honda-cars/elevate"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 9.65 - 15.36 Lakh",
+          "₹ 10.5 - 19.99 Lakh",
+          "₹ 8.67 - 15.94 Lakh",
+          "₹ 10.79 - 19.81 Lakh",
+          "₹ 10.95 - 19.76 Lakh",
+          "₹ 11 - 16.67 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.5",
+          "-",
+          "-",
+          "8.7",
+          "7.9",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1498 cc",
+          "1492 CC",
+          "998 CC",
+          "1497 CC",
+          "1462 CC",
+          "1498 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic, AMT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "14 KM/L",
+          "21.18 - 28.65 KM/L",
+          "18 - 20 KM/L",
+          "17 - 20.7 KM/L",
+          "19.39 - 27.97 KM/L",
+          "15.31 - 16.92 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Hybrid, Petrol, CNG",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Hybrid, Petrol, CNG",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "48.0 L",
+          "55.0 L",
+          "45.0 L",
+          "50.0 L",
+          "45.0 L",
+          "40.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "9",
+          "34",
+          "13",
+          "23",
+          "27",
+          "17"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Astor vs Victoris",
+          "Astor vs Syros",
+          "Astor vs Seltos",
+          "Astor vs Urban Cruiser Hyryder",
+          "Astor vs Elevate"
+        ]
+      }
+    ]
+  }
+}

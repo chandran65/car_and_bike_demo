@@ -1,0 +1,244 @@
+{
+  "basic_info": {
+    "name": "Tata Punch",
+    "manufacturer": "Tata",
+    "model": "Punch",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/tata-cars/punch",
+    "image_url": "https://images.carandbike.com/car-images/large/tata/punch/tata-punch.jpg?v=24",
+    "description": "Tata Punch is a 5-seater SUV available at a starting price of Rs. 5.5 Lakh. The car is available in 33 variants, with 1 engine and 2 transmission option. Additionally, Punch offers a Ground Clearance measurement of 187 mm and a Boot capacity of 366 liters. You can choose from 8 colors for the Punch. The mileage of the Punch varies from 18.9 - 20 KM/L depending on the model.",
+    "model_date": "2021-10-18",
+    "sku": "tata-punch-1597",
+    "vin": "5NPEL4AB3BH001597",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1199 cc",
+    "power": "72,85 bhp",
+    "torque": "103,113 Nm",
+    "fuel_type": "Petrol, Petrol+CNG"
+  },
+  "transmission": "Manual, AMT",
+  "fuel": {
+    "type": "Petrol, Petrol+CNG",
+    "efficiency": "18 - 20 KM/L"
+  },
+  "dimensions": {
+    "width": "1742 mm ",
+    "height": "1615 mm",
+    "weight": "1030/1030",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Foliage Green",
+    "Tornado Blue",
+    "Daytona Grey",
+    "Tropical Mist",
+    "Altomic Orange",
+    "Meteor Bronze",
+    "Calypso Red",
+    "Orcus White"
+  ],
+  "price": {
+    "value": 549990,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/tata-cars/punch"
+  },
+  "brand": {
+    "name": "Tata",
+    "image": "https://images.carandbike.com/car-images/big/tata/tata.png?v=1"
+  },
+  "rating": {
+    "value": "7.9",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "5-Star Gncap Rating",
+    "Ride And Handling",
+    "Spacious&nbsp;Cabin"
+  ],
+  "cons": [
+    "Feels Underpowered",
+    "No Rear Ac Vents",
+    "No Front Armrests"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "18.9 KM/L",
+      "city_mileage": "18 KM/L",
+      "highway_mileage": "20 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "AMT",
+      "mileage": "18.9 KM/L",
+      "city_mileage": "18 KM/L",
+      "highway_mileage": "20 KM/L"
+    },
+    {
+      "fuel_type": "Petrol+CNG",
+      "transmission": "Manual",
+      "mileage": "20 KM/L",
+      "city_mileage": "20 KM/L",
+      "highway_mileage": "24 KM/L"
+    }
+  ],
+  "verdict": "Tata Punch is a strong contender in the micro SUV segment, offering a blend of SUV styling, solid safety credentials, and practical features at an affordable price point. While there are minor issues with the AMT gearbox and rear seat space, the overall value for money, robust build quality, and top-tier safety make it a great choice for urban families looking for a compact, safe, and stylish vehicle.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Tata Punch",
+        "price": "5.5 - 9.3 Lakh",
+        "url": "/tata-cars/punch"
+      },
+      {
+        "name": "Hyundai Exter",
+        "price": "5.49 - 9.57 Lakh",
+        "url": "/hyundai-cars/exter"
+      },
+      {
+        "name": "Nissan Magnite",
+        "price": "5.62 - 10.76 Lakh",
+        "url": "/nissan-cars/magnite"
+      },
+      {
+        "name": "Renault Kiger",
+        "price": "6.14 - 11.73 Lakh",
+        "url": "/renault-cars/kiger"
+      },
+      {
+        "name": "Kia Sonet",
+        "price": "7.3 - 14.09 Lakh",
+        "url": "/kia-cars/sonet"
+      },
+      {
+        "name": "Skoda Kylaq",
+        "price": "7.55 - 12.8 Lakh",
+        "url": "/skoda-cars/kylaq"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 5.5 - 9.3 Lakh",
+          "₹ 5.49 - 9.57 Lakh",
+          "₹ 5.62 - 10.76 Lakh",
+          "₹ 6.14 - 11.73 Lakh",
+          "₹ 7.3 - 14.09 Lakh",
+          "₹ 7.55 - 12.8 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.9",
+          "7.0",
+          "8.1",
+          "8.1",
+          "8.4",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1199 cc",
+          "1197 CC",
+          "999 CC",
+          "999 CC",
+          "1197 CC",
+          "999 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, AMT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "18 - 20 KM/L",
+          "19.4 - 27 KM/L",
+          "19.7 KM/L",
+          "20 KM/L",
+          "18.4 - 24.1 KM/L",
+          "18.09 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Petrol+CNG",
+          "Petrol, CNG",
+          "Petrol, CNG",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "37.0, 60.0 L",
+          "37.0 L",
+          "40.0 L",
+          "40.0 L",
+          "45.0 L",
+          "50.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "33",
+          "31",
+          "25",
+          "15",
+          "24",
+          "14"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Punch vs Exter",
+          "Punch vs Magnite",
+          "Punch vs Kiger",
+          "Punch vs Sonet",
+          "Punch vs Kylaq"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "basic_info": {
+    "name": "Citroen C5 Aircross",
+    "manufacturer": "Citroen",
+    "model": "C5 Aircross",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/citroen-cars/c5-aircross",
+    "image_url": "https://images.carandbike.com/car-images/large/citroen/c5-aircross/citroen-c5-aircross.jpg?v=14",
+    "description": "Citroen C5 Aircross is a 5-seater SUV available at a starting price of Rs. 46.47 Lakh. The car is available in 2 variants, with 1 engine and 1 transmission option. Additionally, C5 Aircross offers a Boot capacity of 580 liters. You can choose from 7 colors for the C5 Aircross. The mileage of the C5 Aircross varies from 17.5 KM/L depending on the model.",
+    "model_date": "2022-09-08",
+    "sku": "citroen-c5-aircross-1586",
+    "vin": "5NPEL4AB3BH001586",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1997 cc",
+    "power": "175 bhp",
+    "torque": "400 Nm",
+    "fuel_type": "Diesel"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Diesel",
+    "efficiency": "17 KM/L"
+  },
+  "dimensions": {
+    "width": "2099 mm ",
+    "height": "1710 mm",
+    "weight": "1685/1685",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Pearl White",
+    "Pearl Nera Black",
+    "Pearl White Dual Tone",
+    "Eclipse Blue Dual Tone",
+    "Eclipse Blue",
+    "Cumulus Grey",
+    "Cumulus Grey Dual Tone"
+  ],
+  "price": {
+    "value": 4646538,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/citroen-cars/c5-aircross"
+  },
+  "brand": {
+    "name": "Citroen",
+    "image": "https://images.carandbike.com/car-images/big/citroen/citroen.png?v=1"
+  },
+  "rating": {
+    "value": "8.0",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Stylish",
+    "Comfortable Ride Quality",
+    "Spacious",
+    "&nbsp;"
+  ],
+  "cons": [
+    "Less Features",
+    "Soft Steering",
+    "Expensive In Its Segment",
+    "&nbsp;"
+  ],
+  "verdict": "The Citroen C5 Aircross is appreciated for its smooth operation and ease of use, with its impressive ride quality often overshadowing any minor flaws. It features Eco and Sport drive modes, allowing for a tailored driving experience. While lacking all-wheel drive, Citroen compensates with the 'Grip Control' system, which optimizes traction on the front wheels, enhancing stability and handling in various conditions.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Citroen C5 Aircross",
+        "price": "37.32 Lakh",
+        "url": "/citroen-cars/c5-aircross"
+      },
+      {
+        "name": "MG ZS EV",
+        "price": "17.99 - 20.5 Lakh",
+        "url": "/mg-cars/zs-ev"
+      },
+      {
+        "name": "Volkswagen Tiguan R-Line",
+        "price": "45.73 Lakh",
+        "url": "/volkswagen-cars/tiguan-r-line"
+      },
+      {
+        "name": "Audi Q3",
+        "price": "43.07 - 52.31 Lakh",
+        "url": "/audi-cars/q3"
+      },
+      {
+        "name": "Toyota Fortuner Legender",
+        "price": "41.54 - 46.75 Lakh",
+        "url": "/toyota-cars/fortuner-legender"
+      },
+      {
+        "name": "Mercedes-Benz GLA-Class",
+        "price": "51.5 - 56.5 Lakh",
+        "url": "/mercedes-benz-cars/gla-class"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 37.32 Lakh",
+          "₹ 17.99 - 20.5 Lakh",
+          "₹ 45.73 Lakh",
+          "₹ 43.07 - 52.31 Lakh",
+          "₹ 41.54 - 46.75 Lakh",
+          "₹ 51.5 - 56.5 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.0",
+          "7.8",
+          "-",
+          "8.1",
+          "-",
+          "8.6"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1997 cc",
+          "N/A",
+          "1984 CC",
+          "1984 CC",
+          "2755 CC",
+          "1332 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "DCT",
+          "Automatic",
+          "Manual",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "17 KM/L",
+          "461 Km/Full Charge",
+          "12.58 KM/L",
+          "16.9 KM/L",
+          "14.2 - 14.4 KM/L",
+          "13 - 17 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Diesel",
+          "Electric",
+          "Petrol",
+          "Petrol",
+          "Diesel",
+          "Petrol, Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "52.5 L",
+          "N/A",
+          "60.0 L",
+          "64.0 L",
+          "80.0 L",
+          "50.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "7",
+          "1",
+          "4",
+          "4",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "C5 Aircross vs ZS EV",
+          "C5 Aircross vs Tiguan R-Line",
+          "C5 Aircross vs Q3",
+          "C5 Aircross vs Fortuner Legender",
+          "C5 Aircross vs GLA-Class"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "basic_info": {
+    "name": "Audi Q5",
+    "manufacturer": "Audi",
+    "model": "Q5",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/audi-cars/q5",
+    "image_url": "https://images.carandbike.com/car-images/large/audi/q5/audi-q5.jpg?v=49",
+    "description": "Audi Q5 is a 5-seater SUV available at a starting price of Rs. 64.74 Lakh. The car is available in 3 variants, with 2 engine and 1 transmission option. Additionally, Q5 offers a Ground Clearance measurement of 200 mm and a Boot capacity of 550 liters. You can choose from 6 colors for the Q5. The mileage of the Q5 varies from 13.5 KM/L depending on the model.",
+    "model_date": "2021-11-23",
+    "sku": "audi-q5-1011",
+    "vin": "5NPEL4AB3BH001011",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1984 cc",
+    "power": "260,265 bhp",
+    "torque": "370 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "13 KM/L"
+  },
+  "dimensions": {
+    "width": "1893 mm ",
+    "height": "1655 mm",
+    "weight": "1870/1890",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Ibis White",
+    "District Green",
+    "Navarra Blue Metallic",
+    "Myth Black Metallic",
+    "Manhattan Gray Metallic",
+    "Floret Silver Metallic"
+  ],
+  "price": {
+    "value": "6474000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/audi-cars/q5"
+  },
+  "brand": {
+    "name": "Audi",
+    "image": "https://images.carandbike.com/car-images/big/audi/audi.png?v=1"
+  },
+  "rating": {
+    "value": "7.5",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Ultimate Interior Comfort",
+    "All Wheel Drive Feature",
+    "Easy To Drive&nbsp;"
+  ],
+  "cons": [
+    "Unimpressive Cargo Space",
+    "No Diesel Engine",
+    "Lack Of Advanced Driver Assistance Features&nbsp;"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "13.5 KM/L",
+      "city_mileage": "12 KM/L",
+      "highway_mileage": "15 KM/L"
+    }
+  ],
+  "verdict": "The Audi Q5 holds a pivotal role in Audi's portfolio, especially in the Indian market, where historically, the Q range has contributed significantly to the brand's total sales. The Q5's importance in helping Audi regain its market position in India cannot be overstated. With the latest updates and changes, the Q5 is well-equipped to meet and potentially exceed customer expectations. These enhancements could be instrumental in reestablishing Audi's prominence in the luxury car segment in India, leveraging the Q5's potential to attract both loyal customers and new buyers.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Audi Q5",
+        "price": "64.74 - 69.86 Lakh",
+        "url": "/audi-cars/q5"
+      },
+      {
+        "name": "Lexus NX",
+        "price": "66.59 - 73.4 Lakh",
+        "url": "/lexus-cars/nx"
+      },
+      {
+        "name": "Land Rover Discovery Sport",
+        "price": "72.05 - 73.63 Lakh",
+        "url": "/land-rover-cars/discovery-sport"
+      },
+      {
+        "name": "BMW X3",
+        "price": "75.55 - 79.27 Lakh",
+        "url": "/bmw-cars/x3"
+      },
+      {
+        "name": "Volvo XC60",
+        "price": "76.29 Lakh",
+        "url": "/volvo-cars/xc60"
+      },
+      {
+        "name": "Mercedes-Benz GLC",
+        "price": "79.25 Lakh",
+        "url": "/mercedes-benz-cars/glc"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 64.74 - 69.86 Lakh",
+          "₹ 66.59 - 73.4 Lakh",
+          "₹ 72.05 - 73.63 Lakh",
+          "₹ 75.55 - 79.27 Lakh",
+          "₹ 76.29 Lakh",
+          "₹ 79.25 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.5",
+          "7.1",
+          "7.3",
+          "7.5",
+          "7.0",
+          "8.3"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1984 cc",
+          "2487 CC",
+          "1997 CC",
+          "1998 CC",
+          "1969 CC",
+          "1993 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "13 KM/L",
+          "18.3 KM/L",
+          "10.68 - 14.12 KM/L",
+          "13.17 - 18.56 KM/L",
+          "13 KM/L",
+          "15 - 20 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Hybrid",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol, Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "70.0 L",
+          "56.0 L",
+          "70.0 L",
+          "60.0 L",
+          "71.0 L",
+          "62.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "3",
+          "4",
+          "2",
+          "2",
+          "1",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Q5 vs NX",
+          "Q5 vs Discovery Sport",
+          "Q5 vs X3",
+          "Q5 vs XC60",
+          "Q5 vs GLC"
+        ]
+      }
+    ]
+  }
+}

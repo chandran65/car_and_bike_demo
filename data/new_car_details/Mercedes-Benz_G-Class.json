@@ -1,0 +1,229 @@
+{
+  "basic_info": {
+    "name": "Mercedes-Benz G-Class",
+    "manufacturer": "Mercedes-Benz",
+    "model": "G-Class",
+    "body_type": null,
+    "url": "https://www.carandbike.com/mercedes-benz-cars/g-class",
+    "image_url": "https://images.carandbike.com/car-images/large/mercedes-benz/g-class/mercedes-benz-g-class.jpg?v=20",
+    "description": "Mercedes-Benz G-Class is a 5-seater  available at a starting price of Rs. 2.38 Crore. The car is available in 3 variants, with 1 engine and 1 transmission option. Additionally, G-Class offers a Ground Clearance measurement of 241 mm and a Boot capacity of 480 liters. You can choose from 7 colors for the G-Class. The mileage of the G-Class varies from 13.9 KM/L depending on the model.",
+    "model_date": "2023-06-08",
+    "sku": "mercedes-benz-g-class-1600",
+    "vin": "5NPEL4AB3BH001600",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2925 cc",
+    "power": "167.6 bhp @ 3,750 rpm,352 bhp @ 3,750 rpm bhp",
+    "torque": "700 Nm @ 1200-3200 rpm,750 Nm @ 1200-3200 rpm Nm",
+    "fuel_type": "Diesel"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Diesel",
+    "efficiency": "13 KM/L"
+  },
+  "dimensions": {
+    "width": "1980 mm ",
+    "height": "1969 mm",
+    "weight": "2510/2510",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Selenite Grey",
+    "Rubellite Red Metallic",
+    "Polar White",
+    "Obsidian Black",
+    "Mojave Silver Metallic",
+    "Iridium Silver Metallic",
+    "Cavansite Blue Metallic"
+  ],
+  "price": {
+    "value": "23800000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mercedes-benz-cars/g-class"
+  },
+  "brand": {
+    "name": "Mercedes-Benz",
+    "image": "https://images.carandbike.com/car-images/big/mercedes-benz/mercedes-benz.png?v=1"
+  },
+  "rating": {
+    "value": "8.2",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Robust Built Quality And Road Presence",
+    "Premium Interior And Features",
+    "Exception Off-Road Capability"
+  ],
+  "cons": [
+    "The Cost Isn'T Cheap",
+    "Not An Everyday Suv",
+    "Cabin Design Is Dated"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "13.9 KM/L",
+      "city_mileage": "11 KM/L",
+      "highway_mileage": "16.5 KM/L"
+    }
+  ],
+  "verdict": "For many, the pursuit of extraordinary experiences and possessions transcends the constraints of price. While Indian roads see an abundance of luxury SUVs, the Mercedes-Benz G-Class stands in a league of its own. It's tailored for those with a penchant for unparalleled opulence and a commanding presence on the road. With deep pockets to support such aspirations, the G-Class delivers an eminent stature and performance that truly befits a road monarch, justifying its substantial price tag with its unmatched grandeur and capability.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mercedes-Benz G-Class",
+        "price": "2.38 - 2.9 Crore",
+        "url": "/mercedes-benz-cars/g-class"
+      },
+      {
+        "name": "Porsche Cayenne",
+        "price": "1.69 - 2.36 Crore",
+        "url": "/porsche-cars/cayenne"
+      },
+      {
+        "name": "Land Rover Range Rover Sport",
+        "price": "1.38 - 2.75 Crore",
+        "url": "/land-rover-cars/range-rover-sport"
+      },
+      {
+        "name": "Land Rover Range Rover",
+        "price": "2.31 - 4.66 Crore",
+        "url": "/land-rover-cars/range-rover"
+      },
+      {
+        "name": "Toyota Land Cruiser",
+        "price": "2.16 - 2.25 Crore",
+        "url": "/toyota-cars/land-cruiser"
+      },
+      {
+        "name": "Maserati Levante",
+        "price": "1.61 - 1.82 Crore",
+        "url": "/maserati-cars/levante"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 2.38 - 2.9 Crore",
+          "₹ 1.69 - 2.36 Crore",
+          "₹ 1.38 - 2.75 Crore",
+          "₹ 2.31 - 4.66 Crore",
+          "₹ 2.16 - 2.25 Crore",
+          "₹ 1.61 - 1.82 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.2",
+          "8.0",
+          "7.9",
+          "7.7",
+          "5.7",
+          "8.5"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2925 cc",
+          "2996 CC",
+          "2997 CC",
+          "2997 CC",
+          "3346 CC",
+          "2979 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "13 KM/L",
+          "9.2 - 11.23 KM/L",
+          "10 KM/L",
+          "12.8 - 21 KM/L",
+          "11 KM/L",
+          "7.2 - 12.6 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Diesel",
+          "Petrol",
+          "Petrol, Diesel",
+          "Diesel, Hybrid, Petrol",
+          "Diesel",
+          "Petrol, Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "93.0 L",
+          "75.0 L",
+          "86.0 L",
+          "85.0 L",
+          "80.0 L",
+          "80.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "3",
+          "3",
+          "4",
+          "5",
+          "2",
+          "6"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "G-Class vs Cayenne",
+          "G-Class vs Range Rover Sport",
+          "G-Class vs Range Rover",
+          "G-Class vs Land Cruiser",
+          "G-Class vs Levante"
+        ]
+      }
+    ]
+  }
+}

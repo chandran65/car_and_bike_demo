@@ -1,0 +1,173 @@
+{
+  "basic_info": {
+    "name": "Tata Tiago EV",
+    "manufacturer": "Tata",
+    "model": "Tiago EV",
+    "body_type": null,
+    "url": "https://www.carandbike.com/tata-cars/tiago-ev",
+    "image_url": "https://images.carandbike.com/car-images/large/tata/tiago-ev/tata-tiago-ev.jpg?v=12",
+    "description": "Tata Tiago EV is a 5-seater electric  available at a starting price of Rs. 8.89 Lakh. The electric car is available in 7 variants.Additionally, Tiago EV offers a Ground Clearance measurement of 170 mm and a Boot capacity of 240 liters. You can choose from 5 colors for the Tiago EV. The battery range/mileage of the Tiago EV is 293 Km/Full Charge. ",
+    "model_date": "2022-09-28",
+    "sku": "tata-tiago-ev-1689",
+    "vin": "5NPEL4AB3BH001689",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "223 - 293 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1677 mm ",
+    "height": "1536 mm",
+    "weight": "1235/1235",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Midnight Plum",
+    "Pristine White",
+    "Daytona Grey",
+    "Teal Blue",
+    "Tropical Mist"
+  ],
+  "price": {
+    "value": 889252,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/tata-cars/tiago-ev"
+  },
+  "brand": {
+    "name": "Tata",
+    "image": "https://images.carandbike.com/car-images/big/tata/tata.png?v=1"
+  },
+  "rating": {
+    "value": "8.4",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Affordable",
+    "Range",
+    "Features"
+  ],
+  "cons": [
+    "Ground clearance",
+    "Cabin space",
+    "Unappealing style"
+  ],
+  "expert_review": {
+    "design_styling": "The Tata Tiago EV is a statement of Tata’s dedication to intertwining style with sustainability. Its design ethos mirrors a progressive shift from traditional aesthetics to a futuristic and EV-centric appeal. The front grille of the Tiago EV is an eye-catcher. Unlike the standard Tiago, this one has been reimagined, keeping in mind its electric credentials, showcasing a predominantly closed design for the grille, and the headlight section embellished with a tri-arrow pattern on the edges. This pattern is echoed on the front bumper’s central air-vent, adding a touch of symmetry to the design. The electric vehicle distinction is further accentuated with a strategically placed EV badge on the grille, which is complimented by the blue-tinted trim highlight beneath it, a trademark of all Tata EVs. Rounding off the design upgrades is the Tiago’s distinct wheel pattern, setting it apart from its sedan sibling, the Tigor EV. Each element in its design underscores Tata’s ambition to harmonise sophistication with functionality, ensuring the Tiago EV doesn’t just perform well but also turns heads on the road."
+  },
+  "verdict": "If you're still undecided about buying an electric car and have concerns about things like range anxiety or driving dynamics, the Tiago EV addresses these well. It gives you the confidence of using an electric vehicle and doesn't cost a bomb. The hatch comes across as a good alternative in the market especially for urban commutes. If you’re looking to adopt electric mobility at an affordable cost, this is your safe bet.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Tata Tiago EV",
+        "price": "7.99 - 11.89 Lakh",
+        "url": "/tata-cars/tiago-ev"
+      },
+      {
+        "name": "MG Comet EV",
+        "price": "7.5 - 10 Lakh",
+        "url": "/mg-cars/comet-ev"
+      },
+      {
+        "name": "Citroen eC3",
+        "price": "12.9 - 13.26 Lakh",
+        "url": "/citroen-cars/ec3"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 7.99 - 11.89 Lakh",
+          "₹ 7.5 - 10 Lakh",
+          "₹ 12.9 - 13.26 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.4",
+          "6.5",
+          "8.2"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "223,293 Km/Full Charge",
+          "230 Km/Full Charge",
+          "320 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "4 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "7",
+          "6",
+          "4"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Tiago EV vs Comet EV",
+          "Tiago EV vs eC3"
+        ]
+      }
+    ]
+  }
+}

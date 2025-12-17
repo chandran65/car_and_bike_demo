@@ -1,0 +1,215 @@
+{
+  "basic_info": {
+    "name": "McLaren Artura",
+    "manufacturer": "McLaren",
+    "model": "Artura",
+    "body_type": "Coupe",
+    "url": "https://www.carandbike.com/mclaren-cars/artura",
+    "image_url": "https://images.carandbike.com/car-images/large/mclaren/artura/mclaren-artura.jpg?v=9",
+    "description": "McLaren Artura is a 2-seater Coupe available at a starting price of Rs. 5.68 Crore. The car is available in 1 variants, with 1 engine and 1 transmission option. Additionally, Artura offers a Ground Clearance measurement of 110 mm and a Boot capacity of 160 liters. You can choose from 4 colors for the Artura. The mileage of the Artura varies from 11 KM/L depending on the model.",
+    "model_date": "2023-05-26",
+    "sku": "mclaren-artura-1745",
+    "vin": "5NPEL4AB3BH001745",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2993 cc",
+    "power": "671 bhp",
+    "torque": "720 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "11 KM/L"
+  },
+  "dimensions": {
+    "width": "1913 mm ",
+    "height": "1193 mm",
+    "weight": "1498/1498",
+    "seating_capacity": "2",
+    "number_of_doors": "2"
+  },
+  "colors": [
+    "Lime green",
+    "Onyx Black",
+    "Silica White",
+    "Mclearn Orange"
+  ],
+  "price": {
+    "value": "56841159",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mclaren-cars/artura"
+  },
+  "brand": {
+    "name": "McLaren",
+    "image": "https://images.carandbike.com/car-images/big/mclaren/mclaren.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "11 KM/L",
+      "city_mileage": "9 KM/L",
+      "highway_mileage": "12 KM/L"
+    }
+  ],
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "McLaren Artura",
+        "price": "4.73 Crore",
+        "url": "/mclaren-cars/artura"
+      },
+      {
+        "name": "Lamborghini Temerario",
+        "price": "5.87 Crore",
+        "url": "/lamborghini-cars/temerario"
+      },
+      {
+        "name": "Maserati MCPura",
+        "price": "4.12 - 5.12 Crore",
+        "url": "/maserati-cars/mcpura"
+      },
+      {
+        "name": "Ferrari Roma",
+        "price": "3.56 Crore",
+        "url": "/ferrari-cars/roma"
+      },
+      {
+        "name": "Mercedes-AMG GT",
+        "price": "3.05 - 3.65 Crore",
+        "url": "/mercedes-amg-cars/gt"
+      },
+      {
+        "name": "Mercedes-AMG SL-Class",
+        "price": "2.47 Crore",
+        "url": "/mercedes-amg-cars/sl-class"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 4.73 Crore",
+          "₹ 5.87 Crore",
+          "₹ 4.12 - 5.12 Crore",
+          "₹ 3.56 Crore",
+          "₹ 3.05 - 3.65 Crore",
+          "₹ 2.47 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "-",
+          "8.5",
+          "8.2",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2993 cc",
+          "3992 CC",
+          "2992 CC",
+          "3855 CC",
+          "3982 CC",
+          "3982 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "11 KM/L",
+          "5 KM/L",
+          "0 KM/L",
+          "7 KM/L",
+          "11.4 KM/L",
+          "10 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "2 Seater",
+          "2 Seater",
+          "2 Seater",
+          "2 Seater",
+          "2 Seater",
+          "2 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "66.0 L",
+          "65.0 L",
+          "60.0 L",
+          "80.0 L",
+          "75.0 L",
+          "70.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "1",
+          "2",
+          "1",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Artura vs Temerario",
+          "Artura vs MCPura",
+          "Artura vs Roma",
+          "Artura vs GT",
+          "Artura vs SL-Class"
+        ]
+      }
+    ]
+  }
+}

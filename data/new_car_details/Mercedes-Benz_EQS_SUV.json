@@ -1,0 +1,211 @@
+{
+  "basic_info": {
+    "name": "Mercedes-Benz EQS SUV",
+    "manufacturer": "Mercedes-Benz",
+    "model": "EQS SUV",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/mercedes-benz-cars/eqs-suv",
+    "image_url": "https://images.carandbike.com/car-images/large/mercedes-benz/eqs-suv/mercedes-benz-eqs-suv.jpg?v=21",
+    "description": "Mercedes-Benz EQS SUV is a 5-seater electric SUV available at a starting price of Rs. 1.34 Crore. The electric car is available in 2 variants.Additionally, EQS SUV offers a Ground Clearance measurement of 110 mm and a Boot capacity of 645 liters. You can choose from 12 colors for the EQS SUV. The battery range/mileage of the EQS SUV is 550 Km/Full Charge. ",
+    "model_date": "2024-09-16",
+    "sku": "mercedes-benz-eqs-suv-1757",
+    "vin": "5NPEL4AB3BH001757",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "550 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "2157 mm ",
+    "height": "1718 mm",
+    "weight": "2735/2890",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Cosmos Black 450",
+    "Cavansite Blue 450",
+    "Alpine Grey 450",
+    "Alpine Grey",
+    "Opalite White Bright Metallic",
+    "High-Tech Silver",
+    "Obsidian Black",
+    "Polar White",
+    "Velvet Brown",
+    "Selenite Grey Metallic",
+    "Sodalite Blue",
+    "Black Lacquer"
+  ],
+  "price": {
+    "value": 13350000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mercedes-benz-cars/eqs-suv"
+  },
+  "brand": {
+    "name": "Mercedes-Benz",
+    "image": "https://images.carandbike.com/car-images/big/mercedes-benz/mercedes-benz.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mercedes-Benz EQS SUV",
+        "price": "1.34 - 1.48 Crore",
+        "url": "/mercedes-benz-cars/eqs-suv"
+      },
+      {
+        "name": "Porsche Macan Electric",
+        "price": "1.41 - 1.96 Crore",
+        "url": "/porsche-cars/macan-electric"
+      },
+      {
+        "name": "Kia EV9",
+        "price": "1.51 Crore",
+        "url": "/kia-cars/ev9"
+      },
+      {
+        "name": "Porsche Cayenne Electric",
+        "price": "1.75 - 2.25 Crore",
+        "url": "/porsche-cars/cayenne-electric"
+      },
+      {
+        "name": "Mercedes-AMG EQS",
+        "price": "1.88 Crore",
+        "url": "/mercedes-amg-cars/eqs"
+      },
+      {
+        "name": "Mercedes-Maybach EQS Electric",
+        "price": "2.4 - 2.63 Crore",
+        "url": "/mercedes-maybach-cars/eqs-electric"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.34 - 1.48 Crore",
+          "₹ 1.41 - 1.96 Crore",
+          "₹ 1.51 Crore",
+          "₹ 1.75 - 2.25 Crore",
+          "₹ 1.88 Crore",
+          "₹ 2.4 - 2.63 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "-",
+          "-",
+          "9.0",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "550 Km/Full Charge",
+          "590 - 613 Km/Full Charge",
+          "470 Km/Full Charge",
+          "642 Km/Full Charge",
+          "529 Km/Full Charge",
+          "600 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "6 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "3",
+          "1",
+          "2",
+          "1",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "EQS SUV vs Macan Electric",
+          "EQS SUV vs EV9",
+          "EQS SUV vs Cayenne Electric",
+          "EQS SUV vs EQS",
+          "EQS SUV vs EQS Electric"
+        ]
+      }
+    ]
+  }
+}

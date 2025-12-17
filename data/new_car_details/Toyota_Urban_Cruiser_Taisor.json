@@ -1,0 +1,239 @@
+{
+  "basic_info": {
+    "name": "Toyota Urban Cruiser Taisor",
+    "manufacturer": "Toyota",
+    "model": "Urban Cruiser Taisor",
+    "body_type": "Crossover",
+    "url": "https://www.carandbike.com/toyota-cars/urban-cruiser-taisor",
+    "image_url": "https://images.carandbike.com/car-images/large/toyota/urban-cruiser-taisor/toyota-urban-cruiser-taisor.jpg?v=16",
+    "description": "Toyota Urban Cruiser Taisor is a 5-seater Crossover available at a starting price of Rs. 7.21 Lakh. The car is available in 12 variants, with 1 engine and 3 transmission option. Additionally, Urban Cruiser Taisor offers a Ground Clearance measurement of 190 mm and a Boot capacity of 308 liters. You can choose from 8 colors for the Urban Cruiser Taisor. The mileage of the Urban Cruiser Taisor varies from 20 - 23 KM/L depending on the model.",
+    "model_date": "2024-04-03",
+    "sku": "toyota-urban-cruiser-taisor-1772",
+    "vin": "5NPEL4AB3BH001772",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1197 cc",
+    "power": "89 bhp",
+    "torque": "113,147 Nm",
+    "fuel_type": "Petrol, Petrol+CNG"
+  },
+  "transmission": "Manual, Automatic, AMT",
+  "fuel": {
+    "type": "Petrol, Petrol+CNG",
+    "efficiency": "20 - 23 KM/L"
+  },
+  "dimensions": {
+    "width": "1765 mm ",
+    "height": "1550 mm",
+    "weight": "1060/1060",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Cafe White X Midnight Black",
+    "Enticing Silver X Midnight Black",
+    "Sportin Red Dualtone",
+    "CAFÉ WHITE",
+    "ENTICING SILVER",
+    "GAMING GREY",
+    "SPORTIN RED",
+    "Lucent Orange"
+  ],
+  "price": {
+    "value": 721200,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/toyota-cars/urban-cruiser-taisor"
+  },
+  "brand": {
+    "name": "Toyota",
+    "image": "https://images.carandbike.com/car-images/big/toyota/toyota.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "whats_new": {
+    "Introduction": [
+      "Toyota's collaboration with Maruti Suzuki brought in many cross-badged vehicles including the Taisor.",
+      "It's indeed a rebadged version of the Maruti Suzuki Fronx.",
+      "It was launched in April 2024 and earlier called the Urban Cruiser Taisor.",
+      "The carmaker offers this Fronx-based crossover in two petrol engine options.",
+      "As for the five variants, they are named as E, S, S+, G, and V, with prices starting at Rs. 7.74 lakh (ex-showroom)."
+    ],
+    "Exterior": [
+      "The Taisor has a unique look with a different front grille in line with Toyota's design language.",
+      "It's flanked by LED DRLs on either side, which again are very different than the Fronx.",
+      "The silhouette is identical but the Taisor rides on a different pattern of 16-inch alloy wheels.",
+      "At the back, redesigned taillamp clusters and an LED light bar complete the look."
+    ],
+    "Interior": [
+      "As for the interior of the Taisor, the design and cabin layout is like the Fronx.",
+      "Apart from the Toyota logo, the dashboard design, interior layout, features, and equipment are carried over from the Fronx.",
+      "The Taisor gets a nine-inch touchscreen infotainment system that supports wireless Android Auto and Apple CarPlay.",
+      "Other notable equipment includes automatic climate control, cruise control, wireless charger, and a 360-degree camera."
+    ],
+    "Powertrain": [
+      "The Taisor is available with the same engine options as the Fronx.",
+      "This includes a 1.2-litre petrol engine that produces 89bhp and 113Nm of torque.",
+      "The other is a 1.0-litre turbo-petrol engine that churns 99bhp and 148Nm.",
+      "Both engines come mated to a five-speed manual gearbox as standard.",
+      "However, the 1.0-litre engine is offered with an optional six-speed automatic.",
+      "Meanwhile, the naturally aspirated unit can be had with a five-speed AMT.CNG buyers also get a factory-fitted CNG option for the Taisor."
+    ]
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Toyota Urban Cruiser Taisor",
+        "price": "7.21 - 12.06 Lakh",
+        "url": "/toyota-cars/urban-cruiser-taisor"
+      },
+      {
+        "name": "Mahindra XUV 3XO",
+        "price": "7.28 - 10.75 Lakh",
+        "url": "/mahindra-cars/xuv-3xo"
+      },
+      {
+        "name": "Kia Sonet",
+        "price": "7.3 - 10.8 Lakh",
+        "url": "/kia-cars/sonet"
+      },
+      {
+        "name": "Tata Nexon",
+        "price": "7.32 - 10.7 Lakh",
+        "url": "/tata-cars/nexon"
+      },
+      {
+        "name": "Honda 2025 Amaze",
+        "price": "7.41 - 10 Lakh",
+        "url": "/honda-cars/2025-amaze"
+      },
+      {
+        "name": "Honda Amaze",
+        "price": "6.98 - 7.8 Lakh",
+        "url": "/honda-cars/amaze"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 7.21 - 12.06 Lakh",
+          "₹ 7.28 - 10.75 Lakh",
+          "₹ 7.3 - 10.8 Lakh",
+          "₹ 7.32 - 10.7 Lakh",
+          "₹ 7.41 - 10 Lakh",
+          "₹ 6.98 - 7.8 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "7.5",
+          "8.4",
+          "7.8",
+          "-",
+          "7.8"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1197 cc",
+          "1197 CC",
+          "1197 CC",
+          "1199 CC",
+          "1199 CC",
+          "1199 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic, AMT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "20 - 23 KM/L",
+          "18.89 - 21.2 KM/L",
+          "18.4 - 24.1 KM/L",
+          "17.8 - 23 KM/L",
+          "18.6 KM/L",
+          "18.3 - 18.6 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Petrol+CNG",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Diesel, Petrol, CNG",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "37.0 L",
+          "42.0 L",
+          "45.0 L",
+          "44.0 L",
+          "35.0 L",
+          "35.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "12",
+          "16",
+          "15",
+          "23",
+          "6",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Urban Cruiser Taisor vs XUV 3XO",
+          "Urban Cruiser Taisor vs Sonet",
+          "Urban Cruiser Taisor vs Nexon",
+          "Urban Cruiser Taisor vs 2025 Amaze",
+          "Urban Cruiser Taisor vs Amaze"
+        ]
+      }
+    ]
+  }
+}

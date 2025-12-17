@@ -1,0 +1,232 @@
+{
+  "basic_info": {
+    "name": "Land Rover Range Rover Evoque",
+    "manufacturer": "Land Rover",
+    "model": "Range Rover Evoque",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/land-rover-cars/range-rover-evoque",
+    "image_url": "https://images.carandbike.com/car-images/large/land-rover/range-rover-evoque/land-rover-range-rover-evoque.jpg?v=45",
+    "description": "Land Rover Range Rover Evoque is a 5-seater SUV available at a starting price of Rs. 73.75 Lakh. The car is available in 2 variants, with 2 engine and 1 transmission option. Additionally, Range Rover Evoque offers a Ground Clearance measurement of 210 mm and a Boot capacity of 472 liters. You can choose from 3 colors for the Range Rover Evoque. The mileage of the Range Rover Evoque varies from 10 - 15.7 KM/L depending on the model.",
+    "model_date": "2016-12-20",
+    "sku": "land-rover-range-rover-evoque-1110",
+    "vin": "5NPEL4AB3BH001110",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1997,1999 cc",
+    "power": "201,247 bhp",
+    "torque": "365,430 Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "10 - 15 KM/L"
+  },
+  "dimensions": {
+    "width": "2100 mm ",
+    "height": "1649 mm",
+    "weight": "1929/1929",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Tribeca Blue",
+    "Santorini Black",
+    "Fuji White"
+  ],
+  "price": {
+    "value": "7374577",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/land-rover-cars/range-rover-evoque"
+  },
+  "brand": {
+    "name": "Land Rover",
+    "image": "https://images.carandbike.com/car-images/big/land-rover/land-rover.png?v=1"
+  },
+  "rating": {
+    "value": "7.9",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Premium Fit And Finish",
+    "Powerful Engine Performance",
+    "Great Ride And Handling"
+  ],
+  "cons": [
+    "Engine Performance Could Be Better",
+    "Overly Reliant On Touch Controls",
+    "Lacks Cargo Space"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "10 KM/L",
+      "city_mileage": "9 KM/L",
+      "highway_mileage": "12 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "15.7 KM/L",
+      "city_mileage": "12 KM/L",
+      "highway_mileage": "15 KM/L"
+    }
+  ],
+  "verdict": "The Evoque has picked up some steam in the Indian market off late, as a credible rival to the smaller SUVs from the Germans. Expect the new Evoque to still get a lot of attention, primarily for retaining its compact size - something that is gaining ground as a requirement in India - especially as more women are now buying premium cars, and also the fact that more premium car buyers are choosing to drive themselves.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Land Rover Range Rover Evoque",
+        "price": "64.87 Lakh",
+        "url": "/land-rover-cars/range-rover-evoque"
+      },
+      {
+        "name": "Volvo XC60",
+        "price": "76.29 Lakh",
+        "url": "/volvo-cars/xc60"
+      },
+      {
+        "name": "BMW X3",
+        "price": "75.55 - 79.27 Lakh",
+        "url": "/bmw-cars/x3"
+      },
+      {
+        "name": "Land Rover Range Rover Velar",
+        "price": "79.24 - 83.91 Lakh",
+        "url": "/land-rover-cars/range-rover-velar"
+      },
+      {
+        "name": "Mercedes-Benz GLC",
+        "price": "79.25 Lakh",
+        "url": "/mercedes-benz-cars/glc"
+      },
+      {
+        "name": "Land Rover Discovery Sport",
+        "price": "72.05 - 73.63 Lakh",
+        "url": "/land-rover-cars/discovery-sport"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 64.87 Lakh",
+          "₹ 76.29 Lakh",
+          "₹ 75.55 - 79.27 Lakh",
+          "₹ 79.24 - 83.91 Lakh",
+          "₹ 79.25 Lakh",
+          "₹ 72.05 - 73.63 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.9",
+          "7.0",
+          "7.5",
+          "8.1",
+          "8.3",
+          "7.3"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1997,1999 cc",
+          "1969 CC",
+          "1998 CC",
+          "1997 CC",
+          "1993 CC",
+          "1997 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "10 - 15 KM/L",
+          "13 KM/L",
+          "13.17 - 18.56 KM/L",
+          "9.2 - 16.6 KM/L",
+          "15 - 20 KM/L",
+          "10.68 - 14.12 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol, Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "7 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "54.0, 68.0 L",
+          "71.0 L",
+          "60.0 L",
+          "89.0 L",
+          "62.0 L",
+          "70.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "1",
+          "2",
+          "3",
+          "2",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Range Rover Evoque vs XC60",
+          "Range Rover Evoque vs X3",
+          "Range Rover Evoque vs Range Rover Velar",
+          "Range Rover Evoque vs GLC",
+          "Range Rover Evoque vs Discovery Sport"
+        ]
+      }
+    ]
+  }
+}

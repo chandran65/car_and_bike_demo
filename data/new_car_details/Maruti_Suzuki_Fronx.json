@@ -1,0 +1,243 @@
+{
+  "basic_info": {
+    "name": "Maruti Suzuki Fronx",
+    "manufacturer": "Maruti Suzuki",
+    "model": "Fronx",
+    "body_type": "Crossover",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/fronx",
+    "image_url": "https://images.carandbike.com/car-images/large/maruti-suzuki/fronx/maruti-suzuki-fronx.jpg?v=21",
+    "description": "Maruti Suzuki Fronx is a 5-seater Crossover available at a starting price of Rs. 6.85 Lakh. The car is available in 14 variants, with 2 engine and 3 transmission option. Additionally, Fronx offers a Ground Clearance measurement of 190 mm and a Boot capacity of 308 liters. You can choose from 10 colors for the Fronx. The mileage of the Fronx varies from 21.8 - 28.5 KM/L depending on the model.",
+    "model_date": "2023-04-24",
+    "sku": "maruti-suzuki-fronx-1697",
+    "vin": "5NPEL4AB3BH001697",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1197,998 cc",
+    "power": "78 bhp@ 6000 rpm,88 bhp@ 6000 rpm,99 bhp@ 5,500 rpm bhp",
+    "torque": "113 Nm @ 4400 rpm,147.6 Nm @ 2,000–4,500 rpm,98 Nm @ 4300 rpm Nm",
+    "fuel_type": "Petrol, Petrol+CNG"
+  },
+  "transmission": "Manual, Automatic, AMT",
+  "fuel": {
+    "type": "Petrol, Petrol+CNG",
+    "efficiency": "20 - 28 KM/L"
+  },
+  "dimensions": {
+    "width": "1765 mm ",
+    "height": "1550 mm",
+    "weight": "965/1060",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Opulent Red With Midnight Black Roof",
+    "Splendid Silver with Bluish Black",
+    "Earthen Brown with Bluish Black",
+    "Bluish Black",
+    "Opulent Red",
+    "Earthen Brown",
+    "Grandeur Grey",
+    "Splendid Silver",
+    "Arctic White",
+    "NEXA Blue"
+  ],
+  "price": {
+    "value": 684900,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/fronx"
+  },
+  "brand": {
+    "name": "Maruti Suzuki",
+    "image": "https://images.carandbike.com/car-images/big/maruti-suzuki/maruti-suzuki.png?v=1"
+  },
+  "rating": {
+    "value": "8.3",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "21.8 KM/L",
+      "city_mileage": "20 KM/L",
+      "highway_mileage": "22 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "20 KM/L",
+      "city_mileage": "20 KM/L",
+      "highway_mileage": "22 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "AMT",
+      "mileage": "22.9 KM/L",
+      "city_mileage": "20 KM/L",
+      "highway_mileage": "22 KM/L"
+    },
+    {
+      "fuel_type": "Petrol+CNG",
+      "transmission": "Manual",
+      "mileage": "28.5 KM/L",
+      "city_mileage": "26 KM/L",
+      "highway_mileage": "30 KM/L"
+    }
+  ],
+  "verdict": "The Maruti Suzuki Invicto has been able to create a space of its own in a tough segment full of some worthy cars including one from the Indo-Japanese brand. It has a lot of features and offers multiple drivetrain options catering to various kinds of consumers. It’s the sort of car you cannot go wrong with and comes with the famed reliability of a Maruti Suzuki.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Maruti Suzuki Fronx",
+        "price": "6.85 - 11.98 Lakh",
+        "url": "/maruti-suzuki-cars/fronx"
+      },
+      {
+        "name": "Hyundai Elite i20",
+        "price": "6.87 - 9.31 Lakh",
+        "url": "/hyundai-cars/elite-i20"
+      },
+      {
+        "name": "Honda Amaze",
+        "price": "6.98 - 7.8 Lakh",
+        "url": "/honda-cars/amaze"
+      },
+      {
+        "name": "Tata Tiago NRG",
+        "price": "6.68 - 8.1 Lakh",
+        "url": "/tata-cars/tiago-nrg"
+      },
+      {
+        "name": "Toyota Urban Cruiser Taisor",
+        "price": "7.21 - 9.79 Lakh",
+        "url": "/toyota-cars/urban-cruiser-taisor"
+      },
+      {
+        "name": "Mahindra XUV 3XO",
+        "price": "7.28 - 10 Lakh",
+        "url": "/mahindra-cars/xuv-3xo"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 6.85 - 11.98 Lakh",
+          "₹ 6.87 - 9.31 Lakh",
+          "₹ 6.98 - 7.8 Lakh",
+          "₹ 6.68 - 8.1 Lakh",
+          "₹ 7.21 - 9.79 Lakh",
+          "₹ 7.28 - 10 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.3",
+          "8.2",
+          "7.8",
+          "8.3",
+          "-",
+          "7.5"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1197,998 cc",
+          "1197 CC",
+          "1199 CC",
+          "1199 CC",
+          "1197 CC",
+          "1197 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic, AMT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "20 - 28 KM/L",
+          "19.65 - 20.35 KM/L",
+          "18.3 - 18.6 KM/L",
+          "23.84 - 26.49 KM/L",
+          "20 - 23 KM/L",
+          "18.89 - 21.2 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Petrol+CNG",
+          "Petrol",
+          "Petrol",
+          "Petrol, CNG",
+          "Petrol, CNG",
+          "Petrol, Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "37.0 L",
+          "37.0 L",
+          "35.0 L",
+          "35.0 L",
+          "37.0 L",
+          "42.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "14",
+          "13",
+          "2",
+          "4",
+          "7",
+          "10"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Fronx vs Elite i20",
+          "Fronx vs Amaze",
+          "Fronx vs Tiago NRG",
+          "Fronx vs Urban Cruiser Taisor",
+          "Fronx vs XUV 3XO"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2098 @@
+[
+  {
+    "title": "New Hyundai Venue",
+    "link": "https://www.carandbike.com/hyundai-cars/venue",
+    "image_link": "./carandbike.com_new-cars_models_6_files/hyundai-venue.webp",
+    "variants": 25,
+    "exshowroom_price": "₹ 7.9 - 15.69 Lakh",
+    "emi_starts_at": "16,397"
+  },
+  {
+    "title": "Mahindra Bolero 2025",
+    "link": "https://www.carandbike.com/mahindra-cars/bolero",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mahindra-bolero.webp",
+    "variants": 4,
+    "exshowroom_price": "₹ 7.99 - 9.69 Lakh",
+    "emi_starts_at": "16,586"
+  },
+  {
+    "title": "Renault Triber 2025",
+    "link": "https://www.carandbike.com/renault-cars/triber",
+    "image_link": "./carandbike.com_new-cars_models_6_files/renault-triber.jpeg",
+    "variants": 7,
+    "exshowroom_price": "₹ 6.14 - 9.42 Lakh",
+    "emi_starts_at": "12,749"
+  },
+  {
+    "title": "Tata Tiago",
+    "link": "https://www.carandbike.com/tata-cars/tiago",
+    "image_link": "./carandbike.com_new-cars_models_6_files/tata-tiago.webp",
+    "variants": 13,
+    "exshowroom_price": "₹ 4.57 - 7.82 Lakh",
+    "emi_starts_at": "9,497"
+  },
+  {
+    "title": "Tata Harrier",
+    "link": "https://www.carandbike.com/tata-cars/harrier",
+    "image_link": "./carandbike.com_new-cars_models_6_files/tata-harrier.webp",
+    "variants": 23,
+    "exshowroom_price": "₹ 14 - 25.25 Lakh",
+    "emi_starts_at": "29,061"
+  },
+  {
+    "title": "Tata Nexon",
+    "link": "https://www.carandbike.com/tata-cars/nexon",
+    "image_link": "./carandbike.com_new-cars_models_6_files/tata-nexon.jpeg",
+    "variants": 63,
+    "exshowroom_price": "₹ 7.32 - 14.7 Lakh",
+    "emi_starts_at": "15,193"
+  },
+  {
+    "title": "Kia Seltos",
+    "link": "https://www.carandbike.com/kia-cars/seltos",
+    "image_link": "./carandbike.com_new-cars_models_6_files/kia-seltos.jpeg",
+    "variants": 23,
+    "exshowroom_price": "₹ 10.79 - 19.81 Lakh",
+    "emi_starts_at": "22,404"
+  },
+  {
+    "title": "New Hyundai Verna",
+    "link": "https://www.carandbike.com/hyundai-cars/verna",
+    "image_link": "./carandbike.com_new-cars_models_6_files/hyundai-verna.webp",
+    "variants": 17,
+    "exshowroom_price": "₹ 10.69 - 16.98 Lakh",
+    "emi_starts_at": "22,195"
+  },
+  {
+    "title": "Honda City",
+    "link": "https://www.carandbike.com/honda-cars/city",
+    "image_link": "./carandbike.com_new-cars_models_6_files/honda-city.webp",
+    "variants": 8,
+    "exshowroom_price": "₹ 11.95 - 16.07 Lakh",
+    "emi_starts_at": "24,812"
+  },
+  {
+    "title": "Hyundai Grand i10 Nios",
+    "link": "https://www.carandbike.com/hyundai-cars/grand-i10-nios",
+    "image_link": "./carandbike.com_new-cars_models_6_files/hyundai-grand-i10-nios.jpeg",
+    "variants": 16,
+    "exshowroom_price": "₹ 5.47 - 7.92 Lakh",
+    "emi_starts_at": "11,361"
+  },
+  {
+    "title": "Tata Tiago EV",
+    "link": "https://www.carandbike.com/tata-cars/tiago-ev",
+    "image_link": "./carandbike.com_new-cars_models_6_files/tata-tiago-ev.jpeg",
+    "variants": 7,
+    "exshowroom_price": "₹ 8.89 - 13.8 Lakh",
+    "emi_starts_at": "18,459"
+  },
+  {
+    "title": "Toyota Urban Cruiser Hyryder",
+    "link": "https://www.carandbike.com/toyota-cars/urban-cruiser-hyryder",
+    "image_link": "./carandbike.com_new-cars_models_6_files/toyota-urban-cruiser-hyryder.jpeg",
+    "variants": 27,
+    "exshowroom_price": "₹ 10.95 - 19.76 Lakh",
+    "emi_starts_at": "22,726"
+  },
+  {
+    "title": "Maruti Suzuki Alto K10",
+    "link": "https://www.carandbike.com/maruti-suzuki-cars/alto-k10",
+    "image_link": "./carandbike.com_new-cars_models_6_files/maruti-suzuki-alto-k10.jpeg",
+    "variants": 10,
+    "exshowroom_price": "₹ 3.7 - 5.45 Lakh",
+    "emi_starts_at": "7,679"
+  },
+  {
+    "title": "Maruti Suzuki Ertiga",
+    "link": "https://www.carandbike.com/maruti-suzuki-cars/ertiga",
+    "image_link": "./carandbike.com_new-cars_models_6_files/maruti-suzuki-ertiga.webp",
+    "variants": 11,
+    "exshowroom_price": "₹ 8.8 - 12.94 Lakh",
+    "emi_starts_at": "18,267"
+  },
+  {
+    "title": "Kia Carens",
+    "link": "https://www.carandbike.com/kia-cars/carens",
+    "image_link": "./carandbike.com_new-cars_models_6_files/kia-carens.jpeg",
+    "variants": 2,
+    "exshowroom_price": "₹ 10.99 - 12.77 Lakh",
+    "emi_starts_at": "22,817"
+  },
+  {
+    "title": "Tata Punch",
+    "link": "https://www.carandbike.com/tata-cars/punch",
+    "image_link": "./carandbike.com_new-cars_models_6_files/tata-punch.jpeg",
+    "variants": 33,
+    "exshowroom_price": "₹ 5.5 - 9.3 Lakh",
+    "emi_starts_at": "11,417"
+  },
+  {
+    "title": "Mahindra XUV700",
+    "link": "https://www.carandbike.com/mahindra-cars/xuv700",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mahindra-xuv700.jpeg",
+    "variants": 67,
+    "exshowroom_price": "₹ 13.66 - 25.19 Lakh",
+    "emi_starts_at": "28,352"
+  },
+  {
+    "title": "Maruti Suzuki Swift",
+    "link": "https://www.carandbike.com/maruti-suzuki-cars/swift",
+    "image_link": "./carandbike.com_new-cars_models_6_files/maruti-suzuki-swift.webp",
+    "variants": 13,
+    "exshowroom_price": "₹ 5.79 - 8.65 Lakh",
+    "emi_starts_at": "12,017"
+  },
+  {
+    "title": "Toyota Fortuner",
+    "link": "https://www.carandbike.com/toyota-cars/fortuner",
+    "image_link": "./carandbike.com_new-cars_models_6_files/toyota-fortuner.jpeg",
+    "variants": 14,
+    "exshowroom_price": "₹ 33.65 - 48.85 Lakh",
+    "emi_starts_at": "69,844"
+  },
+  {
+    "title": "Toyota Innova Crysta",
+    "link": "https://www.carandbike.com/toyota-cars/innova-crysta",
+    "image_link": "./carandbike.com_new-cars_models_6_files/toyota-innova-crysta.jpeg",
+    "variants": 22,
+    "exshowroom_price": "₹ 18.1 - 25.37 Lakh",
+    "emi_starts_at": "37,564"
+  },
+  {
+    "title": "Hyundai i20",
+    "link": "https://www.carandbike.com/hyundai-cars/elite-i20",
+    "image_link": "./carandbike.com_new-cars_models_6_files/hyundai-elite-i20.jpeg",
+    "variants": 18,
+    "exshowroom_price": "₹ 6.87 - 10.52 Lakh",
+    "emi_starts_at": "14,258"
+  },
+  {
+    "title": "Maruti Suzuki Wagon R",
+    "link": "https://www.carandbike.com/maruti-suzuki-cars/wagon-r",
+    "image_link": "./carandbike.com_new-cars_models_6_files/maruti-suzuki-wagon-r.webp",
+    "variants": 11,
+    "exshowroom_price": "₹ 5.16 - 7.94 Lakh",
+    "emi_starts_at": "10,709"
+  },
+  {
+    "title": "Mahindra Bolero Maxx Pik-Up",
+    "link": "https://www.carandbike.com/mahindra-cars/bolero-pik-up",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mahindra-bolero-pik-up.webp",
+    "variants": 18,
+    "exshowroom_price": "₹ 9.28 - 13.18 Lakh",
+    "emi_starts_at": "19,254"
+  },
+  {
+    "title": "Maruti Suzuki Eeco",
+    "link": "https://www.carandbike.com/maruti-suzuki-cars/eeco",
+    "image_link": "./carandbike.com_new-cars_models_6_files/maruti-suzuki-eeco.webp",
+    "variants": 4,
+    "exshowroom_price": "₹ 5.21 - 6.36 Lakh",
+    "emi_starts_at": "10,813"
+  },
+  {
+    "title": "Tata Altroz 2025",
+    "link": "https://www.carandbike.com/tata-cars/altroz",
+    "image_link": "./carandbike.com_new-cars_models_6_files/tata-altroz.webp",
+    "variants": 22,
+    "exshowroom_price": "₹ 6.3 - 10.51 Lakh",
+    "emi_starts_at": "13,086"
+  },
+  {
+    "title": "Kia EV6",
+    "link": "https://www.carandbike.com/kia-cars/ev6",
+    "image_link": "./carandbike.com_new-cars_models_6_files/kia-ev6.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 76.52 Lakh",
+    "emi_starts_at": "1,58,841"
+  },
+  {
+    "title": "Renault Kiger",
+    "link": "https://www.carandbike.com/renault-cars/kiger",
+    "image_link": "./carandbike.com_new-cars_models_6_files/renault-kiger.webp",
+    "variants": 15,
+    "exshowroom_price": "₹ 6.14 - 11.73 Lakh",
+    "emi_starts_at": "12,749"
+  },
+  {
+    "title": "Honda Amaze 2nd Gen",
+    "link": "https://www.carandbike.com/honda-cars/amaze",
+    "image_link": "./carandbike.com_new-cars_models_6_files/honda-amaze.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 6.98 - 7.8 Lakh",
+    "emi_starts_at": "14,483"
+  },
+  {
+    "title": "Hyundai 2024 Alcazar",
+    "link": "https://www.carandbike.com/hyundai-cars/alcazar",
+    "image_link": "./carandbike.com_new-cars_models_6_files/hyundai-alcazar.webp",
+    "variants": 44,
+    "exshowroom_price": "₹ 14.47 - 21.1 Lakh",
+    "emi_starts_at": "30,044"
+  },
+  {
+    "title": "Jeep 2024 Wrangler",
+    "link": "https://www.carandbike.com/jeep-cars/wrangler-unlimited",
+    "image_link": "./carandbike.com_new-cars_models_6_files/jeep-wrangler-unlimited.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 64.08 - 67.81 Lakh",
+    "emi_starts_at": "1,33,020"
+  },
+  {
+    "title": "Kia Sonet",
+    "link": "https://www.carandbike.com/kia-cars/sonet",
+    "image_link": "./carandbike.com_new-cars_models_6_files/kia-sonet.webp",
+    "variants": 24,
+    "exshowroom_price": "₹ 7.3 - 14.09 Lakh",
+    "emi_starts_at": "15,156"
+  },
+  {
+    "title": "Tata Safari",
+    "link": "https://www.carandbike.com/tata-cars/safari",
+    "image_link": "./carandbike.com_new-cars_models_6_files/tata-safari.webp",
+    "variants": 24,
+    "exshowroom_price": "₹ 14.66 - 25.96 Lakh",
+    "emi_starts_at": "30,438"
+  },
+  {
+    "title": "Tata Nexon EV",
+    "link": "https://www.carandbike.com/tata-cars/nexon-ev",
+    "image_link": "./carandbike.com_new-cars_models_6_files/tata-nexon-ev.webp",
+    "variants": 11,
+    "exshowroom_price": "₹ 14.49 - 20.06 Lakh",
+    "emi_starts_at": "30,082"
+  },
+  {
+    "title": "Jeep Compass",
+    "link": "https://www.carandbike.com/jeep-cars/compass",
+    "image_link": "./carandbike.com_new-cars_models_6_files/jeep-compass.webp",
+    "variants": 22,
+    "exshowroom_price": "₹ 17.73 - 30.58 Lakh",
+    "emi_starts_at": "36,805"
+  },
+  {
+    "title": "Toyota Vellfire",
+    "link": "https://www.carandbike.com/toyota-cars/vellfire",
+    "image_link": "./carandbike.com_new-cars_models_6_files/toyota-vellfire.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 1.2 - 1.3 Crore",
+    "emi_starts_at": "2,48,548"
+  },
+  {
+    "title": "Hyundai Exter",
+    "link": "https://www.carandbike.com/hyundai-cars/exter",
+    "image_link": "./carandbike.com_new-cars_models_6_files/hyundai-exter.webp",
+    "variants": 44,
+    "exshowroom_price": "₹ 5.49 - 9.57 Lakh",
+    "emi_starts_at": "11,391"
+  },
+  {
+    "title": "Toyota Land Crusier 300 2025",
+    "link": "https://www.carandbike.com/toyota-cars/land-cruiser",
+    "image_link": "./carandbike.com_new-cars_models_6_files/toyota-land-cruiser.jpeg",
+    "variants": 2,
+    "exshowroom_price": "₹ 2.16 - 2.25 Crore",
+    "emi_starts_at": "4,47,550"
+  },
+  {
+    "title": "MG Hector",
+    "link": "https://www.carandbike.com/mg-cars/hector",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mg-hector.webp",
+    "variants": 20,
+    "exshowroom_price": "₹ 14 - 21.52 Lakh",
+    "emi_starts_at": "29,062"
+  },
+  {
+    "title": "Toyota Innova Hycross",
+    "link": "https://www.carandbike.com/toyota-cars/innova-hycross",
+    "image_link": "./carandbike.com_new-cars_models_6_files/toyota-innova-hycross.webp",
+    "variants": 25,
+    "exshowroom_price": "₹ 18.06 - 30.93 Lakh",
+    "emi_starts_at": "37,485"
+  },
+  {
+    "title": "Mahindra Scorpio-N",
+    "link": "https://www.carandbike.com/mahindra-cars/scorpio-n",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mahindra-scorpio-n.webp",
+    "variants": 32,
+    "exshowroom_price": "₹ 13.2 - 23.98 Lakh",
+    "emi_starts_at": "27,405"
+  },
+  {
+    "title": "Range Rover",
+    "link": "https://www.carandbike.com/land-rover-cars/range-rover",
+    "image_link": "./carandbike.com_new-cars_models_6_files/land-rover-range-rover.jpeg",
+    "variants": 5,
+    "exshowroom_price": "₹ 2.31 - 4.66 Crore",
+    "emi_starts_at": "4,79,518"
+  },
+  {
+    "title": "Volkswagen Taigun",
+    "link": "https://www.carandbike.com/volkswagen-cars/taigun",
+    "image_link": "./carandbike.com_new-cars_models_6_files/volkswagen-taigun.webp",
+    "variants": 13,
+    "exshowroom_price": "₹ 11.42 - 19.19 Lakh",
+    "emi_starts_at": "23,704"
+  },
+  {
+    "title": "Skoda Kushaq",
+    "link": "https://www.carandbike.com/skoda-cars/kushaq",
+    "image_link": "./carandbike.com_new-cars_models_6_files/skoda-kushaq.webp",
+    "variants": 32,
+    "exshowroom_price": "₹ 10.61 - 18.45 Lakh",
+    "emi_starts_at": "22,027"
+  },
+  {
+    "title": "Defender",
+    "link": "https://www.carandbike.com/land-rover-cars/defender",
+    "image_link": "./carandbike.com_new-cars_models_6_files/land-rover-defender.webp",
+    "variants": 20,
+    "exshowroom_price": "₹ 1 - 2.6 Crore",
+    "emi_starts_at": "2,08,269"
+  },
+  {
+    "title": "Renault Kwid",
+    "link": "https://www.carandbike.com/renault-cars/kwid",
+    "image_link": "./carandbike.com_new-cars_models_6_files/renault-kwid.webp",
+    "variants": 12,
+    "exshowroom_price": "₹ 4.29 - 5.9 Lakh",
+    "emi_starts_at": "8,915"
+  },
+  {
+    "title": "Maruti Suzuki S-Presso",
+    "link": "https://www.carandbike.com/maruti-suzuki-cars/s-presso",
+    "image_link": "./carandbike.com_new-cars_models_6_files/maruti-suzuki-s-presso.webp",
+    "variants": 8,
+    "exshowroom_price": "₹ 3.5 - 5.25 Lakh",
+    "emi_starts_at": "7,263"
+  },
+  {
+    "title": "Bajaj Qute",
+    "link": "https://www.carandbike.com/bajaj-cars/qute",
+    "image_link": "./carandbike.com_new-cars_models_6_files/bajaj-qute.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 2.82 - 3.06 Lakh",
+    "emi_starts_at": "5,845"
+  },
+  {
+    "title": "Force Motors Gurkha",
+    "link": "https://www.carandbike.com/force-motors-cars/gurkha",
+    "image_link": "./carandbike.com_new-cars_models_6_files/force-motors-gurkha.jpeg",
+    "variants": 2,
+    "exshowroom_price": "₹ 19.46 - 20.92 Lakh",
+    "emi_starts_at": "40,406"
+  },
+  {
+    "title": "Mahindra Bolero Neo 2025",
+    "link": "https://www.carandbike.com/mahindra-cars/bolero-neo",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mahindra-bolero-neo.webp",
+    "variants": 5,
+    "exshowroom_price": "₹ 8.49 - 10.49 Lakh",
+    "emi_starts_at": "17,624"
+  },
+  {
+    "title": "Tata Tigor",
+    "link": "https://www.carandbike.com/tata-cars/tigor",
+    "image_link": "./carandbike.com_new-cars_models_6_files/tata-tigor.webp",
+    "variants": 14,
+    "exshowroom_price": "₹ 5.49 - 8.74 Lakh",
+    "emi_starts_at": "11,396"
+  },
+  {
+    "title": "Toyota Camry 2025",
+    "link": "https://www.carandbike.com/toyota-cars/camry",
+    "image_link": "./carandbike.com_new-cars_models_6_files/toyota-camry.webp",
+    "variants": 4,
+    "exshowroom_price": "₹ 47.48 - 47.62 Lakh",
+    "emi_starts_at": "98,565"
+  },
+  {
+    "title": "Audi Q7 2025",
+    "link": "https://www.carandbike.com/audi-cars/q7",
+    "image_link": "./carandbike.com_new-cars_models_6_files/audi-q7.webp",
+    "variants": 4,
+    "exshowroom_price": "₹ 86.14 - 95.03 Lakh",
+    "emi_starts_at": "1,78,812"
+  },
+  {
+    "title": "Citroen C3",
+    "link": "https://www.carandbike.com/citroen-cars/c3",
+    "image_link": "./carandbike.com_new-cars_models_6_files/citroen-c3.webp",
+    "variants": 6,
+    "exshowroom_price": "₹ 4.8 - 9.05 Lakh",
+    "emi_starts_at": "9,969"
+  },
+  {
+    "title": "BMW X5",
+    "link": "https://www.carandbike.com/bmw-cars/x5",
+    "image_link": "./carandbike.com_new-cars_models_6_files/bmw-x5.webp",
+    "variants": 4,
+    "exshowroom_price": "₹ 1 - 1.16 Crore",
+    "emi_starts_at": "2,06,165"
+  },
+  {
+    "title": "Maruti Suzuki Jimny",
+    "link": "https://www.carandbike.com/maruti-suzuki-cars/jimny",
+    "image_link": "./carandbike.com_new-cars_models_6_files/maruti-suzuki-jimny.jpeg",
+    "variants": 6,
+    "exshowroom_price": "₹ 12.31 - 14.45 Lakh",
+    "emi_starts_at": "25,564"
+  },
+  {
+    "title": "Maruti Suzuki Fronx",
+    "link": "https://www.carandbike.com/maruti-suzuki-cars/fronx",
+    "image_link": "./carandbike.com_new-cars_models_6_files/maruti-suzuki-fronx.webp",
+    "variants": 14,
+    "exshowroom_price": "₹ 6.85 - 11.98 Lakh",
+    "emi_starts_at": "14,217"
+  },
+  {
+    "title": "Audi Q3",
+    "link": "https://www.carandbike.com/audi-cars/q3",
+    "image_link": "./carandbike.com_new-cars_models_6_files/audi-q3.jpeg",
+    "variants": 4,
+    "exshowroom_price": "₹ 43.07 - 52.31 Lakh",
+    "emi_starts_at": "89,406"
+  },
+  {
+    "title": "BMW X7",
+    "link": "https://www.carandbike.com/bmw-cars/x7",
+    "image_link": "./carandbike.com_new-cars_models_6_files/bmw-x7.jpeg",
+    "variants": 3,
+    "exshowroom_price": "₹ 1.33 - 1.4 Crore",
+    "emi_starts_at": "2,76,315"
+  },
+  {
+    "title": "Mahindra Scorpio Classic",
+    "link": "https://www.carandbike.com/mahindra-cars/scorpio-classic",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mahindra-scorpio-classic.webp",
+    "variants": 4,
+    "exshowroom_price": "₹ 12.98 - 16.7 Lakh",
+    "emi_starts_at": "26,938"
+  },
+  {
+    "title": "Volkswagen Virtus",
+    "link": "https://www.carandbike.com/volkswagen-cars/virtus",
+    "image_link": "./carandbike.com_new-cars_models_6_files/volkswagen-virtus.webp",
+    "variants": 13,
+    "exshowroom_price": "₹ 11.2 - 18.78 Lakh",
+    "emi_starts_at": "23,251"
+  },
+  {
+    "title": "Maruti Suzuki XL6",
+    "link": "https://www.carandbike.com/maruti-suzuki-cars/xl6",
+    "image_link": "./carandbike.com_new-cars_models_6_files/maruti-suzuki-xl6.webp",
+    "variants": 9,
+    "exshowroom_price": "₹ 11.52 - 14.47 Lakh",
+    "emi_starts_at": "23,920"
+  },
+  {
+    "title": "Toyota Glanza",
+    "link": "https://www.carandbike.com/toyota-cars/glanza",
+    "image_link": "./carandbike.com_new-cars_models_6_files/toyota-glanza.jpeg",
+    "variants": 9,
+    "exshowroom_price": "₹ 6.39 - 9.15 Lakh",
+    "emi_starts_at": "13,271"
+  },
+  {
+    "title": "Maruti Suzuki Baleno",
+    "link": "https://www.carandbike.com/maruti-suzuki-cars/baleno",
+    "image_link": "./carandbike.com_new-cars_models_6_files/maruti-suzuki-baleno.webp",
+    "variants": 9,
+    "exshowroom_price": "₹ 5.99 - 9.1 Lakh",
+    "emi_starts_at": "12,432"
+  },
+  {
+    "title": "Mahindra Bolero Camper",
+    "link": "https://www.carandbike.com/mahindra-cars/bolero-camper",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mahindra-bolero-camper.webp",
+    "variants": 3,
+    "exshowroom_price": "₹ 9.96 - 12.51 Lakh",
+    "emi_starts_at": "20,665"
+  },
+  {
+    "title": "Volvo XC90",
+    "link": "https://www.carandbike.com/volvo-cars/xc90",
+    "image_link": "./carandbike.com_new-cars_models_6_files/volvo-xc90.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 1.13 Crore",
+    "emi_starts_at": "2,33,881"
+  },
+  {
+    "title": "Maruti Suzuki Celerio",
+    "link": "https://www.carandbike.com/maruti-suzuki-cars/celerio",
+    "image_link": "./carandbike.com_new-cars_models_6_files/maruti-suzuki-celerio.webp",
+    "variants": 8,
+    "exshowroom_price": "₹ 4.7 - 6.73 Lakh",
+    "emi_starts_at": "9,754"
+  },
+  {
+    "title": "Audi A4",
+    "link": "https://www.carandbike.com/audi-cars/a4",
+    "image_link": "./carandbike.com_new-cars_models_6_files/audi-a4.webp",
+    "variants": 5,
+    "exshowroom_price": "₹ 46.25 - 55.11 Lakh",
+    "emi_starts_at": "96,007"
+  },
+  {
+    "title": "MG Gloster",
+    "link": "https://www.carandbike.com/mg-cars/gloster",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mg-gloster.webp",
+    "variants": 5,
+    "exshowroom_price": "₹ 38.33 - 42.49 Lakh",
+    "emi_starts_at": "79,567"
+  },
+  {
+    "title": "Maruti Suzuki Ignis",
+    "link": "https://www.carandbike.com/maruti-suzuki-cars/ignis",
+    "image_link": "./carandbike.com_new-cars_models_6_files/maruti-suzuki-ignis.webp",
+    "variants": 11,
+    "exshowroom_price": "₹ 5.02 - 7.55 Lakh",
+    "emi_starts_at": "10,425"
+  },
+  {
+    "title": "Maruti Suzuki Ciaz",
+    "link": "https://www.carandbike.com/maruti-suzuki-cars/ciaz",
+    "image_link": "./carandbike.com_new-cars_models_6_files/maruti-suzuki-ciaz.webp",
+    "variants": 9,
+    "exshowroom_price": "₹ 9.09 - 11.89 Lakh",
+    "emi_starts_at": "18,869"
+  },
+  {
+    "title": "Lamborghini Urus",
+    "link": "https://www.carandbike.com/lamborghini-cars/urus",
+    "image_link": "./carandbike.com_new-cars_models_6_files/lamborghini-urus.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 4.75 - 4.8 Crore",
+    "emi_starts_at": "9,86,422"
+  },
+  {
+    "title": "Isuzu D-Max",
+    "link": "https://www.carandbike.com/isuzu-cars/d-max",
+    "image_link": "./carandbike.com_new-cars_models_6_files/isuzu-d-max.webp",
+    "variants": 6,
+    "exshowroom_price": "₹ 10.14 - 20.35 Lakh",
+    "emi_starts_at": "21,050"
+  },
+  {
+    "title": "Skoda Kodiaq 2025",
+    "link": "https://www.carandbike.com/skoda-cars/kodiaq",
+    "image_link": "./carandbike.com_new-cars_models_6_files/skoda-kodiaq.webp",
+    "variants": 3,
+    "exshowroom_price": "₹ 39.99 - 45.96 Lakh",
+    "emi_starts_at": "83,013"
+  },
+  {
+    "title": "BMW M340i",
+    "link": "https://www.carandbike.com/bmw-cars/3-series",
+    "image_link": "./carandbike.com_new-cars_models_6_files/bmw-3-series.webp",
+    "variants": 3,
+    "exshowroom_price": "₹ 65.01 - 79.53 Lakh",
+    "emi_starts_at": "1,34,951"
+  },
+  {
+    "title": "Honda Elevate",
+    "link": "https://www.carandbike.com/honda-cars/elevate",
+    "image_link": "./carandbike.com_new-cars_models_6_files/honda-elevate.webp",
+    "variants": 17,
+    "exshowroom_price": "₹ 11 - 16.67 Lakh",
+    "emi_starts_at": "22,832"
+  },
+  {
+    "title": "Maruti Suzuki Invicto",
+    "link": "https://www.carandbike.com/maruti-suzuki-cars/invicto",
+    "image_link": "./carandbike.com_new-cars_models_6_files/maruti-suzuki-invicto.webp",
+    "variants": 3,
+    "exshowroom_price": "₹ 24.97 - 28.61 Lakh",
+    "emi_starts_at": "51,842"
+  },
+  {
+    "title": "BMW Z4",
+    "link": "https://www.carandbike.com/bmw-cars/z4",
+    "image_link": "./carandbike.com_new-cars_models_6_files/bmw-z4.webp",
+    "variants": 3,
+    "exshowroom_price": "₹ 94.53 Lakh - 1.05 Crore",
+    "emi_starts_at": "1,96,227"
+  },
+  {
+    "title": "MG Comet EV",
+    "link": "https://www.carandbike.com/mg-cars/comet-ev",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mg-comet-ev.webp",
+    "variants": 6,
+    "exshowroom_price": "₹ 7.5 - 10 Lakh",
+    "emi_starts_at": "15,565"
+  },
+  {
+    "title": "BMW X1",
+    "link": "https://www.carandbike.com/bmw-cars/x1",
+    "image_link": "./carandbike.com_new-cars_models_6_files/bmw-x1.webp",
+    "variants": 3,
+    "exshowroom_price": "₹ 55.5 - 75.13 Lakh",
+    "emi_starts_at": "1,15,199"
+  },
+  {
+    "title": "Hyundai Ioniq 5",
+    "link": "https://www.carandbike.com/hyundai-cars/ioniq-5",
+    "image_link": "./carandbike.com_new-cars_models_6_files/hyundai-ioniq-5.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 53.71 Lakh",
+    "emi_starts_at": "1,11,489"
+  },
+  {
+    "title": "BMW 7 Series",
+    "link": "https://www.carandbike.com/bmw-cars/7-series",
+    "image_link": "./carandbike.com_new-cars_models_6_files/bmw-7-series.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 1.93 - 2.01 Crore",
+    "emi_starts_at": "4,00,592"
+  },
+  {
+    "title": "Jeep Grand Cherokee",
+    "link": "https://www.carandbike.com/jeep-cars/grand-cherokee",
+    "image_link": "./carandbike.com_new-cars_models_6_files/jeep-grand-cherokee.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 63 Lakh",
+    "emi_starts_at": "1,30,778"
+  },
+  {
+    "title": "Volvo XC60",
+    "link": "https://www.carandbike.com/volvo-cars/xc60",
+    "image_link": "./carandbike.com_new-cars_models_6_files/volvo-xc60.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 76.29 Lakh",
+    "emi_starts_at": "1,58,370"
+  },
+  {
+    "title": "Toyota Hilux",
+    "link": "https://www.carandbike.com/toyota-cars/hilux",
+    "image_link": "./carandbike.com_new-cars_models_6_files/toyota-hilux.webp",
+    "variants": 4,
+    "exshowroom_price": "₹ 28.02 - 35.37 Lakh",
+    "emi_starts_at": "58,173"
+  },
+  {
+    "title": "MG ZS EV",
+    "link": "https://www.carandbike.com/mg-cars/zs-ev",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mg-zs-ev.webp",
+    "variants": 7,
+    "exshowroom_price": "₹ 17.99 - 20.5 Lakh",
+    "emi_starts_at": "37,344"
+  },
+  {
+    "title": "BMW X3",
+    "link": "https://www.carandbike.com/bmw-cars/x3",
+    "image_link": "./carandbike.com_new-cars_models_6_files/bmw-x3.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 75.55 - 79.27 Lakh",
+    "emi_starts_at": "1,56,828"
+  },
+  {
+    "title": "BMW iX",
+    "link": "https://www.carandbike.com/bmw-cars/ix",
+    "image_link": "./carandbike.com_new-cars_models_6_files/bmw-ix.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 1.62 Crore",
+    "emi_starts_at": "3,35,893"
+  },
+  {
+    "title": "Audi Q5",
+    "link": "https://www.carandbike.com/audi-cars/q5",
+    "image_link": "./carandbike.com_new-cars_models_6_files/audi-q5.webp",
+    "variants": 3,
+    "exshowroom_price": "₹ 64.74 - 69.86 Lakh",
+    "emi_starts_at": "1,34,390"
+  },
+  {
+    "title": "MG Astor",
+    "link": "https://www.carandbike.com/mg-cars/astor",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mg-astor.webp",
+    "variants": 9,
+    "exshowroom_price": "₹ 9.65 - 15.36 Lakh",
+    "emi_starts_at": "20,032"
+  },
+  {
+    "title": "Tata Tigor EV",
+    "link": "https://www.carandbike.com/tata-cars/tigor-ev",
+    "image_link": "./carandbike.com_new-cars_models_6_files/tata-tigor-ev.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 15.07 Lakh",
+    "emi_starts_at": "31,286"
+  },
+  {
+    "title": "Isuzu D-Max V-Cross",
+    "link": "https://www.carandbike.com/isuzu-cars/d-max-v-cross",
+    "image_link": "./carandbike.com_new-cars_models_6_files/isuzu-d-max-v-cross.webp",
+    "variants": 5,
+    "exshowroom_price": "₹ 19.73 - 35.97 Lakh",
+    "emi_starts_at": "40,960"
+  },
+  {
+    "title": "BMW 6 Series Gran Turismo",
+    "link": "https://www.carandbike.com/bmw-cars/6-series-gran-turismo",
+    "image_link": "./carandbike.com_new-cars_models_6_files/bmw-6-series-gran-turismo.webp",
+    "variants": 4,
+    "exshowroom_price": "₹ 79.04 - 86.72 Lakh",
+    "emi_starts_at": "1,64,082"
+  },
+  {
+    "title": "Audi A6",
+    "link": "https://www.carandbike.com/audi-cars/a6",
+    "image_link": "./carandbike.com_new-cars_models_6_files/audi-a6.webp",
+    "variants": 4,
+    "exshowroom_price": "₹ 63.74 - 70.79 Lakh",
+    "emi_starts_at": "1,32,314"
+  },
+  {
+    "title": "Mahindra Marazzo",
+    "link": "https://www.carandbike.com/mahindra-cars/marazzo",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mahindra-marazzo.webp",
+    "variants": 6,
+    "exshowroom_price": "₹ 14.06 - 16.38 Lakh",
+    "emi_starts_at": "29,184"
+  },
+  {
+    "title": "Mahindra Bolero Big Pik-Up",
+    "link": "https://www.carandbike.com/mahindra-cars/bolero-big-pik-up",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mahindra-bolero-big-pik-up.webp",
+    "variants": 3,
+    "exshowroom_price": "₹ 9.87 - 10.17 Lakh",
+    "emi_starts_at": "20,480"
+  },
+  {
+    "title": "Range Rover Sport",
+    "link": "https://www.carandbike.com/land-rover-cars/range-rover-sport",
+    "image_link": "./carandbike.com_new-cars_models_6_files/land-rover-range-rover-sport.webp",
+    "variants": 4,
+    "exshowroom_price": "₹ 1.38 - 2.75 Crore",
+    "emi_starts_at": "2,85,773"
+  },
+  {
+    "title": "BMW 2 Series Gran Coupe",
+    "link": "https://www.carandbike.com/bmw-cars/2-series-gran-coupe",
+    "image_link": "./carandbike.com_new-cars_models_6_files/bmw-2-series-gran-coupe.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 48.72 - 50.76 Lakh",
+    "emi_starts_at": "1,01,131"
+  },
+  {
+    "title": "Lexus LX",
+    "link": "https://www.carandbike.com/lexus-cars/lx",
+    "image_link": "./carandbike.com_new-cars_models_6_files/lexus-lx.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 2.8 - 2.91 Crore",
+    "emi_starts_at": "5,81,234"
+  },
+  {
+    "title": "BMW M5",
+    "link": "https://www.carandbike.com/bmw-cars/m5",
+    "image_link": "./carandbike.com_new-cars_models_6_files/bmw-m5.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 2.21 Crore",
+    "emi_starts_at": "4,57,880"
+  },
+  {
+    "title": "Nissan Magnite",
+    "link": "https://www.carandbike.com/nissan-cars/magnite",
+    "image_link": "./carandbike.com_new-cars_models_6_files/nissan-magnite.webp",
+    "variants": 40,
+    "exshowroom_price": "₹ 5.62 - 10.76 Lakh",
+    "emi_starts_at": "11,659"
+  },
+  {
+    "title": "Audi Q8",
+    "link": "https://www.carandbike.com/audi-cars/q8",
+    "image_link": "./carandbike.com_new-cars_models_6_files/audi-q8.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 1.1 Crore",
+    "emi_starts_at": "2,27,636"
+  },
+  {
+    "title": "Tata Curvv EV",
+    "link": "https://www.carandbike.com/tata-cars/curvv-ev",
+    "image_link": "./carandbike.com_new-cars_models_6_files/tata-curvv-ev.webp",
+    "variants": 8,
+    "exshowroom_price": "₹ 20.31 - 25.82 Lakh",
+    "emi_starts_at": "42,155"
+  },
+  {
+    "title": "Nissan X-Trail",
+    "link": "https://www.carandbike.com/nissan-cars/x-trail",
+    "image_link": "./carandbike.com_new-cars_models_6_files/nissan-x-trail.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 54.75 Lakh",
+    "emi_starts_at": "1,13,651"
+  },
+  {
+    "title": "BMW 5 Series",
+    "link": "https://www.carandbike.com/bmw-cars/5-series",
+    "image_link": "./carandbike.com_new-cars_models_6_files/bmw-5-series.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 77.81 Lakh",
+    "emi_starts_at": "1,61,515"
+  },
+  {
+    "title": "BMW M4",
+    "link": "https://www.carandbike.com/bmw-cars/m4",
+    "image_link": "./carandbike.com_new-cars_models_6_files/bmw-m4.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 1.64 - 1.92 Crore",
+    "emi_starts_at": "3,39,986"
+  },
+  {
+    "title": "Citroen Aircross",
+    "link": "https://www.carandbike.com/citroen-cars/c3-aircross",
+    "image_link": "./carandbike.com_new-cars_models_6_files/citroen-c3-aircross.webp",
+    "variants": 17,
+    "exshowroom_price": "₹ 8.32 - 14.1 Lakh",
+    "emi_starts_at": "17,271"
+  },
+  {
+    "title": "Range Rover Velar",
+    "link": "https://www.carandbike.com/land-rover-cars/range-rover-velar",
+    "image_link": "./carandbike.com_new-cars_models_6_files/land-rover-range-rover-velar.webp",
+    "variants": 3,
+    "exshowroom_price": "₹ 79.24 - 83.91 Lakh",
+    "emi_starts_at": "1,64,489"
+  },
+  {
+    "title": "Porsche Cayenne",
+    "link": "https://www.carandbike.com/porsche-cars/cayenne",
+    "image_link": "./carandbike.com_new-cars_models_6_files/porsche-cayenne.webp",
+    "variants": 3,
+    "exshowroom_price": "₹ 1.69 - 2.36 Crore",
+    "emi_starts_at": "3,51,625"
+  },
+  {
+    "title": "Mahindra XUV400",
+    "link": "https://www.carandbike.com/mahindra-cars/xuv400",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mahindra-xuv400.webp",
+    "variants": 5,
+    "exshowroom_price": "₹ 15.49 - 17.69 Lakh",
+    "emi_starts_at": "32,155"
+  },
+  {
+    "title": "BMW i7",
+    "link": "https://www.carandbike.com/bmw-cars/i7",
+    "image_link": "./carandbike.com_new-cars_models_6_files/bmw-i7.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 2.36 - 2.9 Crore",
+    "emi_starts_at": "4,89,591"
+  },
+  {
+    "title": "Citroen C5 Aircross",
+    "link": "https://www.carandbike.com/citroen-cars/c5-aircross",
+    "image_link": "./carandbike.com_new-cars_models_6_files/citroen-c5-aircross.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 46.47 Lakh",
+    "emi_starts_at": "96,454"
+  },
+  {
+    "title": "Skoda Slavia",
+    "link": "https://www.carandbike.com/skoda-cars/slavia",
+    "image_link": "./carandbike.com_new-cars_models_6_files/skoda-slavia.webp",
+    "variants": 26,
+    "exshowroom_price": "₹ 10 - 17.7 Lakh",
+    "emi_starts_at": "20,756"
+  },
+  {
+    "title": "Tata Tiago NRG",
+    "link": "https://www.carandbike.com/tata-cars/tiago-nrg",
+    "image_link": "./carandbike.com_new-cars_models_6_files/tata-tiago-nrg.webp",
+    "variants": 4,
+    "exshowroom_price": "₹ 6.68 - 8.1 Lakh",
+    "emi_starts_at": "13,864"
+  },
+  {
+    "title": "Jaguar F-Pace",
+    "link": "https://www.carandbike.com/jaguar-cars/f-pace",
+    "image_link": "./carandbike.com_new-cars_models_6_files/jaguar-f-pace.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 82.88 - 84.7 Lakh",
+    "emi_starts_at": "1,72,041"
+  },
+  {
+    "title": "MINI Countryman",
+    "link": "https://www.carandbike.com/mini-cars/countryman",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mini-countryman.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 64.9 Lakh",
+    "emi_starts_at": "1,34,722"
+  },
+  {
+    "title": "Discovery Sport",
+    "link": "https://www.carandbike.com/land-rover-cars/discovery-sport",
+    "image_link": "./carandbike.com_new-cars_models_6_files/land-rover-discovery-sport.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 72.05 - 73.63 Lakh",
+    "emi_starts_at": "1,49,560"
+  },
+  {
+    "title": "Kia Carnival",
+    "link": "https://www.carandbike.com/kia-cars/carnival",
+    "image_link": "./carandbike.com_new-cars_models_6_files/kia-carnival.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 59.42 Lakh",
+    "emi_starts_at": "1,23,356"
+  },
+  {
+    "title": "Porsche 911",
+    "link": "https://www.carandbike.com/porsche-cars/911",
+    "image_link": "./carandbike.com_new-cars_models_6_files/porsche-911.webp",
+    "variants": 4,
+    "exshowroom_price": "₹ 2 - 3.8 Crore",
+    "emi_starts_at": "4,14,835"
+  },
+  {
+    "title": "Range Rover Evoque",
+    "link": "https://www.carandbike.com/land-rover-cars/range-rover-evoque",
+    "image_link": "./carandbike.com_new-cars_models_6_files/land-rover-range-rover-evoque.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 73.75 - 75.37 Lakh",
+    "emi_starts_at": "1,53,084"
+  },
+  {
+    "title": "Porsche Panamera",
+    "link": "https://www.carandbike.com/porsche-cars/panamera",
+    "image_link": "./carandbike.com_new-cars_models_6_files/porsche-panamera.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 2.05 - 2.81 Crore",
+    "emi_starts_at": "4,24,780"
+  },
+  {
+    "title": "Mercedes-Benz E-Class",
+    "link": "https://www.carandbike.com/mercedes-benz-cars/e-class",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mercedes-benz-e-class.webp",
+    "variants": 3,
+    "exshowroom_price": "₹ 83 - 96.9 Lakh",
+    "emi_starts_at": "1,72,294"
+  },
+  {
+    "title": "Mercedes-AMG GLC 43 Coupe",
+    "link": "https://www.carandbike.com/mercedes-amg-cars/glc-43-coupe",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mercedes-amg-glc-43-coupe.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 1.17 Crore",
+    "emi_starts_at": "2,42,286"
+  },
+  {
+    "title": "Porsche Taycan",
+    "link": "https://www.carandbike.com/porsche-cars/taycan",
+    "image_link": "./carandbike.com_new-cars_models_6_files/porsche-taycan.webp",
+    "variants": 3,
+    "exshowroom_price": "₹ 1.97 - 3.12 Crore",
+    "emi_starts_at": "4,09,330"
+  },
+  {
+    "title": "Volvo EX30 Recharge",
+    "link": "https://www.carandbike.com/volvo-cars/ex30-recharge",
+    "image_link": "./carandbike.com_new-cars_models_6_files/volvo-ex30-recharge.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 39.99 Lakh",
+    "emi_starts_at": "83,013"
+  },
+  {
+    "title": "Mercedes-Benz GLA",
+    "link": "https://www.carandbike.com/mercedes-benz-cars/gla-class",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mercedes-benz-gla-class.webp",
+    "variants": 3,
+    "exshowroom_price": "₹ 51.5 - 56.5 Lakh",
+    "emi_starts_at": "1,06,906"
+  },
+  {
+    "title": "Tata Punch EV",
+    "link": "https://www.carandbike.com/tata-cars/punch-ev",
+    "image_link": "./carandbike.com_new-cars_models_6_files/tata-punch-ev.webp",
+    "variants": 20,
+    "exshowroom_price": "₹ 11.12 - 16.75 Lakh",
+    "emi_starts_at": "23,078"
+  },
+  {
+    "title": "Mercedes-Benz GLE",
+    "link": "https://www.carandbike.com/mercedes-benz-cars/gle-class",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mercedes-benz-gle-class.webp",
+    "variants": 3,
+    "exshowroom_price": "₹ 1.03 - 1.2 Crore",
+    "emi_starts_at": "2,13,811"
+  },
+  {
+    "title": "Toyota Rumion",
+    "link": "https://www.carandbike.com/toyota-cars/rumion",
+    "image_link": "./carandbike.com_new-cars_models_6_files/toyota-rumion.webp",
+    "variants": 7,
+    "exshowroom_price": "₹ 10.44 - 13.62 Lakh",
+    "emi_starts_at": "21,676"
+  },
+  {
+    "title": "BMW M2 2025",
+    "link": "https://www.carandbike.com/bmw-cars/m2",
+    "image_link": "./carandbike.com_new-cars_models_6_files/bmw-m2.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 1.08 Crore",
+    "emi_starts_at": "2,23,795"
+  },
+  {
+    "title": "Lexus RX",
+    "link": "https://www.carandbike.com/lexus-cars/rx",
+    "image_link": "./carandbike.com_new-cars_models_6_files/lexus-rx.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 89.99 Lakh - 1.09 Crore",
+    "emi_starts_at": "1,86,804"
+  },
+  {
+    "title": "Citroen eC3",
+    "link": "https://www.carandbike.com/citroen-cars/ec3",
+    "image_link": "./carandbike.com_new-cars_models_6_files/citroen-ec3.webp",
+    "variants": 7,
+    "exshowroom_price": "₹ 12.9 - 13.53 Lakh",
+    "emi_starts_at": "26,778"
+  },
+  {
+    "title": "Bentley Bentayga",
+    "link": "https://www.carandbike.com/bentley-cars/bentayga",
+    "image_link": "./carandbike.com_new-cars_models_6_files/bentley-bentayga.webp",
+    "variants": 3,
+    "exshowroom_price": "₹ 5.48 - 5.6 Crore",
+    "emi_starts_at": "11,37,645"
+  },
+  {
+    "title": "MG Hector Plus",
+    "link": "https://www.carandbike.com/mg-cars/hector-plus",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mg-hector-plus.webp",
+    "variants": 24,
+    "exshowroom_price": "₹ 16.05 - 21.34 Lakh",
+    "emi_starts_at": "33,317"
+  },
+  {
+    "title": "BMW XM",
+    "link": "https://www.carandbike.com/bmw-cars/xm",
+    "image_link": "./carandbike.com_new-cars_models_6_files/bmw-xm.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 2.76 - 3.42 Crore",
+    "emi_starts_at": "5,72,989"
+  },
+  {
+    "title": "BYD Atto 3 EV 2025",
+    "link": "https://www.carandbike.com/byd-cars/atto-3-ev",
+    "image_link": "./carandbike.com_new-cars_models_6_files/byd-atto-3-ev.webp",
+    "variants": 3,
+    "exshowroom_price": "₹ 28.99 - 39.43 Lakh",
+    "emi_starts_at": "60,179"
+  },
+  {
+    "title": "BMW i4",
+    "link": "https://www.carandbike.com/bmw-cars/i4",
+    "image_link": "./carandbike.com_new-cars_models_6_files/bmw-i4.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 84.24 - 90.05 Lakh",
+    "emi_starts_at": "1,74,860"
+  },
+  {
+    "title": "Mercedes-Benz C-Class",
+    "link": "https://www.carandbike.com/mercedes-benz-cars/c-class",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mercedes-benz-c-class.webp",
+    "variants": 3,
+    "exshowroom_price": "₹ 61 - 68 Lakh",
+    "emi_starts_at": "1,26,626"
+  },
+  {
+    "title": "Lexus NX",
+    "link": "https://www.carandbike.com/lexus-cars/nx",
+    "image_link": "./carandbike.com_new-cars_models_6_files/lexus-nx.webp",
+    "variants": 4,
+    "exshowroom_price": "₹ 66.59 - 73.4 Lakh",
+    "emi_starts_at": "1,38,230"
+  },
+  {
+    "title": "Porsche Macan",
+    "link": "https://www.carandbike.com/porsche-cars/macan",
+    "image_link": "./carandbike.com_new-cars_models_6_files/porsche-macan.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 1 Crore",
+    "emi_starts_at": "2,07,817"
+  },
+  {
+    "title": "Hyundai i20 N Line",
+    "link": "https://www.carandbike.com/hyundai-cars/i20-n-line",
+    "image_link": "./carandbike.com_new-cars_models_6_files/hyundai-i20-n-line.webp",
+    "variants": 8,
+    "exshowroom_price": "₹ 9.14 - 11.6 Lakh",
+    "emi_starts_at": "18,979"
+  },
+  {
+    "title": "Discovery",
+    "link": "https://www.carandbike.com/land-rover-cars/discovery",
+    "image_link": "./carandbike.com_new-cars_models_6_files/land-rover-discovery.webp",
+    "variants": 3,
+    "exshowroom_price": "₹ 1.46 - 1.59 Crore",
+    "emi_starts_at": "3,02,087"
+  },
+  {
+    "title": "Isuzu MU-X",
+    "link": "https://www.carandbike.com/isuzu-cars/mu-x",
+    "image_link": "./carandbike.com_new-cars_models_6_files/isuzu-mu-x.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 40.67 - 44.04 Lakh",
+    "emi_starts_at": "84,418"
+  },
+  {
+    "title": "Ferrari Portofino",
+    "link": "https://www.carandbike.com/ferrari-cars/portofino",
+    "image_link": "./carandbike.com_new-cars_models_6_files/ferrari-portofino.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 3.31 Crore",
+    "emi_starts_at": "6,87,270"
+  },
+  {
+    "title": "Bentley Continental",
+    "link": "https://www.carandbike.com/bentley-cars/continental",
+    "image_link": "./carandbike.com_new-cars_models_6_files/bentley-continental.webp",
+    "variants": 8,
+    "exshowroom_price": "₹ 3.77 - 5.03 Crore",
+    "emi_starts_at": "7,83,112"
+  },
+  {
+    "title": "Aston Martin V12 Vanquish",
+    "link": "https://www.carandbike.com/aston-martin-cars/v12-vanquish",
+    "image_link": "./carandbike.com_new-cars_models_6_files/aston-martin-v12-vanquish.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 8.37 Crore",
+    "emi_starts_at": "17,37,811"
+  },
+  {
+    "title": "Mercedes-AMG C 63",
+    "link": "https://www.carandbike.com/mercedes-amg-cars/c-63-s",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mercedes-amg-c-63-s.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 1.95 Crore",
+    "emi_starts_at": "4,04,788"
+  },
+  {
+    "title": "Jeep Meridian",
+    "link": "https://www.carandbike.com/jeep-cars/meridian",
+    "image_link": "./carandbike.com_new-cars_models_6_files/jeep-meridian.webp",
+    "variants": 12,
+    "exshowroom_price": "₹ 23.33 - 36.21 Lakh",
+    "emi_starts_at": "48,429"
+  },
+  {
+    "title": "Mercedes-AMG G 63",
+    "link": "https://www.carandbike.com/mercedes-amg-cars/g-63",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mercedes-amg-g-63.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 3.85 - 4.01 Crore",
+    "emi_starts_at": "7,99,197"
+  },
+  {
+    "title": "Kia EV9",
+    "link": "https://www.carandbike.com/kia-cars/ev9",
+    "image_link": "./carandbike.com_new-cars_models_6_files/kia-ev9.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 1.51 Crore",
+    "emi_starts_at": "3,12,778"
+  },
+  {
+    "title": "Mercedes-Benz GLS",
+    "link": "https://www.carandbike.com/mercedes-benz-cars/gls",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mercedes-benz-gls.webp",
+    "variants": 4,
+    "exshowroom_price": "₹ 1.37 - 1.44 Crore",
+    "emi_starts_at": "2,84,389"
+  },
+  {
+    "title": "Mercedes-AMG C 43",
+    "link": "https://www.carandbike.com/mercedes-amg-cars/c-43",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mercedes-amg-c-43.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 1 Crore",
+    "emi_starts_at": "2,06,338"
+  },
+  {
+    "title": "McLaren Artura",
+    "link": "https://www.carandbike.com/mclaren-cars/artura",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mclaren-artura.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 5.68 Crore",
+    "emi_starts_at": "11,79,929"
+  },
+  {
+    "title": "Audi Q3 Sportback",
+    "link": "https://www.carandbike.com/audi-cars/q3-sportback",
+    "image_link": "./carandbike.com_new-cars_models_6_files/audi-q3-sportback.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 53.55 - 53.86 Lakh",
+    "emi_starts_at": "1,11,161"
+  },
+  {
+    "title": "Mercedes-Maybach S-Class",
+    "link": "https://www.carandbike.com/mercedes-maybach-cars/s-class",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mercedes-maybach-s-class.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 2.9 - 3.67 Crore",
+    "emi_starts_at": "6,01,992"
+  },
+  {
+    "title": "Mercedes-Benz S-Class",
+    "link": "https://www.carandbike.com/mercedes-benz-cars/s-class",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mercedes-benz-s-class.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 1.88 - 1.99 Crore",
+    "emi_starts_at": "3,90,257"
+  },
+  {
+    "title": "Audi S5",
+    "link": "https://www.carandbike.com/audi-cars/s5",
+    "image_link": "./carandbike.com_new-cars_models_6_files/audi-s5.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 73.57 - 80.5 Lakh",
+    "emi_starts_at": "1,52,719"
+  },
+  {
+    "title": "Aston Martin DBX",
+    "link": "https://www.carandbike.com/aston-martin-cars/dbx",
+    "image_link": "./carandbike.com_new-cars_models_6_files/aston-martin-dbx.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 4.38 Crore",
+    "emi_starts_at": "9,09,160"
+  },
+  {
+    "title": "Audi RS Q8",
+    "link": "https://www.carandbike.com/audi-cars/rs-q8",
+    "image_link": "./carandbike.com_new-cars_models_6_files/audi-rs-q8.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 2.32 Crore",
+    "emi_starts_at": "4,82,424"
+  },
+  {
+    "title": "Mercedes-AMG GT",
+    "link": "https://www.carandbike.com/mercedes-amg-cars/gt",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mercedes-amg-gt.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 3.05 - 3.65 Crore",
+    "emi_starts_at": "6,33,130"
+  },
+  {
+    "title": "BMW M8",
+    "link": "https://www.carandbike.com/bmw-cars/m8",
+    "image_link": "./carandbike.com_new-cars_models_6_files/bmw-m8.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 2.56 Crore",
+    "emi_starts_at": "5,32,185"
+  },
+  {
+    "title": "Mercedes-Benz GLC",
+    "link": "https://www.carandbike.com/mercedes-benz-cars/glc",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mercedes-benz-glc.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 79.25 Lakh",
+    "emi_starts_at": "1,64,510"
+  },
+  {
+    "title": "Maserati Levante",
+    "link": "https://www.carandbike.com/maserati-cars/levante",
+    "image_link": "./carandbike.com_new-cars_models_6_files/maserati-levante.webp",
+    "variants": 6,
+    "exshowroom_price": "₹ 1.61 - 1.82 Crore",
+    "emi_starts_at": "3,35,106"
+  },
+  {
+    "title": "Lexus ES",
+    "link": "https://www.carandbike.com/lexus-cars/es",
+    "image_link": "./carandbike.com_new-cars_models_6_files/lexus-es.jpeg",
+    "variants": 2,
+    "exshowroom_price": "₹ 62.65 - 68.23 Lakh",
+    "emi_starts_at": "1,30,051"
+  },
+  {
+    "title": "Rolls-Royce Ghost",
+    "link": "https://www.carandbike.com/rolls-royce-cars/ghost",
+    "image_link": "./carandbike.com_new-cars_models_6_files/rolls-royce-ghost.webp",
+    "variants": 3,
+    "exshowroom_price": "₹ 10.16 - 11.94 Crore",
+    "emi_starts_at": "21,08,515"
+  },
+  {
+    "title": "Bentley Flying Spur",
+    "link": "https://www.carandbike.com/bentley-cars/flying-spur",
+    "image_link": "./carandbike.com_new-cars_models_6_files/bentley-flying-spur.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 6.1 Crore",
+    "emi_starts_at": "12,66,170"
+  },
+  {
+    "title": "Maserati Quattroporte",
+    "link": "https://www.carandbike.com/maserati-cars/quattroporte",
+    "image_link": "./carandbike.com_new-cars_models_6_files/maserati-quattroporte.webp",
+    "variants": 7,
+    "exshowroom_price": "₹ 1.89 - 2.91 Crore",
+    "emi_starts_at": "3,91,312"
+  },
+  {
+    "title": "Rolls-Royce Phantom",
+    "link": "https://www.carandbike.com/rolls-royce-cars/phantom",
+    "image_link": "./carandbike.com_new-cars_models_6_files/rolls-royce-phantom.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 10.86 - 12.97 Crore",
+    "emi_starts_at": "22,54,174"
+  },
+  {
+    "title": "Mercedes-AMG GLE Coupe",
+    "link": "https://www.carandbike.com/mercedes-amg-cars/gle-coupe",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mercedes-amg-gle-coupe.webp",
+    "variants": 3,
+    "exshowroom_price": "₹ 1.55 - 9.13 Crore",
+    "emi_starts_at": "3,21,755"
+  },
+  {
+    "title": "Porsche Cayenne Electric",
+    "link": "https://www.carandbike.com/porsche-cars/cayenne-electric",
+    "image_link": "./carandbike.com_new-cars_models_6_files/porsche-cayenne-electric.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 1.75 - 2.25 Crore",
+    "emi_starts_at": "3,63,271"
+  },
+  {
+    "title": "Maserati Grecale Folgore",
+    "link": "https://www.carandbike.com/maserati-cars/grecale-folgore",
+    "image_link": "./carandbike.com_new-cars_models_6_files/maserati-grecale-folgore.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 3.05 - 3.18 Crore",
+    "emi_starts_at": "6,33,130"
+  },
+  {
+    "title": "Skoda Octavia RS",
+    "link": "https://www.carandbike.com/skoda-cars/octavia-rs",
+    "image_link": "./carandbike.com_new-cars_models_6_files/skoda-octavia-rs.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 49.99 Lakh",
+    "emi_starts_at": "1,03,771"
+  },
+  {
+    "title": "Maserati MCPura",
+    "link": "https://www.carandbike.com/maserati-cars/mcpura",
+    "image_link": "./carandbike.com_new-cars_models_6_files/maserati-mcpura.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 4.12 - 5.12 Crore",
+    "emi_starts_at": "8,55,244"
+  },
+  {
+    "title": "Citroen Aircross X",
+    "link": "https://www.carandbike.com/citroen-cars/aircross-x",
+    "image_link": "./carandbike.com_new-cars_models_6_files/citroen-aircross-x.webp",
+    "variants": 7,
+    "exshowroom_price": "₹ 8.29 - 13.69 Lakh",
+    "emi_starts_at": "17,209"
+  },
+  {
+    "title": "Maruti Suzuki Victoris",
+    "link": "https://www.carandbike.com/maruti-suzuki-cars/victoris",
+    "image_link": "./carandbike.com_new-cars_models_6_files/maruti-suzuki-victoris.webp",
+    "variants": 35,
+    "exshowroom_price": "₹ 10.5 - 19.99 Lakh",
+    "emi_starts_at": "21,794"
+  },
+  {
+    "title": "VinFast VF7",
+    "link": "https://www.carandbike.com/vinfast-cars/vf7",
+    "image_link": "./carandbike.com_new-cars_models_6_files/vinfast-vf7.webp",
+    "variants": 5,
+    "exshowroom_price": "₹ 24.23 - 29.57 Lakh",
+    "emi_starts_at": "50,307"
+  },
+  {
+    "title": "VinFast VF6",
+    "link": "https://www.carandbike.com/vinfast-cars/vf6",
+    "image_link": "./carandbike.com_new-cars_models_6_files/vinfast-vf6.webp",
+    "variants": 3,
+    "exshowroom_price": "₹ 19.13 - 21.22 Lakh",
+    "emi_starts_at": "39,713"
+  },
+  {
+    "title": "Citroen Basalt X",
+    "link": "https://www.carandbike.com/citroen-cars/basalt-x",
+    "image_link": "./carandbike.com_new-cars_models_6_files/citroen-basalt-x.webp",
+    "variants": 8,
+    "exshowroom_price": "₹ 7.95 - 13.11 Lakh",
+    "emi_starts_at": "16,503"
+  },
+  {
+    "title": "Mercedes-AMG CLE 53",
+    "link": "https://www.carandbike.com/mercedes-amg-cars/cle-53",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mercedes-amg-cle-53.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 1.35 Crore",
+    "emi_starts_at": "2,80,238"
+  },
+  {
+    "title": "MG M9 EV",
+    "link": "https://www.carandbike.com/mg-cars/m9-ev",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mg-m9-ev.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 81.08 Lakh",
+    "emi_starts_at": "1,68,312"
+  },
+  {
+    "title": "Tesla Model Y",
+    "link": "https://www.carandbike.com/tesla-cars/model-y",
+    "image_link": "./carandbike.com_new-cars_models_6_files/tesla-model-y.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 69.47 - 78.75 Lakh",
+    "emi_starts_at": "1,44,210"
+  },
+  {
+    "title": "Kia Carens Clavis EV",
+    "link": "https://www.carandbike.com/kia-cars/carens-clavis-ev",
+    "image_link": "./carandbike.com_new-cars_models_6_files/kia-carens-clavis-ev.webp",
+    "variants": 6,
+    "exshowroom_price": "₹ 17.99 - 24.49 Lakh",
+    "emi_starts_at": "37,344"
+  },
+  {
+    "title": "Volkswagen Golf GTI",
+    "link": "https://www.carandbike.com/volkswagen-cars/golf-gti",
+    "image_link": "./carandbike.com_new-cars_models_6_files/volkswagen-golf-gti.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 50.91 Lakh",
+    "emi_starts_at": "1,05,679"
+  },
+  {
+    "title": "Kia Carens Clavis",
+    "link": "https://www.carandbike.com/kia-cars/carens-clavis",
+    "image_link": "./carandbike.com_new-cars_models_6_files/kia-carens-clavis.webp",
+    "variants": 28,
+    "exshowroom_price": "₹ 11.08 - 20.71 Lakh",
+    "emi_starts_at": "22,997"
+  },
+  {
+    "title": "Lamborghini Temerario",
+    "link": "https://www.carandbike.com/lamborghini-cars/temerario",
+    "image_link": "./carandbike.com_new-cars_models_6_files/lamborghini-temerario.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 5.87 Crore",
+    "emi_starts_at": "12,19,372"
+  },
+  {
+    "title": "Volkswagen Tiguan R-Line",
+    "link": "https://www.carandbike.com/volkswagen-cars/tiguan-r-line",
+    "image_link": "./carandbike.com_new-cars_models_6_files/volkswagen-tiguan-r-line.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 45.73 Lakh",
+    "emi_starts_at": "94,928"
+  },
+  {
+    "title": "Mercedes-Maybach SL 680",
+    "link": "https://www.carandbike.com/mercedes-maybach-cars/sl-680",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mercedes-maybach-sl-680.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 4.35 Crore",
+    "emi_starts_at": "9,02,988"
+  },
+  {
+    "title": "Ferrari 12Cilindri",
+    "link": "https://www.carandbike.com/ferrari-cars/12cilindri",
+    "image_link": "./carandbike.com_new-cars_models_6_files/ferrari-12cilindri.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 8.5 - 9.15 Crore",
+    "emi_starts_at": "17,64,460"
+  },
+  {
+    "title": "Maserati GranTurismo",
+    "link": "https://www.carandbike.com/maserati-cars/granturismo",
+    "image_link": "./carandbike.com_new-cars_models_6_files/maserati-granturismo.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 3.09 - 3.3 Crore",
+    "emi_starts_at": "6,41,886"
+  },
+  {
+    "title": "BMW 7 Protection",
+    "link": "https://www.carandbike.com/bmw-cars/7-protection",
+    "image_link": "./carandbike.com_new-cars_models_6_files/bmw-7-protection.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 18.28 Crore",
+    "emi_starts_at": "37,94,886"
+  },
+  {
+    "title": "Ferrari 296 GTS",
+    "link": "https://www.carandbike.com/ferrari-cars/296-gts",
+    "image_link": "./carandbike.com_new-cars_models_6_files/ferrari-296-gts.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 5.9 Crore",
+    "emi_starts_at": "12,25,304"
+  },
+  {
+    "title": "Ferrari 296 GTB",
+    "link": "https://www.carandbike.com/ferrari-cars/296-gtb",
+    "image_link": "./carandbike.com_new-cars_models_6_files/ferrari-296-gtb.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 5.11 Crore",
+    "emi_starts_at": "10,60,359"
+  },
+  {
+    "title": "Ferrari Roma",
+    "link": "https://www.carandbike.com/ferrari-cars/roma",
+    "image_link": "./carandbike.com_new-cars_models_6_files/ferrari-roma.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 3.56 Crore",
+    "emi_starts_at": "7,38,324"
+  },
+  {
+    "title": "New Hyundai Venue N Line",
+    "link": "https://www.carandbike.com/hyundai-cars/venue-n-line",
+    "image_link": "./carandbike.com_new-cars_models_6_files/hyundai-venue-n-line.webp",
+    "variants": 6,
+    "exshowroom_price": "₹ 10.55 - 15.48 Lakh",
+    "emi_starts_at": "21,908"
+  },
+  {
+    "title": "BYD Sealion 7",
+    "link": "https://www.carandbike.com/byd-cars/sealion-7",
+    "image_link": "./carandbike.com_new-cars_models_6_files/byd-sealion-7.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 56.72 - 63.68 Lakh",
+    "emi_starts_at": "1,17,749"
+  },
+  {
+    "title": "Kia Syros",
+    "link": "https://www.carandbike.com/kia-cars/syros",
+    "image_link": "./carandbike.com_new-cars_models_6_files/kia-syros.webp",
+    "variants": 13,
+    "exshowroom_price": "₹ 8.67 - 15.94 Lakh",
+    "emi_starts_at": "17,999"
+  },
+  {
+    "title": "MG Cyberster",
+    "link": "https://www.carandbike.com/mg-cars/cyberster",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mg-cyberster.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 75 Lakh",
+    "emi_starts_at": "1,55,684"
+  },
+  {
+    "title": "Hyundai Creta EV",
+    "link": "https://www.carandbike.com/hyundai-cars/creta-ev",
+    "image_link": "./carandbike.com_new-cars_models_6_files/hyundai-creta-ev.webp",
+    "variants": 25,
+    "exshowroom_price": "₹ 18.02 - 24.55 Lakh",
+    "emi_starts_at": "37,411"
+  },
+  {
+    "title": "Lotus Emeya",
+    "link": "https://www.carandbike.com/lotus-cars/emeya",
+    "image_link": "./carandbike.com_new-cars_models_6_files/lotus-emeya.webp",
+    "variants": 3,
+    "exshowroom_price": "₹ 2.34 Crore",
+    "emi_starts_at": "4,84,730"
+  },
+  {
+    "title": "BMW ix1 L",
+    "link": "https://www.carandbike.com/bmw-cars/ix1-l",
+    "image_link": "./carandbike.com_new-cars_models_6_files/bmw-ix1-l.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 57.88 Lakh",
+    "emi_starts_at": "1,20,157"
+  },
+  {
+    "title": "Mercedes-Benz G 580 EV",
+    "link": "https://www.carandbike.com/mercedes-benz-cars/g-580-ev",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mercedes-benz-g-580-ev.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 3.1 Crore",
+    "emi_starts_at": "6,43,509"
+  },
+  {
+    "title": "Maruti Suzuki Dzire 2025",
+    "link": "https://www.carandbike.com/maruti-suzuki-cars/2025-new-dzire",
+    "image_link": "./carandbike.com_new-cars_models_6_files/maruti-suzuki-2025-new-dzire.webp",
+    "variants": 9,
+    "exshowroom_price": "₹ 6.26 - 9.31 Lakh",
+    "emi_starts_at": "12,986"
+  },
+  {
+    "title": "Skoda Kylaq",
+    "link": "https://www.carandbike.com/skoda-cars/kylaq",
+    "image_link": "./carandbike.com_new-cars_models_6_files/skoda-kylaq.webp",
+    "variants": 14,
+    "exshowroom_price": "₹ 7.55 - 12.8 Lakh",
+    "emi_starts_at": "15,665"
+  },
+  {
+    "title": "BYD eMAX 7",
+    "link": "https://www.carandbike.com/byd-cars/emax-7",
+    "image_link": "./carandbike.com_new-cars_models_6_files/byd-emax-7.webp",
+    "variants": 4,
+    "exshowroom_price": "₹ 31.21 - 34.69 Lakh",
+    "emi_starts_at": "64,778"
+  },
+  {
+    "title": "MG Windsor EV",
+    "link": "https://www.carandbike.com/mg-cars/windsor-ev",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mg-windsor-ev.webp",
+    "variants": 5,
+    "exshowroom_price": "₹ 14 - 17.25 Lakh",
+    "emi_starts_at": "29,058"
+  },
+  {
+    "title": "Volvo EX40",
+    "link": "https://www.carandbike.com/volvo-cars/ex40",
+    "image_link": "./carandbike.com_new-cars_models_6_files/volvo-ex40.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 65.07 - 67.16 Lakh",
+    "emi_starts_at": "1,35,085"
+  },
+  {
+    "title": "Mercedes-Maybach 2024 EQS Electric",
+    "link": "https://www.carandbike.com/mercedes-maybach-cars/eqs-electric",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mercedes-maybach-eqs-electric.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 2.4 - 2.63 Crore",
+    "emi_starts_at": "4,98,201"
+  },
+  {
+    "title": "Tata Curvv",
+    "link": "https://www.carandbike.com/tata-cars/curvv",
+    "image_link": "./carandbike.com_new-cars_models_6_files/tata-curvv.webp",
+    "variants": 33,
+    "exshowroom_price": "₹ 9.66 - 18.54 Lakh",
+    "emi_starts_at": "20,046"
+  },
+  {
+    "title": "Lamborghini Urus SE",
+    "link": "https://www.carandbike.com/lamborghini-cars/urus-se",
+    "image_link": "./carandbike.com_new-cars_models_6_files/lamborghini-urus-se.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 4.47 Crore",
+    "emi_starts_at": "9,28,755"
+  },
+  {
+    "title": "Mercedes-Benz CLE Cabriolet",
+    "link": "https://www.carandbike.com/mercedes-benz-cars/cle-cabriolet",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mercedes-benz-cle-cabriolet.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 1.17 Crore",
+    "emi_starts_at": "2,42,873"
+  },
+  {
+    "title": "Maserati Grecale",
+    "link": "https://www.carandbike.com/maserati-cars/grecale",
+    "image_link": "./carandbike.com_new-cars_models_6_files/maserati-grecale.webp",
+    "variants": 3,
+    "exshowroom_price": "₹ 1.49 - 2.33 Crore",
+    "emi_starts_at": "3,09,148"
+  },
+  {
+    "title": "Porsche Macan Electric",
+    "link": "https://www.carandbike.com/porsche-cars/macan-electric",
+    "image_link": "./carandbike.com_new-cars_models_6_files/porsche-macan-electric.webp",
+    "variants": 3,
+    "exshowroom_price": "₹ 1.41 - 1.96 Crore",
+    "emi_starts_at": "2,93,324"
+  },
+  {
+    "title": "Mercedes-AMG S 63 E Performance",
+    "link": "https://www.carandbike.com/mercedes-amg-cars/s-63-e-performance",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mercedes-amg-s-63-e-performance.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 3.34 Crore",
+    "emi_starts_at": "6,93,329"
+  },
+  {
+    "title": "BMW i5",
+    "link": "https://www.carandbike.com/bmw-cars/i5",
+    "image_link": "./carandbike.com_new-cars_models_6_files/bmw-i5.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 1.38 Crore",
+    "emi_starts_at": "2,86,534"
+  },
+  {
+    "title": "Lamborghini Revuelto",
+    "link": "https://www.carandbike.com/lamborghini-cars/revuelto",
+    "image_link": "./carandbike.com_new-cars_models_6_files/lamborghini-revuelto.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 8.7 Crore",
+    "emi_starts_at": "18,06,703"
+  },
+  {
+    "title": "Lotus Eletre",
+    "link": "https://www.carandbike.com/lotus-cars/eletre",
+    "image_link": "./carandbike.com_new-cars_models_6_files/lotus-eletre.webp",
+    "variants": 3,
+    "exshowroom_price": "₹ 2.55 - 2.99 Crore",
+    "emi_starts_at": "5,29,338"
+  },
+  {
+    "title": "Honda City Hybrid eHEV",
+    "link": "https://www.carandbike.com/honda-cars/city-hybrid-ehev",
+    "image_link": "./carandbike.com_new-cars_models_6_files/honda-city-hybrid-ehev.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 19.48 Lakh",
+    "emi_starts_at": "40,441"
+  },
+  {
+    "title": "Tata Harrier EV",
+    "link": "https://www.carandbike.com/tata-cars/harrier-ev",
+    "image_link": "./carandbike.com_new-cars_models_6_files/tata-harrier-ev.webp",
+    "variants": 16,
+    "exshowroom_price": "₹ 24.93 - 35.07 Lakh",
+    "emi_starts_at": "51,752"
+  },
+  {
+    "title": "Lotus Emira",
+    "link": "https://www.carandbike.com/lotus-cars/emira",
+    "image_link": "./carandbike.com_new-cars_models_6_files/lotus-emira.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 1.93 - 2.27 Crore",
+    "emi_starts_at": "4,01,182"
+  },
+  {
+    "title": "Mercedes-Benz EQS SUV",
+    "link": "https://www.carandbike.com/mercedes-benz-cars/eqs-suv",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mercedes-benz-eqs-suv.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 1.33 - 1.48 Crore",
+    "emi_starts_at": "2,77,124"
+  },
+  {
+    "title": "MINI Countryman E",
+    "link": "https://www.carandbike.com/mini-cars/countryman-e",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mini-countryman-e.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 63.68 - 71.92 Lakh",
+    "emi_starts_at": "1,32,196"
+  },
+  {
+    "title": "Mercedes-Benz EQA",
+    "link": "https://www.carandbike.com/mercedes-benz-cars/eqa",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mercedes-benz-eqa.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 67.2 Lakh",
+    "emi_starts_at": "1,39,496"
+  },
+  {
+    "title": "Mercedes-Benz EQB",
+    "link": "https://www.carandbike.com/mercedes-benz-cars/eqb",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mercedes-benz-eqb.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 67.2 - 78.9 Lakh",
+    "emi_starts_at": "1,39,496"
+  },
+  {
+    "title": "Ferrari Purosangue SUV",
+    "link": "https://www.carandbike.com/ferrari-cars/purosangue-suv",
+    "image_link": "./carandbike.com_new-cars_models_6_files/ferrari-purosangue-suv.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 9.93 Crore",
+    "emi_starts_at": "20,61,810"
+  },
+  {
+    "title": "Force Motors Trax Cruiser",
+    "link": "https://www.carandbike.com/force-motors-cars/trax-cruiser",
+    "image_link": "./carandbike.com_new-cars_models_6_files/force-motors-trax-cruiser.webp",
+    "variants": 4,
+    "exshowroom_price": "₹ 16.24 - 17.9 Lakh",
+    "emi_starts_at": "33,710"
+  },
+  {
+    "title": "Toyota Urban Cruiser Taisor",
+    "link": "https://www.carandbike.com/toyota-cars/urban-cruiser-taisor",
+    "image_link": "./carandbike.com_new-cars_models_6_files/toyota-urban-cruiser-taisor.webp",
+    "variants": 12,
+    "exshowroom_price": "₹ 7.21 - 12.06 Lakh",
+    "emi_starts_at": "14,971"
+  },
+  {
+    "title": "Hyundai Creta N Line",
+    "link": "https://www.carandbike.com/hyundai-cars/creta-n-line",
+    "image_link": "./carandbike.com_new-cars_models_6_files/hyundai-creta-n-line.webp",
+    "variants": 12,
+    "exshowroom_price": "₹ 16.35 - 20.09 Lakh",
+    "emi_starts_at": "33,938"
+  },
+  {
+    "title": "BYD Seal",
+    "link": "https://www.carandbike.com/byd-cars/seal",
+    "image_link": "./carandbike.com_new-cars_models_6_files/byd-seal.webp",
+    "variants": 3,
+    "exshowroom_price": "₹ 47.6 - 61.75 Lakh",
+    "emi_starts_at": "98,806"
+  },
+  {
+    "title": "Rolls-Royce Spectre",
+    "link": "https://www.carandbike.com/rolls-royce-cars/spectre",
+    "image_link": "./carandbike.com_new-cars_models_6_files/rolls-royce-spectre.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 8.71 - 11.04 Crore",
+    "emi_starts_at": "18,08,811"
+  },
+  {
+    "title": "Lexus LM 350",
+    "link": "https://www.carandbike.com/lexus-cars/lm",
+    "image_link": "./carandbike.com_new-cars_models_6_files/lexus-lm.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 2.15 - 2.69 Crore",
+    "emi_starts_at": "4,47,093"
+  },
+  {
+    "title": "Aston Martin DB12",
+    "link": "https://www.carandbike.com/aston-martin-cars/db12",
+    "image_link": "./carandbike.com_new-cars_models_6_files/aston-martin-db12.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 4.34 Crore",
+    "emi_starts_at": "9,01,305"
+  },
+  {
+    "title": "BMW iX1",
+    "link": "https://www.carandbike.com/bmw-cars/ix1",
+    "image_link": "./carandbike.com_new-cars_models_6_files/bmw-ix1.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 77.6 Lakh",
+    "emi_starts_at": "1,61,089"
+  },
+  {
+    "title": "Mercedes-Benz EQE SUV",
+    "link": "https://www.carandbike.com/mercedes-benz-cars/eqe-suv",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mercedes-benz-eqe-suv.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 1.41 Crore",
+    "emi_starts_at": "2,93,523"
+  },
+  {
+    "title": "Volvo C40 Recharge",
+    "link": "https://www.carandbike.com/volvo-cars/c40-recharge",
+    "image_link": "./carandbike.com_new-cars_models_6_files/volvo-c40-recharge.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 73.02 Lakh",
+    "emi_starts_at": "1,51,578"
+  },
+  {
+    "title": "Audi Q8 E-Tron Sportback",
+    "link": "https://www.carandbike.com/audi-cars/q8-e-tron-sportback",
+    "image_link": "./carandbike.com_new-cars_models_6_files/audi-q8-e-tron-sportback.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 1.19 - 1.32 Crore",
+    "emi_starts_at": "2,47,502"
+  },
+  {
+    "title": "Audi Q8 E-Tron",
+    "link": "https://www.carandbike.com/audi-cars/q8-e-tron",
+    "image_link": "./carandbike.com_new-cars_models_6_files/audi-q8-e-tron.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 1.33 - 1.47 Crore",
+    "emi_starts_at": "2,76,708"
+  },
+  {
+    "title": "Mercedes-AMG SL-Class",
+    "link": "https://www.carandbike.com/mercedes-amg-cars/sl-class",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mercedes-amg-sl-class.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 2.47 Crore",
+    "emi_starts_at": "5,13,147"
+  },
+  {
+    "title": "Mercedes-AMG GT 4-Door Coupe",
+    "link": "https://www.carandbike.com/mercedes-amg-cars/gt-4-door-coupe",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mercedes-amg-gt-4-door-coupe.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 3.34 Crore",
+    "emi_starts_at": "6,93,329"
+  },
+  {
+    "title": "Maruti Suzuki Grand Vitara",
+    "link": "https://www.carandbike.com/maruti-suzuki-cars/grand-vitara",
+    "image_link": "./carandbike.com_new-cars_models_6_files/maruti-suzuki-grand-vitara.webp",
+    "variants": 27,
+    "exshowroom_price": "₹ 11.03 - 19.66 Lakh",
+    "emi_starts_at": "22,889"
+  },
+  {
+    "title": "Mercedes-AMG EQS",
+    "link": "https://www.carandbike.com/mercedes-amg-cars/eqs",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mercedes-amg-eqs.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 1.88 Crore",
+    "emi_starts_at": "3,90,068"
+  },
+  {
+    "title": "Toyota Fortuner Legender",
+    "link": "https://www.carandbike.com/toyota-cars/fortuner-legender",
+    "image_link": "./carandbike.com_new-cars_models_6_files/toyota-fortuner-legender.webp",
+    "variants": 4,
+    "exshowroom_price": "₹ 41.54 - 46.75 Lakh",
+    "emi_starts_at": "86,234"
+  },
+  {
+    "title": "MINI Cooper S Convertible",
+    "link": "https://www.carandbike.com/mini-cars/cooper-s-convertible",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mini-cooper-s-convertible.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 58.5 Lakh",
+    "emi_starts_at": "1,21,436"
+  },
+  {
+    "title": "Mahindra XEV 9S",
+    "link": "https://www.carandbike.com/mahindra-cars/xev-9s",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mahindra-xev-9s.jpeg",
+    "variants": 6,
+    "exshowroom_price": "₹ 19.95 - 29.45 Lakh",
+    "emi_starts_at": "41,413"
+  },
+  {
+    "title": "Tata Sierra",
+    "link": "https://www.carandbike.com/tata-cars/sierra",
+    "image_link": "./carandbike.com_new-cars_models_6_files/tata-sierra.webp",
+    "variants": 17,
+    "exshowroom_price": "₹ 11.49 - 18.49 Lakh",
+    "emi_starts_at": "23,851"
+  },
+  {
+    "title": "Mahindra Thar 2025",
+    "link": "https://www.carandbike.com/mahindra-cars/thar",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mahindra-thar.jpeg",
+    "variants": 7,
+    "exshowroom_price": "₹ 9.99 - 16.99 Lakh",
+    "emi_starts_at": "20,738"
+  },
+  {
+    "title": "New Honda 2025 Amaze",
+    "link": "https://www.carandbike.com/honda-cars/2025-amaze",
+    "image_link": "./carandbike.com_new-cars_models_6_files/honda-2025-amaze.webp",
+    "variants": 6,
+    "exshowroom_price": "₹ 7.41 - 10 Lakh",
+    "emi_starts_at": "15,378"
+  },
+  {
+    "title": "Mahindra XEV 9e",
+    "link": "https://www.carandbike.com/mahindra-cars/xev-9e",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mahindra-xev-9e.jpeg",
+    "variants": 17,
+    "exshowroom_price": "₹ 21.9 - 32 Lakh",
+    "emi_starts_at": "45,461"
+  },
+  {
+    "title": "Mahindra BE 6",
+    "link": "https://www.carandbike.com/mahindra-cars/be-6e",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mahindra-be-6e.webp",
+    "variants": 25,
+    "exshowroom_price": "₹ 18.9 - 28.4 Lakh",
+    "emi_starts_at": "39,233"
+  },
+  {
+    "title": "Mahindra Thar Roxx",
+    "link": "https://www.carandbike.com/mahindra-cars/thar-roxx",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mahindra-thar-roxx.jpeg",
+    "variants": 25,
+    "exshowroom_price": "₹ 12.25 - 22.06 Lakh",
+    "emi_starts_at": "25,431"
+  },
+  {
+    "title": "MINI Cooper S 2025",
+    "link": "https://www.carandbike.com/mini-cars/cooper-s-2024",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mini-cooper-s-2024.jpeg",
+    "variants": 4,
+    "exshowroom_price": "₹ 49.68 - 61.85 Lakh",
+    "emi_starts_at": "1,03,134"
+  },
+  {
+    "title": "Mercedes-Maybach GLS",
+    "link": "https://www.carandbike.com/mercedes-maybach-cars/gls",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mercedes-maybach-gls.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 3.39 - 3.46 Crore",
+    "emi_starts_at": "7,03,916"
+  },
+  {
+    "title": "Mahindra XUV 3XO",
+    "link": "https://www.carandbike.com/mahindra-cars/xuv-3xo",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mahindra-xuv-3xo.webp",
+    "variants": 29,
+    "exshowroom_price": "₹ 7.28 - 14.4 Lakh",
+    "emi_starts_at": "15,118"
+  },
+  {
+    "title": "Mahindra Bolero Neo Plus",
+    "link": "https://www.carandbike.com/mahindra-cars/bolero-neo-plus",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mahindra-bolero-neo-plus.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 10.77 - 11.8 Lakh",
+    "emi_starts_at": "22,348"
+  },
+  {
+    "title": "Mercedes-Benz G-Class",
+    "link": "https://www.carandbike.com/mercedes-benz-cars/g-class",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mercedes-benz-g-class.webp",
+    "variants": 3,
+    "exshowroom_price": "₹ 2.38 - 2.9 Crore",
+    "emi_starts_at": "4,94,049"
+  },
+  {
+    "title": "Mercedes-AMG A 45",
+    "link": "https://www.carandbike.com/mercedes-amg-cars/a-45",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mercedes-amg-a-45.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 1 Crore",
+    "emi_starts_at": "2,06,495"
+  },
+  {
+    "title": "Maruti Suzuki Brezza",
+    "link": "https://www.carandbike.com/maruti-suzuki-cars/brezza",
+    "image_link": "./carandbike.com_new-cars_models_6_files/maruti-suzuki-brezza.webp",
+    "variants": 15,
+    "exshowroom_price": "₹ 8.26 - 13.01 Lakh",
+    "emi_starts_at": "17,144"
+  },
+  {
+    "title": "Hyundai Aura",
+    "link": "https://www.carandbike.com/hyundai-cars/aura",
+    "image_link": "./carandbike.com_new-cars_models_6_files/hyundai-aura.webp",
+    "variants": 11,
+    "exshowroom_price": "₹ 5.98 - 8.42 Lakh",
+    "emi_starts_at": "12,420"
+  },
+  {
+    "title": "Mercedes-Benz EQS",
+    "link": "https://www.carandbike.com/mercedes-benz-cars/eqs",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mercedes-benz-eqs.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 1.51 - 1.8 Crore",
+    "emi_starts_at": "3,13,019"
+  },
+  {
+    "title": "Audi RS E-Tron GT",
+    "link": "https://www.carandbike.com/audi-cars/rs-e-tron-gt",
+    "image_link": "./carandbike.com_new-cars_models_6_files/audi-rs-e-tron-gt.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 2.37 Crore",
+    "emi_starts_at": "4,92,518"
+  },
+  {
+    "title": "Mercedes-Benz A-Class Limousine",
+    "link": "https://www.carandbike.com/mercedes-benz-cars/a-class-limousine",
+    "image_link": "./carandbike.com_new-cars_models_6_files/mercedes-benz-a-class-limousine.webp",
+    "variants": 2,
+    "exshowroom_price": "₹ 46.05 - 48.55 Lakh",
+    "emi_starts_at": "95,592"
+  },
+  {
+    "title": "Porsche Cayenne Coupe",
+    "link": "https://www.carandbike.com/porsche-cars/cayenne-coupe",
+    "image_link": "./carandbike.com_new-cars_models_6_files/porsche-cayenne-coupe.webp",
+    "variants": 3,
+    "exshowroom_price": "₹ 1.76 - 2.38 Crore",
+    "emi_starts_at": "3,65,784"
+  },
+  {
+    "title": "Rolls-Royce Cullinan",
+    "link": "https://www.carandbike.com/rolls-royce-cars/cullinan",
+    "image_link": "./carandbike.com_new-cars_models_6_files/rolls-royce-cullinan.webp",
+    "variants": 3,
+    "exshowroom_price": "₹ 1.19 - 7.9 Crore",
+    "emi_starts_at": "2,47,792"
+  },
+  {
+    "title": "Aston Martin Vantage",
+    "link": "https://www.carandbike.com/aston-martin-cars/vantage",
+    "image_link": "./carandbike.com_new-cars_models_6_files/aston-martin-vantage.webp",
+    "variants": 1,
+    "exshowroom_price": "₹ 3.77 Crore",
+    "emi_starts_at": "7,83,488"
+  }
+]

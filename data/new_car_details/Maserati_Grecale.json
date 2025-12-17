@@ -1,0 +1,210 @@
+{
+  "basic_info": {
+    "name": "Maserati Grecale",
+    "manufacturer": "Maserati",
+    "model": "Grecale",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/maserati-cars/grecale",
+    "image_url": "https://images.carandbike.com/car-images/large/maserati/grecale/maserati-grecale.jpg?v=14",
+    "description": "Maserati Grecale is a 5-seater SUV available at a starting price of Rs. 1.49 Crore. The car is available in 3 variants, with 1 engine and 1 transmission option. Additionally, Grecale offers a Boot capacity of 580 liters. You can choose from 8 colors for the Grecale. The mileage of the Grecale varies from 9.2 KM/L depending on the model.",
+    "model_date": "2024-07-30",
+    "sku": "maserati-grecale-1802",
+    "vin": "5NPEL4AB3BH001802",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1998 cc",
+    "power": "300 bhp",
+    "torque": " Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "9 KM/L"
+  },
+  "dimensions": {
+    "width": "1948 mm ",
+    "height": "1670 mm",
+    "weight": "",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Rosso Energia",
+    "Rosso Rbino",
+    "Blu Nettuno",
+    "Blu Intenso",
+    "Grigio Lava",
+    "Bianco astro",
+    "Bianco",
+    "Nero Tempesta"
+  ],
+  "price": {
+    "value": "14892710",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/maserati-cars/grecale"
+  },
+  "brand": {
+    "name": "Maserati",
+    "image": "https://images.carandbike.com/car-images/big/maserati/maserati.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Maserati Grecale",
+        "price": "1.22 - 1.91 Crore",
+        "url": "/maserati-cars/grecale"
+      },
+      {
+        "name": "Land Rover Discovery",
+        "price": "1.46 - 1.59 Crore",
+        "url": "/land-rover-cars/discovery"
+      },
+      {
+        "name": "Land Rover Range Rover Sport",
+        "price": "1.38 - 2.75 Crore",
+        "url": "/land-rover-cars/range-rover-sport"
+      },
+      {
+        "name": "BMW X7",
+        "price": "1.33 - 1.4 Crore",
+        "url": "/bmw-cars/x7"
+      },
+      {
+        "name": "Porsche Cayenne",
+        "price": "1.69 - 2.36 Crore",
+        "url": "/porsche-cars/cayenne"
+      },
+      {
+        "name": "Rolls-Royce Cullinan",
+        "price": "1.19 - 7.9 Crore",
+        "url": "/rolls-royce-cars/cullinan"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.22 - 1.91 Crore",
+          "₹ 1.46 - 1.59 Crore",
+          "₹ 1.38 - 2.75 Crore",
+          "₹ 1.33 - 1.4 Crore",
+          "₹ 1.69 - 2.36 Crore",
+          "₹ 1.19 - 7.9 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "7.9",
+          "7.9",
+          "9.0",
+          "8.0",
+          "8.8"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1998 cc",
+          "2995 CC",
+          "2997 CC",
+          "2998 CC",
+          "2996 CC",
+          "6751 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "9 KM/L",
+          "9.2 KM/L",
+          "10 KM/L",
+          "11.29 - 14.31 KM/L",
+          "9.2 - 11.23 KM/L",
+          "7 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Diesel",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "64.0 L",
+          "89.0 L",
+          "86.0 L",
+          "80.0 L",
+          "75.0 L",
+          "100.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "3",
+          "3",
+          "4",
+          "3",
+          "3",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Grecale vs Discovery",
+          "Grecale vs Range Rover Sport",
+          "Grecale vs X7",
+          "Grecale vs Cayenne",
+          "Grecale vs Cullinan"
+        ]
+      }
+    ]
+  }
+}

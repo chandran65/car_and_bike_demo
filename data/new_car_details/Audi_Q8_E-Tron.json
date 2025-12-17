@@ -1,0 +1,207 @@
+{
+  "basic_info": {
+    "name": "Audi Q8 E-Tron",
+    "manufacturer": "Audi",
+    "model": "Q8 E-Tron",
+    "body_type": null,
+    "url": "https://www.carandbike.com/audi-cars/q8-e-tron",
+    "image_url": "https://images.carandbike.com/car-images/large/audi/q8-e-tron/audi-q8-e-tron.jpg?v=15",
+    "description": "Audi Q8 E-Tron is a 5-seater electric  available at a starting price of Rs. 1.33 Crore. The electric car is available in 2 variants.Additionally, Q8 E-Tron offers a Ground Clearance measurement of 172 mm and a Boot capacity of 528 liters. You can choose from 8 colors for the Q8 E-Tron. The battery range/mileage of the Q8 E-Tron is 491 Km/Full Charge. ",
+    "model_date": "2023-08-18",
+    "sku": "audi-q8-e-tron-1717",
+    "vin": "5NPEL4AB3BH001717",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "450 - 491 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1976 mm ",
+    "height": "1632 mm",
+    "weight": "2520/2520",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Soneria Red",
+    "Siam Beige Metallic",
+    "Plasma Blue Metallic",
+    "Mythos Black",
+    "Manhattan Gray Metallic",
+    "Madeira Brown Metallic",
+    "Chronos Gray Metallic",
+    "Glacier White Metallic"
+  ],
+  "price": {
+    "value": 13329939,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/audi-cars/q8-e-tron"
+  },
+  "brand": {
+    "name": "Audi",
+    "image": "https://images.carandbike.com/car-images/big/audi/audi.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Audi Q8 E-Tron",
+        "price": "1.15 - 1.27 Crore",
+        "url": "/audi-cars/q8-e-tron"
+      },
+      {
+        "name": "Mercedes-Benz EQS SUV",
+        "price": "1.34 - 1.48 Crore",
+        "url": "/mercedes-benz-cars/eqs-suv"
+      },
+      {
+        "name": "Porsche Macan Electric",
+        "price": "1.41 - 1.96 Crore",
+        "url": "/porsche-cars/macan-electric"
+      },
+      {
+        "name": "Mercedes-Benz EQE SUV",
+        "price": "1.41 Crore",
+        "url": "/mercedes-benz-cars/eqe-suv"
+      },
+      {
+        "name": "Kia EV9",
+        "price": "1.51 Crore",
+        "url": "/kia-cars/ev9"
+      },
+      {
+        "name": "BMW iX",
+        "price": "1.62 Crore",
+        "url": "/bmw-cars/ix"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.15 - 1.27 Crore",
+          "₹ 1.34 - 1.48 Crore",
+          "₹ 1.41 - 1.96 Crore",
+          "₹ 1.41 Crore",
+          "₹ 1.51 Crore",
+          "₹ 1.62 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "8.5"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "450,491 Km/Full Charge",
+          "550 Km/Full Charge",
+          "590 - 613 Km/Full Charge",
+          "550 Km/Full Charge",
+          "470 Km/Full Charge",
+          "425 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "6 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "2",
+          "3",
+          "1",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Q8 E-Tron vs EQS SUV",
+          "Q8 E-Tron vs Macan Electric",
+          "Q8 E-Tron vs EQE SUV",
+          "Q8 E-Tron vs EV9",
+          "Q8 E-Tron vs iX"
+        ]
+      }
+    ]
+  }
+}

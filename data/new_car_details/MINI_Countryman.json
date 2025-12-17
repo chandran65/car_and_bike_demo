@@ -1,0 +1,225 @@
+{
+  "basic_info": {
+    "name": "MINI Countryman",
+    "manufacturer": "MINI",
+    "model": "Countryman",
+    "body_type": null,
+    "url": "https://www.carandbike.com/mini-cars/countryman",
+    "image_url": "https://images.carandbike.com/car-images/large/mini/countryman/mini-countryman.jpg?v=22",
+    "description": "MINI Countryman is a 5-seater  available at a starting price of Rs. 64.9 Lakh. The car is available in 1 variants, with 1 engine and 1 transmission option. Additionally, Countryman offers a Ground Clearance measurement of 165 mm and a Boot capacity of 450 liters. You can choose from 3 colors for the Countryman. The mileage of the Countryman varies from 14.4 KM/L depending on the model.",
+    "model_date": "2021-03-05",
+    "sku": "mini-countryman-1307",
+    "vin": "5NPEL4AB3BH001307",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1998 cc",
+    "power": "189 bhp",
+    "torque": "280 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "14 KM/L"
+  },
+  "dimensions": {
+    "width": "1822 mm ",
+    "height": "1557 mm",
+    "weight": "1505/1505",
+    "seating_capacity": "5",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "Midnight Black",
+    "Legent Grey",
+    "British Racing Green"
+  ],
+  "price": {
+    "value": "6490000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mini-cars/countryman"
+  },
+  "brand": {
+    "name": "MINI",
+    "image": "https://images.carandbike.com/car-images/big/mini/mini.png?v=1"
+  },
+  "rating": {
+    "value": "7.7",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Strong Road Presence",
+    "Premium Fit And Finish",
+    "Good Handling And Performance"
+  ],
+  "cons": [
+    "Ride Quality Could Be Better",
+    "Rear Seat Comfort Not The Best",
+    "Limited Sales &amp; Service Outlets"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "14.4 KM/L",
+      "city_mileage": "11.5 KM/L",
+      "highway_mileage": "14.5 KM/L"
+    }
+  ],
+  "verdict": "The Mini Countryman is that one mini that is more practical when it comes to space and its SUVish character appeals to many. It brings out the key factor of great dynamics the brand is well known for yet remains exclusive in a sea of SUVs. The Countryman also feels well priced even if it is more expensive that other models of the British brand sold in India.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "MINI Countryman",
+        "price": "64.9 Lakh",
+        "url": "/mini-cars/countryman"
+      },
+      {
+        "name": "BMW 3 Series",
+        "price": "65.01 - 79.53 Lakh",
+        "url": "/bmw-cars/3-series"
+      },
+      {
+        "name": "Audi Q5",
+        "price": "64.74 - 69.86 Lakh",
+        "url": "/audi-cars/q5"
+      },
+      {
+        "name": "Jeep Wrangler Unlimited",
+        "price": "64.08 - 67.81 Lakh",
+        "url": "/jeep-cars/wrangler-unlimited"
+      },
+      {
+        "name": "Audi A6",
+        "price": "63.74 - 70.79 Lakh",
+        "url": "/audi-cars/a6"
+      },
+      {
+        "name": "Lexus NX",
+        "price": "66.59 - 73.4 Lakh",
+        "url": "/lexus-cars/nx"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 64.9 Lakh",
+          "₹ 65.01 - 79.53 Lakh",
+          "₹ 64.74 - 69.86 Lakh",
+          "₹ 64.08 - 67.81 Lakh",
+          "₹ 63.74 - 70.79 Lakh",
+          "₹ 66.59 - 73.4 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.7",
+          "8.2",
+          "7.5",
+          "7.0",
+          "7.6",
+          "7.1"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1998 cc",
+          "2998 CC",
+          "1984 CC",
+          "1998 CC",
+          "1984 CC",
+          "2487 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "14 KM/L",
+          "16.13 KM/L",
+          "13.47 KM/L",
+          "12.01 KM/L",
+          "14.11 KM/L",
+          "18.3 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Hybrid"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "61.0 L",
+          "59.0 L",
+          "70.0 L",
+          "87.0 L",
+          "73.0 L",
+          "56.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "3",
+          "3",
+          "2",
+          "4",
+          "4"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Countryman vs 3 Series",
+          "Countryman vs Q5",
+          "Countryman vs Wrangler Unlimited",
+          "Countryman vs A6",
+          "Countryman vs NX"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "basic_info": {
+    "name": "Bentley Continental",
+    "manufacturer": "Bentley",
+    "model": "Continental",
+    "body_type": null,
+    "url": "https://www.carandbike.com/bentley-cars/continental",
+    "image_url": "https://images.carandbike.com/car-images/large/bentley/continental/bentley-continental.jpg?v=12",
+    "description": "Bentley Continental is a 4-seater  available at a starting price of Rs. 3.77 Crore. The car is available in 8 variants, with 2 engine and 1 transmission option. Additionally, Continental offers a Ground Clearance measurement of 142 mm and a Boot capacity of 358 liters. You can choose from 3 colors for the Continental. The mileage of the Continental varies from 10.6 KM/L depending on the model.",
+    "model_date": "2003-01-01",
+    "sku": "bentley-continental-1031",
+    "vin": "5NPEL4AB3BH001031",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "3993,5998 cc",
+    "power": "500,520,582,633 bhp",
+    "torque": "660,680,720,840 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "8 - 10 KM/L"
+  },
+  "dimensions": {
+    "width": "2226 mm ",
+    "height": "1401 mm",
+    "weight": "2295/2495",
+    "seating_capacity": "4",
+    "number_of_doors": "2"
+  },
+  "colors": [
+    "Hallmark",
+    "Apple Green",
+    "Crystal Black"
+  ],
+  "price": {
+    "value": 37725170,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/bentley-cars/continental"
+  },
+  "brand": {
+    "name": "Bentley",
+    "image": "https://images.carandbike.com/car-images/big/bentley/bentley.png?v=1"
+  },
+  "rating": {
+    "value": "8.1",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Stunning Road Presence",
+    "Style Statement",
+    "Luxurious Interior",
+    "&nbsp;"
+  ],
+  "cons": [
+    "Pricey Proposition",
+    "Very High Running Costs",
+    "High On Fuel Consumption"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "10.6 KM/L",
+      "city_mileage": "6.4 KM/L",
+      "highway_mileage": "8.1 KM/L"
+    }
+  ],
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Bentley Continental",
+        "price": "3.12 - 4.16 Crore",
+        "url": "/bentley-cars/continental"
+      },
+      {
+        "name": "Aston Martin Vantage",
+        "price": "3.77 Crore",
+        "url": "/aston-martin-cars/vantage"
+      },
+      {
+        "name": "Mercedes-AMG GT 4-Door Coupe",
+        "price": "3.34 Crore",
+        "url": "/mercedes-amg-cars/gt-4-door-coupe"
+      },
+      {
+        "name": "Ferrari Portofino",
+        "price": "3.31 Crore",
+        "url": "/ferrari-cars/portofino"
+      },
+      {
+        "name": "Maserati GranTurismo",
+        "price": "3.09 - 3.3 Crore",
+        "url": "/maserati-cars/granturismo"
+      },
+      {
+        "name": "Ferrari 296 GTB",
+        "price": "5.11 Crore",
+        "url": "/ferrari-cars/296-gtb"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 3.12 - 4.16 Crore",
+          "₹ 3.77 Crore",
+          "₹ 3.34 Crore",
+          "₹ 3.31 Crore",
+          "₹ 3.09 - 3.3 Crore",
+          "₹ 5.11 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.1",
+          "7.8",
+          "-",
+          "8.0",
+          "8.0",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "3993,5998 cc",
+          "3982 CC",
+          "3982 CC",
+          "3855 CC",
+          "4691 CC",
+          "2996 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "8 - 10 KM/L",
+          "7 KM/L",
+          "10 KM/L",
+          "10 KM/L",
+          "14.3 KM/L",
+          "15.62 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Hybrid",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "4 Seater",
+          "2 Seater",
+          "5 Seater",
+          "2 Seater",
+          "4 Seater",
+          "2 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "90.0 L",
+          "73.0 L",
+          "75.0 L",
+          "80.0 L",
+          "86.0 L",
+          "65.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "8",
+          "1",
+          "1",
+          "1",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Continental vs Vantage",
+          "Continental vs GT 4-Door Coupe",
+          "Continental vs Portofino",
+          "Continental vs GranTurismo",
+          "Continental vs 296 GTB"
+        ]
+      }
+    ]
+  }
+}

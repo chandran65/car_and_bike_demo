@@ -1,0 +1,201 @@
+{
+  "basic_info": {
+    "name": "Ferrari 296 GTS",
+    "manufacturer": "Ferrari",
+    "model": "296 GTS",
+    "body_type": "Convertible",
+    "url": "https://www.carandbike.com/ferrari-cars/296-gts",
+    "image_url": "https://images.carandbike.com/car-images/large/ferrari/296-gts/ferrari-296-gts.jpg?v=4",
+    "description": "Ferrari 296 GTS is a 2-seater Convertible available at a starting price of Rs. 5.9 Crore. The car is available in 1 variants, with 1 engine and 1 transmission option. Additionally, 296 GTS offers a Ground Clearance measurement of 110 mm and a Boot capacity of 113 liters. The mileage of the 296 GTS varies from 12.5 KM/L depending on the model.",
+    "model_date": "2023-05-23",
+    "sku": "ferrari-296-gts-1899",
+    "vin": "5NPEL4AB3BH001899",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2996 cc",
+    "power": "663 bhp @ 8,500 bhp",
+    "torque": "740 Nm Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "12 KM/L"
+  },
+  "dimensions": {
+    "width": "1958 mm ",
+    "height": "1187 mm",
+    "weight": "1470/1470",
+    "seating_capacity": "2",
+    "number_of_doors": "2"
+  },
+  "colors": [],
+  "price": {
+    "value": "59027027",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/ferrari-cars/296-gts"
+  },
+  "brand": {
+    "name": "Ferrari",
+    "image": "https://images.carandbike.com/car-images/big/ferrari/ferrari.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Ferrari 296 GTS",
+        "price": "5.9 Crore",
+        "url": "/ferrari-cars/296-gts"
+      },
+      {
+        "name": "Aston Martin Vantage",
+        "price": "3.77 Crore",
+        "url": "/aston-martin-cars/vantage"
+      },
+      {
+        "name": "Bentley Continental",
+        "price": "3.77 - 5.03 Crore",
+        "url": "/bentley-cars/continental"
+      },
+      {
+        "name": "Aston Martin V12 Vanquish",
+        "price": "8.37 Crore",
+        "url": "/aston-martin-cars/v12-vanquish"
+      },
+      {
+        "name": "Mercedes-AMG GT 4-Door Coupe",
+        "price": "3.34 Crore",
+        "url": "/mercedes-amg-cars/gt-4-door-coupe"
+      },
+      {
+        "name": "Lamborghini Revuelto",
+        "price": "8.7 Crore",
+        "url": "/lamborghini-cars/revuelto"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 5.9 Crore",
+          "₹ 3.77 Crore",
+          "₹ 3.77 - 5.03 Crore",
+          "₹ 8.37 Crore",
+          "₹ 3.34 Crore",
+          "₹ 8.7 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "7.8",
+          "8.1",
+          "7.4",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2996 cc",
+          "3982 CC",
+          "3993 CC",
+          "5935 CC",
+          "3982 CC",
+          "6498 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "12 KM/L",
+          "7 KM/L",
+          "8.5 - 10.62 KM/L",
+          "12.8 KM/L",
+          "10 KM/L",
+          "10 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Hybrid",
+          "Hybrid"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "2 Seater",
+          "2 Seater",
+          "4 Seater",
+          "2 Seater",
+          "5 Seater",
+          "2 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "65.0 L",
+          "73.0 L",
+          "90.0 L",
+          "78.0 L",
+          "75.0 L",
+          "90.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "1",
+          "8",
+          "1",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "296 GTS vs Vantage",
+          "296 GTS vs Continental",
+          "296 GTS vs V12 Vanquish",
+          "296 GTS vs GT 4-Door Coupe",
+          "296 GTS vs Revuelto"
+        ]
+      }
+    ]
+  }
+}

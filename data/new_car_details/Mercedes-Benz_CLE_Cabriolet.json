@@ -1,0 +1,206 @@
+{
+  "basic_info": {
+    "name": "Mercedes-Benz CLE Cabriolet",
+    "manufacturer": "Mercedes-Benz",
+    "model": "CLE Cabriolet",
+    "body_type": "Coupe",
+    "url": "https://www.carandbike.com/mercedes-benz-cars/cle-cabriolet",
+    "image_url": "https://images.carandbike.com/car-images/large/mercedes-benz/cle-cabriolet/mercedes-benz-cle-cabriolet.jpg?v=18",
+    "description": "Mercedes-Benz CLE Cabriolet is a 5-seater Coupe available at a starting price of Rs. 1.17 Crore. The car is available in 1 variants, with 1 engine and 1 transmission option. You can choose from 4 colors for the CLE Cabriolet. The mileage of the CLE Cabriolet varies from 12 KM/L depending on the model.",
+    "model_date": "2024-08-08",
+    "sku": "mercedes-benz-cle-cabriolet-1804",
+    "vin": "5NPEL4AB3BH001804",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1999 cc",
+    "power": "255 bhp",
+    "torque": "400 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "12 KM/L"
+  },
+  "dimensions": {
+    "width": "1890 mm ",
+    "height": "1620 mm",
+    "weight": "",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Obsidian Black",
+    "Graphite Grey Metallic",
+    "Spectral blue",
+    "High Tech Silver"
+  ],
+  "price": {
+    "value": 11700000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mercedes-benz-cars/cle-cabriolet"
+  },
+  "brand": {
+    "name": "Mercedes-Benz",
+    "image": "https://images.carandbike.com/car-images/big/mercedes-benz/mercedes-benz.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mercedes-Benz CLE Cabriolet",
+        "price": "1.17 Crore",
+        "url": "/mercedes-benz-cars/cle-cabriolet"
+      },
+      {
+        "name": "Mercedes-AMG GLC 43 Coupe",
+        "price": "1.17 Crore",
+        "url": "/mercedes-amg-cars/glc-43-coupe"
+      },
+      {
+        "name": "BMW 6 Series Gran Turismo",
+        "price": "79.04 - 86.72 Lakh",
+        "url": "/bmw-cars/6-series-gran-turismo"
+      },
+      {
+        "name": "Tata Curvv",
+        "price": "9.66 - 18.54 Lakh",
+        "url": "/tata-cars/curvv"
+      },
+      {
+        "name": "Citroen Basalt X",
+        "price": "7.95 - 13.11 Lakh",
+        "url": "/citroen-cars/basalt-x"
+      },
+      {
+        "name": "BMW M8",
+        "price": "2.56 Crore",
+        "url": "/bmw-cars/m8"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.17 Crore",
+          "₹ 1.17 Crore",
+          "₹ 79.04 - 86.72 Lakh",
+          "₹ 9.66 - 18.54 Lakh",
+          "₹ 7.95 - 13.11 Lakh",
+          "₹ 2.56 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "7.1",
+          "8.0",
+          "-",
+          "-",
+          "8.8"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1999 cc",
+          "1996 CC",
+          "1998 CC",
+          "1199 CC",
+          "1199 CC",
+          "4395 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Manual",
+          "Manual",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "12 KM/L",
+          "13 KM/L",
+          "13.32 - 18.65 KM/L",
+          "16 - 19 KM/L",
+          "18 - 19.5 KM/L",
+          "11.3 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "4 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "66.0 L",
+          "93.0 L",
+          "68.0 L",
+          "44.0 L",
+          "45.0 L",
+          "68.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "1",
+          "4",
+          "22",
+          "8",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "CLE Cabriolet vs GLC 43 Coupe",
+          "CLE Cabriolet vs 6 Series Gran Turismo",
+          "CLE Cabriolet vs Curvv",
+          "CLE Cabriolet vs Basalt X",
+          "CLE Cabriolet vs M8"
+        ]
+      }
+    ]
+  }
+}

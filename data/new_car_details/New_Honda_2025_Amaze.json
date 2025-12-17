@@ -1,0 +1,252 @@
+{
+  "basic_info": {
+    "name": "New Honda 2025  Amaze",
+    "manufacturer": "Honda",
+    "model": "2025 New Amaze",
+    "body_type": "Sedan",
+    "url": "https://www.carandbike.com/honda-cars/2025-amaze",
+    "image_url": "https://images.carandbike.com/car-images/large/honda/2025-amaze/honda-2025-amaze.jpg?v=11",
+    "description": "New Honda 2025  Amaze is a 5-seater Sedan available at a starting price of Rs. 7.41 Lakh. The car is available in 6 variants, with 1 engine and 2 transmission option. Additionally, 2025 New Amaze offers a Ground Clearance measurement of 170 mm and a Boot capacity of 420 liters. You can choose from 6 colors for the 2025 New Amaze. The mileage of the 2025 New Amaze varies from 18.6 KM/L depending on the model.",
+    "model_date": "2024-12-04",
+    "sku": "new-honda-2025-amaze-1829",
+    "vin": "5NPEL4AB3BH001829",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1199 cc",
+    "power": "89 bhp",
+    "torque": "110 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Manual, CVT",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "18 KM/L"
+  },
+  "dimensions": {
+    "width": "1695 mm ",
+    "height": "1501 mm",
+    "weight": "924/924",
+    "seating_capacity": "5",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "Obsidian Blue Pearl",
+    "Radiant Red Metallic",
+    "Platinum White Pearl",
+    "Golden Brown Metallic",
+    "Meteoroid Grey Metallic",
+    "Lunar Silver Metallic"
+  ],
+  "price": {
+    "value": "740800",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/honda-cars/2025-amaze"
+  },
+  "brand": {
+    "name": "Honda",
+    "image": "https://images.carandbike.com/car-images/big/honda/honda.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "18.6 KM/L",
+      "city_mileage": "17 KM/L",
+      "highway_mileage": "19 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "CVT",
+      "mileage": "18.6 KM/L",
+      "city_mileage": "17 KM/L",
+      "highway_mileage": "19 KM/L"
+    }
+  ],
+  "whats_new": {
+    "Introduction": [
+      "Honda launched the third generation of the Amaze in late 2024 without discontinuing the second-generation.",
+      "In its latest iteration, the petrol-only sedan gets a new look, refreshed cabin, new features, and technology.",
+      "In fact, in 2025, Honda introduced a new Crystal Black Pearl exterior shade for the third generation Amaze as well."
+    ],
+    "Exterior": [
+      "Regarding changes outside, the front styling now looks like the Elevate with the hexagonal grille.",
+      "The rectangular headlamps add to the similarity with all LED units in the top-spec version.",
+      "Now, the sedan's width has also increased by 38mm than before for a more progressive and wider stance.",
+      "Besides, the ground clearance has also gone up from 170mm to 172mm.",
+      "It rides on 15-inch dual-tone alloy wheels, which are again a bit like its elder sibling — the City."
+    ],
+    "Interior": [
+      "Inside, the seating layout and design is identical to the predecessor Amaze.",
+      "It continues to get a 416-litre boot space still making it the compact sedan with the highest cargo volume in its segment.",
+      "Feature-wise, the latest tech includes cruise control, push-button start, and automatic climate control.",
+      "Unlike big screens these days, it gets a seven-inch touchscreen infotainment system with Android Auto and Apple CarPlay.",
+      "On the safety front, it gets six airbags, ISOFIX mounts, and ABS with EBD.",
+      "Apart from the various safety assist technologies, Honda has equipped the higher variants of the Amaze with ADAS functions through Honda Sensing.",
+      "This makes it not only the first-in-segment to have it, but also the most affordable passenger car in India to have this automated safety technology."
+    ],
+    "Powertrain": [
+      "Post 2024, there are no mechanical changes to the Amaze.",
+      "It continues to be powered by a 1.2-litre, four-cylinder petrol engine.",
+      "This mill comes mated to either a five-speed manual or a CVT automatic."
+    ]
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Honda 2025 New Amaze",
+        "price": "7.41 - 10 Lakh",
+        "url": "/honda-cars/2025-amaze"
+      },
+      {
+        "name": "Honda Amaze",
+        "price": "6.98 - 7.8 Lakh",
+        "url": "/honda-cars/amaze"
+      },
+      {
+        "name": "Maruti Suzuki 2025 New Dzire",
+        "price": "6.26 - 9.31 Lakh",
+        "url": "/maruti-suzuki-cars/2025-new-dzire"
+      },
+      {
+        "name": "Hyundai Aura",
+        "price": "5.98 - 8.42 Lakh",
+        "url": "/hyundai-cars/aura"
+      },
+      {
+        "name": "Maruti Suzuki Ciaz",
+        "price": "9.09 - 10.82 Lakh",
+        "url": "/maruti-suzuki-cars/ciaz"
+      },
+      {
+        "name": "Tata Tigor",
+        "price": "5.49 - 8.74 Lakh",
+        "url": "/tata-cars/tigor"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 7.41 - 10 Lakh",
+          "₹ 6.98 - 7.8 Lakh",
+          "₹ 6.26 - 9.31 Lakh",
+          "₹ 5.98 - 8.42 Lakh",
+          "₹ 9.09 - 10.82 Lakh",
+          "₹ 5.49 - 8.74 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "7.8",
+          "-",
+          "7.8",
+          "7.0",
+          "7.6"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1199 cc",
+          "1199 CC",
+          "1197 CC",
+          "1197 CC",
+          "1462 CC",
+          "1199 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, CVT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "18 KM/L",
+          "18.3 - 18.6 KM/L",
+          "24.7 - 34 KM/L",
+          "20.5 - 28 KM/L",
+          "20.04 - 20.65 KM/L",
+          "17 - 26 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol, CNG",
+          "Petrol, CNG",
+          "Petrol",
+          "Petrol, CNG"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "35.0 L",
+          "35.0 L",
+          "37.0 L",
+          "37.0 L",
+          "43.0 L",
+          "35.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "6",
+          "2",
+          "9",
+          "11",
+          "6",
+          "14"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "2025 Amaze vs Amaze",
+          "2025 Amaze vs 2025 New Dzire",
+          "2025 Amaze vs Aura",
+          "2025 Amaze vs Ciaz",
+          "2025 Amaze vs Tigor"
+        ]
+      }
+    ]
+  }
+}

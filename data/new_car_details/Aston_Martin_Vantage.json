@@ -1,0 +1,227 @@
+{
+  "basic_info": {
+    "name": "Aston Martin Vantage",
+    "manufacturer": "Aston Martin",
+    "model": "Vantage",
+    "body_type": "Coupe",
+    "url": "https://www.carandbike.com/aston-martin-cars/vantage",
+    "image_url": "https://images.carandbike.com/car-images/large/aston-martin/vantage/aston-martin-vantage.jpg?v=14",
+    "description": "Aston Martin Vantage is a 2-seater Coupe available at a starting price of Rs. 3.77 Crore. The car is available in 1 variants, with 1 engine and 1 transmission option. Additionally, Vantage offers a Ground Clearance measurement of 122 mm and a Boot capacity of 350 liters. You can choose from 6 colors for the Vantage. The mileage of the Vantage varies from 7 KM/L depending on the model.",
+    "model_date": "2018-09-25",
+    "sku": "aston-martin-vantage-1553",
+    "vin": "5NPEL4AB3BH001553",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "3982 cc",
+    "power": "656 bhp",
+    "torque": "800 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "7 KM/L"
+  },
+  "dimensions": {
+    "width": "2045 mm ",
+    "height": "1275 mm",
+    "weight": "1745/1745",
+    "seating_capacity": "2",
+    "number_of_doors": "2"
+  },
+  "colors": [
+    "Adrenaline",
+    "True Hunter",
+    "Dynamic Pulse",
+    "Molten",
+    "Tactical",
+    "Lunar Eclipse"
+  ],
+  "price": {
+    "value": 37743243,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/aston-martin-cars/vantage"
+  },
+  "brand": {
+    "name": "Aston Martin",
+    "image": "https://images.carandbike.com/car-images/big/aston-martin/aston-martin.png?v=1"
+  },
+  "rating": {
+    "value": "7.8",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Excellent Design",
+    "Peppy Performance",
+    "Good Driving Dynamics"
+  ],
+  "cons": [
+    "Not Very Practical",
+    "Pricey Proposition",
+    "Less Cargo Space"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "7 KM/L",
+      "city_mileage": "5 KM/L",
+      "highway_mileage": "7 KM/L"
+    }
+  ],
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Aston Martin Vantage",
+        "price": "3.77 Crore",
+        "url": "/aston-martin-cars/vantage"
+      },
+      {
+        "name": "Bentley Continental",
+        "price": "3.77 - 5.03 Crore",
+        "url": "/bentley-cars/continental"
+      },
+      {
+        "name": "Mercedes-AMG GT 4-Door Coupe",
+        "price": "3.34 Crore",
+        "url": "/mercedes-amg-cars/gt-4-door-coupe"
+      },
+      {
+        "name": "Ferrari Portofino",
+        "price": "3.31 Crore",
+        "url": "/ferrari-cars/portofino"
+      },
+      {
+        "name": "Maserati GranTurismo",
+        "price": "3.09 - 3.3 Crore",
+        "url": "/maserati-cars/granturismo"
+      },
+      {
+        "name": "Ferrari 296 GTB",
+        "price": "5.11 Crore",
+        "url": "/ferrari-cars/296-gtb"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 3.77 Crore",
+          "₹ 3.77 - 5.03 Crore",
+          "₹ 3.34 Crore",
+          "₹ 3.31 Crore",
+          "₹ 3.09 - 3.3 Crore",
+          "₹ 5.11 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.8",
+          "8.1",
+          "-",
+          "8.0",
+          "8.0",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "3982 cc",
+          "3993 CC",
+          "3982 CC",
+          "3855 CC",
+          "4691 CC",
+          "2996 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "7 KM/L",
+          "8.5 - 10.62 KM/L",
+          "10 KM/L",
+          "10 KM/L",
+          "14.3 KM/L",
+          "15.62 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Hybrid",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "2 Seater",
+          "4 Seater",
+          "5 Seater",
+          "2 Seater",
+          "4 Seater",
+          "2 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "73.0 L",
+          "90.0 L",
+          "75.0 L",
+          "80.0 L",
+          "86.0 L",
+          "65.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "8",
+          "1",
+          "1",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Vantage vs Continental",
+          "Vantage vs GT 4-Door Coupe",
+          "Vantage vs Portofino",
+          "Vantage vs GranTurismo",
+          "Vantage vs 296 GTB"
+        ]
+      }
+    ]
+  }
+}

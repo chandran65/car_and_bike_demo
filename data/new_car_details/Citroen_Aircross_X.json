@@ -1,0 +1,267 @@
+{
+  "basic_info": {
+    "name": "Citroen Aircross X",
+    "manufacturer": "Citroen",
+    "model": "Aircross X",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/citroen-cars/aircross-x",
+    "image_url": "https://images.carandbike.com/car-images/large/citroen/aircross-x/citroen-aircross-x.jpg?v=14",
+    "description": "Citroen Aircross X is a 5-seater SUV available at a starting price of Rs. 8.29 Lakh. The car is available in 7 variants, with 2 engine and 2 transmission option. Additionally, Aircross X offers a Ground Clearance measurement of 200 mm and a Boot capacity of 511 liters. You can choose from 9 colors for the Aircross X. The mileage of the Aircross X varies from 18.5 KM/L depending on the model.",
+    "model_date": "2025-09-22",
+    "sku": "citroen-aircross-x-1901",
+    "vin": "5NPEL4AB3BH001901",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1199 cc",
+    "power": "109 bhp @ 5500 rpm,109 bhp @ 5500–2500 rpm,80 bhp @ 5750 rpm bhp",
+    "torque": "115 Nm @ 3750 rpm,190 Nm @ 1750 rpm,205 Nm @ 1750–2500 rpm Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Manual, Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "17 - 18 KM/L"
+  },
+  "dimensions": {
+    "width": "1796 mm ",
+    "height": "1665 mm",
+    "weight": "1230/1309",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Deep Forest Green Perla Nera Black",
+    "Garnet Red / Perla Nera Black",
+    "Cosmo Blue with Polar white",
+    "Steel Grey",
+    "Deep Forest Green",
+    "Garnet Red",
+    "Polar White",
+    "Cosmo Blue",
+    "Perla Nera Black"
+  ],
+  "price": {
+    "value": "829000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/citroen-cars/aircross-x"
+  },
+  "brand": {
+    "name": "Citroen",
+    "image": "https://images.carandbike.com/car-images/big/citroen/citroen.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "18.5 KM/L",
+      "city_mileage": "17.1 KM/L",
+      "highway_mileage": "0 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "18.5 KM/L",
+      "city_mileage": "17.1 KM/L",
+      "highway_mileage": "0 KM/L"
+    }
+  ],
+  "whats_new": {
+    "Introduction": [
+      "The Citroen Aircross X is a SUV designed for families and daily urban use.",
+      "It’s available in both five and seven-seater options to cater buyers who require extra space for passengers and luggage.",
+      "Previously called as the C3 Aircross, the French carmaker changed it to Aircross X to differentiate from the original C3.",
+      "Essentially, the Aircross X is an upgraded version of the earlier C3 Aircross, with improvements like ventilated seats and more features."
+    ],
+    "Exterior": [
+      "The Citroen Aircross X has a commanding exterior that combines the modern style of French design with practicality.",
+      "Its fascia features sleek two-piece LED DRLs and new LED projector fog lamps that brighten its face.",
+      "The grille is decorated with slim chrome strips and a prominent Citroen double-chevron logo right in the centre.",
+      "And to an adventurous appearance, the bumper gets a silver skid plate.",
+      "Looking from the side, the Aircross X keeps a boxy SUV silhouette that looks solid and practical.",
+      "It has a dual-tone black roof, black roof rails, and black side mirrors with integrated turn indicators, giving it a sporty touch.",
+      "The wheel arches have black body cladding, and the car rides on 17-inch dual-tone alloy wheels.",
+      "At the back, the SUV has wrap-around LED taillights connected by a glossy black panel.",
+      "A silver skid plate at the rear, shark fin antenna, and an Aircross X badging are the final touches to its exterior design."
+    ],
+    "Interior": [
+      "Step inside the spacious cabin where each seat feels like the best spot, thanks to clever design and upgrades from its predecessors.",
+      "The dashboard has a fresh, soft-touch feel with elegant gold accents.",
+      "Additionally, a large 10.25-inch touchscreen for entertainment and controls, make it easy to use favorite apps or navigate roads.",
+      "There’s also a seven-inch fully digital instrument cluster that shows all the car’s important information in a clear format.",
+      "In some variants, seats are covered in tan leatherette, which not only looks great but also feels comfy.",
+      "Meanwhile, other versions have ventilated (cooled) seats for a nice breeze on a hot summer day.",
+      "Behind the seats, there's a generous boot space of 511-litres for luggage or shopping bags.",
+      "Moreover, the rear seats can be removed or folded to create more room inside.",
+      "For comfort, there's an advanced air conditioning system to keep the temperature just right, including rear AC vents to stay cool.",
+      "The cabin is made quieter and more inviting with ambient lighting that adds a warm mood during night drives.",
+      "Also, the steering wheel is wrapped in leatherette, enhancing grip and feel.",
+      "Then, there are convenient features like keyless entry, cruise control, and a 360-degree camera make moving and parking easier plus safer.",
+      "Lastly, the car uses a smart voice assistant that understands many languages to assist you in controlling its features."
+    ],
+    "Powertrain": [
+      "The Aircross X is available in two engine options to choose from.",
+      "Firstly, a 1.2-litre naturally aspirated petrol engine that churns 80.8bhp and comes mated to a five-speed manual gearbox.",
+      "On the other hand, there’s a 1.2-litre turbocharged petrol engine producing 108.4bhp.",
+      "The turbo engine offers a choice between a six-speed manual or a six-speed automatic transmission."
+    ]
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Citroen Aircross X",
+        "price": "8.29 - 13.69 Lakh",
+        "url": "/citroen-cars/aircross-x"
+      },
+      {
+        "name": "Hyundai Venue",
+        "price": "7.9 - 15.69 Lakh",
+        "url": "/hyundai-cars/venue"
+      },
+      {
+        "name": "Tata Nexon",
+        "price": "7.32 - 14.7 Lakh",
+        "url": "/tata-cars/nexon"
+      },
+      {
+        "name": "Mahindra XUV 3XO",
+        "price": "7.28 - 14.4 Lakh",
+        "url": "/mahindra-cars/xuv-3xo"
+      },
+      {
+        "name": "Hyundai Venue N Line",
+        "price": "10.55 - 15.48 Lakh",
+        "url": "/hyundai-cars/venue-n-line"
+      },
+      {
+        "name": "Skoda Kushaq",
+        "price": "10.61 - 18.45 Lakh",
+        "url": "/skoda-cars/kushaq"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 8.29 - 13.69 Lakh",
+          "₹ 7.9 - 15.69 Lakh",
+          "₹ 7.32 - 14.7 Lakh",
+          "₹ 7.28 - 14.4 Lakh",
+          "₹ 10.55 - 15.48 Lakh",
+          "₹ 10.61 - 18.45 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "8.3",
+          "7.8",
+          "7.5",
+          "-",
+          "8.0"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1199 cc",
+          "1197 CC",
+          "1199 CC",
+          "1197 CC",
+          "998 CC",
+          "999 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, Automatic",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "17 - 18 KM/L",
+          "18.34 - 21 KM/L",
+          "17.8 - 23 KM/L",
+          "18.89 - 21.2 KM/L",
+          "18 KM/L",
+          "19.76 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol, Diesel",
+          "Diesel, Petrol, CNG",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "45.0 L",
+          "45.0 L",
+          "44.0 L",
+          "42.0 L",
+          "45.0 L",
+          "50.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "7",
+          "25",
+          "28",
+          "29",
+          "6",
+          "31"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Aircross X vs Venue",
+          "Aircross X vs Nexon",
+          "Aircross X vs XUV 3XO",
+          "Aircross X vs Venue N Line",
+          "Aircross X vs Kushaq"
+        ]
+      }
+    ]
+  }
+}

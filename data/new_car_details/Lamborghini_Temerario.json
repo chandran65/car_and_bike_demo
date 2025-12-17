@@ -1,0 +1,226 @@
+{
+  "basic_info": {
+    "name": "Lamborghini Temerario",
+    "manufacturer": "Lamborghini",
+    "model": "Temerario",
+    "body_type": "Coupe",
+    "url": "https://www.carandbike.com/lamborghini-cars/temerario",
+    "image_url": "https://images.carandbike.com/car-images/large/lamborghini/temerario/lamborghini-temerario.jpg?v=28",
+    "description": "Lamborghini Temerario is a 2-seater Coupe available at a starting price of Rs. 5.87 Crore. The car is available in 1 variants, with 1 engine and 1 transmission option. You can choose from 24 colors for the Temerario. The mileage of the Temerario varies from 5 KM/L depending on the model.",
+    "model_date": "2025-04-30",
+    "sku": "lamborghini-temerario-1856",
+    "vin": "5NPEL4AB3BH001856",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "3992 cc",
+    "power": "789 bhp @ 9000–9750 rpm bhp",
+    "torque": "730 Nm @ 4,000–7,000 rpm Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "5 KM/L"
+  },
+  "dimensions": {
+    "width": "1996 mm ",
+    "height": "1201 mm",
+    "weight": "1690/1690",
+    "seating_capacity": "2",
+    "number_of_doors": "2"
+  },
+  "colors": [
+    "Grigio Titans",
+    "Grigio china",
+    "Grigio Acheso",
+    "Bianco Phanes",
+    "Biano Sideerale",
+    "Grigio artis",
+    "Bianco Canopus",
+    "Blu Arioone",
+    "Blu Grifo",
+    "Nero Nemesis",
+    "New Blu monoceres Matt",
+    "Blu lucus matt",
+    "Grigeo Titans",
+    "New Grogio numbers matt",
+    "New Grogio Keres matt",
+    "New Giallo Orion",
+    "Marrone Apus",
+    "Verde hydra",
+    "Verde copreo",
+    "Verde Aiace",
+    "Verde Turbine",
+    "Viola Rubus",
+    "Viola 30 th",
+    "Viola Mel"
+  ],
+  "price": {
+    "value": "58741259",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/lamborghini-cars/temerario"
+  },
+  "brand": {
+    "name": "Lamborghini",
+    "image": "https://images.carandbike.com/car-images/big/lamborghini/lamborghini.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Lamborghini Temerario",
+        "price": "5.87 Crore",
+        "url": "/lamborghini-cars/temerario"
+      },
+      {
+        "name": "McLaren Artura",
+        "price": "5.68 Crore",
+        "url": "/mclaren-cars/artura"
+      },
+      {
+        "name": "Maserati MCPura",
+        "price": "4.12 - 5.12 Crore",
+        "url": "/maserati-cars/mcpura"
+      },
+      {
+        "name": "Ferrari Roma",
+        "price": "3.56 Crore",
+        "url": "/ferrari-cars/roma"
+      },
+      {
+        "name": "Mercedes-AMG GT",
+        "price": "3.05 - 3.65 Crore",
+        "url": "/mercedes-amg-cars/gt"
+      },
+      {
+        "name": "Mercedes-AMG SL-Class",
+        "price": "2.47 Crore",
+        "url": "/mercedes-amg-cars/sl-class"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 5.87 Crore",
+          "₹ 5.68 Crore",
+          "₹ 4.12 - 5.12 Crore",
+          "₹ 3.56 Crore",
+          "₹ 3.05 - 3.65 Crore",
+          "₹ 2.47 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "-",
+          "8.5",
+          "8.2",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "3992 cc",
+          "2993 CC",
+          "2992 CC",
+          "3855 CC",
+          "3982 CC",
+          "3982 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "5 KM/L",
+          "11 KM/L",
+          "0 KM/L",
+          "7 KM/L",
+          "11.4 KM/L",
+          "10 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "2 Seater",
+          "2 Seater",
+          "2 Seater",
+          "2 Seater",
+          "2 Seater",
+          "2 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "65.0 L",
+          "66.0 L",
+          "60.0 L",
+          "80.0 L",
+          "75.0 L",
+          "70.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "1",
+          "2",
+          "1",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Temerario vs Artura",
+          "Temerario vs MCPura",
+          "Temerario vs Roma",
+          "Temerario vs GT",
+          "Temerario vs SL-Class"
+        ]
+      }
+    ]
+  }
+}

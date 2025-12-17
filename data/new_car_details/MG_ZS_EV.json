@@ -1,0 +1,214 @@
+{
+  "basic_info": {
+    "name": "MG ZS EV",
+    "manufacturer": "MG",
+    "model": "ZS EV",
+    "body_type": null,
+    "url": "https://www.carandbike.com/mg-cars/zs-ev",
+    "image_url": "https://images.carandbike.com/car-images/large/mg/zs-ev/mg-zs-ev.jpg?v=25",
+    "description": "MG ZS EV is a 5-seater electric  available at a starting price of Rs. 17.99 Lakh. The electric car is available in 7 variants.Additionally, ZS EV offers a Ground Clearance measurement of 177 mm and a Boot capacity of 448 liters. You can choose from 4 colors for the ZS EV. The battery range/mileage of the ZS EV is 461 Km/Full Charge. ",
+    "model_date": "2022-03-07",
+    "sku": "mg-zs-ev-1580",
+    "vin": "5NPEL4AB3BH001580",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "461 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1809 mm ",
+    "height": "1649 mm",
+    "weight": "1528/1528",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Candy White",
+    "Starry Black",
+    "Aurora Silver",
+    "Glaze Red"
+  ],
+  "price": {
+    "value": 1799000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mg-cars/zs-ev"
+  },
+  "brand": {
+    "name": "MG",
+    "image": "https://images.carandbike.com/car-images/big/mg/mg.png?v=1"
+  },
+  "rating": {
+    "value": "7.8",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Well-Built With Premium Interiors",
+    "Quick And Responsive Motor Is Fun To Drive",
+    "400+ Range Is Adequate For Inter-City Trips"
+  ],
+  "cons": [
+    "Expensive",
+    "Misses Out On Adas Safety Tech",
+    "Slightly Firm Ride Quality"
+  ],
+  "verdict": "With each update, the MG ZS EV is evolving into a more modern and desirable electric vehicle. It positions itself as a sportier and more upscale model, especially evident in the well-crafted cabin design, which enhances its overall appeal. The exterior styling of the ZS EV assertively embraces its electric vehicle status, making a striking visual statement. While it is priced on the higher end of the spectrum, this cost is counterbalanced by the vehicle's substantial range and rapid charging capabilities. These features make the MG ZS EV an attractive proposition for those looking to invest in an advanced, efficient, and stylish electric vehicle.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "MG ZS EV",
+        "price": "17.99 - 20.5 Lakh",
+        "url": "/mg-cars/zs-ev"
+      },
+      {
+        "name": "Hyundai Creta EV",
+        "price": "18.02 - 24.55 Lakh",
+        "url": "/hyundai-cars/creta-ev"
+      },
+      {
+        "name": "Mahindra BE 6e",
+        "price": "18.9 - 26.9 Lakh",
+        "url": "/mahindra-cars/be-6e"
+      },
+      {
+        "name": "VinFast VF6",
+        "price": "19.13 - 21.22 Lakh",
+        "url": "/vinfast-cars/vf6"
+      },
+      {
+        "name": "Mahindra XEV 9S",
+        "price": "19.95 - 25.45 Lakh",
+        "url": "/mahindra-cars/xev-9s"
+      },
+      {
+        "name": "Mahindra XUV400",
+        "price": "15.49 - 17.69 Lakh",
+        "url": "/mahindra-cars/xuv400"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 17.99 - 20.5 Lakh",
+          "₹ 18.02 - 24.55 Lakh",
+          "₹ 18.9 - 26.9 Lakh",
+          "₹ 19.13 - 21.22 Lakh",
+          "₹ 19.95 - 25.45 Lakh",
+          "₹ 15.49 - 17.69 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.8",
+          "-",
+          "-",
+          "-",
+          "-",
+          "8.4"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "461 Km/Full Charge",
+          "390 - 473 Km/Full Charge",
+          "557 - 683 Km/Full Charge",
+          "460 Km/Full Charge",
+          "521 - 679 Km/Full Charge",
+          "375 - 456 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "7",
+          "25",
+          "22",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "ZS EV vs Creta EV",
+          "ZS EV vs BE 6e",
+          "ZS EV vs VF6",
+          "ZS EV vs XEV 9S",
+          "ZS EV vs XUV400"
+        ]
+      }
+    ]
+  }
+}

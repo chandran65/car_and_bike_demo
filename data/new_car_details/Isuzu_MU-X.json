@@ -1,0 +1,220 @@
+{
+  "basic_info": {
+    "name": "Isuzu MU-X",
+    "manufacturer": "Isuzu",
+    "model": "MU-X",
+    "body_type": null,
+    "url": "https://www.carandbike.com/isuzu-cars/mu-x",
+    "image_url": "https://images.carandbike.com/car-images/large/isuzu/mu-x/isuzu-mu-x.jpg?v=15",
+    "description": "Isuzu MU-X is a 7-seater  available at a starting price of Rs. 40.67 Lakh. The car is available in 2 variants, with 1 engine and 1 transmission option. Additionally, MU-X offers a Ground Clearance measurement of 220 mm and a Boot capacity of 235 liters. You can choose from 6 colors for the MU-X. The mileage of the MU-X varies from 13 KM/L depending on the model.",
+    "model_date": "2018-10-16",
+    "sku": "isuzu-mu-x-1516",
+    "vin": "5NPEL4AB3BH001516",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2999 cc",
+    "power": "161 bhp",
+    "torque": "320 Nm",
+    "fuel_type": "Diesel"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Diesel",
+    "efficiency": "13 KM/L"
+  },
+  "dimensions": {
+    "width": "1860 mm ",
+    "height": "1840 mm",
+    "weight": "",
+    "seating_capacity": "7",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Silver Metallic",
+    "Silky White Pearl",
+    "Red Spinal Mica",
+    "Nautilus Blue",
+    "Galena Grey",
+    "Starry Black Mica"
+  ],
+  "price": {
+    "value": "4066676",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/isuzu-cars/mu-x"
+  },
+  "brand": {
+    "name": "Isuzu",
+    "image": "https://images.carandbike.com/car-images/big/isuzu/isuzu.png?v=1"
+  },
+  "rating": {
+    "value": "7.3",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Ride Quality",
+    "Spacious",
+    "Powerful Engines",
+    "&nbsp;"
+  ],
+  "cons": [
+    "Unattractive",
+    "Lacks Modern Features",
+    "Lacks Variants"
+  ],
+  "verdict": "The MU-X is a likeable bloke and while it does have its drawbacks, it is definitely a massive step-up from the MU-7. Of course, the MU-X falls short on features, power, equipment when compared to its immediate rivals such as the Ford Endeavour and Toyota Fortuner, but with the 2WD prices at ₹ 23.99 lakh and the 4WD prices at ₹ 25.99 lakh, it is almost ₹ 5-6 lakh cheaper than the top-of-the-line models of its competition. So, keeping that in mind, it makes for a good proposition.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Isuzu MU-X",
+        "price": "32.67 - 35.37 Lakh",
+        "url": "/isuzu-cars/mu-x"
+      },
+      {
+        "name": "Skoda Kodiaq",
+        "price": "39.99 - 45.96 Lakh",
+        "url": "/skoda-cars/kodiaq"
+      },
+      {
+        "name": "Toyota Fortuner Legender",
+        "price": "41.54 - 46.75 Lakh",
+        "url": "/toyota-cars/fortuner-legender"
+      },
+      {
+        "name": "MG Gloster",
+        "price": "38.33 - 42.49 Lakh",
+        "url": "/mg-cars/gloster"
+      },
+      {
+        "name": "Toyota Fortuner",
+        "price": "33.65 - 48.85 Lakh",
+        "url": "/toyota-cars/fortuner"
+      },
+      {
+        "name": "Mercedes-Benz GLA-Class",
+        "price": "51.5 - 56.5 Lakh",
+        "url": "/mercedes-benz-cars/gla-class"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 32.67 - 35.37 Lakh",
+          "₹ 39.99 - 45.96 Lakh",
+          "₹ 41.54 - 46.75 Lakh",
+          "₹ 38.33 - 42.49 Lakh",
+          "₹ 33.65 - 48.85 Lakh",
+          "₹ 51.5 - 56.5 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.3",
+          "8.2",
+          "-",
+          "7.8",
+          "8.3",
+          "8.6"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2999 cc",
+          "1984 CC",
+          "2755 CC",
+          "1996 CC",
+          "2694 CC",
+          "1332 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Manual",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "13 KM/L",
+          "14.86 KM/L",
+          "14.2 - 14.4 KM/L",
+          "12.35 KM/L",
+          "10.26 - 14.22 KM/L",
+          "13 - 17 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Diesel",
+          "Petrol",
+          "Diesel",
+          "Diesel",
+          "Petrol, Diesel",
+          "Petrol, Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "7 Seater",
+          "7 Seater",
+          "7 Seater",
+          "7 Seater",
+          "7 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "65.0 L",
+          "62.0 L",
+          "80.0 L",
+          "75.0 L",
+          "80.0 L",
+          "50.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "2",
+          "3",
+          "4",
+          "5",
+          "14",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "MU-X vs Kodiaq",
+          "MU-X vs Fortuner Legender",
+          "MU-X vs Gloster",
+          "MU-X vs Fortuner",
+          "MU-X vs GLA-Class"
+        ]
+      }
+    ]
+  }
+}

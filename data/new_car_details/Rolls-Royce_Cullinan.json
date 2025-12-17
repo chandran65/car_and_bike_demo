@@ -1,0 +1,233 @@
+{
+  "basic_info": {
+    "name": "Rolls-Royce Cullinan",
+    "manufacturer": "Rolls-Royce",
+    "model": "Cullinan",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/rolls-royce-cars/cullinan",
+    "image_url": "https://images.carandbike.com/car-images/large/rolls-royce/cullinan/rolls-royce-cullinan.jpg?v=19",
+    "description": "Rolls-Royce Cullinan is a 5-seater SUV available at a starting price of Rs. 1.19 Crore. The car is available in 3 variants, with 1 engine and 1 transmission option. Additionally, Cullinan offers a Ground Clearance measurement of 183 mm and a Boot capacity of 560 liters. You can choose from 11 colors for the Cullinan. The mileage of the Cullinan varies from 7 KM/L depending on the model.",
+    "model_date": "2018-12-03",
+    "sku": "rolls-royce-cullinan-1545",
+    "vin": "5NPEL4AB3BH001545",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "6751 cc",
+    "power": "563 bhp",
+    "torque": "850 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "7 KM/L"
+  },
+  "dimensions": {
+    "width": "2164 mm ",
+    "height": "1835 mm",
+    "weight": "2660/2660",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Silver",
+    "Scala Red",
+    "Salamanca Blue",
+    "Midnight Blue",
+    "Jubilee Silver",
+    "English White",
+    "Black Diamond",
+    "Darkest Tungsten",
+    "Bohemian Red",
+    "Arctic White",
+    "Anthracite"
+  ],
+  "price": {
+    "value": 11936993,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/rolls-royce-cars/cullinan"
+  },
+  "brand": {
+    "name": "Rolls-Royce",
+    "image": "https://images.carandbike.com/car-images/big/rolls-royce/rolls-royce.png?v=1"
+  },
+  "rating": {
+    "value": "8.8",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Powerful V12 Engine",
+    "Luxurious Cabin",
+    "All-Terrain Capability"
+  ],
+  "cons": [
+    "Polarising Design",
+    "High On Fuel Consumption",
+    "Not Exactly Thrilling To Drive"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "7 KM/L",
+      "city_mileage": "7 KM/L",
+      "highway_mileage": "9 KM/L"
+    }
+  ],
+  "verdict": "The Rolls-Royce Cullinan, a pinnacle of luxury SUVs, offers an unparalleled blend of opulence and performance. It's designed for the discerning individual seeking the ultimate in luxury and capability. With top-notch performance, handling, and agility, the Cullinan satisfies even the most demanding enthusiasts. Its cabin, reminiscent of a high-tech cockpit, is laden with gadgets, combining old-school charm with modern sophistication. The Cullinan stands as a unique offering in the esteemed lineup, appealing to both traditionalists and modernists in the realm of luxury vehicles.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Rolls-Royce Cullinan",
+        "price": "98 Lakh - 6.49 Crore",
+        "url": "/rolls-royce-cars/cullinan"
+      },
+      {
+        "name": "Volvo XC90",
+        "price": "1.13 Crore",
+        "url": "/volvo-cars/xc90"
+      },
+      {
+        "name": "Audi Q8",
+        "price": "1.1 Crore",
+        "url": "/audi-cars/q8"
+      },
+      {
+        "name": "BMW X7",
+        "price": "1.33 - 1.4 Crore",
+        "url": "/bmw-cars/x7"
+      },
+      {
+        "name": "Land Rover Range Rover Sport",
+        "price": "1.38 - 2.75 Crore",
+        "url": "/land-rover-cars/range-rover-sport"
+      },
+      {
+        "name": "Land Rover Defender",
+        "price": "1 - 2.6 Crore",
+        "url": "/land-rover-cars/defender"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 98 Lakh - 6.49 Crore",
+          "₹ 1.13 Crore",
+          "₹ 1.1 Crore",
+          "₹ 1.33 - 1.4 Crore",
+          "₹ 1.38 - 2.75 Crore",
+          "₹ 1 - 2.6 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.8",
+          "7.6",
+          "8.5",
+          "9.0",
+          "7.9",
+          "8.0"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "6751 cc",
+          "1969 CC",
+          "2995 CC",
+          "2998 CC",
+          "2997 CC",
+          "1997 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "7 KM/L",
+          "11.04 KM/L",
+          "10 KM/L",
+          "11.29 - 14.31 KM/L",
+          "10 KM/L",
+          "8.79 - 14 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Hybrid",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol, Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "100.0 L",
+          "71.0 L",
+          "85.0 L",
+          "80.0 L",
+          "86.0 L",
+          "90.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "3",
+          "1",
+          "1",
+          "3",
+          "4",
+          "20"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Cullinan vs XC90",
+          "Cullinan vs Q8",
+          "Cullinan vs X7",
+          "Cullinan vs Range Rover Sport",
+          "Cullinan vs Defender"
+        ]
+      }
+    ]
+  }
+}

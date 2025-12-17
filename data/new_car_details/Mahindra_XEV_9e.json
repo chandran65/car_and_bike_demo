@@ -1,0 +1,207 @@
+{
+  "basic_info": {
+    "name": "Mahindra XEV 9e",
+    "manufacturer": "Mahindra",
+    "model": "XEV 9e",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/mahindra-cars/xev-9e",
+    "image_url": "https://images.carandbike.com/car-images/large/mahindra/xev-9e/mahindra-xev-9e.jpg?v=12",
+    "description": "Mahindra XEV 9e is a 5-seater electric SUV available at a starting price of Rs. 21.9 Lakh. The electric car is available in 17 variants.Additionally, XEV 9e offers a Ground Clearance measurement of 207 mm and a Boot capacity of 663 liters. You can choose from 7 colors for the XEV 9e. The battery range/mileage of the XEV 9e is 656 Km/Full Charge. ",
+    "model_date": "2024-11-23",
+    "sku": "mahindra-xev-9e-1818",
+    "vin": "5NPEL4AB3BH001818",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "542 - 656 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1907 mm ",
+    "height": "1694 mm",
+    "weight": "2201/2201",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Stealth Black",
+    "Nebula Blue",
+    "Deep Forest",
+    "Ruby Velvet",
+    "Tango Red",
+    "Everest White",
+    "Desert Myst"
+  ],
+  "price": {
+    "value": 2190001,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mahindra-cars/xev-9e"
+  },
+  "brand": {
+    "name": "Mahindra",
+    "image": "https://images.carandbike.com/car-images/big/mahindra/mahindra.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "verdict": "Mahindra XEV 9e is a well-rounded electric SUV offering an excellent combination of range, performance, and advanced features, setting a new benchmark in the Rs. 20-30 lakh EV segment. While its handling dynamics and polarizing design may not cater to all tastes, the XEV 9e stands out as a compelling choice for those seeking an electric SUV with modern tech, comfort, and strong road presence.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mahindra XEV 9e",
+        "price": "21.9 - 32 Lakh",
+        "url": "/mahindra-cars/xev-9e"
+      },
+      {
+        "name": "Mercedes-Benz EQS SUV",
+        "price": "1.34 - 1.48 Crore",
+        "url": "/mercedes-benz-cars/eqs-suv"
+      },
+      {
+        "name": "Porsche Macan Electric",
+        "price": "1.41 - 1.96 Crore",
+        "url": "/porsche-cars/macan-electric"
+      },
+      {
+        "name": "Kia EV9",
+        "price": "1.51 Crore",
+        "url": "/kia-cars/ev9"
+      },
+      {
+        "name": "Porsche Cayenne Electric",
+        "price": "1.75 - 2.25 Crore",
+        "url": "/porsche-cars/cayenne-electric"
+      },
+      {
+        "name": "Mercedes-AMG EQS",
+        "price": "1.88 Crore",
+        "url": "/mercedes-amg-cars/eqs"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 21.9 - 32 Lakh",
+          "₹ 1.34 - 1.48 Crore",
+          "₹ 1.41 - 1.96 Crore",
+          "₹ 1.51 Crore",
+          "₹ 1.75 - 2.25 Crore",
+          "₹ 1.88 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "9.0"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "542,656 Km/Full Charge",
+          "550 Km/Full Charge",
+          "590 - 613 Km/Full Charge",
+          "470 Km/Full Charge",
+          "642 Km/Full Charge",
+          "529 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "6 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "17",
+          "2",
+          "3",
+          "1",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "XEV 9e vs EQS SUV",
+          "XEV 9e vs Macan Electric",
+          "XEV 9e vs EV9",
+          "XEV 9e vs Cayenne Electric",
+          "XEV 9e vs EQS"
+        ]
+      }
+    ]
+  }
+}

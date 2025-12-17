@@ -1,0 +1,65 @@
+{
+  "basic_info": {
+    "name": "Rolls-Royce Spectre",
+    "manufacturer": "Rolls-Royce",
+    "model": "Spectre",
+    "body_type": "Coupe",
+    "url": "https://www.carandbike.com/rolls-royce-cars/spectre",
+    "image_url": "https://images.carandbike.com/car-images/large/rolls-royce/spectre/rolls-royce-spectre.jpg?v=16",
+    "description": "Rolls-Royce Spectre is a 4-seater electric Coupe available at a starting price of Rs. 8.71 Crore. The electric car is available in 2 variants.Additionally, Spectre offers a Ground Clearance measurement of 146 mm and a Boot capacity of 490 liters. You can choose from 12 colors for the Spectre. The battery range/mileage of the Spectre is 530 Km/Full Charge. ",
+    "model_date": "2024-01-22",
+    "sku": "rolls-royce-spectre-1758",
+    "vin": "5NPEL4AB3BH001758",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "530 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "2080 mm ",
+    "height": "1559 mm",
+    "weight": "2975/2975",
+    "seating_capacity": "4",
+    "number_of_doors": "2"
+  },
+  "colors": [
+    "Tempest Grey",
+    "Scala Red",
+    "Midnight Sapphire",
+    "Jubilee Silver",
+    "Iguazu Blue",
+    "English White",
+    "Dark Emerald",
+    "Contrast Tungsten",
+    "Bohemian Red",
+    "Black Diamond",
+    "Belladonna Purple",
+    "Anthracite"
+  ],
+  "price": {
+    "value": 87136517,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/rolls-royce-cars/spectre"
+  },
+  "brand": {
+    "name": "Rolls-Royce",
+    "image": "https://images.carandbike.com/car-images/big/rolls-royce/rolls-royce.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  }
+}

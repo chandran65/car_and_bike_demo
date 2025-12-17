@@ -1,0 +1,252 @@
+{
+  "basic_info": {
+    "name": "Renault Triber 2025",
+    "manufacturer": "Renault",
+    "model": "2025 Triber",
+    "body_type": "MUV",
+    "url": "https://www.carandbike.com/renault-cars/triber",
+    "image_url": "https://images.carandbike.com/car-images/large/renault/triber/renault-triber.jpg?v=65",
+    "description": "Renault Triber 2025 is a 5-seater MUV available at a starting price of Rs. 6.14 Lakh. The car is available in 7 variants, with 1 engine and 2 transmission option. Additionally, 2025 Triber offers a Ground Clearance measurement of 182 mm and a Boot capacity of 84 liters. You can choose from 9 colors for the 2025 Triber. The mileage of the 2025 Triber varies from 20 KM/L depending on the model.",
+    "model_date": "2025-07-23",
+    "sku": "renault-triber-2025-1587",
+    "vin": "5NPEL4AB3BH001587",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "999 cc",
+    "power": "71 bhp @ 6,250 rpm bhp",
+    "torque": "96 Nm @ 3500 rpm Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Manual, AMT",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "19 - 20 KM/L"
+  },
+  "dimensions": {
+    "width": "1734 mm ",
+    "height": "1643 mm",
+    "weight": "947/947",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Ice cool white with mystery black roof",
+    "Shadow grey with mystery black roof",
+    "Amber Terracotta with mystery black roof",
+    "Ice Cool White",
+    "Stealth Black",
+    "Amber Terracotta",
+    "Moonlight Silver",
+    "Shadow Grey",
+    "Zanskar Blue"
+  ],
+  "price": {
+    "value": 614146,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/renault-cars/triber"
+  },
+  "brand": {
+    "name": "Renault",
+    "image": "https://images.carandbike.com/car-images/big/renault/renault.png?v=1"
+  },
+  "rating": {
+    "value": "8.4",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Good Space Inside",
+    "4-Star Gncap Safety Rating",
+    "Decent Pricing"
+  ],
+  "cons": [
+    "Interior Quality Not Great",
+    "1.0-Litre Engine Feels Underpowered",
+    "Not Very Refined"
+  ],
+  "whats_new": {
+    "Introduction": [
+      "Renault launched the Triber facelift in India in July 2025, with prices starting at Rs. 6.29 lakh (ex-showroom).",
+      "The updated version gets four variants – Authentic, Evolution, Techno, and Emotion.",
+      "Apart from this new nomenclature, the MPV gets an array of cosmetic enhancements and some new features.",
+      "This compact MPV was long overdue for an update since its launch six years ago in the country."
+    ],
+    "Exterior": [
+      "The Triber's latest iteration sports a refreshed design with a gloss black grille.",
+      "Even the headlight clusters are revamped with integrated LED DRLs and a reworked bumper.",
+      "While the silhouette remains identical to the outgoing version, the MPV now rides on 15-inch flex wheels.",
+      "The latter are smartly designed and a close look reveals that these are wheel covers which look like alloy wheels.",
+      "On to the Triber's rear section, it now boasts smoked LED tail lights with a central black strip.",
+      "The carmaker has also added a 'Triber' lettering on the boot lid.",
+      "Another thing that goes without saying is the brand's latest diamond logo."
+    ],
+    "Interior": [
+      "The three-row MPV's cabin has a layout identical to the outgoing model with a dual-tone dashboard.",
+      "But now there’s a new eight-inch floating touchscreen infotainment system, which supports wireless Android Auto and Apple CarPlay.",
+      "Other notable features include an LED instrument cluster, new seat upholstery, and an LED cabin lighting.",
+      "Safety has been further enhanced with standard equipment including six airbags, ESP, TPMS, and EBD with Brake Assist.",
+      "Moreover, Renault has added front parking sensors, which is a segment-first feature."
+    ],
+    "Powertrain": [
+      "The latest Renault Triber retains its 1.0-litre, three-cylinder petrol engine.",
+      "There's no turbo-power and this NA mill produces 71bhp and 96Nm of torque.",
+      "This powerplant comes mated to either a five-speed manual or a five-speed AMT system.",
+      "Customers also have the choice of a government-approved CNG retrofitment kit."
+    ]
+  },
+  "verdict": "It has USPs many of you may not think you need - but actually do. And so while it may not seem like an appealing enough car at the start, it's the kind I suspect that will grow on you. It is practical, cavernously roomy, and yet has quick cooling cabin, it's efficient; and while the engine is no fire starter, it certainly is not underpowered.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Renault 2025 Triber",
+        "price": "5.76 - 8.6 Lakh",
+        "url": "/renault-cars/triber"
+      },
+      {
+        "name": "Maruti Suzuki Wagon R",
+        "price": "5.16 - 7.94 Lakh",
+        "url": "/maruti-suzuki-cars/wagon-r"
+      },
+      {
+        "name": "Maruti Suzuki Ertiga",
+        "price": "9.65 - 14.71 Lakh",
+        "url": "/maruti-suzuki-cars/ertiga"
+      },
+      {
+        "name": "Toyota Rumion",
+        "price": "10.44 - 13.62 Lakh",
+        "url": "/toyota-cars/rumion"
+      },
+      {
+        "name": "Kia Carens",
+        "price": "10.99 - 12.77 Lakh",
+        "url": "/kia-cars/carens"
+      },
+      {
+        "name": "Kia Carens Clavis",
+        "price": "11.08 - 20.71 Lakh",
+        "url": "/kia-cars/carens-clavis"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 5.76 - 8.6 Lakh",
+          "₹ 5.16 - 7.94 Lakh",
+          "₹ 9.65 - 14.71 Lakh",
+          "₹ 10.44 - 13.62 Lakh",
+          "₹ 10.99 - 12.77 Lakh",
+          "₹ 11.08 - 20.71 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.4",
+          "6.1",
+          "7.3",
+          "-",
+          "7.0",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "999 cc",
+          "998 CC",
+          "1462 CC",
+          "1462 CC",
+          "1497 CC",
+          "1497 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, AMT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "19 - 20 KM/L",
+          "21.5 - 33.4 KM/L",
+          "19.01 - 26.2 KM/L",
+          "20.5 - 26 KM/L",
+          "16.2 - 21.3 KM/L",
+          "16.2 - 16.8 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol, CNG",
+          "Petrol, CNG",
+          "Petrol, CNG",
+          "Petrol, Diesel",
+          "Petrol, Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "7 Seater",
+          "7 Seater",
+          "7 Seater",
+          "7 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "40.0 L",
+          "32.0 L",
+          "45.0 L",
+          "45.0 L",
+          "45.0 L",
+          "45.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "7",
+          "11",
+          "11",
+          "7",
+          "2",
+          "27"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Triber vs Wagon R",
+          "Triber vs Ertiga",
+          "Triber vs Rumion",
+          "Triber vs Carens",
+          "Triber vs Carens Clavis"
+        ]
+      }
+    ]
+  }
+}

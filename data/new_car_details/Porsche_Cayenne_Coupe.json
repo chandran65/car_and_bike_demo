@@ -1,0 +1,228 @@
+{
+  "basic_info": {
+    "name": "Porsche Cayenne Coupe",
+    "manufacturer": "Porsche",
+    "model": "Cayenne Coupe",
+    "body_type": null,
+    "url": "https://www.carandbike.com/porsche-cars/cayenne-coupe",
+    "image_url": "https://images.carandbike.com/car-images/large/porsche/cayenne-coupe/porsche-cayenne-coupe.jpg?v=23",
+    "description": "Porsche Cayenne Coupe is a 4-seater  available at a starting price of Rs. 1.76 Crore. The car is available in 3 variants, with 2 engine and 1 transmission option. Additionally, Cayenne Coupe offers a Ground Clearance measurement of 190 mm and a Boot capacity of 625 liters. You can choose from 6 colors for the Cayenne Coupe. The mileage of the Cayenne Coupe varies from 10.8 KM/L depending on the model.",
+    "model_date": "2019-12-13",
+    "sku": "porsche-cayenne-coupe-1605",
+    "vin": "5NPEL4AB3BH001605",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2995,3996 cc",
+    "power": "335,542 bhp",
+    "torque": "450,770 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "8 - 10 KM/L"
+  },
+  "dimensions": {
+    "width": "2194 mm ",
+    "height": "1676 mm",
+    "weight": "2030/2200",
+    "seating_capacity": "4",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "Quarzite Grey",
+    "Dolomite Silver",
+    "Algarve Blue",
+    "Montego Blue",
+    "Chromite Black",
+    "Carrara White Metallic"
+  ],
+  "price": {
+    "value": 17621064,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/porsche-cars/cayenne-coupe"
+  },
+  "brand": {
+    "name": "Porsche",
+    "image": "https://images.carandbike.com/car-images/big/porsche/porsche.png?v=1"
+  },
+  "rating": {
+    "value": "8.1",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Decent Engine Options",
+    "Good Driving Dynamics",
+    "Luxurious Interior"
+  ],
+  "cons": [
+    "Availability &amp; After Sales",
+    "Few Trims To Choose From",
+    "Less Cargo Space"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "10.8 KM/L",
+      "city_mileage": "9 KM/L",
+      "highway_mileage": "11 KM/L"
+    }
+  ],
+  "verdict": "The Porsche Cayenne Coupe looks different and very attractive. It's got the sporty credentials that the Cayenne deserves to have and yes, the block-like design on the Cayenne SUV doesn't really cut it out. The ride, even with the 21-inch tyres is sublime and you really can't fault it in that department as it does well in all kinds of terrains. However, it just requires more power, something that Porsche can extract from that engine and then it will be hard to catch",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Porsche Cayenne Coupe",
+        "price": "1.45 - 1.95 Crore",
+        "url": "/porsche-cars/cayenne-coupe"
+      },
+      {
+        "name": "BMW M4",
+        "price": "1.64 - 1.92 Crore",
+        "url": "/bmw-cars/m4"
+      },
+      {
+        "name": "Mercedes-AMG GLE Coupe",
+        "price": "1.55 - 9.13 Crore",
+        "url": "/mercedes-amg-cars/gle-coupe"
+      },
+      {
+        "name": "Mercedes-AMG CLE 53",
+        "price": "1.35 Crore",
+        "url": "/mercedes-amg-cars/cle-53"
+      },
+      {
+        "name": "BMW M2",
+        "price": "1.08 Crore",
+        "url": "/bmw-cars/m2"
+      },
+      {
+        "name": "Mercedes-AMG C 43",
+        "price": "1 Crore",
+        "url": "/mercedes-amg-cars/c-43"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.45 - 1.95 Crore",
+          "₹ 1.64 - 1.92 Crore",
+          "₹ 1.55 - 9.13 Crore",
+          "₹ 1.35 Crore",
+          "₹ 1.08 Crore",
+          "₹ 1 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.1",
+          "8.4",
+          "7.5",
+          "-",
+          "8.3",
+          "7.2"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2995,3996 cc",
+          "2993 CC",
+          "2999 CC",
+          "2999 CC",
+          "2993 CC",
+          "1991 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "8 - 10 KM/L",
+          "9.76 KM/L",
+          "9.1 - 12 KM/L",
+          "10 KM/L",
+          "10.13 KM/L",
+          "14.49 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "4 Seater",
+          "4 Seater",
+          "5 Seater",
+          "5 Seater",
+          "4 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "75.0, 90.0 L",
+          "59.0 L",
+          "85.0 L",
+          "52.0 L",
+          "52.0 L",
+          "66.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "3",
+          "2",
+          "3",
+          "1",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Cayenne Coupe vs M4",
+          "Cayenne Coupe vs GLE Coupe",
+          "Cayenne Coupe vs CLE 53",
+          "Cayenne Coupe vs M2",
+          "Cayenne Coupe vs C 43"
+        ]
+      }
+    ]
+  }
+}

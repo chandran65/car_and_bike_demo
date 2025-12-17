@@ -1,0 +1,237 @@
+{
+  "basic_info": {
+    "name": "BMW X5",
+    "manufacturer": "BMW",
+    "model": "X5",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/bmw-cars/x5",
+    "image_url": "https://images.carandbike.com/car-images/large/bmw/x5/bmw-x5.jpg?v=36",
+    "description": "BMW X5 is a 5-seater SUV available at a starting price of Rs. 1 Crore. The car is available in 4 variants, with 2 engine and 1 transmission option. Additionally, X5 offers a Ground Clearance measurement of 209 mm and a Boot capacity of 650 liters. You can choose from 8 colors for the X5. The mileage of the X5 varies from 11.2 - 13.4 KM/L depending on the model.",
+    "model_date": "2023-07-14",
+    "sku": "bmw-x5-1025",
+    "vin": "5NPEL4AB3BH001025",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2993,2998 cc",
+    "power": "282,376 bhp",
+    "torque": "520,650 Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "11 - 13 KM/L"
+  },
+  "dimensions": {
+    "width": "2004 mm ",
+    "height": "1745 mm",
+    "weight": "2115/2185",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Brooklyn Grey (metallic)",
+    "Tanzanite Blue Metallic",
+    "Skyscraper Grey metallic",
+    "Mineral White (metallic )",
+    "Carbon Black (metallic )",
+    "Calisto Grey (metallic)",
+    "Black Sapphire",
+    "Blue Ridge Mountain metallic"
+  ],
+  "price": {
+    "value": 9931653,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/bmw-cars/x5"
+  },
+  "brand": {
+    "name": "BMW",
+    "image": "https://images.carandbike.com/car-images/big/bmw/bmw.png?v=1"
+  },
+  "rating": {
+    "value": "8.1",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Stunning to look at and drop dead gorgeous",
+    "Puts out more than 500 bhp",
+    "The M4 is bred for performance"
+  ],
+  "cons": [
+    "Price puts it in a very niche segment",
+    "Suspension tuned for performance only",
+    "Rear seat space is not great for 3 individuals"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Automatic",
+      "mileage": "11.2 KM/L",
+      "city_mileage": "10 KM/L",
+      "highway_mileage": "13 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "mileage": "13.4 KM/L",
+      "city_mileage": "12 KM/L",
+      "highway_mileage": "15 KM/L"
+    }
+  ],
+  "verdict": "The latest BMW X5 sets a new standard, excelling in every aspect. Globally celebrated and favored in India, it elevates the driving experience for all occupants, including rear-seat passengers who can enjoy optional touchscreens and charging ports for their devices. The emphasis on infotainment is evident, enhancing the overall in-car experience. Additionally, this model surpasses its predecessor in comfort, promising a more luxurious journey.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "BMW X5",
+        "price": "87.36 Lakh - 1 Crore",
+        "url": "/bmw-cars/x5"
+      },
+      {
+        "name": "Porsche Macan",
+        "price": "1 Crore",
+        "url": "/porsche-cars/macan"
+      },
+      {
+        "name": "Land Rover Defender",
+        "price": "1 - 1.48 Crore",
+        "url": "/land-rover-cars/defender"
+      },
+      {
+        "name": "Mercedes-Benz GLE-Class",
+        "price": "1.03 - 1.2 Crore",
+        "url": "/mercedes-benz-cars/gle-class"
+      },
+      {
+        "name": "Lexus RX",
+        "price": "89.99 Lakh - 1.09 Crore",
+        "url": "/lexus-cars/rx"
+      },
+      {
+        "name": "Audi Q8",
+        "price": "1.1 Crore",
+        "url": "/audi-cars/q8"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 87.36 Lakh - 1 Crore",
+          "₹ 1 Crore",
+          "₹ 1 - 1.48 Crore",
+          "₹ 1.03 - 1.2 Crore",
+          "₹ 89.99 Lakh - 1.09 Crore",
+          "₹ 1.1 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.1",
+          "6.5",
+          "8.0",
+          "7.9",
+          "6.4",
+          "8.5"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2993,2998 cc",
+          "1984 CC",
+          "1997 CC",
+          "1993 CC",
+          "2487 CC",
+          "2995 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "11 - 13 KM/L",
+          "13.2 KM/L",
+          "8.79 - 14 KM/L",
+          "9 - 9.7 KM/L",
+          "18.8 KM/L",
+          "10 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Hybrid",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "85.0 L",
+          "65.0 L",
+          "90.0 L",
+          "93.0 L",
+          "65.0 L",
+          "85.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "4",
+          "1",
+          "11",
+          "3",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "X5 vs Macan",
+          "X5 vs Defender",
+          "X5 vs GLE-Class",
+          "X5 vs RX",
+          "X5 vs Q8"
+        ]
+      }
+    ]
+  }
+}

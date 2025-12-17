@@ -1,0 +1,236 @@
+{
+  "basic_info": {
+    "name": "Lexus NX",
+    "manufacturer": "Lexus",
+    "model": "NX",
+    "body_type": null,
+    "url": "https://www.carandbike.com/lexus-cars/nx",
+    "image_url": "https://images.carandbike.com/car-images/large/lexus/nx/lexus-nx.jpg?v=51",
+    "description": "Lexus NX is a 5-seater  available at a starting price of Rs. 66.59 Lakh. The car is available in 4 variants, with 1 engine and 1 transmission option. Additionally, NX offers a Ground Clearance measurement of 195 mm and a Boot capacity of 520 liters. You can choose from 14 colors for the NX. The mileage of the NX varies from 18.3 KM/L depending on the model.",
+    "model_date": "2022-03-09",
+    "sku": "lexus-nx-1530",
+    "vin": "5NPEL4AB3BH001530",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "2487 cc",
+    "power": "187 bhp @6000 rpm bhp",
+    "torque": "239 Nm/4300-4500 rpm Nm",
+    "fuel_type": "Hybrid"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Hybrid",
+    "efficiency": "18 KM/L"
+  },
+  "dimensions": {
+    "width": "1865 mm ",
+    "height": "1670 mm",
+    "weight": "1870/1870",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Sparkling Meteor Metallic",
+    "Red Mica Crystal Shine",
+    "Sonic Titanium",
+    "Platinum Silver Metallic",
+    "Heat Blue Contrast Layering",
+    "Graphite Black Glass Flake",
+    "Black",
+    "Mercury Gray Mica",
+    "Sonic Quartz",
+    "Lava Orange Crystal Shine",
+    "Black Luxury",
+    "Sonic Titanium Luxury",
+    "Platinum Silver Metallic Luxury",
+    "Mercury Gray Mica Luxury"
+  ],
+  "price": {
+    "value": "6659000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/lexus-cars/nx"
+  },
+  "brand": {
+    "name": "Lexus",
+    "image": "https://images.carandbike.com/car-images/big/lexus/lexus.png?v=1"
+  },
+  "rating": {
+    "value": "7.1",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Compact proportions but good road presence",
+    "Ride and handling is good",
+    "Practical SUV with hybrid powertrain"
+  ],
+  "cons": [
+    "After sales and service an issue",
+    "Cabin is outdated",
+    "No diesel powertrain on offer given the segment"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Hybrid",
+      "transmission": "Automatic",
+      "mileage": "18.3 KM/L",
+      "city_mileage": "16 KM/L",
+      "highway_mileage": "17 KM/L"
+    }
+  ],
+  "verdict": "The New NX 350h has been awarded the highest rating of 5 stars by Euro NCAP, and with this new car, the Lexus safety system has also come to India. This means a whole lot of driver assist features are now available with the car. This includes Lane tracing Assist, Lane departure Assist and Rear cross traffic alert amongst others. However, the Automatic emergency brakeing feature seen in the United States is missing in India.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Lexus NX",
+        "price": "66.59 - 73.4 Lakh",
+        "url": "/lexus-cars/nx"
+      },
+      {
+        "name": "Audi Q5",
+        "price": "64.74 - 69.86 Lakh",
+        "url": "/audi-cars/q5"
+      },
+      {
+        "name": "Land Rover Discovery Sport",
+        "price": "72.05 - 73.63 Lakh",
+        "url": "/land-rover-cars/discovery-sport"
+      },
+      {
+        "name": "BMW X3",
+        "price": "75.55 - 79.27 Lakh",
+        "url": "/bmw-cars/x3"
+      },
+      {
+        "name": "Volvo XC60",
+        "price": "76.29 Lakh",
+        "url": "/volvo-cars/xc60"
+      },
+      {
+        "name": "Mercedes-Benz GLC",
+        "price": "79.25 Lakh",
+        "url": "/mercedes-benz-cars/glc"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 66.59 - 73.4 Lakh",
+          "₹ 64.74 - 69.86 Lakh",
+          "₹ 72.05 - 73.63 Lakh",
+          "₹ 75.55 - 79.27 Lakh",
+          "₹ 76.29 Lakh",
+          "₹ 79.25 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.1",
+          "7.5",
+          "7.3",
+          "7.5",
+          "7.0",
+          "8.3"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "2487 cc",
+          "1984 CC",
+          "1997 CC",
+          "1998 CC",
+          "1969 CC",
+          "1993 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "18 KM/L",
+          "13.47 KM/L",
+          "10.68 - 14.12 KM/L",
+          "13.17 - 18.56 KM/L",
+          "13 KM/L",
+          "15 - 20 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Hybrid",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol, Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "56.0 L",
+          "70.0 L",
+          "70.0 L",
+          "60.0 L",
+          "71.0 L",
+          "62.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "4",
+          "3",
+          "2",
+          "2",
+          "1",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "NX vs Q5",
+          "NX vs Discovery Sport",
+          "NX vs X3",
+          "NX vs XC60",
+          "NX vs GLC"
+        ]
+      }
+    ]
+  }
+}

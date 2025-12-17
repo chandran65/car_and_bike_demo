@@ -1,0 +1,204 @@
+{
+  "basic_info": {
+    "name": "Mercedes-Maybach SL 680",
+    "manufacturer": "Mercedes-Maybach",
+    "model": "SL 680",
+    "body_type": "Convertible",
+    "url": "https://www.carandbike.com/mercedes-maybach-cars/sl-680",
+    "image_url": "https://images.carandbike.com/car-images/large/mercedes-maybach/sl-680/mercedes-maybach-sl-680.jpg?v=9",
+    "description": "Mercedes-Maybach SL 680 is a 4-seater Convertible available at a starting price of Rs. 4.35 Crore. The car is available in 1 variants, with 1 engine and 1 transmission option. You can choose from 2 colors for the SL 680. The mileage of the SL 680 varies from 7 KM/L depending on the model.",
+    "model_date": "2025-03-18",
+    "sku": "mercedes-maybach-sl-680-1842",
+    "vin": "5NPEL4AB3BH001842",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "5980 cc",
+    "power": "577 bhp",
+    "torque": "900 Nm",
+    "fuel_type": "Petrol"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol",
+    "efficiency": "7 KM/L"
+  },
+  "dimensions": {
+    "width": "2109 mm ",
+    "height": "1510 mm",
+    "weight": "",
+    "seating_capacity": "4",
+    "number_of_doors": "4"
+  },
+  "colors": [
+    "Designo Diamond White Bright",
+    "Designo Patagonia Red Bright"
+  ],
+  "price": {
+    "value": 43500000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mercedes-maybach-cars/sl-680"
+  },
+  "brand": {
+    "name": "Mercedes-Maybach",
+    "image": "https://images.carandbike.com/car-images/big/mercedes-maybach/mercedes-maybach.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mercedes-Maybach SL 680",
+        "price": "4.35 Crore",
+        "url": "/mercedes-maybach-cars/sl-680"
+      },
+      {
+        "name": "Aston Martin DB12",
+        "price": "4.34 Crore",
+        "url": "/aston-martin-cars/db12"
+      },
+      {
+        "name": "BMW M8",
+        "price": "2.56 Crore",
+        "url": "/bmw-cars/m8"
+      },
+      {
+        "name": "Mercedes-Benz CLE Cabriolet",
+        "price": "1.17 Crore",
+        "url": "/mercedes-benz-cars/cle-cabriolet"
+      },
+      {
+        "name": "Mercedes-AMG GLC 43 Coupe",
+        "price": "1.17 Crore",
+        "url": "/mercedes-amg-cars/glc-43-coupe"
+      },
+      {
+        "name": "BMW 6 Series Gran Turismo",
+        "price": "79.04 - 86.72 Lakh",
+        "url": "/bmw-cars/6-series-gran-turismo"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 4.35 Crore",
+          "₹ 4.34 Crore",
+          "₹ 2.56 Crore",
+          "₹ 1.17 Crore",
+          "₹ 1.17 Crore",
+          "₹ 79.04 - 86.72 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "8.8",
+          "-",
+          "7.1",
+          "8.0"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "5980 cc",
+          "3982 CC",
+          "4395 CC",
+          "1999 CC",
+          "1996 CC",
+          "1998 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "7 KM/L",
+          "12.75 KM/L",
+          "11.3 KM/L",
+          "12 KM/L",
+          "13 KM/L",
+          "13.32 - 18.65 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol",
+          "Petrol, Diesel"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "4 Seater",
+          "2 Seater",
+          "4 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "78.0 L",
+          "68.0 L",
+          "66.0 L",
+          "93.0 L",
+          "68.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "4"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "SL 680 vs DB12",
+          "SL 680 vs M8",
+          "SL 680 vs CLE Cabriolet",
+          "SL 680 vs GLC 43 Coupe",
+          "SL 680 vs 6 Series Gran Turismo"
+        ]
+      }
+    ]
+  }
+}

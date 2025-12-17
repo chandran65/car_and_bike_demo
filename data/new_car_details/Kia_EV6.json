@@ -1,0 +1,214 @@
+{
+  "basic_info": {
+    "name": "Kia EV6",
+    "manufacturer": "Kia",
+    "model": "EV6",
+    "body_type": null,
+    "url": "https://www.carandbike.com/kia-cars/ev6",
+    "image_url": "https://images.carandbike.com/car-images/large/kia/ev6/kia-ev6.jpg?v=16",
+    "description": "Kia EV6 is a 5-seater electric  available at a starting price of Rs. 76.52 Lakh. The electric car is available in 1 variants.Additionally, EV6 offers a Ground Clearance measurement of 178 mm and a Boot capacity of 520 liters. You can choose from 4 colors for the EV6. The battery range/mileage of the EV6 is 663 Km/Full Charge. ",
+    "model_date": "2025-03-26",
+    "sku": "kia-ev6-1676",
+    "vin": "5NPEL4AB3BH001676",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "663 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1890 mm ",
+    "height": "1570 mm",
+    "weight": "1995/1995",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Wolf Grey",
+    "Snow White Pearl",
+    "Runway Red",
+    "Aurora Black Pearl"
+  ],
+  "price": {
+    "value": 7651902,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/kia-cars/ev6"
+  },
+  "brand": {
+    "name": "Kia",
+    "image": "https://images.carandbike.com/car-images/big/kia/kia.png?v=1"
+  },
+  "rating": {
+    "value": "8.5",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Bold Design And Styling",
+    "Premium Interior And Tech",
+    "Has A 5-Star Safety Rating From Euro Ncap"
+  ],
+  "cons": [
+    "It Is Quite Expensive",
+    "Only Offered In Limited Cbu Models",
+    "Visibility From Cabin Is Not The Best"
+  ],
+  "verdict": "The Kia EV6 exudes a futuristic vibe, captivating attention with its radical exterior design. Its interior, though subtler, offers an innovative, spaceship-like ambiance. This electric marvel doesn't just impress visually; it champions eco-friendliness and efficiency, boasting the distinction of being the first in India to offer a range exceeding 500 km. Additionally, its capability to power household gadgets adds a practical edge. Technologically, it holds its ground firmly against the upscale German counterparts, making it a competitive and compelling option in the electric vehicle market.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Kia EV6",
+        "price": "65.97 Lakh",
+        "url": "/kia-cars/ev6"
+      },
+      {
+        "name": "BMW iX1",
+        "price": "77.6 Lakh",
+        "url": "/bmw-cars/ix1"
+      },
+      {
+        "name": "BMW ix1 L",
+        "price": "57.88 Lakh",
+        "url": "/bmw-cars/ix1-l"
+      },
+      {
+        "name": "VinFast VF7",
+        "price": "24.23 - 29.57 Lakh",
+        "url": "/vinfast-cars/vf7"
+      },
+      {
+        "name": "VinFast VF6",
+        "price": "19.13 - 21.22 Lakh",
+        "url": "/vinfast-cars/vf6"
+      },
+      {
+        "name": "Lotus Emeya",
+        "price": "2.34 Crore",
+        "url": "/lotus-cars/emeya"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 65.97 Lakh",
+          "₹ 77.6 Lakh",
+          "₹ 57.88 Lakh",
+          "₹ 24.23 - 29.57 Lakh",
+          "₹ 19.13 - 21.22 Lakh",
+          "₹ 2.34 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.5",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "663 Km/Full Charge",
+          "440 Km/Full Charge",
+          "440 Km/Full Charge",
+          "438 - 532 Km/Full Charge",
+          "460 Km/Full Charge",
+          "600 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "1",
+          "1",
+          "1",
+          "5",
+          "3",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "EV6 vs iX1",
+          "EV6 vs ix1 L",
+          "EV6 vs VF7",
+          "EV6 vs VF6",
+          "EV6 vs Emeya"
+        ]
+      }
+    ]
+  }
+}

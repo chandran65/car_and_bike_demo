@@ -1,0 +1,284 @@
+{
+  "basic_info": {
+    "name": "Maruti Suzuki Baleno",
+    "manufacturer": "Maruti Suzuki",
+    "model": "Baleno",
+    "body_type": "Hatchback",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/baleno",
+    "image_url": "https://images.carandbike.com/car-images/large/maruti-suzuki/baleno/maruti-suzuki-baleno.jpg?v=85",
+    "description": "Maruti Suzuki Baleno is a 5-seater Hatchback available at a starting price of Rs. 5.99 Lakh. The car is available in 9 variants, with 2 engine and 2 transmission option. Additionally, Baleno offers a Ground Clearance measurement of 170 mm and a Boot capacity of 318 liters. You can choose from 6 colors for the Baleno. The mileage of the Baleno varies from 22.9 - 22.4 KM/L depending on the model.",
+    "model_date": "2022-02-23",
+    "sku": "maruti-suzuki-baleno-1404",
+    "vin": "5NPEL4AB3BH001404",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1197 cc",
+    "power": "88.5 bhp @ 6,000 rpm bhp",
+    "torque": "113 Nm @ 4,400 rpm Nm",
+    "fuel_type": "Petrol, Petrol+CNG"
+  },
+  "transmission": "Manual, AMT",
+  "fuel": {
+    "type": "Petrol, Petrol+CNG",
+    "efficiency": "22 - 22 KM/L"
+  },
+  "dimensions": {
+    "width": "1745 mm ",
+    "height": "1500 mm",
+    "weight": "955/960",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Luxe Beige",
+    "Opulent Red",
+    "Grandeur Grey",
+    "Splendid Silver",
+    "Celestial Blue",
+    "Pearl Arctic White"
+  ],
+  "price": {
+    "value": 598900,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/baleno"
+  },
+  "brand": {
+    "name": "Maruti Suzuki",
+    "image": "https://images.carandbike.com/car-images/big/maruti-suzuki/maruti-suzuki.png?v=1"
+  },
+  "rating": {
+    "value": "8.2",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Modern Design",
+    "Tech-Loaded Cabin",
+    "Improved Ride Quality"
+  ],
+  "cons": [
+    "Lack Of A Diesel Engine&nbsp;",
+    "Amt Unit Lacks Refinement",
+    "Boot Space"
+  ],
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "AMT",
+      "mileage": "22.9 KM/L",
+      "city_mileage": "19 KM/L",
+      "highway_mileage": "22 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "22.4 KM/L",
+      "city_mileage": "19 KM/L",
+      "highway_mileage": "22 KM/L"
+    },
+    {
+      "fuel_type": "Petrol+CNG",
+      "transmission": "Manual",
+      "mileage": "22.4 KM/L",
+      "city_mileage": "-",
+      "highway_mileage": "-"
+    }
+  ],
+  "whats_new": {
+    "Introduction": [
+      "The Maruti Baleno is a stylish premium hatchback built for comfort, efficiency, and city driving ease.",
+      "This makes it a great choice for urban commuters.",
+      "Built on Maruti’s Heartect platform, the Baleno offers a mix of style, and practical features.",
+      "It comes with a fuel-efficient petrol and CNG engine.",
+      "Moreover, it can seat five people comfortably for daily rides or small family trips.",
+      "The Baleno has also achieved good sales milestones while it being exported to other markets as well.",
+      "In just 2024-2025, it sold close to two lakh units in India, showing its continued popularity."
+    ],
+    "Exterior": [
+      "The front fascia has a has a wide grille with chrome detailing that gives it a premium, shiny look.",
+      "Its sleek headlamps with LED lighting offer clear visibility at night.​",
+      "Overall, the body has smooth, flowing lines, so it looks like the surfaces gently curve rather than having sharp, blocky edges.",
+      "This ‘liquid flow’ style makes the car appear sporty and makes it aerodynamic.",
+      "From the side, the Baleno looks low and stretched out, which gives it a planted, stable stance.",
+      "The windows form a neat, continuous shape that tapers slightly towards the back.",
+      "Higher variants get stylish alloy wheels, which are metallic-looking rims that give visual appeal compared to steel wheels.",
+      "These wheels fill the wheel arches well, so the car does not look skinny or under-tyred from the side.",
+      "At the back, the car has LED tail-lamps with a distinctive signature pattern.",
+      "This pattern makes it easy to recognise at night. The rear glass and spoiler compliment its appearance.",
+      "Bumpers in the rear are body coloured, so they blend in with the rest of the paint rather than standing out as separate pieces.",
+      "Depending on the variant, the Baleno can have extra exterior features like front fog lamps and ORVM-integrated turn indicators."
+    ],
+    "Interior": [
+      "The Baleno's is spacious and comfortable, making its occupants feel relaxed while driving or as passenger.",
+      "Its cabin offers good legroom and headroom as well.",
+      "Inside, there’s a sleek black dashboard with controls that are easy to use.",
+      "The steering wheel is wrapped in leather, giving it a premium touch.",
+      "Its seats have soft fabric upholstery that feels comfy, and the rear seats can be folded down to create extra space for luggage.",
+      "The premium hatchback comes with a modern seven to nine-inch touchscreen infotainment system that supports smartphone connectivity.",
+      "Plus, features like Bluetooth, voice control, and navigation make the journey more enjoyable.",
+      "Other cool features include automatic climate control, adjustable headrests, and useful storage compartments."
+    ],
+    "Powertrain": [
+      "Maruti has powered the Baleno with a 1.2-litre petrol engine, producing 89.73bhp and 113Nm of torque.",
+      "This engine is designed with technology called Dual VVT (Variable Valve Timing).",
+      "It can be had with either a five-speed manual or automatic transmission.",
+      "This hatchback is available in a front-wheel drive, meaning the engine sends power to the front wheels.",
+      "Additionally, a start-stop system saves fuel by turning the engine off while idling in city traffic."
+    ]
+  },
+  "verdict": "The Maruti Suzuki Baleno has crossed many a milestone in its successful journey in the market. The new Baleno has a wide range of new features. While a different Auto gearbox has taken some of the spirit away it'll appeal to the money conscious. So, it really hasn't remained true to the premium tag! But it is all the tech that has really made the Baleno a car for the present and even the future, one that is more than capable of taking on its popular rivals.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Maruti Suzuki Baleno",
+        "price": "5.99 - 9.1 Lakh",
+        "url": "/maruti-suzuki-cars/baleno"
+      },
+      {
+        "name": "Maruti Suzuki Swift",
+        "price": "5.79 - 8.65 Lakh",
+        "url": "/maruti-suzuki-cars/swift"
+      },
+      {
+        "name": "Tata Altroz",
+        "price": "6.91 - 11.81 Lakh",
+        "url": "/tata-cars/altroz"
+      },
+      {
+        "name": "Toyota Glanza",
+        "price": "6.39 - 9.15 Lakh",
+        "url": "/toyota-cars/glanza"
+      },
+      {
+        "name": "Hyundai Elite i20",
+        "price": "6.87 - 10.52 Lakh",
+        "url": "/hyundai-cars/elite-i20"
+      },
+      {
+        "name": "Hyundai i20 N Line",
+        "price": "9.14 - 11.6 Lakh",
+        "url": "/hyundai-cars/i20-n-line"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 5.99 - 9.1 Lakh",
+          "₹ 5.79 - 8.65 Lakh",
+          "₹ 6.91 - 11.81 Lakh",
+          "₹ 6.39 - 9.15 Lakh",
+          "₹ 6.87 - 10.52 Lakh",
+          "₹ 9.14 - 11.6 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.2",
+          "8.0",
+          "8.8",
+          "7.7",
+          "8.2",
+          "7.9"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1197 cc",
+          "1197 CC",
+          "1199 CC",
+          "1197 CC",
+          "1197 CC",
+          "998 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, AMT",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "22 - 22 KM/L",
+          "20.4 - 30 KM/L",
+          "19 - 25.11 KM/L",
+          "22.35 - 22.94 KM/L",
+          "19.65 - 20.35 KM/L",
+          "20.25 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Petrol+CNG",
+          "Petrol, CNG",
+          "Diesel, Petrol, CNG",
+          "Petrol, CNG",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "37.0 L",
+          "37.0 L",
+          "37.0 L",
+          "37.0 L",
+          "37.0 L",
+          "37.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "9",
+          "13",
+          "10",
+          "9",
+          "18",
+          "8"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Baleno vs Swift",
+          "Baleno vs Altroz",
+          "Baleno vs Glanza",
+          "Baleno vs Elite i20",
+          "Baleno vs i20 N Line"
+        ]
+      }
+    ]
+  }
+}

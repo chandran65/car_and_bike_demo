@@ -1,0 +1,216 @@
+{
+  "basic_info": {
+    "name": "Maruti Suzuki Invicto",
+    "manufacturer": "Maruti Suzuki",
+    "model": "Invicto",
+    "body_type": "MUV",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/invicto",
+    "image_url": "https://images.carandbike.com/car-images/large/maruti-suzuki/invicto/maruti-suzuki-invicto.jpg?v=12",
+    "description": "Maruti Suzuki Invicto is a 7,8-seater MUV available at a starting price of Rs. 24.97 Lakh. The car is available in 3 variants, with 1 engine and 1 transmission option. Additionally, Invicto offers a Ground Clearance measurement of 185 mm and a Boot capacity of 239 liters. You can choose from 4 colors for the Invicto. The mileage of the Invicto varies from 23.2 KM/L depending on the model.",
+    "model_date": "2023-07-05",
+    "sku": "maruti-suzuki-invicto-1749",
+    "vin": "5NPEL4AB3BH001749",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1987 cc",
+    "power": "183 bhp",
+    "torque": "188 Nm",
+    "fuel_type": "Hybrid"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Hybrid",
+    "efficiency": "23 KM/L"
+  },
+  "dimensions": {
+    "width": "1850 mm ",
+    "height": "1795 mm",
+    "weight": "1785/1785",
+    "seating_capacity": "7,8",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Mystic White",
+    "Majestic Silver",
+    "Stellar Bronze",
+    "NEXA Blue"
+  ],
+  "price": {
+    "value": 2497400,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/maruti-suzuki-cars/invicto"
+  },
+  "brand": {
+    "name": "Maruti Suzuki",
+    "image": "https://images.carandbike.com/car-images/big/maruti-suzuki/maruti-suzuki.png?v=1"
+  },
+  "rating": {
+    "value": "8.5",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "mileage_details": [
+    {
+      "fuel_type": "Hybrid",
+      "transmission": "Automatic",
+      "mileage": "23.2 KM/L",
+      "city_mileage": "20 KM/L",
+      "highway_mileage": "22 KM/L"
+    }
+  ],
+  "verdict": "Currently, the most expensive offering from Maruti, the three-row Invicto packs in all the goodies a flagship model would have. However, it misses some essential features like the ADAS functions, electrically adjustable second-row captain seats, and ottomans seen on its rebadged Toyota derivative - the Hycross.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Maruti Suzuki Invicto",
+        "price": "24.97 - 28.61 Lakh",
+        "url": "/maruti-suzuki-cars/invicto"
+      },
+      {
+        "name": "Hyundai Alcazar",
+        "price": "14.47 - 21.1 Lakh",
+        "url": "/hyundai-cars/alcazar"
+      },
+      {
+        "name": "Mahindra Marazzo",
+        "price": "14.06 - 16.38 Lakh",
+        "url": "/mahindra-cars/marazzo"
+      },
+      {
+        "name": "Kia Carens Clavis",
+        "price": "11.08 - 20.71 Lakh",
+        "url": "/kia-cars/carens-clavis"
+      },
+      {
+        "name": "Kia Carens",
+        "price": "10.99 - 12.77 Lakh",
+        "url": "/kia-cars/carens"
+      },
+      {
+        "name": "Toyota Rumion",
+        "price": "10.44 - 13.62 Lakh",
+        "url": "/toyota-cars/rumion"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 24.97 - 28.61 Lakh",
+          "₹ 14.47 - 21.1 Lakh",
+          "₹ 14.06 - 16.38 Lakh",
+          "₹ 11.08 - 20.71 Lakh",
+          "₹ 10.99 - 12.77 Lakh",
+          "₹ 10.44 - 13.62 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.5",
+          "8.3",
+          "8.3",
+          "-",
+          "7.0",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1987 cc",
+          "1482 CC",
+          "1497 CC",
+          "1497 CC",
+          "1497 CC",
+          "1462 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual",
+          "Manual"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "23 KM/L",
+          "17.5 - 20.4 KM/L",
+          "17.6 KM/L",
+          "16.2 - 16.8 KM/L",
+          "16.2 - 21.3 KM/L",
+          "20.5 - 26 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Hybrid",
+          "Petrol, Diesel",
+          "Diesel",
+          "Petrol, Diesel",
+          "Petrol, Diesel",
+          "Petrol, CNG"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "7,8 Seater",
+          "7 Seater",
+          "8 Seater",
+          "7 Seater",
+          "7 Seater",
+          "7 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "52.0 L",
+          "50.0 L",
+          "45.0 L",
+          "45.0 L",
+          "45.0 L",
+          "45.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "3",
+          "23",
+          "6",
+          "27",
+          "2",
+          "7"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Invicto vs Alcazar",
+          "Invicto vs Marazzo",
+          "Invicto vs Carens Clavis",
+          "Invicto vs Carens",
+          "Invicto vs Rumion"
+        ]
+      }
+    ]
+  }
+}

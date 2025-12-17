@@ -1,0 +1,239 @@
+{
+  "basic_info": {
+    "name": "Tata Curvv",
+    "manufacturer": "Tata",
+    "model": "Curvv",
+    "body_type": "Coupe",
+    "url": "https://www.carandbike.com/tata-cars/curvv",
+    "image_url": "https://images.carandbike.com/car-images/large/tata/curvv/tata-curvv.jpg?v=20",
+    "description": "Tata Curvv is a 5-seater Coupe available at a starting price of Rs. 9.66 Lakh. The car is available in 33 variants, with 3 engine and 2 transmission option. Additionally, Curvv offers a Ground Clearance measurement of 190 mm and a Boot capacity of 500 liters. You can choose from 6 colors for the Curvv. The mileage of the Curvv varies from 16 - 19 KM/L depending on the model.",
+    "model_date": "2024-09-02",
+    "sku": "tata-curvv-1803",
+    "vin": "5NPEL4AB3BH001803",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1199,1497 cc",
+    "power": "87,88,92 bhp",
+    "torque": "170,225,260 Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Manual, DCT",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "16 - 19 KM/L"
+  },
+  "dimensions": {
+    "width": "1810 mm ",
+    "height": "1630 mm",
+    "weight": "",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Daytona Grey Dual Tone",
+    "Pure Grey",
+    "Opera Blue",
+    "Gold Essence",
+    "Pristine White",
+    "Flame Red"
+  ],
+  "price": {
+    "value": 965690,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/tata-cars/curvv"
+  },
+  "brand": {
+    "name": "Tata",
+    "image": "https://images.carandbike.com/car-images/big/tata/tata.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "mileage_details": [
+    {
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "mileage": "16 KM/L",
+      "city_mileage": "16 KM/L",
+      "highway_mileage": "18 KM/L"
+    },
+    {
+      "fuel_type": "Petrol",
+      "transmission": "DCT",
+      "mileage": "16 KM/L",
+      "city_mileage": "14.5 KM/L",
+      "highway_mileage": "16 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "Manual",
+      "mileage": "19 KM/L",
+      "city_mileage": "17.5 KM/L",
+      "highway_mileage": "19 KM/L"
+    },
+    {
+      "fuel_type": "Diesel",
+      "transmission": "DCT",
+      "mileage": "19 KM/L",
+      "city_mileage": "16 KM/L",
+      "highway_mileage": "18.5 KM/L"
+    }
+  ],
+  "verdict": "The Tata Curvv offers a fresh, modern take on the SUV-coupe segment with a well-thought-out design, especially appealing for lifestyle buyers. Its powerful new Hyperion petrol engine and extensive feature list make it an attractive choice, especially in the sub-Rs 20 lakh price bracket. While it might lack the sleekness of some of its rivals, its practicality and driving refinement more than compensate, making it a strong contender in its segment.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Tata Curvv",
+        "price": "9.66 - 18.54 Lakh",
+        "url": "/tata-cars/curvv"
+      },
+      {
+        "name": "Citroen Basalt X",
+        "price": "7.95 - 13.11 Lakh",
+        "url": "/citroen-cars/basalt-x"
+      },
+      {
+        "name": "BMW 6 Series Gran Turismo",
+        "price": "79.04 - 86.72 Lakh",
+        "url": "/bmw-cars/6-series-gran-turismo"
+      },
+      {
+        "name": "Mercedes-AMG GLC 43 Coupe",
+        "price": "1.17 Crore",
+        "url": "/mercedes-amg-cars/glc-43-coupe"
+      },
+      {
+        "name": "Mercedes-Benz CLE Cabriolet",
+        "price": "1.17 Crore",
+        "url": "/mercedes-benz-cars/cle-cabriolet"
+      },
+      {
+        "name": "BMW M8",
+        "price": "2.56 Crore",
+        "url": "/bmw-cars/m8"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 9.66 - 18.54 Lakh",
+          "₹ 7.95 - 13.11 Lakh",
+          "₹ 79.04 - 86.72 Lakh",
+          "₹ 1.17 Crore",
+          "₹ 1.17 Crore",
+          "₹ 2.56 Crore"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "8.0",
+          "7.1",
+          "-",
+          "8.8"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1199,1497 cc",
+          "1199 CC",
+          "1998 CC",
+          "1996 CC",
+          "1999 CC",
+          "4395 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Manual, DCT",
+          "Manual",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "16 - 19 KM/L",
+          "18 - 19.5 KM/L",
+          "13.32 - 18.65 KM/L",
+          "13 KM/L",
+          "12 KM/L",
+          "11.3 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol, Diesel",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "4 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "44.0 L",
+          "45.0 L",
+          "68.0 L",
+          "93.0 L",
+          "66.0 L",
+          "68.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "33",
+          "8",
+          "4",
+          "1",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Curvv vs Basalt X",
+          "Curvv vs 6 Series Gran Turismo",
+          "Curvv vs GLC 43 Coupe",
+          "Curvv vs CLE Cabriolet",
+          "Curvv vs M8"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "basic_info": {
+    "name": "Mercedes-Benz GLA",
+    "manufacturer": "Mercedes-Benz",
+    "model": "GLA",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/mercedes-benz-cars/gla-class",
+    "image_url": "https://images.carandbike.com/car-images/large/mercedes-benz/gla-class/mercedes-benz-gla-class.jpg?v=23",
+    "description": "Mercedes-Benz GLA is a 5-seater SUV available at a starting price of Rs. 51.5 Lakh. The car is available in 3 variants, with 2 engine and 1 transmission option. Additionally, GLA offers a Ground Clearance measurement of 183 mm and a Boot capacity of 570 liters. You can choose from 9 colors for the GLA. The mileage of the GLA varies from 13 - 17 KM/L depending on the model.",
+    "model_date": "2024-01-31",
+    "sku": "mercedes-benz-gla-1363",
+    "vin": "5NPEL4AB3BH001363",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "displacement": "1332,1950 cc",
+    "power": "163,193 bhp",
+    "torque": "250,400 Nm",
+    "fuel_type": "Petrol, Diesel"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Petrol, Diesel",
+    "efficiency": "13 - 17 KM/L"
+  },
+  "dimensions": {
+    "width": "2020 mm ",
+    "height": "1611 mm",
+    "weight": "1525/1656",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Spectral blue Progessive line",
+    "Mountain Grey Progessive line",
+    "Cosmos Black Progessive line",
+    "Iridium Silver Progessive line",
+    "Polar White Progessive line",
+    "Polar White",
+    "Cosmos Black",
+    "Iridium Silver Metallic",
+    "Mountain Grey"
+  ],
+  "price": {
+    "value": "5150000",
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/mercedes-benz-cars/gla-class"
+  },
+  "brand": {
+    "name": "Mercedes-Benz",
+    "image": "https://images.carandbike.com/car-images/big/mercedes-benz/mercedes-benz.png?v=1"
+  },
+  "rating": {
+    "value": "8.6",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Plush ride quality",
+    "Sophisticated looks makes it stand out",
+    "The cabin is very spacious and well designed"
+  ],
+  "cons": [
+    "The Gearbox is not so responsive",
+    "The AMG trim is pricey",
+    "Rear Seat Legroom Could Be Better"
+  ],
+  "verdict": "The Mercedes-Benz GLA-Class offers an exceptionally plush ride, with a cabin that has been redesigned to align with its more upscale siblings. Perfectly sized and positioned for the Indian entry-level premium market, it provides a harmonious blend of luxury and practicality. Despite the general upward trend in vehicle prices over recent years, the GLA-Class maintains an attractive price point. Its introduction is a significant and welcome enhancement to India's entry-level premium segment, promising a blend of comfort, style, and prestige.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Mercedes-Benz GLA",
+        "price": "51.5 - 56.5 Lakh",
+        "url": "/mercedes-benz-cars/gla-class"
+      },
+      {
+        "name": "Toyota Fortuner Legender",
+        "price": "41.54 - 46.75 Lakh",
+        "url": "/toyota-cars/fortuner-legender"
+      },
+      {
+        "name": "Isuzu MU-X",
+        "price": "40.67 - 44.04 Lakh",
+        "url": "/isuzu-cars/mu-x"
+      },
+      {
+        "name": "Jeep Grand Cherokee",
+        "price": "63 Lakh",
+        "url": "/jeep-cars/grand-cherokee"
+      },
+      {
+        "name": "Skoda Kodiaq",
+        "price": "39.99 - 45.96 Lakh",
+        "url": "/skoda-cars/kodiaq"
+      },
+      {
+        "name": "Jeep Wrangler Unlimited",
+        "price": "64.08 - 67.81 Lakh",
+        "url": "/jeep-cars/wrangler-unlimited"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 51.5 - 56.5 Lakh",
+          "₹ 41.54 - 46.75 Lakh",
+          "₹ 40.67 - 44.04 Lakh",
+          "₹ 63 Lakh",
+          "₹ 39.99 - 45.96 Lakh",
+          "₹ 64.08 - 67.81 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.6",
+          "-",
+          "7.3",
+          "8.1",
+          "8.2",
+          "7.0"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "1332,1950 cc",
+          "2755 CC",
+          "2999 CC",
+          "1998 CC",
+          "1984 CC",
+          "1998 CC"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Manual",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "13 - 17 KM/L",
+          "14.2 - 14.4 KM/L",
+          "13 KM/L",
+          "8.61 KM/L",
+          "14.86 KM/L",
+          "12.01 KM/L"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Petrol, Diesel",
+          "Diesel",
+          "Diesel",
+          "Petrol",
+          "Petrol",
+          "Petrol"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "7 Seater",
+          "7 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "50.0 L",
+          "80.0 L",
+          "65.0 L",
+          "93.5 L",
+          "62.0 L",
+          "87.0 L"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "3",
+          "4",
+          "2",
+          "1",
+          "3",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "GLA-Class vs Fortuner Legender",
+          "GLA-Class vs MU-X",
+          "GLA-Class vs Grand Cherokee",
+          "GLA-Class vs Kodiaq",
+          "GLA-Class vs Wrangler Unlimited"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "basic_info": {
+    "name": "Tata Harrier EV",
+    "manufacturer": "Tata",
+    "model": "Harrier EV",
+    "body_type": "SUV",
+    "url": "https://www.carandbike.com/tata-cars/harrier-ev",
+    "image_url": "https://images.carandbike.com/car-images/large/tata/harrier-ev/tata-harrier-ev.jpg?v=13",
+    "description": "Tata Harrier EV is a 5-seater electric SUV available at a starting price of Rs. 24.93 Lakh. The electric car is available in 16 variants.Additionally, Harrier EV offers a Ground Clearance measurement of 205 mm and a Boot capacity of 425 liters. You can choose from 4 colors for the Harrier EV. The battery range/mileage of the Harrier EV is 627 Km/Full Charge. ",
+    "model_date": "2025-06-03",
+    "sku": "tata-harrier-ev-1739",
+    "vin": "5NPEL4AB3BH001739",
+    "condition": "https://schema.org/NewCondition"
+  },
+  "engine": {
+    "fuel_type": "Electric"
+  },
+  "transmission": "Automatic",
+  "fuel": {
+    "type": "Electric",
+    "efficiency": "627 Km/Full Charge"
+  },
+  "dimensions": {
+    "width": "1894 mm ",
+    "height": "1706 mm",
+    "weight": "1900/1900",
+    "seating_capacity": "5",
+    "number_of_doors": "5"
+  },
+  "colors": [
+    "Nainital Nocturne",
+    "Empowered Oxcide",
+    "Pure Grey",
+    "Pristine White With Dual Tone"
+  ],
+  "price": {
+    "value": 2493075,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock",
+    "valid_until": "2026-03-31",
+    "url": "https://www.carandbike.com/tata-cars/harrier-ev"
+  },
+  "brand": {
+    "name": "Tata",
+    "image": "https://images.carandbike.com/car-images/big/tata/tata.png?v=1"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "whats_new": {
+    "Introduction": [
+      "The Tata Harrier EV is the brand's sixth electric model.",
+      "Ex-showroom prices started at Rs. 21.49 lakh for the base variant.",
+      "The most expensive is the top-spec QWD Stealth Edition.",
+      "The latter is a special edition with exclusive paint scheme.",
+      "Otherwise, it comes in three variants or personas as Tata Motors call it.",
+      "There's sufficient differentiation between Adventure, Fearless, and Empowered, and a special Stealth Edition."
+    ],
+    "Exterior": [
+      "The Harrier EV is the company's new electric flagship.",
+      "It closely resembles the ICE version in design.",
+      "Key distinguishing features include a blanked-out front grille, new bumpers, aero-efficient alloy wheels, and enhanced lighting with animations.",
+      "The EV is offered in four colours, plus the Stealth edition.",
+      "A bold stance and design identical to the ICE model make it interesting and practical."
+    ],
+    "Interior": [
+      "Inside the Harrier EV is a nice sleek grey and white colour scheme.",
+      "Its layout is like the ICE Harrier, but with added advanced features.",
+      "The biggest highlight is the 14.5-inch Samsung Neo QLED touchscreen.",
+      "The feature-rich cabin also features a 10.25-inch digital instrument cluster, JBL audio with Dolby Atmos, and a panoramic sunroof.",
+      "Other key highlights include Level 2 ADAS, connected car tech with OTA updates, and a 'Summon' mode for limited vehicle movement through its key fob.",
+      "The stand-out features include a 540-degree surround camera and a new DrivePay feature for FASTag and EV charging point payments."
+    ],
+    "Powertrain": [
+      "The Tata Harrier EV is based on Tata's Acti.ev platform.It features a dual-motor setup giving it all-wheel-drive capabilities named as QWD.",
+      "The lower variants get a 65kWh battery which powers a single electric motor producing 235bhp and sending this power to the rear wheels.Meanwhile, the higher variants are equipped with a bigger 75kWh battery pack and dual electric motors.",
+      "Here the front motor delivers 155bhp and the rear churns out 235bhp, generating a cumulative 504Nm of torque.",
+      "The Harrier EV can do the 0-100kmph sprint in just 6.3 seconds.Notably, the QWD tech gives it an all-terrain capability with four drive and six terrain modes."
+    ]
+  },
+  "verdict": "The Tata Harrier EV is a compelling choice for prospective buyers looking for a high-riding EV. Especially with its good road presence, over 350km driving range, good comfort, performance, and off-road capability through QWD. However, it struggles with inconsistent quality, fit and finish, and tech issues, while top-spec variants come with a steep price (over Rs. 30 lakh). Yet the SUV manages to balance affordability, performance, and range, while it competes with Mahindra BE 6, XEV 9e, Hyundai Creta Electric, and Maruti e Vitara in a tough market that's only growing.",
+  "competitor_comparison": {
+    "cars": [
+      {
+        "name": "Tata Harrier EV",
+        "price": "21.49 - 30.23 Lakh",
+        "url": "/tata-cars/harrier-ev"
+      },
+      {
+        "name": "VinFast VF7",
+        "price": "24.23 - 29.57 Lakh",
+        "url": "/vinfast-cars/vf7"
+      },
+      {
+        "name": "Mahindra XEV 9e",
+        "price": "21.9 - 32 Lakh",
+        "url": "/mahindra-cars/xev-9e"
+      },
+      {
+        "name": "BYD Atto 3 EV",
+        "price": "28.99 - 34.63 Lakh",
+        "url": "/byd-cars/atto-3-ev"
+      },
+      {
+        "name": "Mahindra XEV 9S",
+        "price": "19.95 - 29.45 Lakh",
+        "url": "/mahindra-cars/xev-9s"
+      },
+      {
+        "name": "VinFast VF6",
+        "price": "19.13 - 21.22 Lakh",
+        "url": "/vinfast-cars/vf6"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 21.49 - 30.23 Lakh",
+          "₹ 24.23 - 29.57 Lakh",
+          "₹ 21.9 - 32 Lakh",
+          "₹ 28.99 - 34.63 Lakh",
+          "₹ 19.95 - 29.45 Lakh",
+          "₹ 19.13 - 21.22 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "-",
+          "8.1",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Transmission",
+        "values": [
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic",
+          "Automatic"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "627 Km/Full Charge",
+          "438 - 532 Km/Full Charge",
+          "542 - 656 Km/Full Charge",
+          "468 - 521 Km/Full Charge",
+          "521 - 679 Km/Full Charge",
+          "460 Km/Full Charge"
+        ]
+      },
+      {
+        "feature": "Fuel Type",
+        "values": [
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric",
+          "Electric"
+        ]
+      },
+      {
+        "feature": "Seating Capacity",
+        "values": [
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "5 Seater",
+          "7 Seater",
+          "5 Seater"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "No of Variants",
+        "values": [
+          "16",
+          "5",
+          "17",
+          "2",
+          "6",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Harrier EV vs VF7",
+          "Harrier EV vs XEV 9e",
+          "Harrier EV vs Atto 3 EV",
+          "Harrier EV vs XEV 9S",
+          "Harrier EV vs VF6"
+        ]
+      }
+    ]
+  }
+}
