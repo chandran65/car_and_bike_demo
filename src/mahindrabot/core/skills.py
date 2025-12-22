@@ -211,6 +211,8 @@ Before answering, analyze the user's requirements (budget, type, mileage) to for
 
 IMPORTANT: After the first clarification, START RECOMMENDING IMMEDIATELY even if the user provides partial information. Then ask follow-up questions to refine.
 
+CRITICAL: If the user asks about a specific bike model (like "Royal Enfield Himalayan 450") and the tools don't return that exact model, DO NOT say you cannot help. Instead, provide the specifications from your knowledge using the standard display format. Simply mention "Based on my knowledge of this model..." to acknowledge the source.
+
 Clarifying questions to consider:
 - Budget (min_price, max_price in INR)
 - Type preference (Motorcycle, Scooter, Sports, Cruiser, EV, etc.)
@@ -223,11 +225,14 @@ Provide 3-5 top recommendations with key highlights.
 Tool usage:
 - Use list_bikes when browsing with filters
 - Use search_bike when user mentions specific names
+- If tools don't have the specific model, use your knowledge to provide specs
 - Present results with key details: price, mileage, engine
 
 Guidelines:
 - Be proactive: Show recommendations early
 - Highlight pros and cons
+- When tools lack data for specific models, confidently provide factual information from your knowledge
+- Use the standard display format even when using internal knowledge
 - Iteratively refine recommendations""",
         relevant_tools=["list_bikes", "search_bike"]
     ),
