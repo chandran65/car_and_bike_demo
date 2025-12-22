@@ -1,0 +1,22 @@
+{
+    "basic_info": {
+        "name": "Royal Enfield Himalayan 450",
+        "manufacturer": "Royal Enfield",
+        "model": "Himalayan 450",
+        "description": "The Royal Enfield Himalayan 450 (Himalayan 452) features a new Sherpa 450 water-cooled engine. It produces 40.02 PS of power and 40 Nm of torque.",
+        "sku": "royal-enfield-himalayan-450"
+    },
+    "engine": {
+        "displacement": "452 cc",
+        "power": "40.02 PS @ 8000 rpm",
+        "torque": "40 Nm @ 5500 rpm",
+        "fuel_type": "Petrol"
+    },
+    "price": {
+        "currency": "INR",
+        "availability": "https://schema.org/InStock"
+    },
+    "brand": {
+        "name": "Royal Enfield"
+    }
+}
