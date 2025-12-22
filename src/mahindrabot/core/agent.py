@@ -1,4 +1,5 @@
 """Core agent flow for Mahindra Bot."""
+# Updated: Allow knowledge fallback for vehicle specs
 
 from collections.abc import Generator
 
