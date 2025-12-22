@@ -153,6 +153,7 @@ class BikeDetail(BaseModel):
     competitor_comparison: Optional[CompetitorComparison] = None
     mileage_details: Optional[list[MileageDetail]] = None
     whats_new: Optional[dict[str, list[str]]] = None
+    features: Optional[list[str]] = None
     
     model_config = ConfigDict(validate_assignment=True, extra="ignore")
     

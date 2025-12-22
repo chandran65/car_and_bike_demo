@@ -1,0 +1,193 @@
+{
+  "basic_info": {
+    "name": "KTM 160 Duke",
+    "manufacturer": "KTM",
+    "model": "160 Duke",
+    "body_type": "Sports",
+    "description": [
+      "The KTM 160 Duke is a Sports bike available at a starting price of Rs. 1.71 Lakh. The bike is available in 2 variants with 3 colour options. The 164.2 cc  engine of 160 Duke is mated with 6 gears, producing maximum power of 18.7 bhp @ 9,500 rpm bhp @ 9500 rpm and a maximum torque of 15.5 Nm @ 7,500 rpm Nm @ 7000 rpm.  The mileage of the 160 Duke is 38 KM/L. "
+    ],
+    "sku": "ktm-160-duke-2083"
+  },
+  "engine": {
+    "displacement": "164.2 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 170545,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "KTM"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "KTM 160 Duke",
+        "price": "1.71 - 1.79 Lakh",
+        "url": "/ktm-bikes/160-duke"
+      },
+      {
+        "name": "Hero Xtreme 250R",
+        "price": "1.76 Lakh",
+        "url": "/hero-bikes/xtreme-250r"
+      },
+      {
+        "name": "Keeway K300 SF",
+        "price": "1.65 Lakh",
+        "url": "/keeway-bikes/k300-sf"
+      },
+      {
+        "name": "KTM 890 Adventure",
+        "price": "1.58 Lakh",
+        "url": "/ktm-bikes/890-adventure"
+      },
+      {
+        "name": "Hero Karizma XMR",
+        "price": "1.84 - 1.86 Lakh",
+        "url": "/hero-bikes/karizma-xmr"
+      },
+      {
+        "name": "Honda CB300F Flex Fuel",
+        "price": "1.55 Lakh",
+        "url": "/honda-bikes/cb300f-flex-fuel"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.71 - 1.79 Lakh",
+          "₹ 1.76 Lakh",
+          "₹ 1.65 Lakh",
+          "₹ 1.58 Lakh",
+          "₹ 1.84 - 1.86 Lakh",
+          "₹ 1.55 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "164.2 CC",
+          "249.0 CC",
+          "292.4 CC",
+          "889.0 CC",
+          "210.0 CC",
+          "293.5 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "38 KM/L",
+          "0.00 Km/L",
+          "0.00 Km/L",
+          "22.00 Km/L",
+          "41.55 Km/L",
+          "35.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "15.5 Nm @ 7,500 rpm bhp",
+          "25",
+          "25",
+          "100.00",
+          "20.40 Nm @ 7250 RPM",
+          "25.60"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "18.7 bhp @ 9,500 rpm Nm",
+          "30 bhp",
+          "27.5 bhp",
+          "104.60 bhp",
+          "25.15 BHP @ 9250 RPM bhp",
+          "24.00 bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Disc (radial caliper)/Disc (floating caliper)",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Disc (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "10.1 L",
+          "11.5 L",
+          "12.5 L",
+          "20.0 L",
+          "11.0 L",
+          "14.1 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "3",
+          "3",
+          "3",
+          "1",
+          "4",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "160 Duke vs Xtreme 250R",
+          "160 Duke vs K300 SF",
+          "160 Duke vs 890 Adventure",
+          "160 Duke vs Karizma XMR",
+          "160 Duke vs CB300F Flex Fuel"
+        ]
+      }
+    ]
+  }
+}

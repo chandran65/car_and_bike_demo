@@ -1,0 +1,18 @@
+{
+  "basic_info": {
+    "name": "Hero Karizma XMR 250",
+    "manufacturer": null,
+    "model": "Karizma XMR 250",
+    "body_type": null,
+    "description": "",
+    "sku": "hero-karizma-xmr-250-2019"
+  },
+  "price": {
+    "value": 200000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Hero"
+  }
+}

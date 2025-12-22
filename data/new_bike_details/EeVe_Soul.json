@@ -1,0 +1,203 @@
+{
+  "basic_info": {
+    "name": "EeVe Soul",
+    "manufacturer": "EeVe",
+    "model": "Soul",
+    "body_type": "Scooter",
+    "description": [
+      "The EeVe Soul is a electric Scooter bike available at a starting price of Rs. 1.48 Lakh. The electric scooter is available in 1 variants .  The electric motor comes with a 60V 20AH Lithium Ion battery pack. The battery range/mileage of the Soul is 120 Km/Full Charge. "
+    ],
+    "sku": "eeve-soul-1717"
+  },
+  "engine": {
+    "displacement": null,
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 148169,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "EeVe"
+  },
+  "rating": {
+    "value": "7.1",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Striking design",
+    "Feature-laden",
+    "Swappable battery system"
+  ],
+  "cons": [
+    "No under-seat storage",
+    "Expensive for it offers",
+    "Limited after-sales support"
+  ],
+  "verdict": "The Eeve Soul is an electric scooter, which gets a range of up to 120 km. The scooter gets a lithium-ferro-phosphate battery, which can be charged fully in 5 hours. The scooter has a maximum loading capacity of 140 kg and is a decent option for urban commuting. It gets a bunch of features like USB port, bottle case, Bluetooth speaker, adjustable levers, display etc. It is available across the country and its ex-showroom price is Rs. 1.40 lakh, which is at par with other electric scooters. It is a decent scooter, offering decent features and performance.",
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "EeVe Soul",
+        "price": "1.4 Lakh",
+        "url": "/eeve-bikes/soul"
+      },
+      {
+        "name": "Ola Electric S1 Pro",
+        "price": "1.48 Lakh",
+        "url": "/ola-electric-bikes/s1-pro"
+      },
+      {
+        "name": "Okinawa Okhi 90",
+        "price": "1.5 Lakh",
+        "url": "/okinawa-bikes/okhi-90"
+      },
+      {
+        "name": "Ola Electric S1 Pro Sport",
+        "price": "1.5 - 1.65 Lakh",
+        "url": "/ola-electric-bikes/s1-pro-sport"
+      },
+      {
+        "name": "Okaya Faast F4",
+        "price": "1.45 Lakh",
+        "url": "/okaya-bikes/faast-f4"
+      },
+      {
+        "name": "Simple Energy One",
+        "price": "1.53 Lakh",
+        "url": "/simple-energy-bikes/one"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.4 Lakh",
+          "₹ 1.48 Lakh",
+          "₹ 1.5 Lakh",
+          "₹ 1.5 - 1.65 Lakh",
+          "₹ 1.45 Lakh",
+          "₹ 1.53 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.1",
+          "8.1",
+          "6.8",
+          "-",
+          "-",
+          "7.7"
+        ]
+      },
+      {
+        "feature": "Battery Type",
+        "values": [
+          "60V 20AH Lithium Ion",
+          "Lithium-ion Battery",
+          "Lithium Ion",
+          "Lithium-ion (4680 Bharat Cell)",
+          "3.53 kWh dual battery",
+          "lithium-ion battery"
+        ]
+      },
+      {
+        "feature": "Battery Range",
+        "values": [
+          "120 Km/Full Charge",
+          "181 Km/FullCharge",
+          "160 Km/FullCharge",
+          "~242 km (IDC) Km/FullCharge",
+          "110-130 Km/FullCharge",
+          "236 Km/FullCharge"
+        ]
+      },
+      {
+        "feature": "Charging Time",
+        "values": [
+          "3-4 Hours",
+          "Approximately 6",
+          "5 - 6 hours",
+          "~4 hrs 50 mins",
+          "4-5 Hours",
+          "8 Hrs"
+        ]
+      },
+      {
+        "feature": "Fast Charging Time",
+        "values": [
+          "75 km in 18 Min",
+          "N/A",
+          "N/A",
+          "N/A",
+          "6 Hrs"
+        ]
+      },
+      {
+        "feature": "Kerb Weight",
+        "values": [
+          "140 Kg",
+          "116 Kg",
+          "96 Kg",
+          "116 Kg",
+          "95 Kg",
+          "110 Kg"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "N/A",
+          "58.00",
+          "N/A",
+          "",
+          "N/A",
+          "72"
+        ]
+      },
+      {
+        "feature": "Variant",
+        "values": [
+          "1",
+          "1",
+          "1",
+          "2",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "0",
+          "5",
+          "0",
+          "5",
+          "6",
+          "6"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Soul vs S1 Pro",
+          "Soul vs Okhi 90",
+          "Soul vs S1 Pro Sport",
+          "Soul vs Faast F4",
+          "Soul vs One"
+        ]
+      }
+    ]
+  }
+}

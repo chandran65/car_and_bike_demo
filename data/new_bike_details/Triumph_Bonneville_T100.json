@@ -1,0 +1,204 @@
+{
+  "basic_info": {
+    "name": "Triumph Bonneville T100",
+    "manufacturer": "Triumph",
+    "model": "Bonneville T100",
+    "body_type": "Cruiser",
+    "description": [
+      "The Triumph Bonneville T100 is a Cruiser bike available at a starting price of Rs. 10.71 Lakh. The bike is available in 2 variants with 4 colour options. The 900.0 cc BS VI engine of Bonneville T100 is mated with 5 gears, producing maximum power of 64.10 bhp @ 7400 rpm and a maximum torque of 80.00 Nm @ 3750 rpm.  The mileage of the Bonneville T100 is 26 KM/L. "
+    ],
+    "sku": "triumph-bonneville-t100-1127"
+  },
+  "engine": {
+    "displacement": "900.0 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 1070612,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Triumph"
+  },
+  "rating": {
+    "value": "7.4",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Smooth engine",
+    "Good low-end torque",
+    "Easy to handle"
+  ],
+  "cons": [
+    "Needs better suspension setup",
+    "Mild vibrations",
+    "Uncomfortable over long journey"
+  ],
+  "verdict": "The 2021 Triumph Bonneville T100 is the entry model in the Bonneville family. The T100 gets authentic old-school design, which is the hallmark for Triumph’s modern classic range. The T100 features a high torque, 900cc twin-cylinder Bonneville engine, which receives significant updates for 2021, resulting in a lighter and more responsive powertrain. The 900 cc parallel-twin motor makes 64 bhp at 7,400 rpm and the peak torque output is rated at 80 Nm coming in at 3,750 rpm.",
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "Triumph Bonneville T100",
+        "price": "10.14 - 10.78 Lakh",
+        "url": "/triumph-bikes/bonneville-t100"
+      },
+      {
+        "name": "Triumph Bonneville T120",
+        "price": "12.4 - 13.3 Lakh",
+        "url": "/triumph-bikes/bonneville-t120"
+      },
+      {
+        "name": "Indian Scout Sixty",
+        "price": "12.4 Lakh",
+        "url": "/indian-bikes/scout-sixty"
+      },
+      {
+        "name": "Kawasaki W800 Street",
+        "price": "8.27 Lakh",
+        "url": "/kawasaki-bikes/w800-street"
+      },
+      {
+        "name": "Triumph Speedmaster",
+        "price": "13.48 - 14.38 Lakh",
+        "url": "/triumph-bikes/speedmaster"
+      },
+      {
+        "name": "Triumph Bonneville Bobber",
+        "price": "13.82 - 14.38 Lakh",
+        "url": "/triumph-bikes/bonneville-bobber"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 10.14 - 10.78 Lakh",
+          "₹ 12.4 - 13.3 Lakh",
+          "₹ 12.4 Lakh",
+          "₹ 8.27 Lakh",
+          "₹ 13.48 - 14.38 Lakh",
+          "₹ 13.82 - 14.38 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.4",
+          "7.5",
+          "6.3",
+          "7",
+          "7.7",
+          "8.2"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "900.0 CC",
+          "1200.0 CC",
+          "999.0 CC",
+          "773.0 CC",
+          "1200.0 CC",
+          "1200.0 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "5 Gears",
+          "6 Gears",
+          "5 Gears",
+          "5 Gears",
+          "6 Gears",
+          "6 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "26 KM/L",
+          "18.00 Km/L",
+          "25.00 Km/L",
+          "14.00 Km/L",
+          "23.25 Km/L",
+          "24.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "80.00 bhp",
+          "105.00",
+          "88 Nm @ 5,800 rpm",
+          "62.90",
+          "106.00",
+          "106.00"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "64.10 Nm",
+          "79.00 bhp",
+          "85 hp @ 6,500 rpm bhp",
+          "47.30 bhp",
+          "76.90 bhp",
+          "77.00 bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Disc/Disc",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Dual Disc (Front) / Disc (Rear)",
+          "Twin Disc, Brembo 2-piston sliding axial calipers, ABS (Front) / Single Disc, Nissin single piston sliding axial caliper, ABS (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "14.5 L",
+          "14.5 L",
+          "12.5 L",
+          "15.0 L",
+          "12.0 L",
+          "12.0 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "4",
+          "6",
+          "0",
+          "1",
+          "4",
+          "4"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Bonneville T100 vs Bonneville T120",
+          "Bonneville T100 vs Scout Sixty",
+          "Bonneville T100 vs W800 Street",
+          "Bonneville T100 vs Speedmaster",
+          "Bonneville T100 vs Bonneville Bobber"
+        ]
+      }
+    ]
+  }
+}

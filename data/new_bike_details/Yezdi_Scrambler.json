@@ -1,0 +1,203 @@
+{
+  "basic_info": {
+    "name": "Yezdi Scrambler",
+    "manufacturer": "Yezdi",
+    "model": "Scrambler",
+    "body_type": "Commuter",
+    "description": [
+      "The Yezdi Scrambler is a Commuter bike available at a starting price of Rs. 1.95 Lakh. The bike is available in 6 variants with 7 colour options. The 334.0 cc BS VI engine of Scrambler is mated with 6 gears, producing maximum power of 28.72 bhp @ 8000 rpm and a maximum torque of 28.21 Nm @ 6750 rpm.  The mileage of the Scrambler is 30 KM/L. "
+    ],
+    "sku": "yezdi-scrambler-1721"
+  },
+  "engine": {
+    "displacement": "334.0 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 195345,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Yezdi"
+  },
+  "rating": {
+    "value": "7.8",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Design",
+    "Torquey Performance",
+    "Easy to ride"
+  ],
+  "cons": [
+    "Engine heat",
+    "Wind blast at highway speeds"
+  ],
+  "verdict": "Pros",
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "Yezdi Scrambler",
+        "price": "1.95 - 2 Lakh",
+        "url": "/yezdi-bikes/scrambler"
+      },
+      {
+        "name": "Suzuki Gixxer SF 250",
+        "price": "1.9 - 1.9 Lakh",
+        "url": "/suzuki-bikes/gixxer-sf-250"
+      },
+      {
+        "name": "Suzuki Gixxer 250",
+        "price": "1.82 - 1.82 Lakh",
+        "url": "/suzuki-bikes/gixxer-250"
+      },
+      {
+        "name": "Hero Mavrick 440",
+        "price": "2.13 - 2.4 Lakh",
+        "url": "/hero-bikes/mavrick-440"
+      },
+      {
+        "name": "Bajaj Dominar 250",
+        "price": "1.77 Lakh",
+        "url": "/bajaj-bikes/dominar-250"
+      },
+      {
+        "name": "QJ Motor SRC 250",
+        "price": "1.75 Lakh",
+        "url": "/qj-motor-bikes/src-250"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.95 - 2 Lakh",
+          "₹ 1.9 - 1.9 Lakh",
+          "₹ 1.82 - 1.82 Lakh",
+          "₹ 2.13 - 2.4 Lakh",
+          "₹ 1.77 Lakh",
+          "₹ 1.75 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.8",
+          "8",
+          "8.5",
+          "-",
+          "8",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "334.0 CC",
+          "249.0 CC",
+          "249.0 CC",
+          "440.0 CC",
+          "248.8 CC",
+          "249.0 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "5 Gears",
+          "6 Gears",
+          "5 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "30 KM/L",
+          "38.50 Km/L",
+          "38.00 Km/L",
+          "32.00 Km/L",
+          "35.00 Km/L",
+          "0.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "28.21 bhp",
+          "23.00",
+          "22.2 Nm @ 7300 rpm",
+          "36.00",
+          "23.50",
+          "17.00"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "28.72 Nm",
+          "26.00 bhp",
+          "26.5 PS @ 9300 rpm bhp",
+          "27.00 bhp",
+          "27 bhp",
+          "17.40 bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Disc with Floating Caliper and ABS/Disc with Floating Caliper and ABS",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) /  Disc (Rear)",
+          "Twin-channel ABS, Disc (Front) / Twin-channel ABS, Disc (Rear)",
+          "Disc (Front) / Disc (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "12.5 L",
+          "12.0 L",
+          "12.0 L",
+          "13.5 L",
+          "13.0 L",
+          "14.0 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "7",
+          "3",
+          "2",
+          "5",
+          "3",
+          "0"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Scrambler vs Gixxer SF 250",
+          "Scrambler vs Gixxer 250",
+          "Scrambler vs Mavrick 440",
+          "Scrambler vs Dominar 250",
+          "Scrambler vs SRC 250"
+        ]
+      }
+    ]
+  }
+}

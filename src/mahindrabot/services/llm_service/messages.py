@@ -2,7 +2,7 @@
 
 import uuid
 from enum import IntEnum
-from typing import Any
+from typing import Any, Optional, Union
 
 from pydantic import BaseModel, Field
 
@@ -47,7 +47,7 @@ class Reasoning(BaseModel):
     summaries: list[str] = []
     contents: list[str] = []
     signature: str = ""
-    redacted_content: str | None = None
+    redacted_content: Optional[str] = None
 
 
 class ToolOutput(BaseModel):
@@ -79,11 +79,11 @@ class ToolResult(BaseModel):
         status: Execution status (SUCCESS or FAILURE)
     """
     
-    id: str | None = None
+    id: Optional[str] = None
     name: str
     raw_input: str = ""
-    input: dict | None = None
-    output: str | None = None
+    input: Optional[dict] = None
+    output: Optional[str] = None
     metadata: dict[str, Any] = {}
     status: ToolOutputStatus = ToolOutputStatus.SUCCESS
 
@@ -140,7 +140,7 @@ class AIMessage(BaseMessage):
     
     role: str = "ai"
     tool_call_requests: list[ToolCallRequest] = []
-    reasoning: Reasoning | None = None
+    reasoning: Optional[Reasoning] = None
 
 
 class AIMessageChunk(AIMessage):
@@ -154,4 +154,4 @@ class AIMessageChunk(AIMessage):
 
 
 # Type alias for any message type
-MessageType = SystemMessage | UserMessage | AIMessage
+MessageType = Union[SystemMessage, UserMessage, AIMessage]

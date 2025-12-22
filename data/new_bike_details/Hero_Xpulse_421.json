@@ -1,0 +1,18 @@
+{
+  "basic_info": {
+    "name": "Hero Xpulse 421",
+    "manufacturer": null,
+    "model": "Xpulse 421",
+    "body_type": null,
+    "description": "",
+    "sku": "hero-xpulse-421-1942"
+  },
+  "price": {
+    "value": 290000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Hero"
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "basic_info": {
+    "name": "Yamaha R15S V3.0",
+    "manufacturer": "Yamaha",
+    "model": "R15S V3.0",
+    "body_type": "Commuter",
+    "description": [
+      "The Yamaha R15S V3.0 is a Commuter bike available at a starting price of Rs. 1.54 Lakh. The bike is available in 1 variants with 3 colour options. The 155.0 cc BS VI engine of R15S V3.0 is mated with 6 gears, producing maximum power of 13.5kW(18.4PS)/10000 RPM bhp @ 10000 rpm and a maximum torque of 14.2 Nm (1.4 kgfm) @7,500 RPM Nm @ 7500 rpm.  The mileage of the R15S V3.0 is 48 KM/L. "
+    ],
+    "sku": "yamaha-r15s-v30-1711"
+  },
+  "engine": {
+    "displacement": "155.0 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 153892,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Yamaha"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Good looks",
+    "High safety standards",
+    "Superior engine"
+  ],
+  "cons": [
+    "Not meant for highway riding",
+    "Expensive",
+    "No rear seat space"
+  ],
+  "whats_new": {
+    "Design and Styling": [
+      "The Yamaha R15S V3.0 features a design inspired by Yamaha’s flagship R-series models. Its aerodynamic bodywork, sharp LED headlights, and aggressive fairing give it the unmistakable DNA of a racing bike. The single-piece seat provides added comfort, making it suitable for riders who frequently cover long distances. The bike is available in a striking color scheme that perfectly complements its sporty appeal."
+    ],
+    "Performance": [
+      "Under the hood, the Yamaha R15S V3.0 is powered by a 155cc, liquid-cooled, single-cylinder engine that delivers 18.6 bhp and 14.1 Nm of torque. The engine is equipped with Yamaha’s Variable Valve Actuation (VVA) technology, which ensures optimal performance across all RPM ranges. Coupled with a 6-speed gearbox, the R15S V3.0 offers smooth gear transitions and superior acceleration, making it a joy to ride on highways and city roads alike."
+    ],
+    "Key Features": [
+      "VVATechnology: Enhances performance by switching between two different cam profiles for smooth power delivery at all RPM levels.",
+      "Aerodynamic Design: Sharp fairings and sleek bodywork inspired by Yamaha’s R-series motorcycles.",
+      "Single-Piece Seat: Provides greater comfort for both the rider and pillion, making it a practical choice for long rides.",
+      "Full LED Lighting: LED headlights and tail lights for enhanced visibility and aesthetics.",
+      "Digital Instrument Cluster: Displays critical information like speed, fuel level, and gear position.",
+      "Dual-Channel ABS: Ensures safer braking by preventing wheel lock-ups under sudden braking conditions."
+    ],
+    "Ride and Handling": [
+      "The Yamaha R15S V3.0 is built on a lightweight Deltabox frame, which provides excellent rigidity and stability. The motorcycle features telescopic front forks and a monoshock rear suspension for superior ride quality. Its ergonomic design ensures that riders can maintain a comfortable position during extended rides. The bike’s 17-inch alloy wheels and grippy tires ensure confident handling, even at high speeds."
+    ],
+    "Price and Colors": [
+      "The Yamaha R15S V3.0 is priced competitively in the Indian market, making it an appealing choice for riders looking for an affordable yet performance-oriented motorcycle. It is available in an elegant Racing Blue color, which accentuates its sporty persona."
+    ]
+  },
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "Yamaha R15S V3.0",
+        "price": "1.54 Lakh",
+        "url": "/yamaha-bikes/r15s-v30"
+      },
+      {
+        "name": "Yamaha YZF R15S",
+        "price": "1.54 Lakh",
+        "url": "/yamaha-bikes/yzf-r15s"
+      },
+      {
+        "name": "Yamaha MT-15 V2.0",
+        "price": "1.55 - 1.66 Lakh",
+        "url": "/yamaha-bikes/mt-15-v20"
+      },
+      {
+        "name": "Yamaha XSR155",
+        "price": "1.5 Lakh",
+        "url": "/yamaha-bikes/xsr155"
+      },
+      {
+        "name": "Honda Hornet 2.0",
+        "price": "1.46 Lakh",
+        "url": "/honda-bikes/hornet-20"
+      },
+      {
+        "name": "Keeway RS 250",
+        "price": "1.45 Lakh",
+        "url": "/keeway-bikes/rs-250"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.54 Lakh",
+          "₹ 1.54 Lakh",
+          "₹ 1.55 - 1.66 Lakh",
+          "₹ 1.5 Lakh",
+          "₹ 1.46 Lakh",
+          "₹ 1.45 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "8.1",
+          "-",
+          "8.2",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "155.0 CC",
+          "149.0 CC",
+          "155.0 CC",
+          "155.0 CC",
+          "184.4 CC",
+          "223.0 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "5 Gears",
+          "5 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "48 KM/L",
+          "42.00 Km/L",
+          "47.00 Km/L",
+          "46.00 Km/L",
+          "42.00 Km/L",
+          "40.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "14.2 Nm (1.4 kgfm) @7,500 RPM bhp",
+          "15.00",
+          "14.1 Nm @ 7500 rpm",
+          "14.1 Nm",
+          "15.7 Nm @ 6000 rpm",
+          "16.00"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "13.5kW(18.4PS)/10000 RPM Nm",
+          "16.40 bhp",
+          "18.1 bhp @ 10000 rpm bhp",
+          "18.14 bhp",
+          "16.7 bhp @ 8500 rpm bhp",
+          "16.22 bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Disc/Disc",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Single Disc (Front) / Single Disc (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "11.0 L",
+          "12.0 L",
+          "10.0 L",
+          "10.0 L",
+          "12.0 L",
+          "14.2 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "3",
+          "3",
+          "5",
+          "4",
+          "4",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "R15S V3.0 vs YZF R15S",
+          "R15S V3.0 vs MT-15 V2.0",
+          "R15S V3.0 vs XSR155",
+          "R15S V3.0 vs Hornet 2.0",
+          "R15S V3.0 vs RS 250"
+        ]
+      }
+    ]
+  }
+}

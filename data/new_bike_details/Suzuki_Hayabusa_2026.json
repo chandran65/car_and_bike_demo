@@ -1,0 +1,18 @@
+{
+  "basic_info": {
+    "name": "Suzuki Hayabusa 2026",
+    "manufacturer": null,
+    "model": "Hayabusa 2026",
+    "body_type": null,
+    "description": "",
+    "sku": "suzuki-hayabusa-2026-2135"
+  },
+  "price": {
+    "value": 1800000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Suzuki"
+  }
+}

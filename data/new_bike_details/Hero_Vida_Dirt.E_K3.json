@@ -1,0 +1,193 @@
+{
+  "basic_info": {
+    "name": "Hero Vida Dirt.E K3",
+    "manufacturer": "Hero",
+    "model": "Vida Dirt.E K3",
+    "body_type": null,
+    "description": [
+      "The Hero Vida Dirt.E K3 is a electric  bike available at a starting price of Rs. 69,990. The electric bike is available in 1 variants with 3 colour options.  The electric motor comes with a NMC, Li-Ion, 360 wh battery pack. The battery range/mileage of the Vida Dirt.E K3 is 3 Km/Full Charge. "
+    ],
+    "sku": "hero-vida-dirte-k3-2140"
+  },
+  "engine": {
+    "displacement": null,
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 69990,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Hero"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "Hero Vida Dirt.E K3",
+        "price": "69,990",
+        "url": "/hero-bikes/vida-dirte-k3"
+      },
+      {
+        "name": "Hero Pleasure Plus 110",
+        "price": "69,766 - 75,712",
+        "url": "/hero-bikes/pleasure-plus-110"
+      },
+      {
+        "name": "Nexzu Mobility Dextro Plus",
+        "price": "70,613",
+        "url": "/nexzu-mobility-bikes/dextro-plus"
+      },
+      {
+        "name": "Bajaj Platina 110",
+        "price": "69,284",
+        "url": "/bajaj-bikes/platina-110"
+      },
+      {
+        "name": "Okinawa Lite",
+        "price": "69,093",
+        "url": "/okinawa-bikes/lite"
+      },
+      {
+        "name": "Li-ions Elektrik Spock",
+        "price": "69,030",
+        "url": "/li-ions-elektrik-bikes/spock"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 69,990",
+          "₹ 69,766 - 75,712",
+          "₹ 70,613",
+          "₹ 69,284",
+          "₹ 69,093",
+          "₹ 69,030"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "8.2",
+          "7",
+          "7.9",
+          "5.9",
+          "7"
+        ]
+      },
+      {
+        "feature": "Battery Type",
+        "values": [
+          "NMC, Li-Ion, 360 wh",
+          "N/A",
+          "Lithium Battery",
+          "N/A",
+          "Lithium-ion",
+          "Lithium ion"
+        ]
+      },
+      {
+        "feature": "Battery Range",
+        "values": [
+          "3 Km/Full Charge",
+          "50.00 Km/L",
+          "110 Km/FullCharge",
+          "80.00 Km/L",
+          "50-60 Km/FullCharge",
+          "130 Km/FullCharge"
+        ]
+      },
+      {
+        "feature": "Charging Time",
+        "values": [
+          "3 HOURS",
+          "N/A",
+          "4 to 6 Hours",
+          "N/A",
+          "4-5 Hours",
+          "4 Hrs"
+        ]
+      },
+      {
+        "feature": "Fast Charging Time",
+        "values": [
+          "2 HOURS",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Kerb Weight",
+        "values": [
+          "22 Kg",
+          "106 Kg",
+          "62 Kg",
+          "123 Kg",
+          "150 Kg",
+          "90 Kg"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "300 Nm @ 1450 TO 4500 rpm bhp",
+          "8.70",
+          "N/A",
+          "9.81",
+          "N/A",
+          "230.00"
+        ]
+      },
+      {
+        "feature": "Variant",
+        "values": [
+          "1",
+          "3",
+          "1",
+          "1",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "3",
+          "7",
+          "1",
+          "3",
+          "0",
+          "6"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Vida Dirt.E K3 vs Pleasure Plus 110",
+          "Vida Dirt.E K3 vs Dextro Plus",
+          "Vida Dirt.E K3 vs Platina 110",
+          "Vida Dirt.E K3 vs Lite",
+          "Vida Dirt.E K3 vs Spock"
+        ]
+      }
+    ]
+  }
+}

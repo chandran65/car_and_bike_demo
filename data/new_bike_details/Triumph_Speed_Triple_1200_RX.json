@@ -1,0 +1,193 @@
+{
+  "basic_info": {
+    "name": "Triumph Speed Triple 1200 RX",
+    "manufacturer": "Triumph",
+    "model": "Speed Triple 1200 RX",
+    "body_type": "Sports",
+    "description": [
+      "The Triumph Speed Triple 1200 RX is a Sports bike available at a starting price of Rs. 23.07 Lakh. The bike is available in 1 variants . The 1160.0 cc  engine of Speed Triple 1200 RX is mated with 6 gears, producing maximum power of 180 PS @ 10,750 rpm bhp @ 10750 rpm and a maximum torque of 128 Nm (or 92 lb-ft) @ ~9,000 rpm Nm @ 9000 rpm. "
+    ],
+    "sku": "triumph-speed-triple-1200-rx-2122"
+  },
+  "engine": {
+    "displacement": "1160.0 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 2307000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Triumph"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "Triumph Speed Triple 1200 RX",
+        "price": "23.07 Lakh",
+        "url": "/triumph-bikes/speed-triple-1200-rx"
+      },
+      {
+        "name": "KTM 1390 Super Duke",
+        "price": "22.96 Lakh",
+        "url": "/ktm-bikes/1390-super-duke"
+      },
+      {
+        "name": "Aprilia Tuono V4",
+        "price": "23.3 Lakh",
+        "url": "/aprilia-bikes/tuono-v4"
+      },
+      {
+        "name": "BMW S 1000 RR",
+        "price": "22.76 - 27.84 Lakh",
+        "url": "/bmw-bikes/s-1000-rr"
+      },
+      {
+        "name": "KTM 1290 Super Adventure",
+        "price": "22.74 Lakh",
+        "url": "/ktm-bikes/1290-super-adventure"
+      },
+      {
+        "name": "Triumph Speed Triple 1200 RS",
+        "price": "21.79 - 23.07 Lakh",
+        "url": "/triumph-bikes/speed-triple-1200-rs"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 23.07 Lakh",
+          "₹ 22.96 Lakh",
+          "₹ 23.3 Lakh",
+          "₹ 22.76 - 27.84 Lakh",
+          "₹ 22.74 Lakh",
+          "₹ 21.79 - 23.07 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "7.6",
+          "8.2",
+          "-",
+          "7.8"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "1160.0 CC",
+          "1350.0 CC",
+          "1077.0 CC",
+          "999.0 CC",
+          "1301.0 CC",
+          "1160.0 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "N/A",
+          "17.00 Km/L",
+          "14.00 Km/L",
+          "17.00 Km/L",
+          "17.50 Km/L",
+          "22.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "128 Nm (or 92 lb-ft) @ ~9,000 rpm bhp",
+          "145",
+          "121.00",
+          "113.00",
+          "140.00",
+          "125.00"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "180 PS @ 10,750 rpm Nm",
+          "190 bhp",
+          "175 bhp",
+          "206.00 bhp",
+          "160.00 bhp",
+          "177.50 bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "/",
+          "Disc (Front) / Disc (Rear)",
+          "Dual 330 mm floating discs with Brembo M50 monobloc radial calipers (4 pistons, 30 mm); radial brake pump with metal braided hose (Front) / Single 220 mm disc with Brembo caliper (2 pistons, 32 mm); pump with integrated tank and metal braided hose (Rear)",
+          "Twin disc brake, diameter, 4.5 mm, 4-piston fixed caliper (5 mm M wheels) (Front) / Single disc brake, diameter, 1-piston floating caliper (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Twin Floating Discs (Front) / Single Disc (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "N/A",
+          "17.5 L",
+          "17.9 L",
+          "16.5 L",
+          "23.0 L",
+          "15.5 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "1",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Speed Triple 1200 RX vs 1390 Super Duke",
+          "Speed Triple 1200 RX vs Tuono V4",
+          "Speed Triple 1200 RX vs S 1000 RR",
+          "Speed Triple 1200 RX vs 1290 Super Adventure",
+          "Speed Triple 1200 RX vs Speed Triple 1200 RS"
+        ]
+      }
+    ]
+  }
+}

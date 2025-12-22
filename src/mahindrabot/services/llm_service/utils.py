@@ -2,7 +2,10 @@
 
 import re
 from collections.abc import Callable
-from typing import TypeAlias
+try:
+    from typing import TypeAlias
+except ImportError:
+    from typing_extensions import TypeAlias
 
 import jiter
 from openai.types.responses import Response as OAIResponse
@@ -21,8 +24,10 @@ from .tools import Tool
 # Pattern for detecting incomplete Unicode escape sequences
 PARTIAL_UNICODE_PATTERN = re.compile(r"\\u[0-9a-fA-F]{0,3}$")
 
+from typing import Any, Optional, Union
+
 # Type alias for JSON values
-JSONTYPE: TypeAlias = dict | list | str | int | float | bool | None
+JSONTYPE: TypeAlias = Union[dict, list, str, int, float, bool, None]
 
 
 def parse_partial_json(json_str: str) -> JSONTYPE:
@@ -79,39 +84,37 @@ def _get_oai_messages(messages: list[MessageType]) -> list[dict]:
     """
     result = []
     for message in messages:
-        match message:
-            case SystemMessage():
-                # System messages are sent as instructions to the model
-                continue
-            case UserMessage():
-                if message.content:
-                    result.append({"role": "user", "content": message.content})
-                result.extend(
-                    [
-                        {
-                            "type": "function_call_output",
-                            "call_id": tool_result.id,
-                            "output": tool_result.output,
-                        }
-                        for tool_result in message.tool_results
-                    ]
-                )
-            case AIMessage():
-                if message.content:
-                    result.append({"role": "assistant", "content": message.content})
-                result.extend(
-                    [
-                        {
-                            "type": "function_call",
-                            "call_id": tool_call_request.id,
-                            "name": tool_call_request.name,
-                            "arguments": tool_call_request.raw_input,
-                        }
-                        for tool_call_request in message.tool_call_requests
-                    ]
-                )
+        if isinstance(message, SystemMessage):
+            # System messages are sent as instructions to the model
+            continue
+        elif isinstance(message, UserMessage):
+            if message.content:
+                result.append({"role": "user", "content": message.content})
+            result.extend(
+                [
+                    {
+                        "type": "function_call_output",
+                        "call_id": tool_result.id,
+                        "output": tool_result.output,
+                    }
+                    for tool_result in message.tool_results
+                ]
+            )
+        elif isinstance(message, AIMessage):
+            if message.content:
+                result.append({"role": "assistant", "content": message.content})
+            result.extend(
+                [
+                    {
+                        "type": "function_call",
+                        "call_id": tool_call_request.id,
+                        "name": tool_call_request.name,
+                        "arguments": tool_call_request.raw_input,
+                    }
+                    for tool_call_request in message.tool_call_requests
+                ]
+            )
     return result
-
 
 def _get_instruction_from_messages(messages: list[MessageType]) -> str:
     """
@@ -130,7 +133,7 @@ def _get_instruction_from_messages(messages: list[MessageType]) -> str:
     )
 
 
-def _get_aoi_tool(tool: Tool | Callable) -> dict:
+def _get_aoi_tool(tool: Union[Tool, Callable]) -> dict:
     """
     Convert a Tool or callable to OpenAI tool format.
     
@@ -171,39 +174,37 @@ def _get_ai_message_from_oai_response(response: OAIResponse) -> AIMessage:
     """
     ai_message = AIMessage(id=response.id, content="")
     for output in response.output:
-        match output.type:
-            case "message":
-                for content in output.content:
-                    match content.type:
-                        case "output_text":
-                            ai_message.content += content.text
-                        case _:
-                            raise ValueError(
-                                f"Unknown content type: {content.type} data: {content}"
-                            )
-            case "function_call":
-                parsed_input = parse_partial_json(output.arguments)
-                if not isinstance(parsed_input, dict):
-                    parsed_input = {}
-                ai_message.tool_call_requests.append(
-                    ToolCallRequest(
-                        id=output.call_id,
-                        name=output.name,
-                        raw_input=output.arguments,
-                        input=parsed_input,
+        if output.type == "message":
+            for content in output.content:
+                if content.type == "output_text":
+                    ai_message.content += content.text
+                else:
+                    raise ValueError(
+                        f"Unknown content type: {content.type} data: {content}"
                     )
+        elif output.type == "function_call":
+            parsed_input = parse_partial_json(output.arguments)
+            if not isinstance(parsed_input, dict):
+                parsed_input = {}
+            ai_message.tool_call_requests.append(
+                ToolCallRequest(
+                    id=output.call_id,
+                    name=output.name,
+                    raw_input=output.arguments,
+                    input=parsed_input,
                 )
-            case "reasoning":
-                ai_message.reasoning = Reasoning(
-                    id=output.id,
-                    summaries=[summary.text for summary in output.summary]
-                    if output.summary
-                    else [],
-                    contents=[content.text for content in output.content] if output.content else [],
-                )
+            )
+        elif output.type == "reasoning":
+            ai_message.reasoning = Reasoning(
+                id=output.id,
+                summaries=[summary.text for summary in output.summary]
+                if output.summary
+                else [],
+                contents=[content.text for content in output.content] if output.content else [],
+            )
 
-            case _:
-                raise ValueError(f"Unknown output type: {output.type}")
+        else:
+            raise ValueError(f"Unknown output type: {output.type}")
     return ai_message
 
 
@@ -263,55 +264,55 @@ class OAIStreamMessageBuilder:
             ValueError: If an unknown event type is encountered
         """
         self.events.append(event)
-        match event.type:
-            case "response.created" | "response.in_progress":
-                self._response = event.response.model_copy()
-            case "response.output_item.added":
-                self.response.output.append(event.item.model_copy())
-            case "response.content_part.added":
-                self.response.output[  # type: ignore[attr-defined]
-                    event.output_index
-                ].content.append(event.part)
-            case "response.reasoning_summary_part.added":
-                self.response.output[  # type: ignore[attr-defined]
-                    event.output_index
-                ].summary.append(event.part)
-            case "response.reasoning_summary_text.delta":
-                self.response.output[  # type: ignore[attr-defined]
-                    event.output_index
-                ].summary[event.summary_index].text += event.delta
-            case "response.reasoning_summary_text.done":
-                self.response.output[  # type: ignore[attr-defined]
-                    event.output_index
-                ].summary[event.summary_index].text = event.text
-            case "response.reasoning_summary_part.done":
-                self.response.output[  # type: ignore[attr-defined]
-                    event.output_index
-                ].summary[event.summary_index] = event.part.model_copy()
-            case "response.output_text.delta":
-                self.response.output[  # type: ignore[attr-defined]
-                    event.output_index
-                ].content[event.content_index].text += event.delta
-            case "response.output_text.done":
-                self.response.output[  # type: ignore[attr-defined]
-                    event.output_index
-                ].content[event.content_index].text = event.text
-            case "response.content_part.done":
-                self.response.output[  # type: ignore[attr-defined]
-                    event.output_index
-                ].content[event.content_index] = event.part.model_copy()
-            case "response.output_item.done":
-                self.response.output[event.output_index] = event.item.model_copy()
-            case "response.function_call_arguments.delta":
-                self.response.output[  # type: ignore[attr-defined]
-                    event.output_index
-                ].arguments += event.delta
-            case "response.function_call_arguments.done":
-                self.response.output[  # type: ignore[attr-defined]
-                    event.output_index
-                ].arguments = event.arguments
-            case "response.completed":
-                self._response = event.response.model_copy()
-            case _:
-                raise ValueError(f"Unknown event type: {event.type}")
+        self.events.append(event)
+        if event.type in ("response.created", "response.in_progress"):
+            self._response = event.response.model_copy()
+        elif event.type == "response.output_item.added":
+            self.response.output.append(event.item.model_copy())
+        elif event.type == "response.content_part.added":
+            self.response.output[  # type: ignore[attr-defined]
+                event.output_index
+            ].content.append(event.part)
+        elif event.type == "response.reasoning_summary_part.added":
+            self.response.output[  # type: ignore[attr-defined]
+                event.output_index
+            ].summary.append(event.part)
+        elif event.type == "response.reasoning_summary_text.delta":
+            self.response.output[  # type: ignore[attr-defined]
+                event.output_index
+            ].summary[event.summary_index].text += event.delta
+        elif event.type == "response.reasoning_summary_text.done":
+            self.response.output[  # type: ignore[attr-defined]
+                event.output_index
+            ].summary[event.summary_index].text = event.text
+        elif event.type == "response.reasoning_summary_part.done":
+            self.response.output[  # type: ignore[attr-defined]
+                event.output_index
+            ].summary[event.summary_index] = event.part.model_copy()
+        elif event.type == "response.output_text.delta":
+            self.response.output[  # type: ignore[attr-defined]
+                event.output_index
+            ].content[event.content_index].text += event.delta
+        elif event.type == "response.output_text.done":
+            self.response.output[  # type: ignore[attr-defined]
+                event.output_index
+            ].content[event.content_index].text = event.text
+        elif event.type == "response.content_part.done":
+            self.response.output[  # type: ignore[attr-defined]
+                event.output_index
+            ].content[event.content_index] = event.part.model_copy()
+        elif event.type == "response.output_item.done":
+            self.response.output[event.output_index] = event.item.model_copy()
+        elif event.type == "response.function_call_arguments.delta":
+            self.response.output[  # type: ignore[attr-defined]
+                event.output_index
+            ].arguments += event.delta
+        elif event.type == "response.function_call_arguments.done":
+            self.response.output[  # type: ignore[attr-defined]
+                event.output_index
+            ].arguments = event.arguments
+        elif event.type == "response.completed":
+            self._response = event.response.model_copy()
+        else:
+            raise ValueError(f"Unknown event type: {event.type}")
         return self.response

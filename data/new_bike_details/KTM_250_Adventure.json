@@ -1,0 +1,204 @@
+{
+  "basic_info": {
+    "name": "KTM 250 Adventure",
+    "manufacturer": "KTM",
+    "model": "250 Adventure",
+    "body_type": null,
+    "description": [
+      "The KTM 250 Adventure is a  bike available at a starting price of Rs. 2.4 Lakh. The bike is available in 1 variants with 2 colour options. The 248.0 cc BS VI engine of 250 Adventure is mated with 6 gears, producing maximum power of 29.60 bhp @ 9000 rpm and a maximum torque of 24.00 Nm @ 7500 rpm.  The mileage of the 250 Adventure is 38 KM/L. "
+    ],
+    "sku": "ktm-250-adventure-1611"
+  },
+  "engine": {
+    "displacement": "248.0 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 240009,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "KTM"
+  },
+  "rating": {
+    "value": "8.0",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "More comfortable riding position",
+    "Powerful and refined performance",
+    "Great for touring"
+  ],
+  "cons": [
+    "Slightly stiff suspension",
+    "Needs frequent gear changes",
+    "No LED headlamp"
+  ],
+  "verdict": "Pros",
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "KTM 250 Adventure",
+        "price": "2.4 Lakh",
+        "url": "/ktm-bikes/250-adventure"
+      },
+      {
+        "name": "KTM 250 Adventure 2025",
+        "price": "2.4 Lakh",
+        "url": "/ktm-bikes/250-adventure-2025"
+      },
+      {
+        "name": "Royal Enfield Guerrilla 450",
+        "price": "2.56 - 2.72 Lakh",
+        "url": "/royal-enfield-bikes/guerrilla-450"
+      },
+      {
+        "name": "Zontes 350T",
+        "price": "2.75 Lakh",
+        "url": "/zontes-bikes/350t"
+      },
+      {
+        "name": "Yezdi Adventure",
+        "price": "2.01 - 2.07 Lakh",
+        "url": "/yezdi-bikes/adventure"
+      },
+      {
+        "name": "Suzuki V-Strom SX 250",
+        "price": "2 Lakh",
+        "url": "/suzuki-bikes/v-strom-sx-250"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 2.4 Lakh",
+          "₹ 2.4 Lakh",
+          "₹ 2.56 - 2.72 Lakh",
+          "₹ 2.75 Lakh",
+          "₹ 2.01 - 2.07 Lakh",
+          "₹ 2 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8",
+          "-",
+          "-",
+          "-",
+          "7.9",
+          "8.5"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "248.0 CC",
+          "248.8 CC",
+          "452.0 CC",
+          "348.0 CC",
+          "334.0 CC",
+          "249.0 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "38 KM/L",
+          "30.00 Km/L",
+          "30.00 Km/L",
+          "23.00 Km/L",
+          "30.00 Km/L",
+          "32.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "24.00 bhp",
+          "24",
+          "40.00",
+          "32.80",
+          "29.84",
+          "22.20"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "29.60 Nm",
+          "30 bhp",
+          "39.50 bhp",
+          "37.40 bhp",
+          "29.19 bhp",
+          "26.5 bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Disc/Disc",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Disc with Floating Caliper and ABS (Front) / Disc with Floating Caliper and ABS (Rear)",
+          "Disc (Front) / Disc (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "14.5 L",
+          "14.5 L",
+          "11.0 L",
+          "19.0 L",
+          "15.5 L",
+          "12.0 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "3",
+          "2",
+          "5",
+          "3",
+          "3",
+          "16"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "250 Adventure vs 250 Adventure 2025",
+          "250 Adventure vs Guerrilla 450",
+          "250 Adventure vs 350T",
+          "250 Adventure vs Adventure",
+          "250 Adventure vs V-Strom SX 250"
+        ]
+      }
+    ]
+  }
+}

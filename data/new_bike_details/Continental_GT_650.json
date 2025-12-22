@@ -1,0 +1,186 @@
+{
+  "basic_info": {
+    "name": "Continental GT 650",
+    "manufacturer": "Royal Enfield",
+    "model": "Continental GT 650",
+    "body_type": "Cruiser",
+    "description": [
+      "The Royal Enfield Continental GT 650 is a Cruiser bike available at a starting price of Rs. 3.5 Lakh. The bike is available in 4 variants with 5 colour options. The 648.0 cc BS VI engine of Continental GT 650 is mated with 6 gears, producing maximum power of 46.80 bhp @ 7250 rpm bhp @ 7250 rpm and a maximum torque of 52.3 Nm @ 5150 rpm Nm @ 5150 rpm.  The mileage of the Continental GT 650 is 27 KM/L. "
+    ],
+    "sku": "royal-enfield-continental-gt-650-1373"
+  },
+  "engine": {
+    "displacement": "648.0 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 349609,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Royal Enfield"
+  },
+  "rating": {
+    "value": "8.3",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Beautiful looking motorcycle",
+    "Smooth, torquey engine",
+    "Good performance"
+  ],
+  "cons": [
+    "Vibrations at top end",
+    "No tubeless tyres",
+    "Heavy motorcycle"
+  ],
+  "verdict": "The 2023 Royal Enfield Continental GT 650 retains its old-school charm while incorporating modern updates that improve both performance and aesthetics. The addition of tubeless tyres and the LED headlight make it a more practical and premium offering. Despite a few shortcomings like seat comfort and limited tech features, the GT 650 remains a top choice for riders seeking a stylish, torque-rich, and affordable modern classic.",
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "Royal Enfield Continental GT 650",
+        "price": "3.5 - 3.78 Lakh",
+        "url": "/royal-enfield-bikes/continental-gt-650"
+      },
+      {
+        "name": "Bajaj Avenger Cruise 220",
+        "price": "1.37 Lakh",
+        "url": "/bajaj-bikes/avenger-cruise-220"
+      },
+      {
+        "name": "KTM RC 390",
+        "price": "3.57 - 3.57 Lakh",
+        "url": "/ktm-bikes/rc-390"
+      },
+      {
+        "name": "Royal Enfield Classic 650",
+        "price": "3.61 - 3.75 Lakh",
+        "url": "/royal-enfield-bikes/classic-650"
+      },
+      {
+        "name": "Royal Enfield Interceptor 650",
+        "price": "3.32 - 3.63 Lakh",
+        "url": "/royal-enfield-bikes/interceptor-650"
+      },
+      {
+        "name": "BSA Gold Star 650",
+        "price": "3.1 - 3.45 Lakh",
+        "url": "/bsa-bikes/gold-star-650"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 3.5 - 3.78 Lakh",
+          "₹ 1.37 Lakh",
+          "₹ 3.57 - 3.57 Lakh",
+          "₹ 3.61 - 3.75 Lakh",
+          "₹ 3.32 - 3.63 Lakh",
+          "₹ 3.1 - 3.45 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.3",
+          "7.7",
+          "8.3",
+          "-",
+          "8.3",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "648.0 CC",
+          "220.0 CC",
+          "373.2 CC",
+          "648.0 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "6 Gears",
+          "5 Gears",
+          "6 Gears",
+          "6 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "27 KM/L",
+          "40.00 Km/L",
+          "35.00 Km/L",
+          "25.50 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "52.3 Nm @ 5150 rpm bhp",
+          "17.55",
+          "37.00",
+          "52.00"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "46.80 bhp @ 7250 rpm Nm",
+          "18.76 bhp",
+          "43.00 bhp",
+          "47.00 bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Disc/Disc",
+          "Disc (Front) / Drum (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Disc (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "12.5 L",
+          "13.0 L",
+          "13.7 L",
+          "13.7 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "4",
+          "4",
+          "3",
+          "4"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Continental GT 650 vs Avenger Cruise 220",
+          "Continental GT 650 vs RC 390",
+          "Continental GT 650 vs Interceptor 650"
+        ]
+      }
+    ]
+  }
+}

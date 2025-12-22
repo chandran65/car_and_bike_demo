@@ -1,0 +1,204 @@
+{
+  "basic_info": {
+    "name": "TVS Radeon",
+    "manufacturer": "TVS",
+    "model": "Radeon",
+    "body_type": "Commuter",
+    "description": [
+      "The TVS Radeon is a Commuter bike available at a starting price of Rs. 68,900. The bike is available in 4 variants with 8 colour options. The 109.7 cc BS VI engine of Radeon is mated with 4 gears, producing maximum power of 8.08 bhp @ 7350 rpm bhp @ 7350 rpm and a maximum torque of 8.7 Nm @ 4500 rpm Nm @ 4500 rpm.  The mileage of the Radeon is 69 - 73 KM/L. "
+    ],
+    "sku": "tvs-radeon-1500"
+  },
+  "engine": {
+    "displacement": "109.7 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 68900,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "TVS"
+  },
+  "rating": {
+    "value": "8.2",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Good fuel efficiency",
+    "Rides quite well",
+    "Gearbox is smooth"
+  ],
+  "cons": [
+    "Brakes&nbsp;",
+    "Not stylish&nbsp;",
+    "No front disc brake"
+  ],
+  "verdict": "Pros",
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "TVS Radeon",
+        "price": "68,900 - 80,500",
+        "url": "/tvs-bikes/radeon"
+      },
+      {
+        "name": "Bajaj Platina 110",
+        "price": "69,284",
+        "url": "/bajaj-bikes/platina-110"
+      },
+      {
+        "name": "Hero HF Deluxe Pro",
+        "price": "68,485",
+        "url": "/hero-bikes/hf-deluxe-pro"
+      },
+      {
+        "name": "Bajaj CT 110",
+        "price": "67,284",
+        "url": "/bajaj-bikes/ct-110"
+      },
+      {
+        "name": "Hero HF Deluxe i3s",
+        "price": "66,382 - 68,485",
+        "url": "/hero-bikes/hf-deluxe-i3s"
+      },
+      {
+        "name": "TVS Star City Plus",
+        "price": "72,200 - 74,900",
+        "url": "/tvs-bikes/star-city-plus"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 68,900 - 80,500",
+          "₹ 69,284",
+          "₹ 68,485",
+          "₹ 67,284",
+          "₹ 66,382 - 68,485",
+          "₹ 72,200 - 74,900"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.2",
+          "7.9",
+          "-",
+          "8.3",
+          "8.5",
+          "8.1"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "109.7 CC",
+          "115.0 CC",
+          "97.2 CC",
+          "115.5 CC",
+          "97.2 CC",
+          "109.7 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "4 Gears",
+          "5 Gears",
+          "4 Gears",
+          "4 Gears",
+          "4 Gears",
+          "4 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "69 - 73 KM/L",
+          "80.00 Km/L",
+          "65.00 Km/L",
+          "70.00 Km/L",
+          "65.00 Km/L",
+          "83.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "8.7 Nm @ 4500 rpm bhp",
+          "9.81",
+          "8.05 Nm @ 6000 rpm",
+          "9.81",
+          "8.05",
+          "8.70"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "8.08 bhp @ 7350 rpm Nm",
+          "8.60 bhp",
+          "7.91 bhp @ 8000 rpm bhp",
+          "8.6 bhp",
+          "7.91 bhp",
+          "8.00 bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Drum/Drum",
+          "Disc (Front) / Drum (Rear)",
+          "Drum (Front) / Drum (Rear)",
+          "Drum (Front) / Drum (Rear)",
+          "Drum (Front) / Drum (Rear)",
+          "Drum (Front) / Drum (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "10.0 L",
+          "11.0 L",
+          "9.1 L",
+          "11.0 L",
+          "9.6 L",
+          "10.0 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "8",
+          "3",
+          "4",
+          "3",
+          "5",
+          "5"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Radeon vs Platina 110",
+          "Radeon vs HF Deluxe Pro",
+          "Radeon vs CT 110",
+          "Radeon vs HF Deluxe i3s",
+          "Radeon vs Star City Plus"
+        ]
+      }
+    ]
+  }
+}

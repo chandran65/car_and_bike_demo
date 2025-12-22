@@ -1,0 +1,193 @@
+{
+  "basic_info": {
+    "name": "Kawasaki Z1100",
+    "manufacturer": "Kawasaki",
+    "model": "Z1100",
+    "body_type": null,
+    "description": [
+      "The Kawasaki Z1100 is a  bike available at a starting price of Rs. 12.79 Lakh. The bike is available in 1 variants with 1 colour options. The 1099.0 cc  engine of Z1100 is mated with 6 gears, producing maximum power of 136 PS @ 9,000 rpm bhp @ 9000 rpm and a maximum torque of 113 Nm @ 7,600 rpm Nm @ 7600 rpm.  The mileage of the Z1100 is 17 KM/L. "
+    ],
+    "sku": "kawasaki-z1100-2130"
+  },
+  "engine": {
+    "displacement": "1099.0 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 1279000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Kawasaki"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "Kawasaki Z1100",
+        "price": "12.79 Lakh",
+        "url": "/kawasaki-bikes/z1100"
+      },
+      {
+        "name": "Triumph Speed Twin 1200",
+        "price": "12.95 - 15.7 Lakh",
+        "url": "/triumph-bikes/speed-twin-1200"
+      },
+      {
+        "name": "Kawasaki Ninja 1000",
+        "price": "12.98 Lakh",
+        "url": "/kawasaki-bikes/ninja-1000"
+      },
+      {
+        "name": "Kawasaki Ninja ZX-6R",
+        "price": "12.49 Lakh",
+        "url": "/kawasaki-bikes/ninja-zx-6r"
+      },
+      {
+        "name": "Honda CB1000 Hornet SP",
+        "price": "13.94 Lakh",
+        "url": "/honda-bikes/cb1000-hornet-sp"
+      },
+      {
+        "name": "Honda CBR650R",
+        "price": "11.16 Lakh",
+        "url": "/honda-bikes/cbr650r"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 12.79 Lakh",
+          "₹ 12.95 - 15.7 Lakh",
+          "₹ 12.98 Lakh",
+          "₹ 12.49 Lakh",
+          "₹ 13.94 Lakh",
+          "₹ 11.16 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "8.2",
+          "8.1",
+          "-",
+          "8"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "1099.0 CC",
+          "1200.0 CC",
+          "1043.0 CC",
+          "636.0 CC",
+          "1000.0 CC",
+          "648.7 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "17 KM/L",
+          "19.60 Km/L",
+          "17.00 Km/L",
+          "23.59 Km/L",
+          "17.00 Km/L",
+          "25.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "113 Nm @ 7,600 rpm bhp",
+          "112 Nm",
+          "111.00",
+          "69.00",
+          "107 Nm @9000 rpm",
+          "57.50"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "136 PS @ 9,000 rpm Nm",
+          "103.5 bhp",
+          "140.00 bhp",
+          "124 bhp",
+          "157.17 PS @ 11000 rpm bhp",
+          "85.82 bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Dual semi-floating discs/Single disc",
+          "Floating discs,  four-piston radial calipers, OCABS (Front) / Nissin 2-piston floating caliper, OCABS (Rear)",
+          "Dual Disc (Front) / Disc (Rear)",
+          "Dual semi-floating 310 mm discs (Front) / Single 220 mm disc (Rear)",
+          "Double Disc (Front) / Disc (Rear)",
+          "Dual Disc (Front) / Disc (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "17.0 L",
+          "14.5 L",
+          "19.0 L",
+          "17.0 L",
+          "17.0 L",
+          "15.4 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "1",
+          "5",
+          "2",
+          "2",
+          "1",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Z1100 vs Speed Twin 1200",
+          "Z1100 vs Ninja 1000",
+          "Z1100 vs Ninja ZX-6R",
+          "Z1100 vs CB1000 Hornet SP",
+          "Z1100 vs CBR650R"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "basic_info": {
+    "name": "Honda SP 125",
+    "manufacturer": "Honda",
+    "model": "SP 125",
+    "body_type": "Commuter",
+    "description": [
+      "The Honda SP 125 is a Commuter bike available at a starting price of Rs. 86,378. The bike is available in 2 variants with 5 colour options. The 123.9 cc BS VI engine of SP 125 is mated with 5 gears, producing maximum power of 10.72 @ 7500 rpm bhp @ 7500 rpm and a maximum torque of 10.9 Nm @ 6000 rpm Nm @ 6000 rpm.  The mileage of the SP 125 is 65 KM/L. "
+    ],
+    "sku": "honda-sp-125-1613"
+  },
+  "engine": {
+    "displacement": "123.9 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 86378,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Honda"
+  },
+  "rating": {
+    "value": "8.2",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Fuel efficient",
+    "Decent features",
+    "Smooth performance",
+    "&nbsp;"
+  ],
+  "cons": [
+    "Expensive",
+    "Stiff Ride",
+    "Design could be better"
+  ],
+  "verdict": "The 2023 Honda SP 125 is a stylish and efficient commuter bike, offering modern features like a digital instrument cluster and LED headlights, combined with solid fuel efficiency and BS6 Phase II compliance. While its price is slightly higher compared to rivals, the overall package of performance, comfort, and technology justifies the cost for those seeking a premium commuter experience. It's a reliable and feature-rich choice for daily commuting with a touch of style.",
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "Honda SP 125",
+        "price": "86,378 - 93,965",
+        "url": "/honda-bikes/sp-125"
+      },
+      {
+        "name": "Honda CB Shine",
+        "price": "79,352 - 83,711",
+        "url": "/honda-bikes/cb-shine"
+      },
+      {
+        "name": "Hero HF Deluxe",
+        "price": "55,992 - 66,382",
+        "url": "/hero-bikes/hf-deluxe"
+      },
+      {
+        "name": "Bajaj Pulsar N125",
+        "price": "85,880 - 91,691",
+        "url": "/bajaj-bikes/pulsar-n125"
+      },
+      {
+        "name": "Hero Glamour X 125",
+        "price": "87,989 - 97,717",
+        "url": "/hero-bikes/glamour-x-125"
+      },
+      {
+        "name": "Hero Splendor Plus XTEC 2.0",
+        "price": "81,911 - 83,612",
+        "url": "/hero-bikes/splendor-plus-xtec-20"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 86,378 - 93,965",
+          "₹ 79,352 - 83,711",
+          "₹ 55,992 - 66,382",
+          "₹ 85,880 - 91,691",
+          "₹ 87,989 - 97,717",
+          "₹ 81,911 - 83,612"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.2",
+          "8.1",
+          "8.4",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "123.9 CC",
+          "123.9 CC",
+          "97.2 CC",
+          "124.5 CC",
+          "124.7 CC",
+          "97.2 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "5 Gears",
+          "4 Gears",
+          "4 Gears",
+          "5 Gears",
+          "5 Gears",
+          "4 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "65 KM/L",
+          "65.00 Km/L",
+          "68.00 Km/L",
+          "57.00 Km/L",
+          "65.00 Km/L",
+          "73.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "10.9 Nm @ 6000 rpm bhp",
+          "11 Nm @ 6000 rpm",
+          "8.05 Nm @ 6000 rpm",
+          "11.00",
+          "10.4 Nm @ 6,500 rpm",
+          "8.05"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "10.72 @ 7500 rpm Nm",
+          "10.6bhp @ 7500 rpm bhp",
+          "7.91 bhp @ 8000 rpm bhp",
+          "11.50 bhp",
+          "11.5 PS @ 8,250 rpm bhp",
+          "8.02 bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Drum/Drum",
+          "Drum (Front) / Drum (Rear)",
+          "Drum (Front) / Integrated Braking System (Rear)",
+          "Disc (Front) / Drum (Rear)",
+          "Drum (Front) / Drum (Rear)",
+          "Drum (Front) / Drum (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "11.0 L",
+          "10.5 L",
+          "9.6 L",
+          "9.5 L",
+          "10.0 L",
+          "9.8 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "5",
+          "6",
+          "9",
+          "7",
+          "5",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "SP 125 vs CB Shine",
+          "SP 125 vs HF Deluxe",
+          "SP 125 vs Pulsar N125",
+          "SP 125 vs Glamour X 125",
+          "SP 125 vs Splendor Plus XTEC 2.0"
+        ]
+      }
+    ]
+  }
+}

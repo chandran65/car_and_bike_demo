@@ -1,0 +1,203 @@
+{
+  "basic_info": {
+    "name": "Honda Dio 125",
+    "manufacturer": "Honda",
+    "model": "Dio 125",
+    "body_type": "Scooter",
+    "description": [
+      "The Honda Dio 125 is a Scooter bike available at a starting price of Rs. 85,433. The scooter is available in 2 variants with 6 colour options. The 123.9 cc  engine of Dio 125 is paired with a  gearbox producing maximum power of 8.19 bhp @ 6250 rpm,8.19 bhp @ 6500 rpm bhp @ 6500 rpm and a maximum torque of 10.5 Nm @ 5000 rpm Nm @ 5000 rpm.  The mileage of the Dio 125 is 48 KM/L. "
+    ],
+    "sku": "honda-dio-125-1821"
+  },
+  "engine": {
+    "displacement": "123.9 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 85433,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Honda"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Honda&rsquo;s 125 cc sporty scooter",
+    "Engine is reliable and efficient",
+    "Rides on 12-inch wheels at both ends"
+  ],
+  "cons": [
+    "Design is not too different from the Dio 110",
+    "Not the most fuel-efficient 125 cc scooter in the market",
+    "Expensive compared to its competition"
+  ],
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "Honda Dio 125",
+        "price": "85,433 - 90,383",
+        "url": "/honda-bikes/dio-125"
+      },
+      {
+        "name": "Suzuki Avenis",
+        "price": "83,793 - 86,177",
+        "url": "/suzuki-bikes/avenis"
+      },
+      {
+        "name": "Yamaha Ray-ZR 125FI",
+        "price": "82,862  - 1.21 Lakh",
+        "url": "/yamaha-bikes/ray-zr-125fi"
+      },
+      {
+        "name": "TVS Jupiter 125",
+        "price": "82,000 - 92,300",
+        "url": "/tvs-bikes/jupiter-125"
+      },
+      {
+        "name": "TVS Ntorq 125",
+        "price": "80,900 - 99,800",
+        "url": "/tvs-bikes/ntorq-125"
+      },
+      {
+        "name": "Suzuki Burgman",
+        "price": "90,176 - 94,027",
+        "url": "/suzuki-bikes/burgman"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 85,433 - 90,383",
+          "₹ 83,793 - 86,177",
+          "₹ 82,862  - 1.21 Lakh",
+          "₹ 82,000 - 92,300",
+          "₹ 80,900 - 99,800",
+          "₹ 90,176 - 94,027"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "8.4",
+          "8",
+          "7.9",
+          "8.7",
+          "8"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "123.9 CC",
+          "124.3 CC",
+          "125.0 CC",
+          "124.8 CC",
+          "124.8 CC",
+          "124.0 CC"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "48 KM/L",
+          "55.00 Km/L",
+          "66.00 Km/L",
+          "50.00 Km/L",
+          "50.00 Km/L",
+          "50.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "10.5 Nm @ 5000 rpm bhp",
+          "10.00",
+          "9.70",
+          "10.50",
+          "10.6",
+          "10 Nm @ 5500 rpm"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "8.19 bhp @ 6250 rpm,8.19 bhp @ 6500 rpm Nm",
+          "8.58 bhp",
+          "8.00 bhp",
+          "8.18 bhp",
+          "9.10 bhp",
+          "8.58 bhp @ 6750 rpm bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Disc/Drum",
+          "Disc (Front) / Drum (Rear)",
+          "Drum (Front) / Drum (Rear)",
+          "Drum (Front) / Drum (Rear)",
+          "Disc (Front) / Drum (Rear)",
+          "Disc (Front) / Drum (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "5.3 L",
+          "5.2 L",
+          "5.2 L",
+          "5.1 L",
+          "5.0 L",
+          "5.5 L"
+        ]
+      },
+      {
+        "feature": "Kerb Weight",
+        "values": [
+          "104,105 Kg",
+          "106 Kg",
+          "99 Kg",
+          "109 Kg",
+          "118 Kg",
+          "110 Kg"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "6",
+          "13",
+          "8",
+          "4",
+          "15",
+          "6"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Dio 125 vs Avenis",
+          "Dio 125 vs Ray-ZR 125FI",
+          "Dio 125 vs Jupiter 125",
+          "Dio 125 vs Ntorq 125",
+          "Dio 125 vs Burgman"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "basic_info": {
+    "name": "YZF R15 V4.0",
+    "manufacturer": "Yamaha",
+    "model": "YZF R15 V4.0",
+    "body_type": "Commuter",
+    "description": [
+      "The Yamaha YZF R15 V4.0 is a Commuter bike available at a starting price of Rs. 1.69 Lakh. The bike is available in 7 variants with 6 colour options. The 155.0 cc  engine of YZF R15 V4.0 is mated with 6 gears, producing maximum power of 18.1 bhp @ 10000 rpm bhp @ 10000 rpm and a maximum torque of 14.2 Nm @ 7500 rpm Nm @ 7500 rpm.  The mileage of the YZF R15 V4.0 is 50 KM/L. "
+    ],
+    "sku": "yamaha-yzf-r15-v40-1705"
+  },
+  "engine": {
+    "displacement": "155.0 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 169425,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Yamaha"
+  },
+  "rating": {
+    "value": "8.4",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Good looks",
+    "High safety standards",
+    "Superior engine"
+  ],
+  "cons": [
+    "Not meant for city riding",
+    "Expensive",
+    "No rear seat space"
+  ],
+  "verdict": "The Yamaha YZF-R15 V4 remains one of the most dynamically sorted motorcycles in the 150-160 cc segment, offering an impressive package of performance, handling, and premium features. While its relatively high price may deter some buyers, its sharp styling, advanced tech, and engaging ride quality make it worth the investment for sportbike enthusiasts. However, for those seeking long-distance comfort or more engine displacement, there may be better options at a similar price point.",
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "Yamaha YZF R15 V4.0",
+        "price": "1.69 - 1.74 Lakh",
+        "url": "/yamaha-bikes/yzf-r15-v40"
+      },
+      {
+        "name": "Bajaj Pulsar RS 200",
+        "price": "1.71 Lakh",
+        "url": "/bajaj-bikes/pulsar-rs-200"
+      },
+      {
+        "name": "QJ Motor SRC 250",
+        "price": "1.75 Lakh",
+        "url": "/qj-motor-bikes/src-250"
+      },
+      {
+        "name": "Bajaj Dominar 250",
+        "price": "1.77 Lakh",
+        "url": "/bajaj-bikes/dominar-250"
+      },
+      {
+        "name": "Suzuki Gixxer 250",
+        "price": "1.82 - 1.82 Lakh",
+        "url": "/suzuki-bikes/gixxer-250"
+      },
+      {
+        "name": "Yamaha MT-15 V2.0",
+        "price": "1.55 - 1.66 Lakh",
+        "url": "/yamaha-bikes/mt-15-v20"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.69 - 1.74 Lakh",
+          "₹ 1.71 Lakh",
+          "₹ 1.75 Lakh",
+          "₹ 1.77 Lakh",
+          "₹ 1.82 - 1.82 Lakh",
+          "₹ 1.55 - 1.66 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.4",
+          "8",
+          "-",
+          "8",
+          "8.5",
+          "8.1"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "155.0 CC",
+          "199.5 CC",
+          "249.0 CC",
+          "248.8 CC",
+          "249.0 CC",
+          "155.0 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "6 Gears",
+          "6 Gears",
+          "5 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "50 KM/L",
+          "35.00 Km/L",
+          "0.00 Km/L",
+          "35.00 Km/L",
+          "38.00 Km/L",
+          "47.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "14.2 Nm @ 7500 rpm bhp",
+          "18.60",
+          "17.00",
+          "23.50",
+          "22.2 Nm @ 7300 rpm",
+          "14.1 Nm @ 7500 rpm"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "18.1 bhp @ 10000 rpm Nm",
+          "24.16 bhp",
+          "17.40 bhp",
+          "27 bhp",
+          "26.5 PS @ 9300 rpm bhp",
+          "18.1 bhp @ 10000 rpm bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Disc/Disc",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Twin-channel ABS, Disc (Front) / Twin-channel ABS, Disc (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Disc (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "11.0 L",
+          "13.0 L",
+          "14.0 L",
+          "13.0 L",
+          "12.0 L",
+          "10.0 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "6",
+          "4",
+          "0",
+          "3",
+          "2",
+          "5"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "YZF R15 V4.0 vs Pulsar RS 200",
+          "YZF R15 V4.0 vs SRC 250",
+          "YZF R15 V4.0 vs Dominar 250",
+          "YZF R15 V4.0 vs Gixxer 250",
+          "YZF R15 V4.0 vs MT-15 V2.0"
+        ]
+      }
+    ]
+  }
+}

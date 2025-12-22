@@ -1,0 +1,204 @@
+{
+  "basic_info": {
+    "name": "Royal Enfield Hunter 350",
+    "manufacturer": "Royal Enfield",
+    "model": "2025 Hunter 350",
+    "body_type": "Cruiser",
+    "description": [
+      "The Royal Enfield Hunter 350 2025 is a Cruiser bike available at a starting price of Rs. 1.38 Lakh. The bike is available in 7 variants with 6 colour options. The 349.3 cc  engine of 2025 Hunter 350 is mated with 5 gears, producing maximum power of 20.11 bhp @ 6100 rpm bhp @ 6100 rpm and a maximum torque of 27 nm @ 4000 rpm Nm @ 4000 rpm.  The mileage of the 2025 Hunter 350 is 36 KM/L. "
+    ],
+    "sku": "royal-enfield-hunter-350-2025-1745"
+  },
+  "engine": {
+    "displacement": "349.3 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 137640,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Royal Enfield"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Smooth &amp; refined engine",
+    "Agile handling, good retro styling",
+    "Accessible &amp; easy to ride"
+  ],
+  "cons": [
+    "Lacks equipment &amp; features",
+    "Base variant gets even less features",
+    "Pillion seat not very comfortable"
+  ],
+  "verdict": "The Royal Enfield Hunter 350 offers a fun, agile, and affordable entry into the world of Royal Enfield. It’s ideal for new riders or those upgrading from smaller bikes, thanks to its light weight, flickability, and accessible price point. While it may lack some modern features and raw power, its retro charm, nimble handling, and overall practicality make it a strong contender for city riding and occasional touring. A great option for those seeking a blend of style, heritage, and urban practicality.",
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "Royal Enfield 2025 Hunter 350",
+        "price": "1.38 - 1.67 Lakh",
+        "url": "/royal-enfield-bikes/hunter-350"
+      },
+      {
+        "name": "Bajaj Avenger Cruise 220",
+        "price": "1.37 Lakh",
+        "url": "/bajaj-bikes/avenger-cruise-220"
+      },
+      {
+        "name": "JAWA 42",
+        "price": "1.6 - 1.84 Lakh",
+        "url": "/jawa-bikes/42"
+      },
+      {
+        "name": "Royal Enfield Bullet 350",
+        "price": "1.62 - 2.02 Lakh",
+        "url": "/royal-enfield-bikes/bullet-350"
+      },
+      {
+        "name": "Bajaj Avenger Street 160",
+        "price": "1.12 Lakh",
+        "url": "/bajaj-bikes/avenger-street-160"
+      },
+      {
+        "name": "Royal Enfield Classic 350",
+        "price": "1.81 - 2.03 Lakh",
+        "url": "/royal-enfield-bikes/classic-350"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.38 - 1.67 Lakh",
+          "₹ 1.37 Lakh",
+          "₹ 1.6 - 1.84 Lakh",
+          "₹ 1.62 - 2.02 Lakh",
+          "₹ 1.12 Lakh",
+          "₹ 1.81 - 2.03 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "7.7",
+          "8",
+          "8.4",
+          "7.8",
+          "8.5"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "349.3 CC",
+          "220.0 CC",
+          "294.7 CC",
+          "349.0 CC",
+          "160.3 CC",
+          "349.0 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "5 Gears",
+          "5 Gears",
+          "6 Gears",
+          "5 Gears",
+          "5 Gears",
+          "5 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "36 KM/L",
+          "40.00 Km/L",
+          "37.00 Km/L",
+          "37.00 Km/L",
+          "45.00 Km/L",
+          "35.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "27 nm @ 4000 rpm bhp",
+          "17.55",
+          "26.84 Nm @ 6100 rpm",
+          "27 NM @ 4000 RPM",
+          "13.70",
+          "27 NM @ 4000 RPM"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "20.11 bhp @ 6100 rpm Nm",
+          "18.76 bhp",
+          "26.94 bhp @ 7800 rpm bhp",
+          "20.2 BHP @ 6100 RPM bhp",
+          "15.00 bhp",
+          "20.2 BHP @ 6100 RPM bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Disc/Disc",
+          "Disc (Front) / Drum (Rear)",
+          "Single Channel ABS (Front) / Disc (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Drum (Rear)",
+          "DISC WITH TWIN PISTON FLOATING CALIPER (Front) / DISC, SINGLE PISTON FLOATING CALIPER (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "13.0 L",
+          "13.0 L",
+          "13.2 L",
+          "13.0 L",
+          "13.0 L",
+          "13.0 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "4",
+          "4",
+          "14",
+          "4",
+          "4",
+          "4"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Hunter 350 vs Avenger Cruise 220",
+          "Hunter 350 vs 42",
+          "Hunter 350 vs Bullet 350",
+          "Hunter 350 vs Avenger Street 160",
+          "Hunter 350 vs Classic 350"
+        ]
+      }
+    ]
+  }
+}

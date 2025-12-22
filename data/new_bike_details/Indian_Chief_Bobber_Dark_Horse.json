@@ -1,0 +1,204 @@
+{
+  "basic_info": {
+    "name": "Indian Chief Bobber Dark Horse",
+    "manufacturer": "Indian",
+    "model": "Chief Bobber Dark Horse",
+    "body_type": "Cruiser",
+    "description": [
+      "The Indian Chief Bobber Dark Horse is a Cruiser bike available at a starting price of Rs. 24.14 Lakh. The bike is available in 3 variants with 3 colour options. The 1890.0 cc  engine of Chief Bobber Dark Horse is mated with 6 gears, producing maximum power of 100.00 bhp @ 3000 rpm and a maximum torque of 162.00 Nm @ 3200 rpm.  The mileage of the Chief Bobber Dark Horse is 20 KM/L. "
+    ],
+    "sku": "indian-chief-bobber-dark-horse-1693"
+  },
+  "engine": {
+    "displacement": "1890.0 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 2413599,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Indian"
+  },
+  "rating": {
+    "value": "6.8",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Design is a headturner",
+    "Torque-friendly motor",
+    "Perfect for long distance cruising"
+  ],
+  "cons": [
+    "Slightly heavy",
+    "Engine heats up in traffic",
+    "Matte paint requires effort to maintain"
+  ],
+  "verdict": "The Indian Chief Bobber Dark Horse oozes classic American cruiser appeal coupled with modern tech and features. Gorgeously finished, with attention to detail, and a torquey engine make the Chief Bobber Dark Horse a very appealing and attractive cruiser. The only downsides are its size and weight, as well as the rather expensive pricing.",
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "Indian Chief Bobber Dark Horse",
+        "price": "22.87 - 22.92 Lakh",
+        "url": "/indian-bikes/chief-bobber-dark-horse"
+      },
+      {
+        "name": "Harley-Davidson Fat Bob",
+        "price": "24.24 Lakh",
+        "url": "/harley-davidson-bikes/fat-bob"
+      },
+      {
+        "name": "Indian Chief Dark Horse",
+        "price": "23.41 - 23.54 Lakh",
+        "url": "/indian-bikes/chief-dark-horse"
+      },
+      {
+        "name": "BMW R12 nineT",
+        "price": "22.55 Lakh",
+        "url": "/bmw-bikes/r12-ninet"
+      },
+      {
+        "name": "Indian Super Chief Limited",
+        "price": "25.74 - 25.76 Lakh",
+        "url": "/indian-bikes/super-chief-limited"
+      },
+      {
+        "name": "BMW R 18",
+        "price": "22.45 - 27.07 Lakh",
+        "url": "/bmw-bikes/r-18"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 22.87 - 22.92 Lakh",
+          "₹ 24.24 Lakh",
+          "₹ 23.41 - 23.54 Lakh",
+          "₹ 22.55 Lakh",
+          "₹ 25.74 - 25.76 Lakh",
+          "₹ 22.45 - 27.07 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "6.8",
+          "7.1",
+          "6.8",
+          "-",
+          "6.1",
+          "8.2"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "1890.0 CC",
+          "1868.0 CC",
+          "1890.0 CC",
+          "1170.0 CC",
+          "1890.0 CC",
+          "1802.0 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "20 KM/L",
+          "18.10 Km/L",
+          "20.00 Km/L",
+          "19.60 Km/L",
+          "14.00 Km/L",
+          "17.80 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "162.00 bhp",
+          "155 Nm @ 3,500 rpm",
+          "162.00",
+          "115.00",
+          "162.00",
+          "158.00"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "100.00 Nm",
+          "93.8 PS @ 5,020 rpm bhp",
+          "122 bhp",
+          "110.51 bhp",
+          "bhp",
+          "90.00 bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Single / Semi-Floating Rotor / 4 Piston Caliper/Single / Floating Rotor / 2 Piston Caliper",
+          "4-piston fixed front and 2-piston floating rear (Front) / Front and rear black, Split 7-spoke floating rotors (Rear)",
+          "Single / Semi-Floating Rotor / 4 Piston Caliper (Front) / Single /Floating Rotor / 2 Piston Caliper (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Single Disc (Front) / Single Disc (Rear)",
+          "Twin disc (Front) / Single disc (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "15.1 L",
+          "13.2 L",
+          "15.1 L",
+          "16.0 L",
+          "15.1 L",
+          "16.0 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "3",
+          "2",
+          "3",
+          "1",
+          "0",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Chief Bobber Dark Horse vs Fat Bob",
+          "Chief Bobber Dark Horse vs Chief Dark Horse",
+          "Chief Bobber Dark Horse vs R12 nineT",
+          "Chief Bobber Dark Horse vs Super Chief Limited",
+          "Chief Bobber Dark Horse vs R 18"
+        ]
+      }
+    ]
+  }
+}

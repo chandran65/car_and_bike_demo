@@ -1,0 +1,172 @@
+{
+  "basic_info": {
+    "name": "Royal Enfield Bullet 350",
+    "manufacturer": "Royal Enfield",
+    "model": "Bullet 350",
+    "body_type": "Cruiser",
+    "description": [
+      "The Royal Enfield Bullet 350 is a Cruiser bike available at a starting price of Rs. 1.62 Lakh. The bike is available in 6 variants with 6 colour options. The 349.0 cc BS VI engine of Bullet 350 is mated with 5 gears, producing maximum power of 20.2 BHP @ 6100 RPM bhp @ 6100 rpm and a maximum torque of 27 NM @ 4000 RPM Nm @ 4000 rpm.  The mileage of the Bullet 350 is 37 KM/L. "
+    ],
+    "sku": "royal-enfield-bullet-350-1172"
+  },
+  "engine": {
+    "displacement": "349.0 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 161844,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Royal Enfield"
+  },
+  "rating": {
+    "value": "8.4",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Good design",
+    "Old-school charm",
+    "Decent performance"
+  ],
+  "cons": [
+    "Old, outdated engine",
+    "Clunky gearbox",
+    "Less features"
+  ],
+  "verdict": "The 2023 Royal Enfield Bullet 350 retains its classic charm while receiving much-needed updates in terms of engine refinement and ride quality. It remains a motorcycle designed for relaxed, easygoing rides, with its signature thump and solid road presence. Although it could benefit from better top-end performance and a few additional modern features, the Bullet 350 still excels at what it has always done best—offering a timeless, nostalgic riding experience. For riders looking to slow down and enjoy the journey, this new Bullet 350 is an ideal choice.",
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "Royal Enfield Bullet 350",
+        "price": "1.62 - 2.02 Lakh",
+        "url": "/royal-enfield-bikes/bullet-350"
+      },
+      {
+        "name": "Harley-Davidson Fat Boy",
+        "price": "28.03 Lakh",
+        "url": "/harley-davidson-bikes/fat-boy"
+      },
+      {
+        "name": "Bajaj Avenger Cruise 220",
+        "price": "1.37 Lakh",
+        "url": "/bajaj-bikes/avenger-cruise-220"
+      },
+      {
+        "name": "Honda Gold Wing",
+        "price": "42.82 Lakh",
+        "url": "/honda-bikes/gold-wing"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.62 - 2.02 Lakh",
+          "₹ 28.03 Lakh",
+          "₹ 1.37 Lakh",
+          "₹ 42.82 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.4",
+          "7.3",
+          "7.7",
+          "8.1"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "349.0 CC",
+          "1868.0 CC",
+          "220.0 CC",
+          "1833.0 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "5 Gears",
+          "6 Gears",
+          "5 Gears",
+          "7 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "37 KM/L",
+          "18.00 Km/L",
+          "40.00 Km/L",
+          "14.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "27 NM @ 4000 RPM bhp",
+          "155",
+          "17.55",
+          "170.00"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "20.2 BHP @ 6100 RPM Nm",
+          "93.87 bhp",
+          "18.76 bhp",
+          "125.00 bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Disc/Disc",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Drum (Rear)",
+          "Dual hydraulic disc with 6-piston calliper, floating rotors and sintered metal pads (Front) / Ventilated disc with 3-piston calliper and sintered metal pads (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "13.0 L",
+          "18.9 L",
+          "13.0 L",
+          "21.1 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "4",
+          "4",
+          "4",
+          "1"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Bullet 350 vs Fat Boy",
+          "Bullet 350 vs Avenger Cruise 220",
+          "Bullet 350 vs Gold Wing"
+        ]
+      }
+    ]
+  }
+}

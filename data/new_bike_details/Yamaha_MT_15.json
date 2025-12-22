@@ -1,0 +1,207 @@
+{
+  "basic_info": {
+    "name": "Yamaha MT 15",
+    "manufacturer": "Yamaha",
+    "model": "MT-15",
+    "body_type": "Sports",
+    "description": [
+      "The Yamaha MT-15 is a Sports bike available at a starting price of Rs. 1.53 Lakh. The bike is available in 3 variants with 4 colour options. The 155.0 cc BS VI engine of MT-15 is mated with 6 gears, producing maximum power of 18.20,19.00 bhp @ 10000 rpm and a maximum torque of 15.00 Nm @ 8500 rpm.  The mileage of the MT-15 is 48 KM/L. "
+    ],
+    "sku": "yamaha-mt-15-1552"
+  },
+  "engine": {
+    "displacement": "155.0 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 153339,
+    "currency": "INR",
+    "availability": "https://schema.org/OutOfStock"
+  },
+  "brand": {
+    "name": "Yamaha"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Attractive look and design",
+    "LED daytime running lights",
+    "LCD reverse instrument panel for better night visibility",
+    "Powerful 155 cc engine",
+    "Single-channel ABS"
+  ],
+  "cons": [
+    "Small seat space for pillion riders",
+    "Switchgear placement could have been better",
+    "Suspension setup on the stiffer side",
+    "Aluminum swingarm cast is not sincerely created"
+  ],
+  "verdict": "Pros",
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "Yamaha MT-15",
+        "price": "1.45 - 1.48 Lakh",
+        "url": "/yamaha-bikes/mt-15"
+      },
+      {
+        "name": "TVS Apache RTR 200 4V",
+        "price": "1.41 - 1.47 Lakh",
+        "url": "/tvs-bikes/apache-rtr-200-4v"
+      },
+      {
+        "name": "Royal Enfield Classic 350",
+        "price": "1.81 - 2.16 Lakh",
+        "url": "/royal-enfield-bikes/classic-350"
+      },
+      {
+        "name": "Honda CB300F Flex Fuel",
+        "price": "1.55 Lakh",
+        "url": "/honda-bikes/cb300f-flex-fuel"
+      },
+      {
+        "name": "KTM 890 Adventure",
+        "price": "1.58 Lakh",
+        "url": "/ktm-bikes/890-adventure"
+      },
+      {
+        "name": "Keeway K300 SF",
+        "price": "1.65 Lakh",
+        "url": "/keeway-bikes/k300-sf"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.45 - 1.48 Lakh",
+          "₹ 1.41 - 1.47 Lakh",
+          "₹ 1.81 - 2.16 Lakh",
+          "₹ 1.55 Lakh",
+          "₹ 1.58 Lakh",
+          "₹ 1.65 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "8.1",
+          "8.5",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "155.0 CC",
+          "197.8 CC",
+          "349.0 CC",
+          "293.5 CC",
+          "889.0 CC",
+          "292.4 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "6 Gears",
+          "5 Gears",
+          "5 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "48 KM/L",
+          "37.00 Km/L",
+          "35.00 Km/L",
+          "35.00 Km/L",
+          "22.00 Km/L",
+          "0.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "15.00 bhp",
+          "16.80",
+          "27 NM @ 4000 RPM",
+          "25.60",
+          "100.00",
+          "25"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "18.20,19.00 Nm",
+          "20.20 bhp",
+          "20.2 BHP @ 6100 RPM bhp",
+          "24.00 bhp",
+          "104.60 bhp",
+          "27.5 bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Disc/Disc",
+          "Disc (Front) / Disc (Rear)",
+          "DISC WITH TWIN PISTON FLOATING CALIPER (Front) / DISC, SINGLE PISTON FLOATING CALIPER (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Disc (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "11.0 L",
+          "12.0 L",
+          "13.0 L",
+          "14.1 L",
+          "20.0 L",
+          "12.5 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "4",
+          "3",
+          "4",
+          "3",
+          "1",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "MT-15 vs Apache RTR 200 4V",
+          "MT-15 vs Classic 350",
+          "MT-15 vs CB300F Flex Fuel",
+          "MT-15 vs 890 Adventure",
+          "MT-15 vs K300 SF"
+        ]
+      }
+    ]
+  }
+}

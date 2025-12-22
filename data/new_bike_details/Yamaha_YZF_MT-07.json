@@ -1,0 +1,18 @@
+{
+  "basic_info": {
+    "name": "Yamaha YZF MT-07",
+    "manufacturer": null,
+    "model": "YZF MT-07",
+    "body_type": null,
+    "description": "",
+    "sku": "yamaha-yzf-mt-07-1873"
+  },
+  "price": {
+    "value": 850000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Yamaha"
+  }
+}

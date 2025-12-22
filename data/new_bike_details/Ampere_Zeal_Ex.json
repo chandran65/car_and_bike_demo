@@ -1,0 +1,203 @@
+{
+  "basic_info": {
+    "name": "Ampere Zeal Ex",
+    "manufacturer": "Ampere",
+    "model": "Zeal Ex",
+    "body_type": "Scooter",
+    "description": [
+      "The Ampere Zeal Ex is a electric Scooter bike available at a starting price of Rs. 91,916. The electric scooter is available in 1 variants with 1 colour options.  The electric motor comes with a Advanced Li - Ion battery pack. The battery range/mileage of the Zeal Ex is 120 Km/Full Charge. "
+    ],
+    "sku": "ampere-zeal-ex-1656"
+  },
+  "engine": {
+    "displacement": null,
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 91916,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Ampere"
+  },
+  "rating": {
+    "value": "6.8",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Good design",
+    "Decent features",
+    "Low operating costs"
+  ],
+  "cons": [
+    "Charging could be an issue",
+    "Other options available",
+    "Range anxiety"
+  ],
+  "verdict": "The Ampere Zeal is a decent e-scooter available at an affordable price tag. It has a decent riding range of 75 km, but takes about 6 hours for the battery to charge fully. Unfortunately, this e-scooter isn’t available across the country.",
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "Ampere Zeal Ex",
+        "price": "86,690",
+        "url": "/ampere-bikes/zeal-ex"
+      },
+      {
+        "name": "Okinawa Ridge Plus",
+        "price": "90,606",
+        "url": "/okinawa-bikes/ridge-plus"
+      },
+      {
+        "name": "Ampere Magnus",
+        "price": "90,027  - 1.01 Lakh",
+        "url": "/ampere-bikes/magnus"
+      },
+      {
+        "name": "Gemopai Astrid Lite",
+        "price": "89,908",
+        "url": "/gemopai-bikes/astrid-lite"
+      },
+      {
+        "name": "BGauss Oowah",
+        "price": "94,990",
+        "url": "/bgauss-bikes/oowah"
+      },
+      {
+        "name": "Hop Electric LEO",
+        "price": "86,965  - 1.02 Lakh",
+        "url": "/hop-electric-bikes/leo"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 86,690",
+          "₹ 90,606",
+          "₹ 90,027  - 1.01 Lakh",
+          "₹ 89,908",
+          "₹ 94,990",
+          "₹ 86,965  - 1.02 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "6.8",
+          "6.6",
+          "7.1",
+          "7.1",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Battery Type",
+        "values": [
+          "Advanced Li - Ion",
+          "Lithium-ion (Detachable Battery)",
+          "Lithium ION Battery",
+          "Lithium Ion",
+          "Lithium-Ion",
+          "Lithium-ion"
+        ]
+      },
+      {
+        "feature": "Battery Range",
+        "values": [
+          "120 Km/Full Charge",
+          "100-120 Km/FullCharge",
+          "81 Km/FullCharge",
+          "80 - 90 km Km/FullCharge",
+          "Up to 100 km on Km/FullCharge",
+          "75 Km/FullCharge"
+        ]
+      },
+      {
+        "feature": "Charging Time",
+        "values": [
+          "5 Hours",
+          "2-3 Hour",
+          "5-6",
+          "",
+          "3 Hours",
+          "2 Hours 45 Minu"
+        ]
+      },
+      {
+        "feature": "Fast Charging Time",
+        "values": [
+          "2",
+          "N/A",
+          "N/A",
+          "N/A",
+          "60 Minutes"
+        ]
+      },
+      {
+        "feature": "Kerb Weight",
+        "values": [
+          "78 Kg",
+          "96 Kg",
+          "96 Kg",
+          "96 Kg",
+          "82 Kg",
+          "88 Kg"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "N/A",
+          "N/A",
+          "",
+          "N/A",
+          "94 Nm",
+          "55.00"
+        ]
+      },
+      {
+        "feature": "Variant",
+        "values": [
+          "1",
+          "1",
+          "2",
+          "1",
+          "1",
+          "3"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "1",
+          "0",
+          "5",
+          "6",
+          "3",
+          "5"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Zeal Ex vs Ridge Plus",
+          "Zeal Ex vs Magnus",
+          "Zeal Ex vs Astrid Lite",
+          "Zeal Ex vs Oowah",
+          "Zeal Ex vs LEO"
+        ]
+      }
+    ]
+  }
+}

@@ -3,7 +3,11 @@
 import inspect
 import warnings
 from collections.abc import Callable
-from typing import Any, Generic, ParamSpec, Protocol, TypeAlias, TypeVar, overload
+from typing import Any, Generic, Optional, Protocol, TypeVar, overload
+try:
+    from typing import ParamSpec, TypeAlias
+except ImportError:
+    from typing_extensions import ParamSpec, TypeAlias
 
 from pydantic import BaseModel, ConfigDict, Field, create_model
 from pydantic.fields import FieldInfo
@@ -68,7 +72,7 @@ class ToolFunction(Protocol[P, T]):
     """
 
     __name__: str
-    __doc__: str | None
+    __doc__: Optional[str]
 
     def __call__(self, *args: P.args, **kwargs: P.kwargs) -> T: ...
 
@@ -118,9 +122,9 @@ class Tool(BaseModel, Generic[P, T]):
     def from_function(
         cls,
         func: Callable[P, T],
-        name: str | None = None,
-        description: str | None = None,
-        args_schema: type[BaseModel] | None = None,
+        name: Optional[str] = None,
+        description: Optional[str] = None,
+        args_schema: Optional[type[BaseModel]] = None,
     ) -> "Tool[P, T]":
         """
         Create a Tool instance from a function.
@@ -161,9 +165,9 @@ def tool(func: Callable[P, T]) -> Tool[P, T]:
 @overload
 def tool(
     *,
-    name: str | None = None,
-    description: str | None = None,
-    args_schema: type[BaseModel] | None = None,
+    name: Optional[str] = None,
+    description: Optional[str] = None,
+    args_schema: Optional[type[BaseModel]] = None,
 ) -> Callable[[Callable[P, T]], Tool[P, T]]:
     """Overload for when tool is used with parameters: @tool(name="custom_name")"""
 
@@ -172,9 +176,9 @@ def tool(
 def tool(
     func: None,
     *,
-    name: str | None = None,
-    description: str | None = None,
-    args_schema: type[BaseModel] | None = None,
+    name: Optional[str] = None,
+    description: Optional[str] = None,
+    args_schema: Optional[type[BaseModel]] = None,
 ) -> Callable[[Callable[P, T]], Tool[P, T]]:
     """Overload for when tool is called with func=None explicitly"""
 
@@ -183,19 +187,19 @@ def tool(
 def tool(
     func: Callable[P, T],
     *,
-    name: str | None = None,
-    description: str | None = None,
-    args_schema: type[BaseModel] | None = None,
+    name: Optional[str] = None,
+    description: Optional[str] = None,
+    args_schema: Optional[type[BaseModel]] = None,
 ) -> Tool[P, T]:
     """Overload for when tool is called with func as a Callable and other keyword args"""
 
 
 def tool(
-    func: Callable[P, T] | None = None,
+    func: Optional[Callable[P, T]] = None,
     *,
-    name: str | None = None,
-    description: str | None = None,
-    args_schema: type[BaseModel] | None = None,
+    name: Optional[str] = None,
+    description: Optional[str] = None,
+    args_schema: Optional[type[BaseModel]] = None,
 ) -> Any:
     """
     Decorator to create a Tool instance from a function.
@@ -267,9 +271,9 @@ class ToolKit:
     def register(
         self,
         func: Callable[..., Any],
-        name: str | None = None,
-        description: str | None = None,
-        args_schema: type[BaseModel] | None = None,
+        name: Optional[str] = None,
+        description: Optional[str] = None,
+        args_schema: Optional[type[BaseModel]] = None,
     ) -> None:
         """
         Register a function as a tool in the toolkit.

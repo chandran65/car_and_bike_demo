@@ -1,0 +1,18 @@
+{
+  "basic_info": {
+    "name": "Royal Enfield Himalayan 750",
+    "manufacturer": null,
+    "model": "Himalayan 750",
+    "body_type": null,
+    "description": "",
+    "sku": "royal-enfield-himalayan-750-2062"
+  },
+  "price": {
+    "value": 400000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Royal Enfield"
+  }
+}

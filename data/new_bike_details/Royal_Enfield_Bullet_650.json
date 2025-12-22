@@ -1,0 +1,18 @@
+{
+  "basic_info": {
+    "name": "Royal Enfield Bullet 650",
+    "manufacturer": null,
+    "model": "Bullet 650",
+    "body_type": null,
+    "description": "",
+    "sku": "royal-enfield-bullet-650-2126"
+  },
+  "price": {
+    "value": 275000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Royal Enfield"
+  }
+}

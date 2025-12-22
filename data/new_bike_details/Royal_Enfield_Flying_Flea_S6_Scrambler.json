@@ -1,0 +1,18 @@
+{
+  "basic_info": {
+    "name": "Royal Enfield Flying Flea S6 Scrambler",
+    "manufacturer": null,
+    "model": "Flying Flea S6 Scrambler",
+    "body_type": null,
+    "description": "",
+    "sku": "royal-enfield-flying-flea-s6-scrambler-1940"
+  },
+  "price": {
+    "value": 300000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Royal Enfield"
+  }
+}

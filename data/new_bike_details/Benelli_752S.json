@@ -1,0 +1,18 @@
+{
+  "basic_info": {
+    "name": "Benelli 752S",
+    "manufacturer": null,
+    "model": "752S",
+    "body_type": null,
+    "description": "",
+    "sku": "benelli-752s-1567"
+  },
+  "price": {
+    "value": 600000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Benelli"
+  }
+}

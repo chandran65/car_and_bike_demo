@@ -1,0 +1,172 @@
+{
+  "basic_info": {
+    "name": "Honda CB 350 RS",
+    "manufacturer": "Honda",
+    "model": "CB 350 RS",
+    "body_type": "Cruiser",
+    "description": [
+      "The Honda CB 350 RS is a Cruiser bike available at a starting price of Rs. 1.97 Lakh. The bike is available in 2 variants with 4 colour options. The 348.4 cc  engine of CB 350 RS is mated with 5 gears, producing maximum power of 20.78 bhp @ 5500 rpm bhp @ 5500 rpm and a maximum torque of 30 Nm @ 3000 rpm Nm @ 3000 rpm.  The mileage of the CB 350 RS is 35 KM/L. "
+    ],
+    "sku": "honda-cb-350-rs-1670"
+  },
+  "engine": {
+    "displacement": "348.4 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 197003,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Honda"
+  },
+  "rating": {
+    "value": "8.0",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Youthful design",
+    "Good performance",
+    "Smooth gearshifts"
+  ],
+  "cons": [
+    "Odd rearview mirror positioning",
+    "Sold only via BigWing dealerships",
+    "No Bluetooth connectivity"
+  ],
+  "verdict": "The Honda CB350RS offers quite a likeable modern classic, entry-level roadster in its segment. It does skip a few features from the Honda H'Ness CB 350 it's based on, and the price difference may not really make sense but it is a likeable motorcycle and is worth considering for anyone looking for a 'thumping' motorcycle that's not Royal Enfield, but is in the same price and performance bracket. The CB350RS competes with the Jawa 42 as well.",
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "Honda CB 350 RS",
+        "price": "1.97 - 2 Lakh",
+        "url": "/honda-bikes/cb-350-rs"
+      },
+      {
+        "name": "Bajaj Dominar 250",
+        "price": "1.77 Lakh",
+        "url": "/bajaj-bikes/dominar-250"
+      },
+      {
+        "name": "KTM 250 Duke",
+        "price": "2.12 Lakh",
+        "url": "/ktm-bikes/250-duke"
+      },
+      {
+        "name": "Royal Enfield Meteor 350",
+        "price": "1.96 - 2.19 Lakh",
+        "url": "/royal-enfield-bikes/meteor-350"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.97 - 2 Lakh",
+          "₹ 1.77 Lakh",
+          "₹ 2.12 Lakh",
+          "₹ 1.96 - 2.19 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8",
+          "8",
+          "8.2",
+          "8.4"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "348.4 CC",
+          "248.8 CC",
+          "248.8 CC",
+          "349.0 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "5 Gears",
+          "6 Gears",
+          "6 Gears",
+          "5 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "35 KM/L",
+          "35.00 Km/L",
+          "30.00 Km/L",
+          "33.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "30 Nm @ 3000 rpm bhp",
+          "23.50",
+          "25.00",
+          "27 Nm @ 4000 RPM"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "20.78 bhp @ 5500 rpm Nm",
+          "27 bhp",
+          "30.50 bhp",
+          "20.2 BHP @ 6100 RPM bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Disc/Disc",
+          "Twin-channel ABS, Disc (Front) / Twin-channel ABS, Disc (Rear)",
+          "Disc with Radially mounted calliper (Front) / Disc with Floating calliper (Rear)",
+          "Disc (Front) / Disc (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "15.0 L",
+          "13.0 L",
+          "15.0 L",
+          "15.0 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "4",
+          "3",
+          "2",
+          "4"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "CB 350 RS vs Dominar 250",
+          "CB 350 RS vs 250 Duke",
+          "CB 350 RS vs Meteor 350"
+        ]
+      }
+    ]
+  }
+}

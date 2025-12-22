@@ -1,0 +1,204 @@
+{
+  "basic_info": {
+    "name": "JAWA 42",
+    "manufacturer": "JAWA",
+    "model": "42",
+    "body_type": "Cruiser",
+    "description": [
+      "The JAWA 42 is a Cruiser bike available at a starting price of Rs. 1.59 Lakh. The bike is available in 9 variants with 14 colour options. The 294.7 cc  engine of 42 is mated with 6 gears, producing maximum power of 26.94 bhp @ 7800 rpm bhp @ 7800 rpm and a maximum torque of 26.84 Nm @ 6100 rpm Nm @ 6100 rpm.  The mileage of the 42 is 37 KM/L. "
+    ],
+    "sku": "jawa-42-1669"
+  },
+  "engine": {
+    "displacement": "294.7 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 159430,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "JAWA"
+  },
+  "rating": {
+    "value": "8.0",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Refined performance",
+    "Comfortable riding position",
+    "Sorted ride and handling"
+  ],
+  "cons": [
+    "Low ground clearance",
+    "Low cornering clearance",
+    "Welding quality not up to the mark"
+  ],
+  "verdict": "Pros",
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "JAWA 42",
+        "price": "1.59 - 1.83 Lakh",
+        "url": "/jawa-bikes/42"
+      },
+      {
+        "name": "Royal Enfield Bullet 350",
+        "price": "1.62 - 2.02 Lakh",
+        "url": "/royal-enfield-bikes/bullet-350"
+      },
+      {
+        "name": "Royal Enfield Classic 350",
+        "price": "1.81 - 2.16 Lakh",
+        "url": "/royal-enfield-bikes/classic-350"
+      },
+      {
+        "name": "Royal Enfield Hunter 350",
+        "price": "1.38 - 1.67 Lakh",
+        "url": "/royal-enfield-bikes/hunter-350"
+      },
+      {
+        "name": "Bajaj Avenger Cruise 220",
+        "price": "1.37 Lakh",
+        "url": "/bajaj-bikes/avenger-cruise-220"
+      },
+      {
+        "name": "JAWA 350",
+        "price": "1.83 - 2.12 Lakh",
+        "url": "/jawa-bikes/350"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.59 - 1.83 Lakh",
+          "₹ 1.62 - 2.02 Lakh",
+          "₹ 1.81 - 2.16 Lakh",
+          "₹ 1.38 - 1.67 Lakh",
+          "₹ 1.37 Lakh",
+          "₹ 1.83 - 2.12 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8",
+          "8.4",
+          "8.5",
+          "-",
+          "7.7",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "294.7 CC",
+          "349.0 CC",
+          "349.0 CC",
+          "349.0 CC",
+          "220.0 CC",
+          "334.0 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "6 Gears",
+          "5 Gears",
+          "5 Gears",
+          "5 Gears",
+          "5 Gears",
+          "6 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "37 KM/L",
+          "37.00 Km/L",
+          "35.00 Km/L",
+          "36.20 Km/L",
+          "40.00 Km/L",
+          "35.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "26.84 Nm @ 6100 rpm bhp",
+          "27 NM @ 4000 RPM",
+          "27 NM @ 4000 RPM",
+          "27 nm @ 4000 rpm",
+          "17.55",
+          "32.74"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "26.94 bhp @ 7800 rpm Nm",
+          "20.2 BHP @ 6100 RPM bhp",
+          "20.2 BHP @ 6100 RPM bhp",
+          "20.11 bhp @ 6100 rpm bhp",
+          "18.76 bhp",
+          "22.26 bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Single Channel ABS/Disc",
+          "Disc (Front) / Disc (Rear)",
+          "DISC WITH TWIN PISTON FLOATING CALIPER (Front) / DISC, SINGLE PISTON FLOATING CALIPER (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Drum (Rear)",
+          "Disc Dual Channel ABS (Front) / Disc (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "13.2 L",
+          "13.0 L",
+          "13.0 L",
+          "13.0 L",
+          "13.0 L",
+          "14.0 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "14",
+          "4",
+          "4",
+          "4",
+          "4",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "42 vs Bullet 350",
+          "42 vs Classic 350",
+          "42 vs Hunter 350",
+          "42 vs Avenger Cruise 220",
+          "42 vs 350"
+        ]
+      }
+    ]
+  }
+}

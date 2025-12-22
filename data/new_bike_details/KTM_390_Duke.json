@@ -1,0 +1,204 @@
+{
+  "basic_info": {
+    "name": "KTM 390 Duke",
+    "manufacturer": "KTM",
+    "model": "390 Duke",
+    "body_type": "Sports",
+    "description": [
+      "The KTM 390 Duke is a Sports bike available at a starting price of Rs. 2.97 Lakh. The bike is available in 1 variants with 3 colour options. The 398.6 cc BS VI engine of 390 Duke is mated with 6 gears, producing maximum power of 45.3 bhp @ 8500 rpm bhp @ 8500 rpm and a maximum torque of 39 Nm @ 6500 rpm Nm @ 6500 rpm.  The mileage of the 390 Duke is 30 KM/L. "
+    ],
+    "sku": "ktm-390-duke-1101"
+  },
+  "engine": {
+    "displacement": "398.6 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 297444,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "KTM"
+  },
+  "rating": {
+    "value": "8.3",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Powerful and stylish",
+    "Loaded on electronic aids",
+    "Stiff suspension"
+  ],
+  "cons": [
+    "Not as value-friendly as before",
+    "Low ground clearance",
+    "No adjustable suspension"
+  ],
+  "verdict": "The 2024 KTM 390 Duke raises the bar yet again in the performance naked bike segment. With significant upgrades to its engine, chassis, and features, it delivers a more refined yet thrilling ride experience. While the premium price may give pause, the enhanced performance, adjustable suspension, and advanced tech make it a worthy contender. For enthusiasts seeking a blend of street and track performance, the 390 Duke remains a top pick.",
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "KTM 390 Duke",
+        "price": "2.97 Lakh",
+        "url": "/ktm-bikes/390-duke"
+      },
+      {
+        "name": "Bajaj Dominar 400 [2019]",
+        "price": "2.7 Lakh",
+        "url": "/bajaj-bikes/dominar-400-2019"
+      },
+      {
+        "name": "QJ Motor SRV 300",
+        "price": "3.11 Lakh",
+        "url": "/qj-motor-bikes/srv-300"
+      },
+      {
+        "name": "Triumph Speed 400",
+        "price": "2.83 Lakh",
+        "url": "/triumph-bikes/speed-400"
+      },
+      {
+        "name": "Husqvarna Svartpilen 401",
+        "price": "2.82 Lakh",
+        "url": "/husqvarna-bikes/svartpilen-401"
+      },
+      {
+        "name": "BMW G 310 RR",
+        "price": "2.81 - 2.99 Lakh",
+        "url": "/bmw-bikes/g-310-rr"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 2.97 Lakh",
+          "₹ 2.7 Lakh",
+          "₹ 3.11 Lakh",
+          "₹ 2.83 Lakh",
+          "₹ 2.82 Lakh",
+          "₹ 2.81 - 2.99 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.3",
+          "8",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "398.6 CC",
+          "373.3 CC",
+          "296.0 CC",
+          "398.0 CC",
+          "399.0 CC",
+          "312.1 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "30 KM/L",
+          "27.00 Km/L",
+          "0.00 Km/L",
+          "24.00 Km/L",
+          "29.00 Km/L",
+          "30.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "39 Nm @ 6500 rpm bhp",
+          "35.00",
+          "26.00",
+          "37.50",
+          "39.00",
+          "27.00"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "45.3 bhp @ 8500 rpm Nm",
+          "39.40 bhp",
+          "30.30 bhp",
+          "39.50 bhp",
+          "42.90 bhp",
+          "34 bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Disc with Radially mounted calliper/Disc with Floating calliper",
+          "ABS Dia Disc (Front) / ABS Dia Disc (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Dual Channel ABS (Rear)",
+          "Disc (Front) / Disc (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "15.0 L",
+          "13.0 L",
+          "13.5 L",
+          "13.0 L",
+          "13.5 L",
+          "11.0 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "3",
+          "4",
+          "0",
+          "7",
+          "0",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "390 Duke vs Dominar 400 [2019]",
+          "390 Duke vs SRV 300",
+          "390 Duke vs Speed 400",
+          "390 Duke vs Svartpilen 401",
+          "390 Duke vs G 310 RR"
+        ]
+      }
+    ]
+  }
+}

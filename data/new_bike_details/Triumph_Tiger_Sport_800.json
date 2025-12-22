@@ -1,0 +1,18 @@
+{
+  "basic_info": {
+    "name": "Triumph Tiger Sport 800",
+    "manufacturer": null,
+    "model": "Tiger Sport 800",
+    "body_type": null,
+    "description": "",
+    "sku": "triumph-tiger-sport-800-2018"
+  },
+  "price": {
+    "value": 1150000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Triumph"
+  }
+}

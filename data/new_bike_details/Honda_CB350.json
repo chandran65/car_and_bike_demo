@@ -1,0 +1,193 @@
+{
+  "basic_info": {
+    "name": "Honda CB350",
+    "manufacturer": "Honda",
+    "model": "CB350",
+    "body_type": "Cruiser",
+    "description": [
+      "The Honda CB350 is a Cruiser bike available at a starting price of Rs. 1.97 Lakh. The bike is available in 2 variants with 8 colour options. The 348.4 cc  engine of CB350 is mated with 5 gears, producing maximum power of 20.78 BHP @ 5500 rpm bhp @ 5500 rpm and a maximum torque of 29.5 N-m @ 3000 rpm Nm @ 3000 rpm.  The mileage of the CB350 is 35 KM/L. "
+    ],
+    "sku": "honda-cb350-1855"
+  },
+  "engine": {
+    "displacement": "348.4 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 197003,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Honda"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "Honda CB350",
+        "price": "1.97 - 2 Lakh",
+        "url": "/honda-bikes/cb350"
+      },
+      {
+        "name": "Royal Enfield Meteor 350",
+        "price": "1.96 - 2.19 Lakh",
+        "url": "/royal-enfield-bikes/meteor-350"
+      },
+      {
+        "name": "JAWA 42 Bobber",
+        "price": "1.94 - 2.17 Lakh",
+        "url": "/jawa-bikes/42-bobber"
+      },
+      {
+        "name": "JAWA Perak",
+        "price": "2.01 Lakh",
+        "url": "/jawa-bikes/perak"
+      },
+      {
+        "name": "Honda H Ness CB 350",
+        "price": "1.92 - 1.99 Lakh",
+        "url": "/honda-bikes/h-ness-cb-350"
+      },
+      {
+        "name": "Honda CB 350 RS",
+        "price": "2.1 - 2.13 Lakh",
+        "url": "/honda-bikes/cb-350-rs"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.97 - 2 Lakh",
+          "₹ 1.96 - 2.19 Lakh",
+          "₹ 1.94 - 2.17 Lakh",
+          "₹ 2.01 Lakh",
+          "₹ 1.92 - 1.99 Lakh",
+          "₹ 2.1 - 2.13 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "8.4",
+          "-",
+          "8",
+          "8.1",
+          "8"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "348.4 CC",
+          "349.0 CC",
+          "334.0 CC",
+          "334.0 CC",
+          "348.4 CC",
+          "348.4 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "5 Gears",
+          "5 Gears",
+          "6 Gears",
+          "6 Gears",
+          "5 Gears",
+          "5 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "35 KM/L",
+          "33.00 Km/L",
+          "30.00 Km/L",
+          "35.00 Km/L",
+          "35.00 Km/L",
+          "35.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "29.5 N-m @ 3000 rpm bhp",
+          "27 Nm @ 4000 RPM",
+          "32.74",
+          "32.74",
+          "30.00",
+          "30.00"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "20.78 BHP @ 5500 rpm Nm",
+          "20.2 BHP @ 6100 RPM bhp",
+          "30.64 bhp",
+          "30.22 bhp",
+          "20.78 bhp",
+          "21.00 bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Disc/Disc",
+          "Disc (Front) / Disc (Rear)",
+          "DISC WITH DUAL CHANNEL ABS (Front) / DISC WITH DUAL CHANNEL ABS (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Disc (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "15.2 L",
+          "15.0 L",
+          "12.5 L",
+          "13.2 L",
+          "15.0 L",
+          "15.0 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "8",
+          "8",
+          "4",
+          "1",
+          "6",
+          "4"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "CB350 vs Meteor 350",
+          "CB350 vs 42 Bobber",
+          "CB350 vs Perak",
+          "CB350 vs H Ness CB 350",
+          "CB350 vs CB 350 RS"
+        ]
+      }
+    ]
+  }
+}

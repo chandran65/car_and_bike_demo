@@ -1,0 +1,193 @@
+{
+  "basic_info": {
+    "name": "VLF Mobster 135",
+    "manufacturer": "VLF",
+    "model": "Mobster 135",
+    "body_type": "Scooter",
+    "description": [
+      "The VLF Mobster 135 is a Scooter bike available at a starting price of Rs. 1.3 Lakh. The scooter is available in 1 variants with 3 colour options. The 125.0 cc  engine of Mobster 135 is paired with a  gearbox producing maximum power of 12.1 bhp at 8,250 rpm bhp @ 8250 rpm and a maximum torque of  11.7 Nm of torque at 6,500 rpm Nm @ 6500 rpm.  The mileage of the Mobster 135 is 46 KM/L. "
+    ],
+    "sku": "vlf-mobster-135-2107"
+  },
+  "engine": {
+    "displacement": "125.0 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 130000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "VLF"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "VLF Mobster 135",
+        "price": "1.3 Lakh",
+        "url": "/vlf-bikes/mobster-135"
+      },
+      {
+        "name": "Vespa VXL",
+        "price": "1.3 - 1.45 Lakh",
+        "url": "/vespa-bikes/vxl"
+      },
+      {
+        "name": "Aprilia SXR 125",
+        "price": "1.31 Lakh",
+        "url": "/aprilia-bikes/sxr-125"
+      },
+      {
+        "name": "Vespa SXL Sports",
+        "price": "1.32 - 1.45 Lakh",
+        "url": "/vespa-bikes/sxl-sports"
+      },
+      {
+        "name": "Vespa SXL",
+        "price": "1.33 - 1.49 Lakh",
+        "url": "/vespa-bikes/sxl"
+      },
+      {
+        "name": "Vespa S 125",
+        "price": "1.26 - 1.28 Lakh",
+        "url": "/vespa-bikes/s-125"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.3 Lakh",
+          "₹ 1.3 - 1.45 Lakh",
+          "₹ 1.31 Lakh",
+          "₹ 1.32 - 1.45 Lakh",
+          "₹ 1.33 - 1.49 Lakh",
+          "₹ 1.26 - 1.28 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "7.2",
+          "7.2",
+          "7.2",
+          "7.3",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "125.0 CC",
+          "125.0 CC",
+          "125.0 CC",
+          "125.0 CC",
+          "125.0 CC",
+          "124.5 CC"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "46 KM/L",
+          "45.00 Km/L",
+          "40.00 Km/L",
+          "45.00 Km/L",
+          "45.00 Km/L",
+          "0.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "11.7 Nm of torque at 6,500 rpm bhp",
+          "10.11",
+          "9.20",
+          "10.11",
+          "10.11",
+          "~ 10.1 Nm (@ 5,600 rpm)"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "12.1 bhp at 8,250 rpm Nm",
+          "9.60 bhp",
+          "9.30 bhp",
+          "9.60 bhp",
+          "9.60 bhp",
+          "9.51 PS (@ 7,100 rpm) bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Disc/Disc",
+          "Ventilated Disc (Front) / Drum (Rear)",
+          "Disc (Front) / Drum (Rear)",
+          "Disc (Front) / Drum (Rear)",
+          "Ventilated Disc (Front) / Drum (Rear)",
+          "(Front) /  (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "8.0 L",
+          "7.4 L",
+          "7.0 L",
+          "7.4 L",
+          "7.4 L",
+          "7.4 L"
+        ]
+      },
+      {
+        "feature": "Kerb Weight",
+        "values": [
+          "122 Kg",
+          "115 Kg",
+          "129 Kg",
+          "115 Kg",
+          "115 Kg",
+          "115 Kg"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "3",
+          "3",
+          "2",
+          "0",
+          "3",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Mobster 135 vs VXL",
+          "Mobster 135 vs SXR 125",
+          "Mobster 135 vs SXL Sports",
+          "Mobster 135 vs SXL",
+          "Mobster 135 vs S 125"
+        ]
+      }
+    ]
+  }
+}

@@ -3,6 +3,7 @@
 import json
 import math
 from pathlib import Path
+from typing import Optional
 
 import pandas as pd
 import pgeocode
@@ -77,7 +78,7 @@ class EVChargerLocationService:
         pincode: str,
         radius_in_km: float = 5.0,
         limit: int = 5
-    ) -> tuple[dict | None, list[EVLocationResult]]:
+    ) -> tuple[Optional[dict], list[EVLocationResult]]:
         """
         Find EV charging stations within specified radius, sorted by distance.
         

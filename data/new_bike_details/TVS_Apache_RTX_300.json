@@ -1,0 +1,185 @@
+{
+  "basic_info": {
+    "name": "TVS Apache RTX 300",
+    "manufacturer": "TVS",
+    "model": "Apache RTX 300",
+    "body_type": null,
+    "description": [
+      "The TVS Apache RTX 300 is a  bike available at a starting price of Rs. 1.99 Lakh. The bike is available in 3 variants with 5 colour options. The 299.0 cc  engine of Apache RTX 300 is mated with 6 gears, producing maximum power of 35 PS @ 9,000 rpm bhp @ 9000 rpm and a maximum torque of 28.5 Nm @ 7,000 rpm Nm @ 7000 rpm. "
+    ],
+    "sku": "tvs-apache-rtx-300-2121"
+  },
+  "engine": {
+    "displacement": "299.0 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 199000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "TVS"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "verdict": "For its price, the RTX 300 is a wonderful bike for people with this budget. It has been highly praised as a well-engineered adventure tourer that focuses on comfort, usability, and an extensive feature list. There’s room for further customisation. Moreover, it is lightweight and has a good pick-up, making it a competitive package in the 300cc ADV space.",
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "TVS Apache RTX 300",
+        "price": "1.99 - 2.34 Lakh",
+        "url": "/tvs-bikes/apache-rtx-300"
+      },
+      {
+        "name": "Suzuki V-Strom SX 250",
+        "price": "2 Lakh",
+        "url": "/suzuki-bikes/v-strom-sx-250"
+      },
+      {
+        "name": "Yezdi Adventure 2025",
+        "price": "1.98 - 2.09 Lakh",
+        "url": "/yezdi-bikes/adventure-2025"
+      },
+      {
+        "name": "Yezdi Adventure",
+        "price": "2.01 - 2.07 Lakh",
+        "url": "/yezdi-bikes/adventure"
+      },
+      {
+        "name": "Kawasaki KLX 230",
+        "price": "1.84 Lakh",
+        "url": "/kawasaki-bikes/klx-230"
+      },
+      {
+        "name": "Hero XPulse 210",
+        "price": "1.71 - 1.81 Lakh",
+        "url": "/hero-bikes/xpulse-210"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.99 - 2.34 Lakh",
+          "₹ 2 Lakh",
+          "₹ 1.98 - 2.09 Lakh",
+          "₹ 2.01 - 2.07 Lakh",
+          "₹ 1.84 Lakh",
+          "₹ 1.71 - 1.81 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "8.5",
+          "-",
+          "7.9",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "299.0 CC",
+          "249.0 CC",
+          "334.0 CC",
+          "334.0 CC",
+          "210.0 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "N/A",
+          "32.00 Km/L",
+          "30.00 Km/L",
+          "30.00 Km/L",
+          "0.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "28.5 Nm @ 7,000 rpm bhp",
+          "22.20",
+          "29.8 Nm @ 6,500 rpm",
+          "29.84",
+          "20.7"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "35 PS @ 9,000 rpm Nm",
+          "26.5 bhp",
+          "29.6 PS @ 8,000 rpm bhp",
+          "29.19 bhp",
+          "24.67 bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "320mm, Radial Calliper/240 mm, Floating Caliper",
+          "Disc (Front) / Disc (Rear)",
+          "Disc with floating caliper and ABS (Front) / Disc with floating caliper and ABS (Rear)",
+          "Disc with Floating Caliper and ABS (Front) / Disc with Floating Caliper and ABS (Rear)",
+          "Disc (Front) / Disc (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "12.5 L",
+          "12.0 L",
+          "15.5 L",
+          "15.5 L",
+          "13.0 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "8",
+          "16",
+          "6",
+          "3",
+          "11"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Apache RTX 300 vs V-Strom SX 250",
+          "Apache RTX 300 vs Adventure 2025",
+          "Apache RTX 300 vs Adventure",
+          "Apache RTX 300 vs XPulse 210"
+        ]
+      }
+    ]
+  }
+}

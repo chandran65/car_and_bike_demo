@@ -1,0 +1,18 @@
+{
+  "basic_info": {
+    "name": "Royal Enfield Scrambler 450",
+    "manufacturer": null,
+    "model": "Scrambler 450",
+    "body_type": null,
+    "description": "",
+    "sku": "royal-enfield-scrambler-450-1803"
+  },
+  "price": {
+    "value": 260000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Royal Enfield"
+  }
+}

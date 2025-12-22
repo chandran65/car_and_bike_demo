@@ -1,0 +1,184 @@
+{
+  "basic_info": {
+    "name": "Harley-Davidson X440 T",
+    "manufacturer": "Harley-Davidson",
+    "model": "X440 T",
+    "body_type": "Cruiser",
+    "description": [
+      "The Harley-Davidson X440 T is a Cruiser bike available at a starting price of Rs. 2.8 Lakh. The bike is available in 1 variants with 4 colour options. The 440.0 cc  engine of X440 T is mated with 6 gears, producing maximum power of 27.37 bhp @ 6000 rpm bhp @ 6000 rpm and a maximum torque of 38 Nm @ 4000 rpm Nm @ 4000 rpm.  The mileage of the X440 T is 30 KM/L. "
+    ],
+    "sku": "harley-davidson-x440-t-2138"
+  },
+  "engine": {
+    "displacement": "440.0 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 279500,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Harley-Davidson"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "Harley-Davidson X440 T",
+        "price": "2.8 Lakh",
+        "url": "/harley-davidson-bikes/x440-t"
+      },
+      {
+        "name": "BSA Gold Star 650",
+        "price": "3.1 - 3.45 Lakh",
+        "url": "/bsa-bikes/gold-star-650"
+      },
+      {
+        "name": "Keeway K Light 250V",
+        "price": "2.43 Lakh",
+        "url": "/keeway-bikes/k-light-250v"
+      },
+      {
+        "name": "Harley-Davidson X440",
+        "price": "2.4 - 2.8 Lakh",
+        "url": "/harley-davidson-bikes/x440"
+      },
+      {
+        "name": "Royal Enfield Interceptor 650",
+        "price": "3.32 - 3.63 Lakh",
+        "url": "/royal-enfield-bikes/interceptor-650"
+      },
+      {
+        "name": "Royal Enfield Scram 440",
+        "price": "2.23 - 2.31 Lakh",
+        "url": "/royal-enfield-bikes/scram-440"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 2.8 Lakh",
+          "₹ 3.1 - 3.45 Lakh",
+          "₹ 2.43 Lakh",
+          "₹ 2.4 - 2.8 Lakh",
+          "₹ 3.32 - 3.63 Lakh",
+          "₹ 2.23 - 2.31 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "-",
+          "-",
+          "8.3",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "440.0 CC",
+          "249.0 CC",
+          "440.0 CC",
+          "648.0 CC",
+          "443.0 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "6 Gears",
+          "5 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "30 KM/L",
+          "35.00 Km/L",
+          "35.00 Km/L",
+          "25.50 Km/L",
+          "30.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "38 Nm @ 4000 rpm bhp",
+          "19 Nm @ 6,000 RPM",
+          "38 Nm@4,000 rpm",
+          "52.00",
+          "34"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "27.37 bhp @ 6000 rpm Nm",
+          "17.4 HP @ 8,500 RPM bhp",
+          "27 bhp@6,000 rpm bhp",
+          "47.00 bhp",
+          "25.4 bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Disc/ Disc",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Disc (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "13.5 L",
+          "15.0 L",
+          "13.5 L",
+          "13.7 L",
+          "15.0 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "4",
+          "3",
+          "7",
+          "4",
+          "4"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "X440 T vs K Light 250V",
+          "X440 T vs X440",
+          "X440 T vs Interceptor 650",
+          "X440 T vs Scram 440"
+        ]
+      }
+    ]
+  }
+}

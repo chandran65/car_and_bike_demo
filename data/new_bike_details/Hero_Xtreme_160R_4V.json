@@ -1,0 +1,193 @@
+{
+  "basic_info": {
+    "name": "Hero Xtreme 160R 4V",
+    "manufacturer": "Hero",
+    "model": "Xtreme 160R 4V",
+    "body_type": "Commuter",
+    "description": [
+      "The Hero Xtreme 160R 4V is a Commuter bike available at a starting price of Rs. 1.3 Lakh. The bike is available in 2 variants with 4 colour options. The 163.2 cc  engine of Xtreme 160R 4V is mated with 5 gears, producing maximum power of 16.62 bhp @ 8500rpm bhp @ 8500 rpm and a maximum torque of 14.6Nm @6500 rpm Nm @ 6500 rpm.  The mileage of the Xtreme 160R 4V is 48 KM/L. "
+    ],
+    "sku": "hero-xtreme-160r-4v-1819"
+  },
+  "engine": {
+    "displacement": "163.2 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 129615,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Hero"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "Hero Xtreme 160R 4V",
+        "price": "1.3 - 1.34 Lakh",
+        "url": "/hero-bikes/xtreme-160r-4v"
+      },
+      {
+        "name": "Bajaj Pulsar 220",
+        "price": "1.28 Lakh",
+        "url": "/bajaj-bikes/pulsar-220"
+      },
+      {
+        "name": "Bajaj Pulsar 200 NS",
+        "price": "1.32 Lakh",
+        "url": "/bajaj-bikes/pulsar-200-ns"
+      },
+      {
+        "name": "Suzuki Gixxer",
+        "price": "1.26 - 1.27 Lakh",
+        "url": "/suzuki-bikes/gixxer"
+      },
+      {
+        "name": "Bajaj Pulsar N250",
+        "price": "1.33 Lakh",
+        "url": "/bajaj-bikes/pulsar-n250"
+      },
+      {
+        "name": "Suzuki Gixxer SF",
+        "price": "1.34 - 1.42 Lakh",
+        "url": "/suzuki-bikes/gixxer-sf"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.3 - 1.34 Lakh",
+          "₹ 1.28 Lakh",
+          "₹ 1.32 Lakh",
+          "₹ 1.26 - 1.27 Lakh",
+          "₹ 1.33 Lakh",
+          "₹ 1.34 - 1.42 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "7.9",
+          "8.4",
+          "7.9",
+          "7.9"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "163.2 CC",
+          "220.0 CC",
+          "199.5 CC",
+          "155.0 CC",
+          "249.1 CC",
+          "155.0 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "5 Gears",
+          "5 Gears",
+          "6 Gears",
+          "5 Gears",
+          "5 Gears",
+          "5 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "48 KM/L",
+          "40.00 Km/L",
+          "36.00 Km/L",
+          "45.00 Km/L",
+          "39.00 Km/L",
+          "45.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "14.6Nm @6500 rpm bhp",
+          "18.55 Nm @ 7000 rpm",
+          "18.74 Nm @ 8000 rpm",
+          "13.8",
+          "21.50",
+          "13.8 Nm @ 6,000 rpm"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "16.62 bhp @ 8500rpm Nm",
+          "20.61 @ 8500 rpm bhp",
+          "24.13 bhp @ 9750 rpm bhp",
+          "13.41 bhp",
+          "24.5 bhp",
+          "13.6 PS @ 8,000 rpm bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Disc/Disc",
+          "Disc (Front) / Disc (Rear)",
+          "Petal Disc with floating caliper (Front) / Petal Disc with floating caliper (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Disc (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "12.0 L",
+          "15.0 L",
+          "12.0 L",
+          "12.0 L",
+          "14.0 L",
+          "12.0 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "0",
+          "4",
+          "4",
+          "3",
+          "4",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Xtreme 160R 4V vs Pulsar 220",
+          "Xtreme 160R 4V vs Pulsar 200 NS",
+          "Xtreme 160R 4V vs Gixxer",
+          "Xtreme 160R 4V vs Pulsar N250",
+          "Xtreme 160R 4V vs Gixxer SF"
+        ]
+      }
+    ]
+  }
+}

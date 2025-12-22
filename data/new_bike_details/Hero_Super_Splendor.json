@@ -1,0 +1,204 @@
+{
+  "basic_info": {
+    "name": "Hero Super Splendor",
+    "manufacturer": "Hero",
+    "model": "Super Splendor Xtec",
+    "body_type": "Commuter",
+    "description": [
+      "The Hero Super Splendor Xtec is a Commuter bike available at a starting price of Rs. 81,998. The bike is available in 2 variants with 9 colour options. The 124.7 cc BS VI engine of Super Splendor Xtec is mated with 4 gears, producing maximum power of 10.7 BHP @7500rpm bhp @ 7500 rpm and a maximum torque of 10.6 Nm @ 6000 rpm Nm @ 6000 rpm.  The mileage of the Super Splendor Xtec is 60 - 68 KM/L. "
+    ],
+    "sku": "hero-super-splendor-xtec-1068"
+  },
+  "engine": {
+    "displacement": "124.7 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 81998,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Hero"
+  },
+  "rating": {
+    "value": "8.4",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Great build quality",
+    "Good quality parts",
+    "Fuel-efficient"
+  ],
+  "cons": [
+    "Conservative design",
+    "Poor front brake bite",
+    "vibrations at higher revs"
+  ],
+  "verdict": "Pros",
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "Hero Super Splendor Xtec",
+        "price": "81,998 - 85,594",
+        "url": "/hero-bikes/super-splendor"
+      },
+      {
+        "name": "Bajaj Pulsar 125",
+        "price": "79,048 - 87,526",
+        "url": "/bajaj-bikes/pulsar-125"
+      },
+      {
+        "name": "Hero Splendor Plus XTEC 2.0",
+        "price": "81,911 - 83,612",
+        "url": "/hero-bikes/splendor-plus-xtec-20"
+      },
+      {
+        "name": "TVS Raider",
+        "price": "80,500 - 95,600",
+        "url": "/tvs-bikes/raider"
+      },
+      {
+        "name": "Hero Glamour 125 XTEC",
+        "price": "84,106 - 88,346",
+        "url": "/hero-bikes/glamour-125-xtec"
+      },
+      {
+        "name": "Honda CB Shine",
+        "price": "79,352 - 83,711",
+        "url": "/honda-bikes/cb-shine"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 81,998 - 85,594",
+          "₹ 79,048 - 87,526",
+          "₹ 81,911 - 83,612",
+          "₹ 80,500 - 95,600",
+          "₹ 84,106 - 88,346",
+          "₹ 79,352 - 83,711"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.4",
+          "7.9",
+          "-",
+          "8.2",
+          "-",
+          "8.1"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "124.7 CC",
+          "124.4 CC",
+          "97.2 CC",
+          "124.8 CC",
+          "124.7 CC",
+          "123.9 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "4 Gears",
+          "5 Gears",
+          "4 Gears",
+          "5 Gears",
+          "5 Gears",
+          "4 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "60 - 68 KM/L",
+          "51.00 Km/L",
+          "73.00 Km/L",
+          "67.00 Km/L",
+          "63.00 Km/L",
+          "65.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "10.6 Nm @ 6000 rpm bhp",
+          "10.8 Nm @ 6500 rpm",
+          "8.05",
+          "11.2 Nm @ 6,000 rpm",
+          "10.6 Nm @ 6000 rpm",
+          "11 Nm @ 6000 rpm"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "10.7 BHP @7500rpm Nm",
+          "11.64 bhp @ 8500 rpm bhp",
+          "8.02 bhp",
+          "11.38 PS @ 7,500 rpm bhp",
+          "10.7 bhp @ 7500 rpm bhp",
+          "10.6bhp @ 7500 rpm bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Drum/Drum",
+          "Disc (Front) / Drum (Rear)",
+          "Drum (Front) / Drum (Rear)",
+          "Disc (Front) / Drum SBT (Rear)",
+          "Drum (Front) / Drum (Rear)",
+          "Drum (Front) / Drum (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "13.0 L",
+          "15.0 L",
+          "9.8 L",
+          "10.0 L",
+          "10.0 L",
+          "10.5 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "9",
+          "4",
+          "3",
+          "5",
+          "4",
+          "6"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Super Splendor vs Pulsar 125",
+          "Super Splendor vs Splendor Plus XTEC 2.0",
+          "Super Splendor vs Raider",
+          "Super Splendor vs Glamour 125 XTEC",
+          "Super Splendor vs CB Shine"
+        ]
+      }
+    ]
+  }
+}

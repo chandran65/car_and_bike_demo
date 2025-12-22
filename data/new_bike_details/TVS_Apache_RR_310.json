@@ -1,0 +1,172 @@
+{
+  "basic_info": {
+    "name": "TVS Apache RR 310",
+    "manufacturer": "TVS",
+    "model": "2025 Apache RR 310",
+    "body_type": "Sports",
+    "description": [
+      "The TVS Apache RR 310 2025 is a Sports bike available at a starting price of Rs. 2.56 Lakh. The bike is available in 3 variants with 2 colour options. The 312.2 cc  engine of 2025 Apache RR 310 is mated with 6 gears, producing maximum power of 29.50 to 37.54 bhp,50.95 bhp @ 9800 rpm bhp @ 9800 rpm and a maximum torque of 27.3 Nm @ 7900 RPM Nm @ 7900 rpm.  The mileage of the 2025 Apache RR 310 is 30 KM/L. "
+    ],
+    "sku": "tvs-apache-rr-310-2025-1288"
+  },
+  "engine": {
+    "displacement": "312.2 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 256240,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "TVS"
+  },
+  "rating": {
+    "value": "8.4",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Peppy engine",
+    "Great handling capabilities",
+    "Comfortable&nbsp;ride quality"
+  ],
+  "cons": [
+    "Front brake lacks bite",
+    "Pillion Comfort",
+    "Small Fuel Tank"
+  ],
+  "verdict": "The 2024 TVS Apache RR 310 continues to solidify its place as a top contender in the 300 cc performance segment, with substantial upgrades to both power and features. Its race-inspired design and track-ready equipment make it an excellent choice for enthusiasts looking for a fast yet stable machine. While the price may be steep for some, the RR 310 offers an unmatched blend of technology, performance, and handling, making it a standout option for those serious about their riding experience.",
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "TVS 2025 Apache RR 310",
+        "price": "2.56 - 3.11 Lakh",
+        "url": "/tvs-bikes/apache-rr-310"
+      },
+      {
+        "name": "KTM RC 390",
+        "price": "3.57 - 3.57 Lakh",
+        "url": "/ktm-bikes/rc-390"
+      },
+      {
+        "name": "Bajaj Dominar 400 [2019]",
+        "price": "2.7 Lakh",
+        "url": "/bajaj-bikes/dominar-400-2019"
+      },
+      {
+        "name": "Kawasaki Ninja 300",
+        "price": "3.17 Lakh",
+        "url": "/kawasaki-bikes/ninja-300"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 2.56 - 3.11 Lakh",
+          "₹ 3.57 - 3.57 Lakh",
+          "₹ 2.7 Lakh",
+          "₹ 3.17 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.4",
+          "8.3",
+          "8",
+          "7.4"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "312.2 CC",
+          "373.2 CC",
+          "373.3 CC",
+          "296.0 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "30 KM/L",
+          "35.00 Km/L",
+          "27.00 Km/L",
+          "26.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "27.3 Nm @ 7900 RPM bhp",
+          "37.00",
+          "35.00",
+          "26.10"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "29.50 to 37.54 bhp,50.95 bhp @ 9800 rpm Nm",
+          "43.00 bhp",
+          "39.40 bhp",
+          "39.00 bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Disc/Disc",
+          "Disc (Front) / Disc (Rear)",
+          "ABS Dia Disc (Front) / ABS Dia Disc (Rear)",
+          "Single Petal Disc (Front) / Disc (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "11.0 L",
+          "13.7 L",
+          "13.0 L",
+          "17.0 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "5",
+          "3",
+          "4",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Apache RR 310 vs RC 390",
+          "Apache RR 310 vs Dominar 400 [2019]",
+          "Apache RR 310 vs Ninja 300"
+        ]
+      }
+    ]
+  }
+}

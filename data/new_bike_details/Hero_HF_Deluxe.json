@@ -1,0 +1,204 @@
+{
+  "basic_info": {
+    "name": "Hero HF Deluxe",
+    "manufacturer": "Hero",
+    "model": "HF Deluxe",
+    "body_type": "Commuter",
+    "description": [
+      "The Hero HF Deluxe is a Commuter bike available at a starting price of Rs. 55,992. The bike is available in 5 variants with 9 colour options. The 97.2 cc  engine of HF Deluxe is mated with 4 gears, producing maximum power of 7.91 bhp @ 8000 rpm bhp @ 8000 rpm and a maximum torque of 8.05 Nm @ 6000 rpm Nm @ 6000 rpm.  The mileage of the HF Deluxe is 68 KM/L. "
+    ],
+    "sku": "hero-hf-deluxe-1053"
+  },
+  "engine": {
+    "displacement": "97.2 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 55992,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Hero"
+  },
+  "rating": {
+    "value": "8.4",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Robust design",
+    "Low maintance cost",
+    "Comfortable riding position"
+  ],
+  "cons": [
+    "No modern features",
+    "No disc brake",
+    "Noisy engine"
+  ],
+  "verdict": "One of the most cost effective products from Hero MotoCorp, the Hero HF Deluxe features a robust design that is liked by all, while offering a comfortable stance that helps commuting less stressful. It's designed for frugal running costs, as well as a low price point. But the lack of modern features and the noisy engine are its major flaws apart from the absence of disc brakes which is now standard on most products in this segment.",
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "Hero HF Deluxe",
+        "price": "55,992 - 68,485",
+        "url": "/hero-bikes/hf-deluxe"
+      },
+      {
+        "name": "Bajaj Platina 100",
+        "price": "58,670",
+        "url": "/bajaj-bikes/platina-100"
+      },
+      {
+        "name": "TVS Radeon",
+        "price": "55,100 - 77,900",
+        "url": "/tvs-bikes/radeon"
+      },
+      {
+        "name": "Hero HF 100",
+        "price": "56,890",
+        "url": "/hero-bikes/hf-100"
+      },
+      {
+        "name": "TVS Sport",
+        "price": "58,933 - 65,123",
+        "url": "/tvs-bikes/sport"
+      },
+      {
+        "name": "Honda Shine 100",
+        "price": "63,191 - 63,395",
+        "url": "/honda-bikes/shine-100"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 55,992 - 68,485",
+          "₹ 58,670",
+          "₹ 55,100 - 77,900",
+          "₹ 56,890",
+          "₹ 58,933 - 65,123",
+          "₹ 63,191 - 63,395"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.4",
+          "7.9",
+          "8.2",
+          "7.8",
+          "8",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "97.2 CC",
+          "102.0 CC",
+          "109.7 CC",
+          "97.2 CC",
+          "109.7 CC",
+          "99.0 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "4 Gears",
+          "4 Gears",
+          "4 Gears",
+          "4 Gears",
+          "4 Gears",
+          "4 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "68 KM/L",
+          "96.90 Km/L",
+          "73.00 Km/L",
+          "70.00 Km/L",
+          "76.40 Km/L",
+          "65.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "8.05 Nm @ 6000 rpm bhp",
+          "8.30",
+          "8.70",
+          "8.05",
+          "8.70",
+          "8.05"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "7.91 bhp @ 8000 rpm Nm",
+          "7.90 bhp",
+          "8.08 bhp",
+          "7.91 bhp",
+          "8.20 bhp",
+          "7.38 bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Drum/Integrated Braking System",
+          "Drum (Front) / Drum (Rear)",
+          "Drum (Front) / Drum (Rear)",
+          "Drum (Front) / Drum (Rear)",
+          "Drum (Front) / Drum (Rear)",
+          "Drum (Front) / Drum (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "9.6 L",
+          "11.0 L",
+          "10.0 L",
+          "9.1 L",
+          "10.0 L",
+          "9.0 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "9",
+          "4",
+          "10",
+          "1",
+          "5",
+          "5"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "HF Deluxe vs Platina 100",
+          "HF Deluxe vs Radeon",
+          "HF Deluxe vs HF 100",
+          "HF Deluxe vs Sport",
+          "HF Deluxe vs Shine 100"
+        ]
+      }
+    ]
+  }
+}

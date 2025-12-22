@@ -1,0 +1,195 @@
+{
+  "basic_info": {
+    "name": "Yezdi Adventure",
+    "manufacturer": "Yezdi",
+    "model": "Adventure",
+    "body_type": null,
+    "description": [
+      "The Yezdi Adventure is a  bike available at a starting price of Rs. 2.01 Lakh. The bike is available in 3 variants with 3 colour options. The 334.0 cc BS VI engine of Adventure is mated with 6 gears, producing maximum power of 29.19 bhp @ 7900 rpm and a maximum torque of 29.84 Nm @ 6500 rpm.  The mileage of the Adventure is 30 KM/L. "
+    ],
+    "sku": "yezdi-adventure-1720"
+  },
+  "engine": {
+    "displacement": "334.0 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 200876,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Yezdi"
+  },
+  "rating": {
+    "value": "7.9",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Equipped with adjustable screen",
+    "Good ground clearance",
+    "Refined engine"
+  ],
+  "cons": [
+    "Limited sales",
+    "Look similar to RE Himalayan",
+    "Uncomfortable over longer duration"
+  ],
+  "verdict": "Pros",
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "Yezdi Adventure",
+        "price": "2.01 - 2.07 Lakh",
+        "url": "/yezdi-bikes/adventure"
+      },
+      {
+        "name": "Suzuki V-Strom SX 250",
+        "price": "2 Lakh",
+        "url": "/suzuki-bikes/v-strom-sx-250"
+      },
+      {
+        "name": "TVS Apache RTX 300",
+        "price": "1.99 - 2.34 Lakh",
+        "url": "/tvs-bikes/apache-rtx-300"
+      },
+      {
+        "name": "Yezdi Adventure 2025",
+        "price": "1.98 - 2.09 Lakh",
+        "url": "/yezdi-bikes/adventure-2025"
+      },
+      {
+        "name": "Kawasaki KLX 230",
+        "price": "1.84 Lakh",
+        "url": "/kawasaki-bikes/klx-230"
+      },
+      {
+        "name": "Hero XPulse 210",
+        "price": "1.71 - 1.81 Lakh",
+        "url": "/hero-bikes/xpulse-210"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 2.01 - 2.07 Lakh",
+          "₹ 2 Lakh",
+          "₹ 1.99 - 2.34 Lakh",
+          "₹ 1.98 - 2.09 Lakh",
+          "₹ 1.84 Lakh",
+          "₹ 1.71 - 1.81 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "7.9",
+          "8.5",
+          "-",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "334.0 CC",
+          "249.0 CC",
+          "299.0 CC",
+          "334.0 CC",
+          "210.0 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "30 KM/L",
+          "32.00 Km/L",
+          "0.00 Km/L",
+          "30.00 Km/L",
+          "0.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "29.84 bhp",
+          "22.20",
+          "28.5 Nm @ 7,000 rpm",
+          "29.8 Nm @ 6,500 rpm",
+          "20.7"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "29.19 Nm",
+          "26.5 bhp",
+          "35 PS @ 9,000 rpm bhp",
+          "29.6 PS @ 8,000 rpm bhp",
+          "24.67 bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Disc with Floating Caliper and ABS/Disc with Floating Caliper and ABS",
+          "Disc (Front) / Disc (Rear)",
+          "320mm, Radial Calliper (Front) / 240 mm, Floating Caliper (Rear)",
+          "Disc with floating caliper and ABS (Front) / Disc with floating caliper and ABS (Rear)",
+          "Disc (Front) / Disc (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "15.5 L",
+          "12.0 L",
+          "12.5 L",
+          "15.5 L",
+          "13.0 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "3",
+          "16",
+          "8",
+          "6",
+          "11"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Adventure vs V-Strom SX 250",
+          "Adventure vs Apache RTX 300",
+          "Adventure vs Adventure 2025",
+          "Adventure vs XPulse 210"
+        ]
+      }
+    ]
+  }
+}

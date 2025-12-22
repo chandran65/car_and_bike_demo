@@ -1,0 +1,200 @@
+{
+  "basic_info": {
+    "name": "Classic 350",
+    "manufacturer": "Royal Enfield",
+    "model": "Classic 350",
+    "body_type": null,
+    "description": [
+      "The Royal Enfield Classic 350 is a  bike available at a starting price of Rs. 1.81 Lakh. The bike is available in 7 variants with 10 colour options. The 349.0 cc BS VI engine of Classic 350 is mated with 5 gears, producing maximum power of 20.2 BHP @ 6100 RPM bhp @ 6100 rpm and a maximum torque of 27 NM @ 4000 RPM Nm @ 6100 rpm.  The mileage of the Classic 350 is 35 KM/L. "
+    ],
+    "sku": "royal-enfield-classic-350-1174"
+  },
+  "engine": {
+    "displacement": "349.0 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 181119,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Royal Enfield"
+  },
+  "rating": {
+    "value": "8.5",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Old-school design<br />Smooth engine<br />Customisation options"
+  ],
+  "cons": [
+    "Less Features<br />Top End performance lacking<br />Braking could be better"
+  ],
+  "verdict": "The 2024 Royal Enfield Classic 350 continues to uphold its legacy as a timeless and robust motorcycle, combining classic styling with modern engineering. Its comfortable ride and smooth engine make it a great option for long-distance cruising, while the retro design ensures it stands out on the road. However, its relatively basic feature set and heavy weight might not appeal to riders looking for cutting-edge technology or a lightweight city bike. Overall, the Classic 350 remains a top choice for those who value style, comfort, and heritage.",
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "Royal Enfield Classic 350",
+        "price": "1.81 - 2.16 Lakh",
+        "url": "/royal-enfield-bikes/classic-350"
+      },
+      {
+        "name": "JAWA 350 Legacy Edition",
+        "price": "1.83 Lakh",
+        "url": "/jawa-bikes/350-legacy-edition"
+      },
+      {
+        "name": "JAWA 350",
+        "price": "1.83 - 2.12 Lakh",
+        "url": "/jawa-bikes/350"
+      },
+      {
+        "name": "JAWA 42 FJ",
+        "price": "1.84 - 2.04 Lakh",
+        "url": "/jawa-bikes/42-fj"
+      },
+      {
+        "name": "Honda H Ness CB 350",
+        "price": "1.92 - 1.99 Lakh",
+        "url": "/honda-bikes/h-ness-cb-350"
+      },
+      {
+        "name": "JAWA 42 Bobber",
+        "price": "1.94 - 2.17 Lakh",
+        "url": "/jawa-bikes/42-bobber"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.81 - 2.16 Lakh",
+          "₹ 1.83 Lakh",
+          "₹ 1.83 - 2.12 Lakh",
+          "₹ 1.84 - 2.04 Lakh",
+          "₹ 1.92 - 1.99 Lakh",
+          "₹ 1.94 - 2.17 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.5",
+          "-",
+          "-",
+          "-",
+          "8.1",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "349.0 CC",
+          "334.0 CC",
+          "334.0 CC",
+          "334.0 CC",
+          "348.4 CC",
+          "334.0 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "5 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "5 Gears",
+          "6 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "35 KM/L",
+          "35.00 Km/L",
+          "35.00 Km/L",
+          "32.00 Km/L",
+          "35.00 Km/L",
+          "30.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "27 NM @ 4000 RPM bhp",
+          "32.74",
+          "32.74",
+          "29.62",
+          "30.00",
+          "32.74"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "20.2 BHP @ 6100 RPM Nm",
+          "22.26 bhp",
+          "22.26 bhp",
+          "28.76 bhp",
+          "20.78 bhp",
+          "30.64 bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "DISC WITH TWIN PISTON FLOATING CALIPER/DISC, SINGLE PISTON FLOATING CALIPER",
+          "Disc (Front) / Disc (Rear)",
+          "Disc Dual Channel ABS (Front) / Disc (Rear)",
+          "Disc (Front) /  Disc (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "DISC WITH DUAL CHANNEL ABS (Front) / DISC WITH DUAL CHANNEL ABS (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "13.0 L",
+          "14.0 L",
+          "14.0 L",
+          "12.0 L",
+          "15.0 L",
+          "12.5 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "4",
+          "0",
+          "3",
+          "5",
+          "5",
+          "4"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Classic 350 vs 350 Legacy Edition",
+          "Classic 350 vs 350",
+          "Classic 350 vs 42 FJ",
+          "Classic 350 vs H Ness CB 350",
+          "Classic 350 vs 42 Bobber"
+        ]
+      }
+    ]
+  }
+}

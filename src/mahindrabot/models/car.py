@@ -65,6 +65,8 @@ class Dimensions(BaseModel):
     width: Optional[DimensionValue] = None
     height: Optional[DimensionValue] = None
     weight: Optional[dict[str, int]] = None
+    boot_space: Optional[DimensionValue] = None
+    ground_clearance: Optional[DimensionValue] = None
     seating_capacity: int
     number_of_doors: Optional[int] = None
 
@@ -149,6 +151,7 @@ class CarDetail(BaseModel):
     competitor_comparison: Optional[CompetitorComparison] = None
     mileage_details: Optional[list[MileageDetail]] = None
     whats_new: Optional[dict[str, list[str]]] = None
+    features: Optional[list[str]] = None
     
     model_config = ConfigDict(validate_assignment=True, extra="ignore")
     

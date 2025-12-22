@@ -1,0 +1,192 @@
+{
+  "basic_info": {
+    "name": "Okaya Faast F4",
+    "manufacturer": "Okaya",
+    "model": "Faast F4",
+    "body_type": "Scooter",
+    "description": [
+      "The Okaya Faast F4 is a electric Scooter bike available at a starting price of Rs. 1.45 Lakh. The electric scooter is available in 1 variants with 6 colour options.  The electric motor comes with a 3.53 kWh dual battery battery pack. The battery range/mileage of the Faast F4 is 110 Km/Full Charge. "
+    ],
+    "sku": "okaya-faast-f4-1851"
+  },
+  "engine": {
+    "displacement": null,
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 145004,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Okaya"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "Okaya Faast F4",
+        "price": "1.37 Lakh",
+        "url": "/okaya-bikes/faast-f4"
+      },
+      {
+        "name": "Ola Electric S1 Pro",
+        "price": "1.48 Lakh",
+        "url": "/ola-electric-bikes/s1-pro"
+      },
+      {
+        "name": "EeVe Soul",
+        "price": "1.48 Lakh",
+        "url": "/eeve-bikes/soul"
+      },
+      {
+        "name": "Okinawa Okhi 90",
+        "price": "1.5 Lakh",
+        "url": "/okinawa-bikes/okhi-90"
+      },
+      {
+        "name": "Ola Electric S1 Pro Sport",
+        "price": "1.5 - 1.65 Lakh",
+        "url": "/ola-electric-bikes/s1-pro-sport"
+      },
+      {
+        "name": "Ola Electric S1 Pro Gen 3",
+        "price": "1.4 - 1.75 Lakh",
+        "url": "/ola-electric-bikes/s1-pro-gen-3"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.37 Lakh",
+          "₹ 1.48 Lakh",
+          "₹ 1.48 Lakh",
+          "₹ 1.5 Lakh",
+          "₹ 1.5 - 1.65 Lakh",
+          "₹ 1.4 - 1.75 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "8.1",
+          "7.1",
+          "6.8",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Battery Type",
+        "values": [
+          "3.53 kWh dual battery",
+          "Lithium-ion Battery",
+          "60V 20AH Lithium Ion",
+          "Lithium Ion",
+          "Lithium-ion (4680 Bharat Cell)",
+          "Lithium-ion"
+        ]
+      },
+      {
+        "feature": "Battery Range",
+        "values": [
+          "110 Km/Full Charge",
+          "181 Km/FullCharge",
+          "120 Km/FullCharge",
+          "160 Km/FullCharge",
+          "~242 km (IDC) Km/FullCharge",
+          "242 km (IDC ran Km/FullCharge"
+        ]
+      },
+      {
+        "feature": "Charging Time",
+        "values": [
+          "4-5 Hours",
+          "Approximately 6",
+          "3-4 Hours",
+          "5 - 6 hours",
+          "~4 hrs 50 mins",
+          ""
+        ]
+      },
+      {
+        "feature": "Fast Charging Time",
+        "values": [
+          "75 km in 18 Min",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Kerb Weight",
+        "values": [
+          "95 Kg",
+          "116 Kg",
+          "140 Kg",
+          "96 Kg",
+          "116 Kg",
+          "0 Kg"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "N/A",
+          "58.00",
+          "N/A",
+          "N/A",
+          "",
+          ""
+        ]
+      },
+      {
+        "feature": "Variant",
+        "values": [
+          "1",
+          "1",
+          "1",
+          "1",
+          "2",
+          "4"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "6",
+          "5",
+          "0",
+          "0",
+          "5",
+          "5"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Faast F4 vs S1 Pro",
+          "Faast F4 vs Soul",
+          "Faast F4 vs Okhi 90",
+          "Faast F4 vs S1 Pro Sport",
+          "Faast F4 vs S1 Pro Gen 3"
+        ]
+      }
+    ]
+  }
+}

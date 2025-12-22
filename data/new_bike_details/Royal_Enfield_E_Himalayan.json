@@ -1,0 +1,18 @@
+{
+  "basic_info": {
+    "name": "Royal Enfield E Himalayan",
+    "manufacturer": null,
+    "model": "E Himalayan",
+    "body_type": null,
+    "description": "",
+    "sku": "royal-enfield-e-himalayan-2061"
+  },
+  "price": {
+    "value": 720000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Royal Enfield"
+  }
+}

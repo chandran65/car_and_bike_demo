@@ -1,0 +1,192 @@
+{
+  "basic_info": {
+    "name": "Ather Rizta",
+    "manufacturer": "Ather",
+    "model": "Rizta",
+    "body_type": "Scooter",
+    "description": [
+      "The Ather Rizta is a electric Scooter bike available at a starting price of Rs. 1.15 Lakh. The electric scooter is available in 4 variants with 5 colour options.  The electric motor comes with a Lithium-ion battery pack. The battery range/mileage of the Rizta is 130 - 160 Km/Full Charge. "
+    ],
+    "sku": "ather-rizta-1887"
+  },
+  "engine": {
+    "displacement": null,
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 115458,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Ather"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "Ather Rizta",
+        "price": "1.09 - 1.45 Lakh",
+        "url": "/ather-bikes/rizta"
+      },
+      {
+        "name": "Honda Activa e",
+        "price": "1.17 - 1.52 Lakh",
+        "url": "/honda-bikes/activa-e"
+      },
+      {
+        "name": "Kinetic DX Electric",
+        "price": "1.18 - 1.24 Lakh",
+        "url": "/kinetic-bikes/dx-electric"
+      },
+      {
+        "name": "BGauss RUV 350",
+        "price": "1.2 - 1.4 Lakh",
+        "url": "/bgauss-bikes/ruv-350"
+      },
+      {
+        "name": "Pure EV ePluto 7G Max",
+        "price": "1.22 Lakh",
+        "url": "/pure-ev-bikes/epluto-7g-max"
+      },
+      {
+        "name": "Okinawa i-Praise",
+        "price": "1.23 Lakh",
+        "url": "/okinawa-bikes/i-praise"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.09 - 1.45 Lakh",
+          "₹ 1.17 - 1.52 Lakh",
+          "₹ 1.18 - 1.24 Lakh",
+          "₹ 1.2 - 1.4 Lakh",
+          "₹ 1.22 Lakh",
+          "₹ 1.23 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "-",
+          "-",
+          "-",
+          "6.5"
+        ]
+      },
+      {
+        "feature": "Battery Type",
+        "values": [
+          "Lithium-ion",
+          "Lithium-ion",
+          "Lithium-Ion",
+          "2.3 KWH - CAN Enabled , LFP cell",
+          "3.5 kWh Lithium-ion",
+          "3.3 kWh Lithium-ion (Detachable Battery)"
+        ]
+      },
+      {
+        "feature": "Battery Range",
+        "values": [
+          "130 - 160 Km/Full Charge",
+          "70 km Km/FullCharge",
+          "80 km Km/FullCharge",
+          "105 Km/FullCharge",
+          "150-201 Km/FullCharge",
+          "139km Km/FullCharge"
+        ]
+      },
+      {
+        "feature": "Charging Time",
+        "values": [
+          "4.30,6.40",
+          "5 hours",
+          "4-5 hours",
+          "5 Hrs 15 mins",
+          "",
+          "4 to 5 hours"
+        ]
+      },
+      {
+        "feature": "Fast Charging Time",
+        "values": [
+          "2 hours",
+          "1.5 hours",
+          "3 Hrs 05 mins",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Kerb Weight",
+        "values": [
+          "119 Kg",
+          "105 Kg",
+          "90 Kg",
+          "116 Kg",
+          "101 Kg",
+          "150 Kg"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "22.00 bhp",
+          "20 Nm",
+          "1.5 kW",
+          "165.00",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "feature": "Variant",
+        "values": [
+          "4",
+          "2",
+          "2",
+          "2",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "5",
+          "5",
+          "0",
+          "3",
+          "3",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Rizta vs Activa e",
+          "Rizta vs DX Electric",
+          "Rizta vs RUV 350",
+          "Rizta vs ePluto 7G Max",
+          "Rizta vs i-Praise"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "basic_info": {
+    "name": "Royal Enfield Flying Flea C6",
+    "manufacturer": null,
+    "model": "Flying Flea C6",
+    "body_type": null,
+    "description": "",
+    "sku": "royal-enfield-flying-flea-c6-1912"
+  },
+  "price": {
+    "value": 750000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Royal Enfield"
+  }
+}

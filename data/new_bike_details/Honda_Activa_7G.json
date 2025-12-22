@@ -1,0 +1,18 @@
+{
+  "basic_info": {
+    "name": "Honda Activa 7G",
+    "manufacturer": null,
+    "model": "Activa 7G",
+    "body_type": null,
+    "description": "",
+    "sku": "honda-activa-7g-1806"
+  },
+  "price": {
+    "value": 80000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Honda"
+  }
+}

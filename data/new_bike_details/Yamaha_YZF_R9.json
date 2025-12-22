@@ -1,0 +1,18 @@
+{
+  "basic_info": {
+    "name": "Yamaha YZF R9",
+    "manufacturer": null,
+    "model": "YZF R9",
+    "body_type": null,
+    "description": "",
+    "sku": "yamaha-yzf-r9-2124"
+  },
+  "price": {
+    "value": 1220000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Yamaha"
+  }
+}

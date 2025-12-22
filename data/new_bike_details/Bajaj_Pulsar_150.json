@@ -1,0 +1,195 @@
+{
+  "basic_info": {
+    "name": "Bajaj Pulsar 150",
+    "manufacturer": "Bajaj",
+    "model": "Pulsar 150",
+    "body_type": "Commuter",
+    "description": [
+      "The Bajaj Pulsar 150 is a Commuter bike available at a starting price of Rs. 1.05 Lakh. The bike is available in 2 variants with 3 colour options. The 149.5 cc BS VI engine of Pulsar 150 is mated with 5 gears, producing maximum power of 13.8 bhp @ 8500 rpm bhp @ 8500 rpm and a maximum torque of 13.4 Nm @ 6500 rpm Nm @ 6500 rpm.  The mileage of the Pulsar 150 is 47 KM/L. "
+    ],
+    "sku": "bajaj-pulsar-150-1034"
+  },
+  "engine": {
+    "displacement": "149.5 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 105143,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Bajaj"
+  },
+  "rating": {
+    "value": "8.2",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Good design",
+    "Comfortable ergonomics",
+    "Decent performance"
+  ],
+  "cons": [
+    "Lacks features",
+    "More options",
+    "Low maintenance"
+  ],
+  "verdict": "The Bajaj Pulsar 150 remains a popular and reliable choice in the 150 cc segment, offering a good balance of performance, comfort, and style at an affordable price point. While its design and feature set may feel slightly dated, the Pulsar 150 continues to hold its own with strong fuel efficiency, decent city performance, and comfortable ergonomics. It’s a great option for buyers seeking an affordable and practical commuter with a bit of sporty flair.",
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "Bajaj Pulsar 150",
+        "price": "1.05 - 1.12 Lakh",
+        "url": "/bajaj-bikes/pulsar-150"
+      },
+      {
+        "name": "Hero Xtreme 160R",
+        "price": "1.05 Lakh",
+        "url": "/hero-bikes/xtreme-160r"
+      },
+      {
+        "name": "Yamaha FZ Fi",
+        "price": "1.08 Lakh",
+        "url": "/yamaha-bikes/fz-fi"
+      },
+      {
+        "name": "Honda CB 125 Hornet",
+        "price": "1.09 Lakh",
+        "url": "/honda-bikes/cb-125-hornet"
+      },
+      {
+        "name": "Honda Unicorn",
+        "price": "1.1 Lakh",
+        "url": "/honda-bikes/unicorn"
+      },
+      {
+        "name": "TVS Apache RTR 160",
+        "price": "1.11 - 1.23 Lakh",
+        "url": "/tvs-bikes/apache-rtr-160"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.05 - 1.12 Lakh",
+          "₹ 1.05 Lakh",
+          "₹ 1.08 Lakh",
+          "₹ 1.09 Lakh",
+          "₹ 1.1 Lakh",
+          "₹ 1.11 - 1.23 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.2",
+          "8.6",
+          "-",
+          "-",
+          "-",
+          "7.9"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "149.5 CC",
+          "163.0 CC",
+          "123.9 CC",
+          "162.7 CC",
+          "159.7 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "5 Gears",
+          "5 Gears",
+          "5 Gears",
+          "5 Gears",
+          "5 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "47 KM/L",
+          "48.00 Km/L",
+          "65.00 Km/L",
+          "50.00 Km/L",
+          "47.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "13.4 Nm @ 6500 rpm bhp",
+          "14.00",
+          "11.2Nm 6,000 rpm",
+          "14.8 Nm @ 5250 rpm",
+          "13.85 Nm @ 7000 rpm"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "13.8 bhp @ 8500 rpm Nm",
+          "15.00 bhp",
+          "11.1hp (11.14PS) 7,500 rpm bhp",
+          "10.5 bhp @ 7500 rpm bhp",
+          "16.04 PS @ 8750 rpm bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Disc/Drum",
+          "Disc (Front) / Drum (Rear)",
+          "Disc (Front) / Drum (Rear)",
+          "Disc (Front) / Drum (Rear)",
+          "Disc (Front) / Drum (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "15.0 L",
+          "12.0 L",
+          "12.0 L",
+          "13.0 L",
+          "12.0 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "4",
+          "1",
+          "4",
+          "3",
+          "5"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Pulsar 150 vs Xtreme 160R",
+          "Pulsar 150 vs CB 125 Hornet",
+          "Pulsar 150 vs Unicorn",
+          "Pulsar 150 vs Apache RTR 160"
+        ]
+      }
+    ]
+  }
+}

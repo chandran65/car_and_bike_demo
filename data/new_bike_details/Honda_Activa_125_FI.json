@@ -1,0 +1,204 @@
+{
+  "basic_info": {
+    "name": "Honda Activa 125 FI",
+    "manufacturer": "Honda",
+    "model": "2025 Activa 125 FI",
+    "body_type": "Scooter",
+    "description": [
+      "The Honda Activa 125 FI 2025 is a Scooter bike available at a starting price of Rs. 89,152. The scooter is available in 2 variants with 5 colour options. The 124.0 cc  engine of 2025 Activa 125 FI is paired with a Automatic gearbox producing maximum power of 8.3 bhp @ 6500 rpm bhp @ 6250 rpm and a maximum torque of 10.5 Nm @ 5000 rpm Nm @ 5000 rpm.  The mileage of the 2025 Activa 125 FI is 45 - 55 KM/L. "
+    ],
+    "sku": "honda-activa-125-fi-2025-1595"
+  },
+  "engine": {
+    "displacement": "124.0 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 89152,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Honda"
+  },
+  "rating": {
+    "value": "8.1",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Smooth engine",
+    "Spacious and comfortable",
+    "Silent start"
+  ],
+  "cons": [
+    "Average performance",
+    "Bouncy ride quality with pillion",
+    "No USB charger as standard"
+  ],
+  "verdict": "The Honda Activa 125 offers a no-frills scooter which is comfortable and efficient, in the 125 cc segment. The performance is adequate but not exciting enough. The Activa 125 offers a long list of features and Honda Motorcycle and Scooter India also offers peace of mind with a special 6-year warranty package (3 years standard + 3 years optional extended warranty) on the Activa 125. Top speed is around 90 kmph, and fuel economy of over 45 kmpl.",
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "Honda 2025 Activa 125 FI",
+        "price": "89,152 - 92,796",
+        "url": "/honda-bikes/activa-125-fi"
+      },
+      {
+        "name": "Yamaha Fascino 125",
+        "price": "72,459 - 88,623",
+        "url": "/yamaha-bikes/fascino-125"
+      },
+      {
+        "name": "Hero Destini 125",
+        "price": "74,165 - 83,245",
+        "url": "/hero-bikes/destini-125"
+      },
+      {
+        "name": "Suzuki Burgman",
+        "price": "90,176 - 94,027",
+        "url": "/suzuki-bikes/burgman"
+      },
+      {
+        "name": "Honda Dio 125",
+        "price": "85,433 - 90,383",
+        "url": "/honda-bikes/dio-125"
+      },
+      {
+        "name": "Suzuki Avenis",
+        "price": "83,793 - 86,177",
+        "url": "/suzuki-bikes/avenis"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 89,152 - 92,796",
+          "₹ 72,459 - 88,623",
+          "₹ 74,165 - 83,245",
+          "₹ 90,176 - 94,027",
+          "₹ 85,433 - 90,383",
+          "₹ 83,793 - 86,177"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.1",
+          "8",
+          "7.4",
+          "8",
+          "-",
+          "8.4"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "124.0 CC",
+          "125.0 CC",
+          "124.6 CC",
+          "124.0 CC",
+          "123.9 CC",
+          "124.3 CC"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "45 - 55 KM/L",
+          "68.00 Km/L",
+          "50.00 Km/L",
+          "50.00 Km/L",
+          "48.00 Km/L",
+          "55.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "10.5 Nm @ 5000 rpm bhp",
+          "10.3",
+          "10.40",
+          "10 Nm @ 5500 rpm",
+          "10.5 Nm @ 5000 rpm",
+          "10.00"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "8.3 bhp @ 6500 rpm Nm",
+          "8.2 bhp",
+          "9.1 bhp",
+          "8.58 bhp @ 6750 rpm bhp",
+          "8.19 bhp @ 6500 rpm bhp",
+          "8.58 bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Disc/Drum",
+          "Drum (Front) / Drum (Rear)",
+          "Drum (Front) / Drum (Rear)",
+          "Disc (Front) / Drum (Rear)",
+          "Disc (Front) / Drum (Rear)",
+          "Disc (Front) / Drum (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "5.3 L",
+          "5.2 L",
+          "5.0 L",
+          "5.5 L",
+          "5.3 L",
+          "5.2 L"
+        ]
+      },
+      {
+        "feature": "Kerb Weight",
+        "values": [
+          "109 Kg",
+          "99 Kg",
+          "115 Kg",
+          "110 Kg",
+          "105 Kg",
+          "106 Kg"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "5",
+          "10",
+          "7",
+          "6",
+          "6",
+          "13"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Activa 125 FI vs Fascino 125",
+          "Activa 125 FI vs Destini 125",
+          "Activa 125 FI vs Burgman",
+          "Activa 125 FI vs Dio 125",
+          "Activa 125 FI vs Avenis"
+        ]
+      }
+    ]
+  }
+}

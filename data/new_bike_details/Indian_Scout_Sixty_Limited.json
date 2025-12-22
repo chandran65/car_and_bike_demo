@@ -1,0 +1,193 @@
+{
+  "basic_info": {
+    "name": "Indian Scout Sixty Limited",
+    "manufacturer": "Indian",
+    "model": "Scout Sixty Limited",
+    "body_type": null,
+    "description": [
+      "The Indian Scout Sixty Limited is a  bike available at a starting price of Rs. 15.14 Lakh. The bike is available in 1 variants . The 999.0 cc  engine of Scout Sixty Limited is mated with 5 gears, producing maximum power of 85?HP (63?kW) bhp @  rpm and a maximum torque of 65?lb?ft @ 6,500?rpm (approx. 88?Nm) Nm @ 6500 rpm.  The mileage of the Scout Sixty Limited is 25 KM/L. "
+    ],
+    "sku": "indian-scout-sixty-limited-2090"
+  },
+  "engine": {
+    "displacement": "999.0 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 1513791,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Indian"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "Indian Scout Sixty Limited",
+        "price": "14.34 Lakh",
+        "url": "/indian-bikes/scout-sixty-limited"
+      },
+      {
+        "name": "Indian Sport Scout Sixty",
+        "price": "14.98 Lakh",
+        "url": "/indian-bikes/sport-scout-sixty"
+      },
+      {
+        "name": "Indian Scout Bobber",
+        "price": "14.95 - 18.46 Lakh",
+        "url": "/indian-bikes/scout-bobber"
+      },
+      {
+        "name": "Harley-Davidson Nightster Special",
+        "price": "15.38 Lakh",
+        "url": "/harley-davidson-bikes/nightster-special"
+      },
+      {
+        "name": "Indian Scout Sixty Bobber",
+        "price": "14.65 Lakh",
+        "url": "/indian-bikes/scout-sixty-bobber"
+      },
+      {
+        "name": "Harley-Davidson Nightster",
+        "price": "14.54 Lakh",
+        "url": "/harley-davidson-bikes/nightster"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 14.34 Lakh",
+          "₹ 14.98 Lakh",
+          "₹ 14.95 - 18.46 Lakh",
+          "₹ 15.38 Lakh",
+          "₹ 14.65 Lakh",
+          "₹ 14.54 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "7.5",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "999.0 CC",
+          "999.0 CC",
+          "1133.0 CC",
+          "975.0 CC",
+          "999.0 CC",
+          "975.0 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "5 Gears",
+          "5 Gears",
+          "6 Gears",
+          "6 Gears",
+          "5 Gears",
+          "6 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "25 KM/L",
+          "0.00 Km/L",
+          "25.00 Km/L",
+          "18.10 Km/L",
+          "25.00 Km/L",
+          "19.60 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "65?lb?ft @ 6,500?rpm (approx. 88?Nm) bhp",
+          "65?lb?ft @ 6,500?rpm (approx. 88?Nm)",
+          "97.00",
+          "95",
+          "88?Nm @ 6,500?rpm",
+          "95.00 @5750 rpm"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "85?HP (63?kW) Nm",
+          "85?HP (63?kW) bhp",
+          "94 hp @ 8,000 rpm bhp",
+          "89 bhp",
+          "85?HP (62.5?kW) bhp",
+          "89.7 @ 7500 rpm bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "/",
+          "Hydraulic disc, semi?floating rotor, 2?piston caliper (Front) / Hydraulic disc, single?piston caliper (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Disc with 4-piston caliper (Front) / Disc with single-piston caliper (Rear)",
+          "Hydraulic Disc, 2?Piston Caliper (Front) / Hydraulic Disc, 1?Piston Caliper (Rear)",
+          "Disc with 4-piston caliper (Front) / Disc with single-piston caliper (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "12.5 L",
+          "13.0 L",
+          "12.5 L",
+          "11.7 L",
+          "12.5 L",
+          "11.7 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "0",
+          "0",
+          "0",
+          "4",
+          "4",
+          "4"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Scout Sixty Limited vs Sport Scout Sixty",
+          "Scout Sixty Limited vs Scout Bobber",
+          "Scout Sixty Limited vs Nightster Special",
+          "Scout Sixty Limited vs Scout Sixty Bobber",
+          "Scout Sixty Limited vs Nightster"
+        ]
+      }
+    ]
+  }
+}

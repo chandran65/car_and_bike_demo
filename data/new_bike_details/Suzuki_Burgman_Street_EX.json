@@ -1,0 +1,204 @@
+{
+  "basic_info": {
+    "name": "Suzuki Burgman Street EX",
+    "manufacturer": "Suzuki",
+    "model": "Burgman Street EX",
+    "body_type": "Scooter",
+    "description": [
+      "The Suzuki Burgman Street EX is a Scooter bike available at a starting price of Rs. 1.08 Lakh. The scooter is available in 1 variants with 3 colour options. The 124.0 cc  engine of Burgman Street EX is paired with a  gearbox producing maximum power of 8.58 bhp @ 6750 rpm bhp @ 6500 rpm and a maximum torque of 10 Nm @ 5500 rpm Nm @ 5500 rpm.  The mileage of the Burgman Street EX is 50 KM/L. "
+    ],
+    "sku": "suzuki-burgman-street-ex-1780"
+  },
+  "engine": {
+    "displacement": "124.0 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 107902,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Suzuki"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Maxi-scooter design",
+    "Frugal engine with good performance",
+    "Handling and Dynamics"
+  ],
+  "cons": [
+    "Slightly stiff ride quality",
+    "Slightly expensive than other variants",
+    "Not a value for money product"
+  ],
+  "verdict": "The Suzuki Burgman Street EX is a new variant in Suzuki's maxi-styled 125 cc scooter range. A bigger rear wheel makes it look visually appealing as does a few new features. The ride quality though has been somewhat sacrificed if not unduly harsh, and the EX is still more expensive than the other variants of the Suzuki Burgman Street.",
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "Suzuki Burgman Street EX",
+        "price": "1.08 Lakh",
+        "url": "/suzuki-bikes/burgman-street-ex"
+      },
+      {
+        "name": "Aprilia SR 125",
+        "price": "1.1 Lakh",
+        "url": "/aprilia-bikes/sr-125"
+      },
+      {
+        "name": "Vespa ZX",
+        "price": "1.1 Lakh",
+        "url": "/vespa-bikes/zx"
+      },
+      {
+        "name": "Aprilia Storm 125",
+        "price": "1.11 Lakh",
+        "url": "/aprilia-bikes/storm-125"
+      },
+      {
+        "name": "TVS Ntorq 150",
+        "price": "1.16 - 1.26 Lakh",
+        "url": "/tvs-bikes/ntorq-150"
+      },
+      {
+        "name": "Aprilia SR 175",
+        "price": "1.18 - 1.23 Lakh",
+        "url": "/aprilia-bikes/sr-175"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.08 Lakh",
+          "₹ 1.1 Lakh",
+          "₹ 1.1 Lakh",
+          "₹ 1.11 Lakh",
+          "₹ 1.16 - 1.26 Lakh",
+          "₹ 1.18 - 1.23 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "7.2",
+          "7.2",
+          "7.5",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "124.0 CC",
+          "124.5 CC",
+          "125.0 CC",
+          "124.5 CC",
+          "149.7 CC",
+          "174.7 CC"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "50 KM/L",
+          "38.00 Km/L",
+          "45.00 Km/L",
+          "38.50 Km/L",
+          "40.00 Km/L",
+          "40.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "10 Nm @ 5500 rpm bhp",
+          "10.33",
+          "10.11",
+          "9.70",
+          "14.2 Nm @ 5,500 rpm",
+          "14.14 Nm @ 6000 rpm"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "8.58 bhp @ 6750 rpm Nm",
+          "9.79 bhp",
+          "9.60 bhp",
+          "9.92 bhp",
+          "13.2 PS @ 7,000 rpm bhp",
+          "13.08 bhp @ 7200 rpm bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Disc/Drum",
+          "Disc (Front) / Drum (Rear)",
+          "Ventilated Disc (Front) / Drum (Rear)",
+          "Disc with hydraulic control assisted by CBS (Front) / Drum (Rear)",
+          "Disc with single channel ABS (Front) / Drum (Rear)",
+          "Disc (Front) / Drum (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "5.5 L",
+          "6.0 L",
+          "7.4 L",
+          "6.5 L",
+          "5.8 L",
+          "6.0 L"
+        ]
+      },
+      {
+        "feature": "Kerb Weight",
+        "values": [
+          "111 Kg",
+          "118 Kg",
+          "115 Kg",
+          "118 Kg",
+          "115 Kg",
+          "0 Kg"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "3",
+          "2",
+          "3",
+          "2",
+          "4",
+          "2"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Burgman Street EX vs SR 125",
+          "Burgman Street EX vs ZX",
+          "Burgman Street EX vs Storm 125",
+          "Burgman Street EX vs Ntorq 150",
+          "Burgman Street EX vs SR 175"
+        ]
+      }
+    ]
+  }
+}

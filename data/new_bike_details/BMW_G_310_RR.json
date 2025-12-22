@@ -1,0 +1,204 @@
+{
+  "basic_info": {
+    "name": "BMW G 310 RR",
+    "manufacturer": "BMW",
+    "model": "G 310 RR",
+    "body_type": "Sports",
+    "description": [
+      "The BMW G 310 RR is a Sports bike available at a starting price of Rs. 2.81 Lakh. The bike is available in 3 variants with 2 colour options. The 312.1 cc BS VI engine of G 310 RR is mated with 6 gears, producing maximum power of 34 bhp @ 9700 rpm and a maximum torque of 27.00 Nm @ 7700 rpm.  The mileage of the G 310 RR is 30 KM/L. "
+    ],
+    "sku": "bmw-g-310-rr-1744"
+  },
+  "engine": {
+    "displacement": "312.1 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 281000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "BMW"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Performance",
+    "Handling and Dynamics",
+    "Design"
+  ],
+  "cons": [
+    "More expensive than the TVS Apache RR 310",
+    "More features and customisation available on TVS version",
+    "Cost of ownership"
+  ],
+  "verdict": "The made in India BMW G 310 RR offers an entry point into BMW Motorrad's sports bike range. Based on the TVS Apache RR 310, the BMW G 310 RR ups the attraction quotient of the BMW brand, with performance and dynamics that are friendly yet engaging for anyone looking for a beginner's sports bike.",
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "BMW G 310 RR",
+        "price": "2.81 - 2.99 Lakh",
+        "url": "/bmw-bikes/g-310-rr"
+      },
+      {
+        "name": "Husqvarna Svartpilen 401",
+        "price": "2.82 Lakh",
+        "url": "/husqvarna-bikes/svartpilen-401"
+      },
+      {
+        "name": "Triumph Speed 400",
+        "price": "2.83 Lakh",
+        "url": "/triumph-bikes/speed-400"
+      },
+      {
+        "name": "Bajaj Dominar 400 [2019]",
+        "price": "2.7 Lakh",
+        "url": "/bajaj-bikes/dominar-400-2019"
+      },
+      {
+        "name": "KTM 390 Duke",
+        "price": "2.97 Lakh",
+        "url": "/ktm-bikes/390-duke"
+      },
+      {
+        "name": "TVS Apache RR 310",
+        "price": "2.56 - 3.11 Lakh",
+        "url": "/tvs-bikes/apache-rr-310"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 2.81 - 2.99 Lakh",
+          "₹ 2.82 Lakh",
+          "₹ 2.83 Lakh",
+          "₹ 2.7 Lakh",
+          "₹ 2.97 Lakh",
+          "₹ 2.56 - 3.11 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "-",
+          "8",
+          "8.3",
+          "8.4"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "312.1 CC",
+          "399.0 CC",
+          "398.0 CC",
+          "373.3 CC",
+          "398.6 CC",
+          "312.2 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "30 KM/L",
+          "29.00 Km/L",
+          "24.00 Km/L",
+          "27.00 Km/L",
+          "30.00 Km/L",
+          "30.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "27.00 bhp",
+          "39.00",
+          "37.50",
+          "35.00",
+          "39 Nm @ 6500 rpm",
+          "27.3 Nm @ 7700 RPM"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "34 Nm",
+          "42.90 bhp",
+          "39.50 bhp",
+          "39.40 bhp",
+          "45.3 bhp @ 8500 rpm bhp",
+          "34 PS @ 9700 RPM bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Disc/Disc",
+          "Disc (Front) / Dual Channel ABS (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "ABS Dia Disc (Front) / ABS Dia Disc (Rear)",
+          "Disc with Radially mounted calliper (Front) / Disc with Floating calliper (Rear)",
+          "Disc (Front) / Disc (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "11.0 L",
+          "13.5 L",
+          "13.0 L",
+          "13.0 L",
+          "15.0 L",
+          "11.0 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "3",
+          "1",
+          "7",
+          "2",
+          "3",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "G 310 RR vs Svartpilen 401",
+          "G 310 RR vs Speed 400",
+          "G 310 RR vs Dominar 400 [2019]",
+          "G 310 RR vs 390 Duke",
+          "G 310 RR vs Apache RR 310"
+        ]
+      }
+    ]
+  }
+}

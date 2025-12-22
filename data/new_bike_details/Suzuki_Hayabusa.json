@@ -1,0 +1,204 @@
+{
+  "basic_info": {
+    "name": "Suzuki Hayabusa",
+    "manufacturer": "Suzuki",
+    "model": "Hayabusa",
+    "body_type": "Sports",
+    "description": [
+      "The Suzuki Hayabusa is a Sports bike available at a starting price of Rs. 18.06 Lakh. The bike is available in 1 variants with 3 colour options. The 1340.0 cc BS VI engine of Hayabusa is mated with 6 gears, producing maximum power of 190.6 bhp @ 9700 rpm bhp @ 9700 rpm and a maximum torque of  142 Nm @ 7000 rpm Nm @ 7000 rpm.  The mileage of the Hayabusa is 11 KM/L. "
+    ],
+    "sku": "suzuki-hayabusa-1119"
+  },
+  "engine": {
+    "displacement": "1340.0 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 1806107,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Suzuki"
+  },
+  "rating": {
+    "value": "8.8",
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Impressive acceleration",
+    "Superlative brakes",
+    "Competitively priced"
+  ],
+  "cons": [
+    "Heavy feel on clutch lever",
+    "Not comfortable in traffic",
+    "Engine runs hot"
+  ],
+  "verdict": "Priced at ₹ 16.40 lakh (Ex-showroom), the Suzuki Hayabusa offers superb value. It's got crackling performance, a sophisticated electronics suite, which makes it safe and easy to enjoy. The only downside is that the huge 1,340 cc engine generates a lot of heat on a hot day, which can be quite bothersome, and despite the slip-and-assist clutch, the lever feels heavy and not ideal, if you're stuck in bumper to bumper traffic.",
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "Suzuki Hayabusa",
+        "price": "18.06 Lakh",
+        "url": "/suzuki-bikes/hayabusa"
+      },
+      {
+        "name": "BMW R 1250 R",
+        "price": "18.33 Lakh",
+        "url": "/bmw-bikes/r-1250-r"
+      },
+      {
+        "name": "Ducati XDiavel",
+        "price": "18.59 - 21.61 Lakh",
+        "url": "/ducati-bikes/xdiavel"
+      },
+      {
+        "name": "Kawasaki Z900RS",
+        "price": "18.67 Lakh",
+        "url": "/kawasaki-bikes/z900rs"
+      },
+      {
+        "name": "Moto Guzzi V85 TT",
+        "price": "17.37 Lakh",
+        "url": "/moto-guzzi-bikes/v85-tt"
+      },
+      {
+        "name": "Ducati Multistrada V2",
+        "price": "18.88 - 21.3 Lakh",
+        "url": "/ducati-bikes/multistrada-v2"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 18.06 Lakh",
+          "₹ 18.33 Lakh",
+          "₹ 18.59 - 21.61 Lakh",
+          "₹ 18.67 Lakh",
+          "₹ 17.37 Lakh",
+          "₹ 18.88 - 21.3 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "8.8",
+          "7.7",
+          "8.7",
+          "-",
+          "7.8",
+          "8.1"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "1340.0 CC",
+          "1254.0 CC",
+          "1262.0 CC",
+          "948.0 CC",
+          "853.0 CC",
+          "890.0 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears",
+          "6 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "11 KM/L",
+          "15.00 Km/L",
+          "18.00 Km/L",
+          "15.00 Km/L",
+          "20.40 Km/L",
+          "16.90 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "142 Nm @ 7000 rpm bhp",
+          "105.00",
+          "126.00",
+          "98.50",
+          "80.00",
+          "94.00"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "190.6 bhp @ 9700 rpm Nm",
+          "136.00 bhp",
+          "150.00 bhp",
+          "111 bhp",
+          "79.00 bhp",
+          "111.00 bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Disc, Twin, ABS/Disc, ABS",
+          "Dual floating disc brakes (Front) / Disc (Rear)",
+          "Dual Disc (Front) / Disc (Rear)",
+          "Dual semi-floating Discs (Front) / Disc (Rear)",
+          "Double stainless steel floating Disc (Front) / Stainless steel Disc (Rear)",
+          "Dual Disc (Front) / Disc (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "20.0 L",
+          "18.0 L",
+          "18.0 L",
+          "17.0 L",
+          "23.0 L",
+          "19.0 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "3",
+          "2",
+          "3",
+          "1",
+          "5",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Hayabusa vs R 1250 R",
+          "Hayabusa vs XDiavel",
+          "Hayabusa vs Z900RS",
+          "Hayabusa vs V85 TT",
+          "Hayabusa vs Multistrada V2"
+        ]
+      }
+    ]
+  }
+}

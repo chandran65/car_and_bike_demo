@@ -1,0 +1,18 @@
+{
+  "basic_info": {
+    "name": "Honda X-ADV 150",
+    "manufacturer": null,
+    "model": "X-ADV 150",
+    "body_type": null,
+    "description": "",
+    "sku": "honda-x-adv-150-2044"
+  },
+  "price": {
+    "value": 150000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Honda"
+  }
+}

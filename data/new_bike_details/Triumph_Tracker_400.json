@@ -1,0 +1,18 @@
+{
+  "basic_info": {
+    "name": "Triumph Tracker 400",
+    "manufacturer": null,
+    "model": "Tracker 400",
+    "body_type": null,
+    "description": "",
+    "sku": "triumph-tracker-400-2142"
+  },
+  "price": {
+    "value": 210000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Triumph"
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "basic_info": {
+    "name": "Harley-Davidson X440",
+    "manufacturer": "Harley-Davidson",
+    "model": "X440",
+    "body_type": "Cruiser",
+    "description": [
+      "The Harley-Davidson X440 is a Cruiser bike available at a starting price of Rs. 2.35 Lakh. The bike is available in 2 variants with 7 colour options. The 440.0 cc  engine of X440 is mated with 6 gears, producing maximum power of 27 bhp@6,000 rpm bhp @ 6000 rpm and a maximum torque of 38 Nm@4,000 rpm Nm @ 4000 rpm.  The mileage of the X440 is 35 KM/L. "
+    ],
+    "sku": "harley-davidson-x440-1817"
+  },
+  "engine": {
+    "displacement": "440.0 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 234500,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Harley-Davidson"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "Harley-Davidson X440",
+        "price": "2.35 - 2.55 Lakh",
+        "url": "/harley-davidson-bikes/x440"
+      },
+      {
+        "name": "Keeway K Light 250V",
+        "price": "2.43 Lakh",
+        "url": "/keeway-bikes/k-light-250v"
+      },
+      {
+        "name": "Royal Enfield Scram 440",
+        "price": "2.23 - 2.31 Lakh",
+        "url": "/royal-enfield-bikes/scram-440"
+      },
+      {
+        "name": "Honda CB 350 RS",
+        "price": "2.1 - 2.13 Lakh",
+        "url": "/honda-bikes/cb-350-rs"
+      },
+      {
+        "name": "JAWA Perak",
+        "price": "2.01 Lakh",
+        "url": "/jawa-bikes/perak"
+      },
+      {
+        "name": "Honda CB350",
+        "price": "1.97 - 2 Lakh",
+        "url": "/honda-bikes/cb350"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 2.35 - 2.55 Lakh",
+          "₹ 2.43 Lakh",
+          "₹ 2.23 - 2.31 Lakh",
+          "₹ 2.1 - 2.13 Lakh",
+          "₹ 2.01 Lakh",
+          "₹ 1.97 - 2 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "-",
+          "-",
+          "8",
+          "8",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "440.0 CC",
+          "249.0 CC",
+          "443.0 CC",
+          "348.4 CC",
+          "334.0 CC",
+          "348.4 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "6 Gears",
+          "5 Gears",
+          "6 Gears",
+          "5 Gears",
+          "6 Gears",
+          "5 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "35 KM/L",
+          "35.00 Km/L",
+          "30.00 Km/L",
+          "35.00 Km/L",
+          "35.00 Km/L",
+          "35.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "38 Nm@4,000 rpm bhp",
+          "19 Nm @ 6,000 RPM",
+          "34",
+          "30.00",
+          "32.74",
+          "29.5 N-m @ 3000 rpm"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "27 bhp@6,000 rpm Nm",
+          "17.4 HP @ 8,500 RPM bhp",
+          "25.4 bhp",
+          "21.00 bhp",
+          "30.22 bhp",
+          "20.78 BHP @ 5500 rpm bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Disc/Disc",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Disc (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "13.5 L",
+          "15.0 L",
+          "15.0 L",
+          "15.0 L",
+          "13.2 L",
+          "15.2 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "7",
+          "3",
+          "4",
+          "4",
+          "1",
+          "8"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "X440 vs K Light 250V",
+          "X440 vs Scram 440",
+          "X440 vs CB 350 RS",
+          "X440 vs Perak",
+          "X440 vs CB350"
+        ]
+      }
+    ]
+  }
+}

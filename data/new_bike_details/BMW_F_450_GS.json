@@ -1,0 +1,18 @@
+{
+  "basic_info": {
+    "name": "BMW F 450 GS",
+    "manufacturer": null,
+    "model": "F 450 GS",
+    "body_type": null,
+    "description": "",
+    "sku": "bmw-f-450-gs-2127"
+  },
+  "price": {
+    "value": 410000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "BMW"
+  }
+}

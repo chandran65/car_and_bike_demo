@@ -1,0 +1,18 @@
+{
+  "basic_info": {
+    "name": "Royal Enfield Continental GT 450",
+    "manufacturer": null,
+    "model": "Continental GT 450",
+    "body_type": null,
+    "description": "",
+    "sku": "royal-enfield-continental-gt-450-2133"
+  },
+  "price": {
+    "value": 275000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Royal Enfield"
+  }
+}

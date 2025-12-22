@@ -1,0 +1,29 @@
+{
+  "basic_info": {
+    "name": "Zeno Emara ADV",
+    "manufacturer": null,
+    "model": "Emara ADV",
+    "body_type": null,
+    "description": "",
+    "sku": "zeno-emara-adv-2042"
+  },
+  "price": {
+    "value": 110000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Zeno"
+  },
+  "whats_new": {
+    "Zeno Emara ADV: The Future of Adventure Electric Biking": [
+      "The Zeno Emara ADV is an exciting upcoming addition to Zeno Bikes' lineup, designed to cater to riders seeking a blend of adventure, sustainability, and cutting-edge technology. As a step forward in electric mobility, the Emara ADV promises to redefine the riding experience, offering an eco-friendly alternative that doesn’t compromise on performance or style. This adventure-oriented electric bike is poised to deliver versatility, durability, and innovation for riders who crave exploration beyond urban boundaries."
+    ],
+    "Built for Adventure": [
+      "The Zeno Emara ADV stands out with its rugged design and durable build, tailored for off-road capabilities and long rides. The bike’s robust frame and enhanced suspension system make it ideal for tackling challenging terrains, ensuring stability and comfort even during extended journeys. While maintaining its adventure-centric features, Zeno has ensured the Emara ADV retains a sleek and modern aesthetic, appealing to riders who value both functionality and visual appeal."
+    ],
+    "Advanced Electric Performance": [
+      "Equipped with a powerful electric motor, the Emara ADV promises smooth and consistent performance across diverse landscapes. Its advanced battery system is designed to support longer ranges, enabling riders to venture far without worrying about frequent recharging. The fast-charging capabilities will be a key highlight, minimizing downtime and maximizing usability for adventure enthusiasts. Whether it’s a trail ride, a countryside exploration, or a long-distance journey, the Emara ADV is built to keep up with the demands of adventurous riders."
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "basic_info": {
+    "name": "Honda Shine 100",
+    "manufacturer": "Honda",
+    "model": "Shine 100",
+    "body_type": "Commuter",
+    "description": [
+      "The Honda Shine 100 is a Commuter bike available at a starting price of Rs. 64,004. The bike is available in 1 variants with 5 colour options. The 99.0 cc  engine of Shine 100 is mated with 4 gears, producing maximum power of 7.28 bhp @ 7500 rpm bhp @ 7500 rpm and a maximum torque of 8.05 Nm @ 5000 rpm Nm @ 5000 rpm.  The mileage of the Shine 100 is 65 KM/L. "
+    ],
+    "sku": "honda-shine-100-1797"
+  },
+  "engine": {
+    "displacement": "99.0 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 64004,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Honda"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "verdict": "The Honda Shine 100 brings the trusted Shine name to the 100 cc segment, offering solid performance, comfort, and reliability at an affordable price. While it misses out on advanced features like a front disc brake, its smooth engine and comfortable ergonomics make it a compelling option for budget-conscious commuters. Competing with the Hero Splendor, the Shine 100 is well-positioned to carve its niche, though its success will heavily depend on its fuel economy performance.",
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "Honda Shine 100",
+        "price": "64,004",
+        "url": "/honda-bikes/shine-100"
+      },
+      {
+        "name": "Hero HF Deluxe i3s",
+        "price": "66,382 - 68,485",
+        "url": "/hero-bikes/hf-deluxe-i3s"
+      },
+      {
+        "name": "Bajaj CT 110",
+        "price": "67,284",
+        "url": "/bajaj-bikes/ct-110"
+      },
+      {
+        "name": "Hero HF Deluxe Pro",
+        "price": "68,485",
+        "url": "/hero-bikes/hf-deluxe-pro"
+      },
+      {
+        "name": "TVS Sport",
+        "price": "58,933 - 65,123",
+        "url": "/tvs-bikes/sport"
+      },
+      {
+        "name": "Bajaj Platina 110",
+        "price": "69,284",
+        "url": "/bajaj-bikes/platina-110"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 64,004",
+          "₹ 66,382 - 68,485",
+          "₹ 67,284",
+          "₹ 68,485",
+          "₹ 58,933 - 65,123",
+          "₹ 69,284"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "8.5",
+          "8.3",
+          "-",
+          "8",
+          "7.9"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "99.0 CC",
+          "97.2 CC",
+          "115.5 CC",
+          "97.2 CC",
+          "109.7 CC",
+          "115.0 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "4 Gears",
+          "4 Gears",
+          "4 Gears",
+          "4 Gears",
+          "4 Gears",
+          "5 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "65 KM/L",
+          "65.00 Km/L",
+          "70.00 Km/L",
+          "65.00 Km/L",
+          "76.40 Km/L",
+          "80.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "8.05 Nm @ 5000 rpm bhp",
+          "8.05",
+          "9.81",
+          "8.05 Nm @ 6000 rpm",
+          "8.70",
+          "9.81"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "7.28 bhp @ 7500 rpm Nm",
+          "7.91 bhp",
+          "8.6 bhp",
+          "7.91 bhp @ 8000 rpm bhp",
+          "8.20 bhp",
+          "8.60 bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Drum/Drum",
+          "Drum (Front) / Drum (Rear)",
+          "Drum (Front) / Drum (Rear)",
+          "Drum (Front) / Drum (Rear)",
+          "Drum (Front) / Drum (Rear)",
+          "Disc (Front) / Drum (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "9.0 L",
+          "9.6 L",
+          "11.0 L",
+          "9.1 L",
+          "10.0 L",
+          "11.0 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "5",
+          "5",
+          "3",
+          "4",
+          "5",
+          "3"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Shine 100 vs HF Deluxe i3s",
+          "Shine 100 vs CT 110",
+          "Shine 100 vs HF Deluxe Pro",
+          "Shine 100 vs Sport",
+          "Shine 100 vs Platina 110"
+        ]
+      }
+    ]
+  }
+}

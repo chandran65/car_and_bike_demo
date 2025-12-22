@@ -1,0 +1,18 @@
+{
+  "basic_info": {
+    "name": "Yamaha Tenere 700",
+    "manufacturer": null,
+    "model": "Tenere 700",
+    "body_type": null,
+    "description": "",
+    "sku": "yamaha-tenere-700-1850"
+  },
+  "price": {
+    "value": 800000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Yamaha"
+  }
+}

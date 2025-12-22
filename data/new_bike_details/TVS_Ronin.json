@@ -1,0 +1,186 @@
+{
+  "basic_info": {
+    "name": "TVS Ronin",
+    "manufacturer": "TVS",
+    "model": "Ronin",
+    "body_type": "Commuter",
+    "description": [
+      "The TVS Ronin is a Commuter bike available at a starting price of Rs. 1.24 Lakh. The bike is available in 6 variants with 7 colour options. The 225.9 cc  engine of Ronin is mated with 5 gears, producing maximum power of 20.1 bhp @ 7750 rpm bhp @ 7750 rpm and a maximum torque of 19.93 Nm @ 3750 rpm Nm @ 3750 rpm.  The mileage of the Ronin is 42 KM/L. "
+    ],
+    "sku": "tvs-ronin-1743"
+  },
+  "engine": {
+    "displacement": "225.9 cc",
+    "power": null,
+    "torque": null,
+    "fuel_type": null
+  },
+  "price": {
+    "value": 124090,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "TVS"
+  },
+  "rating": {
+    "value": 7,
+    "worst": 1,
+    "best": 10
+  },
+  "reviewed_by": {
+    "name": "carandbike Team",
+    "job_title": "Editor carandbike",
+    "url": "https://www.carandbike.com/authors/carandbike-team"
+  },
+  "pros": [
+    "Refined and tractable engine",
+    "Handling and dynamics",
+    "Features"
+  ],
+  "cons": [
+    "Odd-looking design",
+    "Rather boring commuter-like ergonomics",
+    "Price difference between single tone and triple tone variants"
+  ],
+  "verdict": "The TVS Ronin combines retro looks with modern tech, offering great ride quality, low-end torque, and a feature-packed experience at an affordable price. While its top-end performance and rear design may divide opinions, it’s an excellent choice for riders seeking a practical and stylish motorcycle.",
+  "competitor_comparison": {
+    "bikes": [
+      {
+        "name": "TVS Ronin",
+        "price": "1.24 - 1.59 Lakh",
+        "url": "/tvs-bikes/ronin"
+      },
+      {
+        "name": "TVS Apache RTR 180",
+        "price": "1.25 - 1.28 Lakh",
+        "url": "/tvs-bikes/apache-rtr-180"
+      },
+      {
+        "name": "Suzuki Gixxer",
+        "price": "1.26 - 1.27 Lakh",
+        "url": "/suzuki-bikes/gixxer"
+      },
+      {
+        "name": "Yamaha FZ-S Fi Ver 4.0 DLX",
+        "price": "1.2 Lakh",
+        "url": "/yamaha-bikes/fz-s-fi-ver-40-dlx"
+      },
+      {
+        "name": "Yamaha FZ S V4.0 FI",
+        "price": "1.2 Lakh",
+        "url": "/yamaha-bikes/fz-s-v40-fi"
+      },
+      {
+        "name": "Bajaj Pulsar 220",
+        "price": "1.28 Lakh",
+        "url": "/bajaj-bikes/pulsar-220"
+      }
+    ],
+    "features": [
+      {
+        "feature": "Ex-Showroom Price",
+        "values": [
+          "₹ 1.24 - 1.59 Lakh",
+          "₹ 1.25 - 1.28 Lakh",
+          "₹ 1.26 - 1.27 Lakh",
+          "₹ 1.2 Lakh",
+          "₹ 1.2 Lakh",
+          "₹ 1.28 Lakh"
+        ]
+      },
+      {
+        "feature": "C&B Expert Rating",
+        "values": [
+          "-",
+          "7.9",
+          "8.4",
+          "-",
+          "-",
+          "-"
+        ]
+      },
+      {
+        "feature": "Engine CC",
+        "values": [
+          "225.9 CC",
+          "177.4 CC",
+          "155.0 CC",
+          "220.0 CC"
+        ]
+      },
+      {
+        "feature": "Gears",
+        "values": [
+          "5 Gears",
+          "5 Gears",
+          "5 Gears",
+          "5 Gears"
+        ]
+      },
+      {
+        "feature": "Mileage",
+        "values": [
+          "42 KM/L",
+          "47.00 Km/L",
+          "45.00 Km/L",
+          "40.00 Km/L"
+        ]
+      },
+      {
+        "feature": "Max Torque",
+        "values": [
+          "19.93 Nm @ 3750 rpm bhp",
+          "15.50",
+          "13.8",
+          "18.55 Nm @ 7000 rpm"
+        ]
+      },
+      {
+        "feature": "Max Power",
+        "values": [
+          "20.1 bhp @ 7750 rpm Nm",
+          "17.00 bhp",
+          "13.41 bhp",
+          "20.61 @ 8500 rpm bhp"
+        ]
+      },
+      {
+        "feature": "Brakes",
+        "values": [
+          "Disc/Disc",
+          "Disc with ABS & RLP (Front) / Disc with ABS & RLP (Rear)",
+          "Disc (Front) / Disc (Rear)",
+          "Disc (Front) / Disc (Rear)"
+        ]
+      },
+      {
+        "feature": "Fuel Tank Capacity",
+        "values": [
+          "14.0 L",
+          "12.0 L",
+          "12.0 L",
+          "15.0 L"
+        ]
+      },
+      {
+        "feature": "Colour Count",
+        "values": [
+          "5",
+          "2",
+          "3",
+          "4"
+        ]
+      },
+      {
+        "feature": "Detailed Comparision",
+        "values": [
+          "-",
+          "Ronin vs Apache RTR 180",
+          "Ronin vs Gixxer",
+          "Ronin vs Pulsar 220"
+        ]
+      }
+    ]
+  }
+}

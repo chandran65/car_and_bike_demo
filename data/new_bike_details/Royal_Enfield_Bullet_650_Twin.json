@@ -1,0 +1,23 @@
+{
+  "basic_info": {
+    "name": "Royal Enfield Bullet 650 Twin",
+    "manufacturer": null,
+    "model": "Bullet 650 Twin",
+    "body_type": null,
+    "description": "",
+    "sku": "royal-enfield-bullet-650-twin-2030"
+  },
+  "price": {
+    "value": 337000,
+    "currency": "INR",
+    "availability": "https://schema.org/InStock"
+  },
+  "brand": {
+    "name": "Royal Enfield"
+  },
+  "whats_new": {
+    "Expected Key Specifications – Bullet 650 Twin": [
+      "Other Upcoming Royal Enfield Models are theHimalayan 750,Scrambler 450,Flying Flea C6,Continental GT 450,Bullet 650,E HimalayanandFlying Flea S6 Scrambler"
+    ]
+  }
+}
