@@ -32,6 +32,9 @@ class ChatMessage(BaseModel):
     role: str  # "user" or "assistant"
     timestamp: str = None
 
+class PasswordVerification(BaseModel):
+    password: str
+
 class ChatRequest(BaseModel):
     message: str
     conversation_history: List[ChatMessage] = []
@@ -46,6 +49,11 @@ class ChatResponse(BaseModel):
 async def root():
     """Health check endpoint."""
     return {"status": "healthy", "message": "Mahindra Bot API is running"}
+
+@app.post("/verify-password")
+async def verify_password(request: PasswordVerification):
+    """Verify login password. For simple backend, any password 'admin' works."""
+    return {"valid": request.password == "admin"}
 
 @app.post("/chat")
 async def chat(request: ChatRequest) -> ChatResponse:
